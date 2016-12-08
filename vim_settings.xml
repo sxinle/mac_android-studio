@@ -226,7 +226,7 @@
       <file name="$USER_HOME$/workspace/zest/src/main/java/zest/A.java" timestamp="1481119424403">
         <mark key="'" line="51" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/MyApplication/app/src/main/java/com/example/hsong/myapplication/MainActivity.java" timestamp="1481202666693">
+      <file name="$USER_HOME$/workspace/MyApplication/app/src/main/java/com/example/hsong/myapplication/MainActivity.java" timestamp="1481204471365">
         <mark key="'" line="12" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/admin/src/main/webapp/WEB-INF/view/area/areaFoot.jsp" timestamp="1464425839921">
@@ -460,8 +460,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="167" column="28" filename="$USER_HOME$/workspace/admin/src/main/webapp/WEB-INF/view/camera/cameraFoot.jsp" />
-      <jump line="142" column="29" filename="$USER_HOME$/workspace/admin/src/main/webapp/WEB-INF/view/event/foot.jsp" />
       <jump line="266" column="62" filename="$USER_HOME$/workspace/admin/src/main/webapp/WEB-INF/view/event/foot.jsp" />
       <jump line="267" column="108" filename="$USER_HOME$/workspace/admin/src/main/webapp/WEB-INF/view/event/foot.jsp" />
       <jump line="257" column="25" filename="$USER_HOME$/workspace/admin/src/main/webapp/WEB-INF/view/event/foot.jsp" />
@@ -558,6 +556,8 @@
       <jump line="338" column="0" filename="$USER_HOME$/workspace/fxweb/src/main/java/com/acenode/fx/controller/DataController.java" />
       <jump line="10" column="0" filename="$USER_HOME$/workspace/MyApplication/app/src/main/java/com/example/hsong/myapplication/MainActivity.java" />
       <jump line="11" column="0" filename="$USER_HOME$/workspace/MyApplication/app/src/main/java/com/example/hsong/myapplication/MainActivity.java" />
+      <jump line="8" column="46" filename="$USER_HOME$/workspace/MyApplication/app/src/main/java/com/example/hsong/myapplication/MainActivity.java" />
+      <jump line="9" column="42" filename="$USER_HOME$/workspace/MyApplication/app/src/main/java/com/example/hsong/myapplication/MainActivity.java" />
       <jump line="1" column="0" filename="$USER_HOME$/workspace/MyApplication/app/src/main/java/com/example/hsong/myapplication/MainActivity.java" />
       <jump line="12" column="0" filename="$USER_HOME$/workspace/MyApplication/app/src/main/java/com/example/hsong/myapplication/MainActivity.java" />
     </jumps>
