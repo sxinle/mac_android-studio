@@ -226,6 +226,9 @@
       <file name="$USER_HOME$/workspace/zest/src/main/java/zest/A.java" timestamp="1481119424403">
         <mark key="'" line="51" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/MyApplication/app/src/main/java/com/example/hsong/myapplication/MainActivity.java" timestamp="1481201843308">
+        <mark key="'" line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/admin/src/main/webapp/WEB-INF/view/area/areaFoot.jsp" timestamp="1464425839921">
         <mark key="'" line="144" column="33" />
         <mark key="[" line="59" column="11" />
@@ -457,8 +460,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="89" filename="$USER_HOME$/workspace/admin/src/main/webapp/WEB-INF/view/streetpoint/pointFoot.jsp" />
-      <jump line="65" column="84" filename="$USER_HOME$/workspace/admin/src/main/webapp/WEB-INF/view/streetpoint/pointFoot.jsp" />
       <jump line="250" column="0" filename="$USER_HOME$/workspace/admin/src/main/webapp/WEB-INF/view/camera/cameraFoot.jsp" />
       <jump line="94" column="45" filename="$USER_HOME$/workspace/admin/src/main/webapp/WEB-INF/view/camera/cameraFoot.jsp" />
       <jump line="167" column="28" filename="$USER_HOME$/workspace/admin/src/main/webapp/WEB-INF/view/camera/cameraFoot.jsp" />
@@ -557,6 +558,8 @@
       <jump line="1" column="0" filename="$USER_HOME$/workspace/fxweb/src/main/java/com/acenode/fx/controller/DataController.java" />
       <jump line="21" column="0" filename="$USER_HOME$/workspace/fxweb/src/main/java/com/acenode/fx/controller/DataController.java" />
       <jump line="338" column="0" filename="$USER_HOME$/workspace/fxweb/src/main/java/com/acenode/fx/controller/DataController.java" />
+      <jump line="10" column="0" filename="$USER_HOME$/workspace/MyApplication/app/src/main/java/com/example/hsong/myapplication/MainActivity.java" />
+      <jump line="12" column="0" filename="$USER_HOME$/workspace/MyApplication/app/src/main/java/com/example/hsong/myapplication/MainActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -663,13 +666,13 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed D</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed F</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed B</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed N</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
@@ -681,13 +684,13 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed T</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed I</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed V</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed H</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
@@ -696,10 +699,10 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed P</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed M</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed E</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
@@ -707,6 +710,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>shift ctrl pressed 6</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
