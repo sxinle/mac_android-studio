@@ -10,6 +10,11 @@
         <mark key="." line="39" column="22" />
         <mark key="^" line="39" column="22" />
       </file>
+      <file name="$USER_HOME$/workspace/Wx/app/src/main/java/com/wx/util/AppUtil.java" timestamp="1481299990302">
+        <mark key="[" line="5" column="20" />
+        <mark key="]" line="5" column="20" />
+        <mark key="." line="5" column="20" />
+      </file>
       <file name="$USER_HOME$/workspace/admin/src/main/java/com/acenode/admin/model/StreetScore.java" timestamp="1464412894400">
         <mark key="'" line="30" column="0" />
         <mark key="[" line="23" column="18" />
@@ -148,11 +153,11 @@
         <mark key="^" line="28" column="23" />
         <mark key="." line="28" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/Wx/app/src/main/res/layout/activity_main.xml" timestamp="1481297156805">
+      <file name="$USER_HOME$/workspace/Wx/app/src/main/res/layout/activity_main.xml" timestamp="1481299753913">
         <mark key="[" line="16" column="37" />
-        <mark key="]" line="16" column="37" />
-        <mark key="." line="16" column="37" />
-        <mark key="^" line="13" column="33" />
+        <mark key="]" line="16" column="38" />
+        <mark key="." line="16" column="38" />
+        <mark key="^" line="16" column="38" />
       </file>
       <file name="$USER_HOME$/workspace/gentelella/production/media_gallery.html" timestamp="1463295931852">
         <mark key="'" line="339" column="43" />
@@ -393,7 +398,7 @@
         <mark key="^" line="13" column="20" />
         <mark key="." line="13" column="20" />
       </file>
-      <file name="$USER_HOME$/workspace/Wx/app/src/main/java/com/wx/MainActivity.java" timestamp="1481297305208">
+      <file name="$USER_HOME$/workspace/Wx/app/src/main/java/com/wx/MainActivity.java" timestamp="1481299717347">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
@@ -451,10 +456,11 @@
         <mark key="." line="306" column="5" />
         <mark key="^" line="306" column="5" />
       </file>
-      <file name="$USER_HOME$/workspace/Wx/app/src/main/AndroidManifest.xml" timestamp="1481291460518">
-        <mark key="[" line="1" column="78" />
-        <mark key="]" line="1" column="78" />
-        <mark key="." line="1" column="78" />
+      <file name="$USER_HOME$/workspace/Wx/app/src/main/AndroidManifest.xml" timestamp="1481299892613">
+        <mark key="[" line="8" column="30" />
+        <mark key="]" line="8" column="65" />
+        <mark key="." line="8" column="65" />
+        <mark key="^" line="8" column="65" />
       </file>
       <file name="$USER_HOME$/workspace/mp/static/lonlat.js" timestamp="1465637465622">
         <mark key="'" line="692" column="77" />
@@ -583,7 +589,7 @@
         <text>基本废物......</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text encoding="base64">IGV4dGVuZHMgQWN0aXZpdHkg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzaG93T3ZlcmxheVw+</text>

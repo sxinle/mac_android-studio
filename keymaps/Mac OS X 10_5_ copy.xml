@@ -34,6 +34,10 @@
     <keyboard-shortcut first-keystroke="shift meta alt m" />
   </action>
   <action id="MinimizeCurrentWindow" />
+  <action id="OptimizeImports">
+    <keyboard-shortcut first-keystroke="ctrl alt o" />
+    <keyboard-shortcut first-keystroke="ctrl meta o" />
+  </action>
   <action id="RunToCursor">
     <keyboard-shortcut first-keystroke="alt f9" />
     <keyboard-shortcut first-keystroke="s" />
