@@ -399,7 +399,8 @@
         <mark key="^" line="54" column="49" />
         <mark key="." line="54" column="49" />
       </file>
-      <file name="$USER_HOME$/workspace/Wx/app/src/main/java/com/wx/SplashActivity.java" timestamp="1481291617000">
+      <file name="$USER_HOME$/workspace/Wx/app/src/main/java/com/wx/SplashActivity.java" timestamp="1481294859408">
+        <mark key="'" line="35" column="0" />
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
@@ -470,8 +471,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="266" column="62" filename="$USER_HOME$/workspace/admin/src/main/webapp/WEB-INF/view/event/foot.jsp" />
-      <jump line="267" column="108" filename="$USER_HOME$/workspace/admin/src/main/webapp/WEB-INF/view/event/foot.jsp" />
       <jump line="257" column="25" filename="$USER_HOME$/workspace/admin/src/main/webapp/WEB-INF/view/event/foot.jsp" />
       <jump line="173" column="26" filename="$USER_HOME$/workspace/admin/src/main/webapp/WEB-INF/view/camera/cameraFoot.jsp" />
       <jump line="246" column="24" filename="$USER_HOME$/workspace/admin/src/main/webapp/WEB-INF/view/camera/cameraFoot.jsp" />
@@ -570,6 +569,8 @@
       <jump line="9" column="42" filename="$USER_HOME$/workspace/MyApplication/app/src/main/java/com/example/hsong/myapplication/MainActivity.java" />
       <jump line="1" column="0" filename="$USER_HOME$/workspace/MyApplication/app/src/main/java/com/example/hsong/myapplication/MainActivity.java" />
       <jump line="12" column="0" filename="$USER_HOME$/workspace/MyApplication/app/src/main/java/com/example/hsong/myapplication/MainActivity.java" />
+      <jump line="17" column="0" filename="$USER_HOME$/workspace/Wx/app/src/main/java/com/wx/SplashActivity.java" />
+      <jump line="35" column="0" filename="$USER_HOME$/workspace/Wx/app/src/main/java/com/wx/SplashActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
