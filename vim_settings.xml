@@ -14,6 +14,12 @@
         <mark key="." line="18" column="48" />
         <mark key="^" line="18" column="48" />
       </file>
+      <file name="$USER_HOME$/workspace/Wx/app/src/main/res/layout/top.xml" timestamp="1481385632044">
+        <mark key="[" line="8" column="91" />
+        <mark key="]" line="9" column="11" />
+        <mark key="." line="9" column="11" />
+        <mark key="^" line="9" column="11" />
+      </file>
       <file name="/a.dummy" timestamp="1481381337159">
         <mark key="[" line="0" column="0" />
       </file>
@@ -99,7 +105,7 @@
         <mark key="]" line="26" column="48" />
         <mark key="." line="26" column="48" />
       </file>
-      <file name="/Dummy.txt" timestamp="1481381823652">
+      <file name="/Dummy.txt" timestamp="1481384832984">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/admin/src/main/java/com/acenode/admin/service/CameraService.java" timestamp="1464435061218">
@@ -114,11 +120,12 @@
         <mark key="." line="59" column="36" />
         <mark key="^" line="59" column="36" />
       </file>
-      <file name="$USER_HOME$/workspace/Wx/app/src/main/res/layout/activity_main.xml" timestamp="1481384299655">
-        <mark key="'" line="11" column="0" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/workspace/Wx/app/src/main/res/layout/activity_main.xml" timestamp="1481385202033">
+        <mark key="'" line="14" column="37" />
+        <mark key="[" line="5" column="12" />
+        <mark key="]" line="5" column="34" />
+        <mark key="." line="5" column="34" />
+        <mark key="^" line="5" column="34" />
       </file>
       <file name="$USER_HOME$/workspace/Wx/app/src/main/res/layout/tab_chat.xml" timestamp="1481383774816">
         <mark key="[" line="11" column="34" />
@@ -186,7 +193,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="70" column="27" filename="$USER_HOME$/workspace/admin/src/main/java/com/acenode/admin/controller/EventTypeController.java" />
       <jump line="74" column="8" filename="$USER_HOME$/workspace/admin/src/main/java/com/acenode/admin/controller/StreetController.java" />
       <jump line="26" column="0" filename="$USER_HOME$/workspace/admin/src/main/java/com/acenode/admin/controller/StreetController.java" />
       <jump line="75" column="27" filename="$USER_HOME$/workspace/admin/src/main/java/com/acenode/admin/controller/StreetController.java" />
@@ -276,7 +282,6 @@
       <jump line="35" column="0" filename="$USER_HOME$/workspace/Wx/app/src/main/java/com/wx/SplashActivity.java" />
       <jump line="11" column="46" filename="$USER_HOME$/workspace/Wx/app/src/main/java/com/wx/MainActivity.java" />
       <jump line="13" column="0" filename="$USER_HOME$/workspace/Wx/app/src/main/java/com/wx/MainActivity.java" />
-      <jump line="14" column="34" filename="$USER_HOME$/workspace/Wx/app/src/main/res/layout/activity_main.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/Wx/app/src/main/res/layout/activity_main.xml" />
       <jump line="5" column="0" filename="$USER_HOME$/workspace/Wx/app/src/main/res/layout/bottom.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/Wx/app/src/main/res/layout/bottom.xml" />
@@ -286,13 +291,15 @@
       <jump line="28" column="0" filename="$USER_HOME$/workspace/Wx/app/src/main/java/com/wx/tab/MainActivity.java" />
       <jump line="127" column="0" filename="$USER_HOME$/workspace/Wx/app/src/main/java/com/wx/tab/MainActivity.java" />
       <jump line="9" column="0" filename="$USER_HOME$/workspace/Wx/app/src/main/res/layout/activity_main.xml" />
+      <jump line="1" column="1" filename="$USER_HOME$/workspace/Wx/app/src/main/res/layout/top.xml" />
+      <jump line="14" column="37" filename="$USER_HOME$/workspace/Wx/app/src/main/res/layout/activity_main.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>基本废物......</text>
       </register>
       <register name="-" type="4">
-        <text>b6b3b3</text>
+        <text>colorAccent</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzaG93T3ZlcmxheVw+</text>
@@ -301,13 +308,13 @@
         <text>FragmentFind</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxhbmRyb2lkLnN1cHBvcnQudjcud2lkZ2V0LkFjdGlvbkJhckNvbnRhaW5lciBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IiAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCI+PC9hbmRyb2lkLnN1cHBvcnQudjcud2lkZ2V0LkFjdGlvbkJhckNvbnRhaW5lcj4K</text>
+        <text encoding="base64">PExpbmVhckxheW91dCB4bWxuczphbmRyb2lkPSJodHRwOi8vc2NoZW1hcy5hbmRyb2lkLmNvbS9hcGsvcmVzL2FuZHJvaWQiCiAgICAgICAgICAgICAgYW5kcm9pZDpvcmllbnRhdGlvbj0idmVydGljYWwiCiAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9Im1hdGNoX3BhcmVudCI+Cgo8L0xpbmVhckxheW91dD4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxhbmRyb2lkLnN1cHBvcnQudjcud2lkZ2V0LkFjdGlvbkJhckNvbnRhaW5lciBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IiAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCI+PC9hbmRyb2lkLnN1cHBvcnQudjcud2lkZ2V0LkFjdGlvbkJhckNvbnRhaW5lcj4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuYXBwLkZyYWdtZW50Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">aW1wb3J0IGFuZHJvaWQuYXBwLkZyYWdtZW50Owo=</text>
@@ -319,13 +326,13 @@
         <text encoding="base64">aW1wb3J0IGFuZHJvaWQuYXBwLkZyYWdtZW50Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIE1haW5BY3Rpdml0eSBleHRlbmRzIEFwcENvbXBhdEFjdGl2aXR5IHsKCiAgICBAT3ZlcnJpZGUKICAgIHByb3RlY3RlZCB2b2lkIG9uQ3JlYXRlKEJ1bmRsZSBzYXZlZEluc3RhbmNlU3RhdGUpIHsKICAgICAgICBzdXBlci5vbkNyZWF0ZShzYXZlZEluc3RhbmNlU3RhdGUpOwogICAgICAgIHNldENvbnRlbnRWaWV3KFIubGF5b3V0LmFjdGl2aXR5X21haW4pOwogICAgfQp9Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">aW1wb3J0IGFuZHJvaWQuYXBwLkZyYWdtZW50Owo=</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">cHVibGljIGNsYXNzIE1haW5BY3Rpdml0eSBleHRlbmRzIEFwcENvbXBhdEFjdGl2aXR5IHsKCiAgICBAT3ZlcnJpZGUKICAgIHByb3RlY3RlZCB2b2lkIG9uQ3JlYXRlKEJ1bmRsZSBzYXZlZEluc3RhbmNlU3RhdGUpIHsKICAgICAgICBzdXBlci5vbkNyZWF0ZShzYXZlZEluc3RhbmNlU3RhdGUpOwogICAgICAgIHNldENvbnRlbnRWaWV3KFIubGF5b3V0LmFjdGl2aXR5X21haW4pOwogICAgfQp9Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuYXBwLkZyYWdtZW50TWFuYWdlcjsK</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuYXBwLkZyYWdtZW50Owo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
