@@ -14,9 +14,17 @@
     <keyboard-shortcut first-keystroke="subtract" />
     <keyboard-shortcut first-keystroke="2" />
   </action>
+  <action id="DashLauncherAction">
+    <keyboard-shortcut first-keystroke="shift meta d" />
+    <keyboard-shortcut first-keystroke="shift meta s" />
+  </action>
   <action id="EditorChooseLookupItem">
     <keyboard-shortcut first-keystroke="enter" />
     <keyboard-shortcut first-keystroke="ctrl j" />
+  </action>
+  <action id="EditorEnter">
+    <keyboard-shortcut first-keystroke="enter" />
+    <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
   <action id="EvaluateExpression">
     <keyboard-shortcut first-keystroke="alt f8" />
