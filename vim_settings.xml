@@ -112,12 +112,13 @@
         <mark key="." line="42" column="0" />
         <mark key="^" line="16" column="3" />
       </file>
-      <file name="$USER_HOME$/workspace/Wx/app/build.gradle" timestamp="1481301021701">
-        <mark key="[" line="26" column="47" />
-        <mark key="]" line="26" column="48" />
-        <mark key="." line="26" column="48" />
+      <file name="$USER_HOME$/workspace/Wx/app/build.gradle" timestamp="1481446307374">
+        <mark key="'" line="22" column="52" />
+        <mark key="[" line="6" column="23" />
+        <mark key="]" line="6" column="23" />
+        <mark key="." line="6" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1481445515098">
+      <file name="/Dummy.txt" timestamp="1481446227642">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/admin/src/main/java/com/acenode/admin/service/CameraService.java" timestamp="1464435061218">
@@ -139,17 +140,18 @@
         <mark key="." line="5" column="34" />
         <mark key="^" line="5" column="34" />
       </file>
-      <file name="$USER_HOME$/workspace/Wx/app/src/main/res/layout/tab_chat.xml" timestamp="1481445509105">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/workspace/Wx/app/src/main/res/layout/tab_chat.xml" timestamp="1481446895801">
+        <mark key="[" line="14" column="104" />
+        <mark key="]" line="14" column="107" />
+        <mark key="." line="14" column="107" />
+        <mark key="^" line="14" column="107" />
       </file>
-      <file name="$USER_HOME$/workspace/Wx/app/src/main/java/com/wx/tab/FragmentChat.java" timestamp="1481445642782">
+      <file name="$USER_HOME$/workspace/Wx/app/src/main/java/com/wx/tab/FragmentChat.java" timestamp="1481446901302">
         <mark key="'" line="75" column="0" />
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="76" column="0" />
-        <mark key="^" line="42" column="88" />
-        <mark key="." line="76" column="0" />
+        <mark key="[" line="33" column="49" />
+        <mark key="]" line="33" column="52" />
+        <mark key="^" line="33" column="52" />
+        <mark key="." line="33" column="52" />
       </file>
       <file name="/a.regexp" timestamp="1466601261810">
         <mark key="[" line="0" column="0" />
@@ -170,6 +172,9 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/Wx/build.gradle" timestamp="1481446627356">
+        <mark key="'" line="10" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/Wx/app/src/main/java/com/wx/tab/FragementChat.java" timestamp="1481381196087">
         <mark key="[" line="18" column="45" />
@@ -195,8 +200,11 @@
         <mark key="." line="62" column="20" />
         <mark key="^" line="62" column="20" />
       </file>
-      <file name="/fragment.java" timestamp="1481381245358">
+      <file name="/fragment.java" timestamp="1481446252873">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/Wx/app/src/main/res/layout/tab_find.xml" timestamp="1481380940137">
         <mark key="[" line="10" column="28" />
@@ -206,8 +214,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="22" filename="$USER_HOME$/workspace/admin/src/main/java/com/acenode/admin/controller/EventTypeController.java" />
-      <jump line="291" column="58" filename="$USER_HOME$/workspace/admin/src/main/webapp/WEB-INF/view/camera/cameraFoot.jsp" />
       <jump line="13" column="23" filename="$USER_HOME$/workspace/admin/src/main/java/com/acenode/admin/controller/IndexController.java" />
       <jump line="144" column="12" filename="$USER_HOME$/workspace/admin/src/main/webapp/assets/js/area/area.js" />
       <jump line="17" column="9" filename="$USER_HOME$/workspace/admin/src/main/webapp/assets/js/area/area.js" />
@@ -306,13 +312,15 @@
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/androidlee/res/layout/vlist2.xml" />
       <jump line="2" column="8" filename="$USER_HOME$/workspace/Wx/app/src/main/res/layout/list_chat_item.xml" />
       <jump line="75" column="0" filename="$USER_HOME$/workspace/Wx/app/src/main/java/com/wx/tab/FragmentChat.java" />
+      <jump line="22" column="52" filename="$USER_HOME$/workspace/Wx/app/build.gradle" />
+      <jump line="10" column="0" filename="$USER_HOME$/workspace/Wx/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>基本废物......</text>
       </register>
       <register name="-" type="4">
-        <text>tab_chat</text>
+        <text>chat_list</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzaG93T3ZlcmxheVw+</text>
@@ -321,31 +329,31 @@
         <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPExpbmVhckxheW91dCB4bWxuczphbmRyb2lkPSJodHRwOi8vc2NoZW1hcy5hbmRyb2lkLmNvbS9hcGsvcmVzL2FuZHJvaWQiCglhbmRyb2lkOm9yaWVudGF0aW9uPSJob3Jpem9udGFsIiAKCWFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJmaWxsX3BhcmVudCIKCWFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iZmlsbF9wYXJlbnQiPgoKCgk8SW1hZ2VWaWV3IGFuZHJvaWQ6aWQ9IkAraWQvaW1nIiAKCQlhbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50IgoJCWFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IiAKCQlhbmRyb2lkOmxheW91dF9tYXJnaW49IjVweCIvPgoKCTxMaW5lYXJMYXlvdXQgYW5kcm9pZDpvcmllbnRhdGlvbj0idmVydGljYWwiCgkJYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIgCgkJYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiPgoKCQk8VGV4dFZpZXcgYW5kcm9pZDppZD0iQCtpZC90aXRsZSIgCgkJCWFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiCgkJCWFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IiAKCQkJYW5kcm9pZDp0ZXh0Q29sb3I9IiNGRkZGRkZGRiIKCQkJYW5kcm9pZDp0ZXh0U2l6ZT0iMjJweCIgLz4KCQk8VGV4dFZpZXcgYW5kcm9pZDppZD0iQCtpZC9pbmZvIiAKCQkJYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKCQkJYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiIAoJCQlhbmRyb2lkOnRleHRDb2xvcj0iI0ZGRkZGRkZGIgoJCQlhbmRyb2lkOnRleHRTaXplPSIxM3B4IiAvPgoKCTwvTGluZWFyTGF5b3V0PgoKCgk8QnV0dG9uIGFuZHJvaWQ6aWQ9IkAraWQvdmlld19idG4iCgkJYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKCQlhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKCQlhbmRyb2lkOnRleHQ9IkBzdHJpbmcvc192aWV3X2J0biIKCQlhbmRyb2lkOmxheW91dF9ncmF2aXR5PSJib3R0b218cmlnaHQiIC8+CjwvTGluZWFyTGF5b3V0Pgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuaShUQUcsICItLS0tLS0tLS0tb25BdHRhY2giKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBMb2cuaShUQUcsICItLS0tLS0tLS0tb25BdHRhY2giKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuaShUQUcsICItLS0tLS0tLW9uQWN0aXZpdHlDcmVhdGVkIik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBMb2cuaShUQUcsICItLS0tLS0tLW9uQWN0aXZpdHlDcmVhdGVkIik7Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocG9zaXRpb24pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocG9zaXRpb24pOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4odik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4odik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
