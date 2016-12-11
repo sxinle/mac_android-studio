@@ -14,11 +14,11 @@
         <mark key="." line="18" column="48" />
         <mark key="^" line="18" column="48" />
       </file>
-      <file name="$USER_HOME$/workspace/Wx/app/src/main/res/layout/top.xml" timestamp="1481387783212">
-        <mark key="[" line="14" column="139" />
-        <mark key="]" line="14" column="143" />
-        <mark key="." line="14" column="143" />
-        <mark key="^" line="14" column="143" />
+      <file name="$USER_HOME$/workspace/Wx/app/src/main/res/layout/top.xml" timestamp="1481442915958">
+        <mark key="[" line="14" column="70" />
+        <mark key="]" line="14" column="73" />
+        <mark key="." line="14" column="73" />
+        <mark key="^" line="14" column="73" />
       </file>
       <file name="/a.dummy" timestamp="1481381337159">
         <mark key="[" line="0" column="0" />
@@ -105,7 +105,7 @@
         <mark key="]" line="26" column="48" />
         <mark key="." line="26" column="48" />
       </file>
-      <file name="/Dummy.txt" timestamp="1481387784439">
+      <file name="/Dummy.txt" timestamp="1481442875653">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/admin/src/main/java/com/acenode/admin/service/CameraService.java" timestamp="1464435061218">
@@ -299,7 +299,7 @@
         <text>基本废物......</text>
       </register>
       <register name="-" type="4">
-        <text>Left</text>
+        <text>wrap_content</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzaG93T3ZlcmxheVw+</text>
