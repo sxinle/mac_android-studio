@@ -188,7 +188,8 @@
         <mark key="^" line="13" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/Wx/app/src/main/AndroidManifest.xml" timestamp="1481546988467">
+      <file name="$USER_HOME$/workspace/Wx/app/src/main/AndroidManifest.xml" timestamp="1481549068735">
+        <mark key="'" line="19" column="0" />
         <mark key="[" line="8" column="30" />
         <mark key="]" line="8" column="56" />
         <mark key="." line="8" column="56" />
@@ -221,8 +222,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="692" column="77" filename="$USER_HOME$/workspace/mp/static/lonlat.js" />
-      <jump line="5" column="18" filename="$USER_HOME$/workspace/mp/xhr_lonlat.js" />
       <jump line="810" column="97" filename="$USER_HOME$/workspace/mp/xhr_lonlat.js" />
       <jump line="895" column="39" filename="$USER_HOME$/workspace/mp/xhr_lonlat.js" />
       <jump line="787" column="12" filename="$USER_HOME$/workspace/mp/xhr_lonlat.js" />
@@ -321,6 +320,8 @@
       <jump line="106" column="30" filename="$USER_HOME$/workspace/Wx/app/src/main/java/com/wx/tab/FragmentChat.java" />
       <jump line="1" column="0" filename="$USER_HOME$/workspace/Wx/app/src/main/java/com/wx/tab/FragmentChat.java" />
       <jump line="127" column="0" filename="$USER_HOME$/workspace/Wx/app/src/main/java/com/wx/tab/FragmentChat.java" />
+      <jump line="16" column="48" filename="$USER_HOME$/workspace/Wx/app/src/main/AndroidManifest.xml" />
+      <jump line="19" column="0" filename="$USER_HOME$/workspace/Wx/app/src/main/AndroidManifest.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
