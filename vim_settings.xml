@@ -113,7 +113,8 @@
         <mark key="." line="42" column="0" />
         <mark key="^" line="16" column="3" />
       </file>
-      <file name="$USER_HOME$/workspace/Wx/app/build.gradle" timestamp="1481546483536">
+      <file name="$USER_HOME$/workspace/Wx/app/build.gradle" timestamp="1481550985674">
+        <mark key="'" line="9" column="20" />
         <mark key="[" line="8" column="26" />
         <mark key="]" line="8" column="27" />
         <mark key="." line="8" column="27" />
@@ -133,12 +134,12 @@
         <mark key="." line="59" column="36" />
         <mark key="^" line="59" column="36" />
       </file>
-      <file name="$USER_HOME$/workspace/Wx/app/src/main/res/layout/activity_main.xml" timestamp="1481385202033">
-        <mark key="'" line="14" column="37" />
-        <mark key="[" line="5" column="12" />
-        <mark key="]" line="5" column="34" />
-        <mark key="." line="5" column="34" />
-        <mark key="^" line="5" column="34" />
+      <file name="$USER_HOME$/workspace/Wx/app/src/main/res/layout/activity_main.xml" timestamp="1481551228138">
+        <mark key="'" line="15" column="37" />
+        <mark key="[" line="7" column="38" />
+        <mark key="]" line="8" column="40" />
+        <mark key="." line="8" column="40" />
+        <mark key="^" line="8" column="40" />
       </file>
       <file name="$USER_HOME$/workspace/Wx/app/src/main/res/layout/tab_chat.xml" timestamp="1481455360035">
         <mark key="[" line="4" column="111" />
@@ -188,12 +189,12 @@
         <mark key="^" line="13" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/Wx/app/src/main/AndroidManifest.xml" timestamp="1481549401633">
-        <mark key="'" line="2" column="0" />
+      <file name="$USER_HOME$/workspace/Wx/app/src/main/AndroidManifest.xml" timestamp="1481551013260">
+        <mark key="'" line="13" column="27" />
         <mark key="[" line="8" column="30" />
-        <mark key="]" line="8" column="56" />
-        <mark key="." line="8" column="56" />
-        <mark key="^" line="8" column="56" />
+        <mark key="]" line="8" column="62" />
+        <mark key="." line="8" column="62" />
+        <mark key="^" line="8" column="62" />
       </file>
       <file name="$USER_HOME$/workspace/Wx/app/src/main/java/com/wx/tab/ChatItemAdapter.java" timestamp="1481450896981">
         <mark key="'" line="30" column="4" />
@@ -222,8 +223,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="32" filename="$USER_HOME$/workspace/mp/dist.html" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/mp/dist.html" />
       <jump line="48" column="16" filename="$USER_HOME$/workspace/mp/dist.html" />
       <jump line="794" column="90" filename="$USER_HOME$/workspace/mp/xhr_lonlat.js" />
       <jump line="795" column="34" filename="$USER_HOME$/workspace/mp/xhr_lonlat.js" />
@@ -322,13 +321,15 @@
       <jump line="9" column="41" filename="$USER_HOME$/workspace/Wx/app/src/main/AndroidManifest.xml" />
       <jump line="19" column="0" filename="$USER_HOME$/workspace/Wx/app/src/main/AndroidManifest.xml" />
       <jump line="2" column="0" filename="$USER_HOME$/workspace/Wx/app/src/main/AndroidManifest.xml" />
+      <jump line="9" column="20" filename="$USER_HOME$/workspace/Wx/app/build.gradle" />
+      <jump line="13" column="27" filename="$USER_HOME$/workspace/Wx/app/src/main/AndroidManifest.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>基本废物......</text>
       </register>
       <register name="-" type="4">
-        <text>Theme.AppCompat.DayNight.NoActionBar</text>
+        <text>Theme.AppCompat.NoActionBar</text>
       </register>
       <register name="/" type="4">
         <text>info</text>
