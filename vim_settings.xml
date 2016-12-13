@@ -99,8 +99,8 @@
         <mark key="." line="10" column="31" />
         <mark key="^" line="10" column="31" />
       </file>
-      <file name="$USER_HOME$/workspace/Wx/app/src/main/java/com/wx/view/activity/MainActivity.java" timestamp="1481633967161">
-        <mark key="'" line="33" column="26" />
+      <file name="$USER_HOME$/workspace/Wx/app/src/main/java/com/wx/view/activity/MainActivity.java" timestamp="1481639524711">
+        <mark key="'" line="112" column="21" />
         <mark key="[" line="51" column="39" />
         <mark key="]" line="52" column="41" />
         <mark key="^" line="52" column="41" />
@@ -253,7 +253,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="18" filename="$USER_HOME$/workspace/fx/lonlat.js" />
       <jump line="77" column="0" filename="$USER_HOME$/workspace/fx/index.html" />
       <jump line="487" column="25" filename="$USER_HOME$/workspace/fx/lonlat.js" />
       <jump line="11" column="32" filename="$USER_HOME$/workspace/admin/src/main/resources/app.properties" />
@@ -353,6 +352,7 @@
       <jump line="71" column="27" filename="$USER_HOME$/workspace/Wx/app/src/main/java/com/wx/view/activity/MainActivity.java" />
       <jump line="41" column="37" filename="$USER_HOME$/workspace/Wx/app/src/main/java/com/wx/view/activity/MainActivity.java" />
       <jump line="33" column="26" filename="$USER_HOME$/workspace/Wx/app/src/main/java/com/wx/view/activity/MainActivity.java" />
+      <jump line="112" column="21" filename="$USER_HOME$/workspace/Wx/app/src/main/java/com/wx/view/activity/MainActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
