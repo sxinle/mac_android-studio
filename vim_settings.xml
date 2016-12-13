@@ -74,9 +74,9 @@
         <mark key="[" line="33" column="38" />
       </file>
       <file name="$USER_HOME$/workspace/Wx/app/src/main/res/layout/activity_search.xml" timestamp="1481557332182">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="59" column="0" />
       </file>
       <file name="/JavaScript Console" timestamp="1463312454350">
         <mark key="[" line="0" column="0" />
@@ -99,7 +99,8 @@
         <mark key="." line="10" column="31" />
         <mark key="^" line="10" column="31" />
       </file>
-      <file name="$USER_HOME$/workspace/Wx/app/src/main/java/com/wx/view/activity/MainActivity.java" timestamp="1481557497231">
+      <file name="$USER_HOME$/workspace/Wx/app/src/main/java/com/wx/view/activity/MainActivity.java" timestamp="1481633967161">
+        <mark key="'" line="33" column="26" />
         <mark key="[" line="51" column="39" />
         <mark key="]" line="52" column="41" />
         <mark key="^" line="52" column="41" />
@@ -252,12 +253,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="794" column="90" filename="$USER_HOME$/workspace/mp/xhr_lonlat.js" />
-      <jump line="795" column="34" filename="$USER_HOME$/workspace/mp/xhr_lonlat.js" />
-      <jump line="796" column="35" filename="$USER_HOME$/workspace/mp/xhr_lonlat.js" />
-      <jump line="797" column="35" filename="$USER_HOME$/workspace/mp/xhr_lonlat.js" />
-      <jump line="798" column="0" filename="$USER_HOME$/workspace/mp/xhr_lonlat.js" />
-      <jump line="53" column="14" filename="$USER_HOME$/workspace/fx/lonlat.js" />
       <jump line="32" column="18" filename="$USER_HOME$/workspace/fx/lonlat.js" />
       <jump line="77" column="0" filename="$USER_HOME$/workspace/fx/index.html" />
       <jump line="487" column="25" filename="$USER_HOME$/workspace/fx/lonlat.js" />
@@ -352,6 +347,12 @@
       <jump line="9" column="20" filename="$USER_HOME$/workspace/Wx/app/build.gradle" />
       <jump line="13" column="27" filename="$USER_HOME$/workspace/Wx/app/src/main/AndroidManifest.xml" />
       <jump line="16" column="0" filename="$USER_HOME$/workspace/Wx/app/src/main/java/com/wx/view/fragement/FragmentChat.java" />
+      <jump line="58" column="37" filename="$USER_HOME$/workspace/Wx/app/src/main/java/com/wx/view/activity/MainActivity.java" />
+      <jump line="32" column="27" filename="$USER_HOME$/workspace/Wx/app/src/main/java/com/wx/view/activity/MainActivity.java" />
+      <jump line="135" column="0" filename="$USER_HOME$/workspace/Wx/app/src/main/java/com/wx/view/activity/MainActivity.java" />
+      <jump line="71" column="27" filename="$USER_HOME$/workspace/Wx/app/src/main/java/com/wx/view/activity/MainActivity.java" />
+      <jump line="41" column="37" filename="$USER_HOME$/workspace/Wx/app/src/main/java/com/wx/view/activity/MainActivity.java" />
+      <jump line="33" column="26" filename="$USER_HOME$/workspace/Wx/app/src/main/java/com/wx/view/activity/MainActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
