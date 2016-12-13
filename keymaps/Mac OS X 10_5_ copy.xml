@@ -9,6 +9,10 @@
   <action id="ActivateMavenProjectsToolWindow">
     <keyboard-shortcut first-keystroke="meta 0" />
   </action>
+  <action id="ActivateMessagesToolWindow" />
+  <action id="ActivatePreviewToolWindow">
+    <keyboard-shortcut first-keystroke="meta 0" />
+  </action>
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="ctrl space" />
     <keyboard-shortcut first-keystroke="ctrl l" />
@@ -32,6 +36,31 @@
   <action id="EvaluateExpression">
     <keyboard-shortcut first-keystroke="alt f8" />
     <keyboard-shortcut first-keystroke="a" />
+  </action>
+  <action id="ExpandToLevel1">
+    <keyboard-shortcut first-keystroke="meta multiply" second-keystroke="1" />
+    <keyboard-shortcut first-keystroke="meta multiply" second-keystroke="numpad1" />
+    <keyboard-shortcut first-keystroke="ctrl meta e" second-keystroke="1" />
+  </action>
+  <action id="ExpandToLevel2">
+    <keyboard-shortcut first-keystroke="meta multiply" second-keystroke="2" />
+    <keyboard-shortcut first-keystroke="meta multiply" second-keystroke="numpad2" />
+    <keyboard-shortcut first-keystroke="ctrl meta e" second-keystroke="2" />
+  </action>
+  <action id="ExpandToLevel3">
+    <keyboard-shortcut first-keystroke="meta multiply" second-keystroke="3" />
+    <keyboard-shortcut first-keystroke="meta multiply" second-keystroke="numpad3" />
+    <keyboard-shortcut first-keystroke="ctrl meta e" second-keystroke="3" />
+  </action>
+  <action id="ExpandToLevel4">
+    <keyboard-shortcut first-keystroke="meta multiply" second-keystroke="4" />
+    <keyboard-shortcut first-keystroke="meta multiply" second-keystroke="numpad4" />
+    <keyboard-shortcut first-keystroke="ctrl meta e" second-keystroke="4" />
+  </action>
+  <action id="ExpandToLevel5">
+    <keyboard-shortcut first-keystroke="meta multiply" second-keystroke="5" />
+    <keyboard-shortcut first-keystroke="meta multiply" second-keystroke="numpad5" />
+    <keyboard-shortcut first-keystroke="ctrl meta e" second-keystroke="5" />
   </action>
   <action id="FullyExpandTreeNode">
     <keyboard-shortcut first-keystroke="multiply" />
