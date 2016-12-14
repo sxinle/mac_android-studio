@@ -107,12 +107,12 @@
         <mark key="." line="10" column="31" />
         <mark key="^" line="10" column="31" />
       </file>
-      <file name="$USER_HOME$/workspace/Wx/app/src/main/java/com/wx/view/activity/MainActivity.java" timestamp="1481639524711">
-        <mark key="'" line="112" column="21" />
-        <mark key="[" line="51" column="39" />
-        <mark key="]" line="52" column="41" />
-        <mark key="^" line="52" column="41" />
-        <mark key="." line="52" column="41" />
+      <file name="$USER_HOME$/workspace/Wx/app/src/main/java/com/wx/view/activity/MainActivity.java" timestamp="1481723702272">
+        <mark key="'" line="165" column="26" />
+        <mark key="[" line="139" column="92" />
+        <mark key="]" line="139" column="102" />
+        <mark key="^" line="139" column="102" />
+        <mark key="." line="139" column="102" />
       </file>
       <file name="$USER_HOME$/workspace/admin/src/main/java/com/acenode/admin/model/Camera.java" timestamp="1464435646372">
         <mark key="[" line="28" column="0" />
@@ -153,6 +153,12 @@
       <file name="/Dummy.txt" timestamp="1481641368464">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/Wx/app/src/main/res/layout/popup.xml" timestamp="1481723681060">
+        <mark key="[" line="12" column="36" />
+        <mark key="]" line="12" column="36" />
+        <mark key="." line="12" column="36" />
+        <mark key="^" line="12" column="36" />
+      </file>
       <file name="$USER_HOME$/workspace/Wx/app/src/main/java/com/wx/util/SearchBarBtnClickListener.java" timestamp="1481641203446">
         <mark key="[" line="14" column="43" />
         <mark key="]" line="14" column="43" />
@@ -184,6 +190,12 @@
         <mark key="." line="4" column="114" />
         <mark key="^" line="4" column="114" />
       </file>
+      <file name="$USER_HOME$/workspace/Wx/app/src/main/res/layout/popup_item.xml" timestamp="1481723863493">
+        <mark key="[" line="4" column="35" />
+        <mark key="]" line="4" column="44" />
+        <mark key="^" line="4" column="44" />
+        <mark key="." line="4" column="44" />
+      </file>
       <file name="$USER_HOME$/workspace/Wx/app/src/main/java/com/wx/tab/FragmentChat.java" timestamp="1481465017030">
         <mark key="'" line="127" column="0" />
         <mark key="[" line="108" column="60" />
@@ -210,6 +222,10 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/Wx/app/src/main/res/values/colors.xml" timestamp="1481723609745">
+        <mark key="[" line="6" column="28" />
+        <mark key="]" line="6" column="35" />
       </file>
       <file name="$USER_HOME$/workspace/Wx/app/src/main/java/com/wx/view/fragement/FragmentChat.java" timestamp="1481552601733">
         <mark key="'" line="16" column="0" />
@@ -264,9 +280,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="11" filename="$USER_HOME$/workspace/mp/event.html" />
-      <jump line="62" column="13" filename="$USER_HOME$/workspace/mp/event.html" />
-      <jump line="18" column="21" filename="$USER_HOME$/workspace/fxweb/src/main/java/com/acenode/fx/common/AppConfig.java" />
       <jump line="1" column="0" filename="$USER_HOME$/workspace/fxweb/src/main/java/com/acenode/fx/common/AppConfig.java" />
       <jump line="29" column="0" filename="$USER_HOME$/workspace/fxweb/src/main/java/com/acenode/fx/common/AppConfig.java" />
       <jump line="38" column="0" filename="$USER_HOME$/workspace/fxweb/src/main/java/com/acenode/fx/common/AppConfig.java" />
@@ -364,19 +377,22 @@
       <jump line="62" column="0" filename="$USER_HOME$/workspace/Wx/app/src/main/java/com/wx/view/activity/SearchActivity.java" />
       <jump line="5" column="44" filename="$USER_HOME$/workspace/Wx/app/src/main/res/layout/activity_search.xml" />
       <jump line="64" column="0" filename="$USER_HOME$/workspace/Wx/app/src/main/res/layout/activity_search.xml" />
+      <jump line="61" column="13" filename="$USER_HOME$/workspace/Wx/app/src/main/java/com/wx/view/activity/MainActivity.java" />
+      <jump line="157" column="45" filename="$USER_HOME$/workspace/Wx/app/src/main/java/com/wx/view/activity/MainActivity.java" />
+      <jump line="165" column="26" filename="$USER_HOME$/workspace/Wx/app/src/main/java/com/wx/view/activity/MainActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>基本废物......</text>
       </register>
       <register name="-" type="4">
-        <text>Color.BLACK</text>
+        <text>vertical</text>
       </register>
       <register name="/" type="4">
-        <text>touch</text>
+        <text>text</text>
       </register>
       <register name="0" type="4">
-        <text>545454</text>
+        <text>FF494949</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -410,9 +426,9 @@
       </register>
     </registers>
     <search>
-      <last-search>touch</last-search>
+      <last-search>text</last-search>
       <last-offset />
-      <last-pattern>touch</last-pattern>
+      <last-pattern>text</last-pattern>
       <last-replace>iconGreen</last-replace>
       <last-substitute>iconGray</last-substitute>
       <last-dir>1</last-dir>
@@ -420,7 +436,6 @@
     </search>
     <history>
       <history-search>
-        <entry>方位</entry>
         <entry>#a</entry>
         <entry encoding="base64">XDxhX2FyZWFcPg==</entry>
         <entry encoding="base64">XDxlX2xvblw+</entry>
@@ -440,6 +455,7 @@
         <entry encoding="base64">XDxzaG93T3ZlcmxheVw+</entry>
         <entry>info</entry>
         <entry>touch</entry>
+        <entry>text</entry>
       </history-search>
       <history-cmd>
         <entry>action SearchWeb</entry>
