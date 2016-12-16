@@ -33,10 +33,6 @@
     <keyboard-shortcut first-keystroke="enter" />
     <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
-  <action id="EvaluateExpression">
-    <keyboard-shortcut first-keystroke="alt f8" />
-    <keyboard-shortcut first-keystroke="a" />
-  </action>
   <action id="ExpandToLevel1">
     <keyboard-shortcut first-keystroke="meta multiply" second-keystroke="1" />
     <keyboard-shortcut first-keystroke="meta multiply" second-keystroke="numpad1" />
@@ -82,9 +78,9 @@
     <keyboard-shortcut first-keystroke="ctrl alt o" />
     <keyboard-shortcut first-keystroke="ctrl meta o" />
   </action>
-  <action id="RunToCursor">
-    <keyboard-shortcut first-keystroke="alt f9" />
-    <keyboard-shortcut first-keystroke="s" />
+  <action id="Resume">
+    <keyboard-shortcut first-keystroke="meta alt r" />
+    <keyboard-shortcut first-keystroke="shift d" />
   </action>
   <action id="SmartTypeCompletion">
     <keyboard-shortcut first-keystroke="shift ctrl space" />
@@ -92,11 +88,11 @@
   </action>
   <action id="StepInto">
     <keyboard-shortcut first-keystroke="f7" />
-    <keyboard-shortcut first-keystroke="d" />
+    <keyboard-shortcut first-keystroke="shift a" />
   </action>
   <action id="StepOver">
     <keyboard-shortcut first-keystroke="f8" />
-    <keyboard-shortcut first-keystroke="f" />
+    <keyboard-shortcut first-keystroke="shift s" />
   </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
