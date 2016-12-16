@@ -49,6 +49,9 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/Wx/app/src/main/res/layout/fragement_chat.xml" timestamp="1481900705504">
+        <mark key="'" line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/Wx/app/src/main/java/com/wx/tab/FragementMe.java" timestamp="1481381183081">
         <mark key="[" line="18" column="45" />
         <mark key="]" line="18" column="46" />
@@ -187,7 +190,7 @@
         <mark key="." line="10" column="31" />
         <mark key="^" line="10" column="31" />
       </file>
-      <file name="$USER_HOME$/workspace/Wx/app/src/main/java/com/wx/view/activity/MainActivity.java" timestamp="1481898457747">
+      <file name="$USER_HOME$/workspace/Wx/app/src/main/java/com/wx/view/activity/MainActivity.java" timestamp="1481900456186">
         <mark key="'" line="226" column="0" />
         <mark key="[" line="146" column="84" />
         <mark key="]" line="146" column="88" />
@@ -205,8 +208,8 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/Wx/app/src/main/java/com/wx/util/CrashHandler.java" timestamp="1481900313327">
-        <mark key="'" line="23" column="6" />
+      <file name="$USER_HOME$/workspace/Wx/app/src/main/java/com/wx/util/CrashHandler.java" timestamp="1481900419278">
+        <mark key="'" line="178" column="15" />
         <mark key="[" line="197" column="0" />
         <mark key="]" line="197" column="0" />
         <mark key="." line="197" column="0" />
@@ -287,9 +290,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="41" filename="$USER_HOME$/workspace/zest/src/main/java/zest/A.java" />
-      <jump line="16" column="34" filename="$USER_HOME$/workspace/zest/src/main/java/zest/A.java" />
-      <jump line="51" column="0" filename="$USER_HOME$/workspace/zest/src/main/java/zest/A.java" />
       <jump line="56" column="31" filename="$USER_HOME$/workspace/fxweb/src/main/java/com/acenode/fx/controller/DataController.java" />
       <jump line="29" column="0" filename="$USER_HOME$/workspace/fxweb/src/main/java/com/acenode/fx/controller/DataController.java" />
       <jump line="23" column="16" filename="$USER_HOME$/workspace/fxweb/src/main/java/com/acenode/fx/controller/DataController.java" />
@@ -376,17 +376,20 @@
       <jump line="1" column="0" filename="$USER_HOME$/workspace/Wx/app/src/main/res/layout/popup_item.xml" />
       <jump line="22" column="0" filename="$USER_HOME$/workspace/Wx/app/src/main/res/layout/popup_item.xml" />
       <jump line="185" column="16" filename="$USER_HOME$/workspace/Wx/app/src/main/java/com/wx/view/activity/MainActivity.java" />
-      <jump line="33" column="55" filename="$USER_HOME$/workspace/Wx/app/src/main/java/com/wx/view/activity/MainActivity.java" />
       <jump line="24" column="0" filename="$USER_HOME$/workspace/Wx/app/src/main/java/com/wx/view/activity/MainActivity.java" />
       <jump line="208" column="22" filename="$USER_HOME$/workspace/Wx/app/src/main/java/com/wx/view/activity/MainActivity.java" />
       <jump line="1" column="0" filename="$USER_HOME$/workspace/Wx/app/src/main/java/com/wx/view/activity/MainActivity.java" />
-      <jump line="226" column="0" filename="$USER_HOME$/workspace/Wx/app/src/main/java/com/wx/view/activity/MainActivity.java" />
       <jump line="164" column="36" filename="$USER_HOME$/workspace/Wx/app/src/main/java/com/wx/util/CrashHandler.java" />
       <jump line="28" column="28" filename="$USER_HOME$/workspace/Wx/app/src/main/java/com/wx/util/CrashHandler.java" />
       <jump line="179" column="15" filename="$USER_HOME$/workspace/Wx/app/src/main/java/com/wx/util/CrashHandler.java" />
       <jump line="20" column="0" filename="$USER_HOME$/workspace/Wx/app/src/main/java/com/wx/util/CrashHandler.java" />
       <jump line="199" column="0" filename="$USER_HOME$/workspace/Wx/app/src/main/java/com/wx/util/CrashHandler.java" />
       <jump line="23" column="6" filename="$USER_HOME$/workspace/Wx/app/src/main/java/com/wx/util/CrashHandler.java" />
+      <jump line="178" column="15" filename="$USER_HOME$/workspace/Wx/app/src/main/java/com/wx/util/CrashHandler.java" />
+      <jump line="33" column="0" filename="$USER_HOME$/workspace/Wx/app/src/main/java/com/wx/view/activity/MainActivity.java" />
+      <jump line="226" column="0" filename="$USER_HOME$/workspace/Wx/app/src/main/java/com/wx/view/activity/MainActivity.java" />
+      <jump line="5" column="14" filename="$USER_HOME$/workspace/Wx/app/src/main/res/layout/fragement_chat.xml" />
+      <jump line="7" column="0" filename="$USER_HOME$/workspace/Wx/app/src/main/res/layout/fragement_chat.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
