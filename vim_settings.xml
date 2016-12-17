@@ -164,10 +164,10 @@
         <mark key="[" line="4" column="37" />
         <mark key="]" line="4" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/Wx/app/src/main/res/layout/fragement_frd.xml" timestamp="1481964504052">
+      <file name="$USER_HOME$/workspace/Wx/app/src/main/res/layout/fragement_frd.xml" timestamp="1481964955088">
         <mark key="'" line="32" column="0" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
+        <mark key="[" line="1" column="14" />
+        <mark key="]" line="5" column="20" />
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="44" />
       </file>
@@ -299,9 +299,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="36" filename="$USER_HOME$/workspace/fxweb/src/main/java/com/acenode/fx/controller/DataController.java" />
-      <jump line="9" column="4" filename="$USER_HOME$/workspace/fxweb/src/main/java/com/acenode/fx/controller/DataController.java" />
-      <jump line="1" column="0" filename="$USER_HOME$/workspace/fxweb/src/main/java/com/acenode/fx/controller/DataController.java" />
       <jump line="21" column="0" filename="$USER_HOME$/workspace/fxweb/src/main/java/com/acenode/fx/controller/DataController.java" />
       <jump line="338" column="0" filename="$USER_HOME$/workspace/fxweb/src/main/java/com/acenode/fx/controller/DataController.java" />
       <jump line="10" column="0" filename="$USER_HOME$/workspace/MyApplication/app/src/main/java/com/example/hsong/myapplication/MainActivity.java" />
@@ -398,6 +395,9 @@
       <jump line="20" column="19" filename="$USER_HOME$/workspace/Wx/app/src/main/res/layout/fragement_frd.xml" />
       <jump line="30" column="0" filename="$USER_HOME$/workspace/Wx/app/src/main/res/layout/fragement_frd.xml" />
       <jump line="14" column="66" filename="$USER_HOME$/workspace/Wx/app/src/main/res/layout/fragement_frd.xml" />
+      <jump line="4" column="0" filename="$USER_HOME$/workspace/Wx/app/src/main/res/layout/fragement_frd.xml" />
+      <jump line="12" column="0" filename="$USER_HOME$/workspace/Wx/app/src/main/res/layout/fragement_frd.xml" />
+      <jump line="9" column="49" filename="$USER_HOME$/workspace/Wx/app/src/main/res/layout/fragement_frd.xml" />
       <jump line="32" column="0" filename="$USER_HOME$/workspace/Wx/app/src/main/res/layout/fragement_frd.xml" />
     </jumps>
     <registers>
@@ -410,8 +410,12 @@
       <register name="/" type="4">
         <text>text</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgMzoKICAgICAgICAgICAgICAgICAgICBpbWcuc2V0SW1hZ2VSZXNvdXJjZShSLmRyYXdhYmxlLnNmayk7CiAgICAgICAgICAgICAgICAgICAgYnJlYWs7Cg==</text>
+      <register name="0" type="8">
+        <text>xmlns:a
+xmlns:i
+android
+android
+android</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICBhbmRyb2lkOmdyYXZpdHk9ImNlbnRlciIK</text>
@@ -526,7 +530,7 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed I</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
