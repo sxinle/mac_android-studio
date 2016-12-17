@@ -164,8 +164,8 @@
         <mark key="[" line="4" column="37" />
         <mark key="]" line="4" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/Wx/app/src/main/res/layout/fragement_frd.xml" timestamp="1481902716430">
-        <mark key="'" line="20" column="19" />
+      <file name="$USER_HOME$/workspace/Wx/app/src/main/res/layout/fragement_frd.xml" timestamp="1481964408171">
+        <mark key="'" line="30" column="0" />
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
@@ -299,7 +299,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="16" filename="$USER_HOME$/workspace/fxweb/src/main/java/com/acenode/fx/controller/DataController.java" />
       <jump line="24" column="3" filename="$USER_HOME$/workspace/fxweb/src/main/java/com/acenode/fx/controller/DataController.java" />
       <jump line="13" column="0" filename="$USER_HOME$/workspace/fxweb/src/main/java/com/acenode/fx/controller/DataController.java" />
       <jump line="6" column="36" filename="$USER_HOME$/workspace/fxweb/src/main/java/com/acenode/fx/controller/DataController.java" />
@@ -399,6 +398,7 @@
       <jump line="8" column="0" filename="$USER_HOME$/workspace/Wx/app/src/main/res/layout/fragement_chat.xml" />
       <jump line="7" column="0" filename="$USER_HOME$/workspace/Wx/app/src/main/res/layout/fragement_chat.xml" />
       <jump line="20" column="19" filename="$USER_HOME$/workspace/Wx/app/src/main/res/layout/fragement_frd.xml" />
+      <jump line="30" column="0" filename="$USER_HOME$/workspace/Wx/app/src/main/res/layout/fragement_frd.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
