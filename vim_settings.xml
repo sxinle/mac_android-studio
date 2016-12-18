@@ -97,7 +97,8 @@
         <mark key="." line="14" column="43" />
         <mark key="^" line="14" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/Wx/app/src/main/java/com/wx/view/custom/LetterIndexBar.java" timestamp="1481966428739">
+      <file name="$USER_HOME$/workspace/Wx/app/src/main/java/com/wx/view/custom/LetterIndexBar.java" timestamp="1482060909360">
+        <mark key="'" line="104" column="0" />
         <mark key="[" line="37" column="31" />
         <mark key="]" line="37" column="32" />
         <mark key="." line="37" column="32" />
@@ -304,8 +305,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="0" filename="$USER_HOME$/workspace/MyApplication/app/src/main/java/com/example/hsong/myapplication/MainActivity.java" />
-      <jump line="8" column="46" filename="$USER_HOME$/workspace/MyApplication/app/src/main/java/com/example/hsong/myapplication/MainActivity.java" />
       <jump line="9" column="42" filename="$USER_HOME$/workspace/MyApplication/app/src/main/java/com/example/hsong/myapplication/MainActivity.java" />
       <jump line="1" column="0" filename="$USER_HOME$/workspace/MyApplication/app/src/main/java/com/example/hsong/myapplication/MainActivity.java" />
       <jump line="12" column="0" filename="$USER_HOME$/workspace/MyApplication/app/src/main/java/com/example/hsong/myapplication/MainActivity.java" />
@@ -404,6 +403,8 @@
       <jump line="29" column="0" filename="$USER_HOME$/workspace/Wx/app/src/main/res/layout/fragement_frd.xml" />
       <jump line="6" column="0" filename="$USER_HOME$/workspace/Wx/app/src/main/res/layout/fragement_frd.xml" />
       <jump line="32" column="0" filename="$USER_HOME$/workspace/Wx/app/src/main/res/layout/fragement_frd.xml" />
+      <jump line="22" column="31" filename="$USER_HOME$/workspace/Wx/app/src/main/java/com/wx/view/custom/LetterIndexBar.java" />
+      <jump line="104" column="0" filename="$USER_HOME$/workspace/Wx/app/src/main/java/com/wx/view/custom/LetterIndexBar.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
