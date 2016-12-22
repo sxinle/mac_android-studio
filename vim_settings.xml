@@ -275,7 +275,8 @@
         <mark key="." line="59" column="36" />
         <mark key="^" line="59" column="36" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/LoginActivity.java" timestamp="1482332533021">
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/LoginActivity.java" timestamp="1482413203428">
+        <mark key="'" line="47" column="0" />
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
@@ -363,8 +364,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="14" filename="$USER_HOME$/workspace/Wx/app/src/main/res/layout/tab_chat.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/Wx/app/src/main/res/layout/tab_chat.xml" />
       <jump line="6" column="32" filename="$USER_HOME$/workspace/Wx/app/src/main/java/com/wx/tab/MainActivity.java" />
       <jump line="28" column="0" filename="$USER_HOME$/workspace/Wx/app/src/main/java/com/wx/tab/MainActivity.java" />
       <jump line="127" column="0" filename="$USER_HOME$/workspace/Wx/app/src/main/java/com/wx/tab/MainActivity.java" />
@@ -463,6 +462,8 @@
       <jump line="4" column="10" filename="$USER_HOME$/workspace/waffair/app/src/main/res/drawable/btn_style.xml" />
       <jump line="1" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/res/drawable/btn_style.xml" />
       <jump line="1" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/res/drawable/btn_normal.xml" />
+      <jump line="20" column="47" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/LoginActivity.java" />
+      <jump line="47" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/LoginActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
