@@ -230,12 +230,11 @@
         <mark key="." line="59" column="36" />
         <mark key="^" line="59" column="36" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/LoginActivity.java" timestamp="1482502956997">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="44" column="72" />
-        <mark key="]" line="44" column="75" />
-        <mark key="." line="44" column="75" />
-        <mark key="^" line="44" column="75" />
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/LoginActivity.java" timestamp="1482504203243">
+        <mark key="'" line="38" column="0" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/utils/Api.java" timestamp="1482503124375">
         <mark key="[" line="24" column="10" />
@@ -311,8 +310,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="4" filename="$USER_HOME$/workspace/Wx/app/src/main/java/com/wx/tab/ChatItemAdapter.java" />
-      <jump line="70" column="24" filename="$USER_HOME$/workspace/Wx/app/src/main/java/com/wx/tab/FragmentChat.java" />
       <jump line="10" column="0" filename="$USER_HOME$/workspace/Wx/app/src/main/res/layout/list_chat_item.xml" />
       <jump line="95" column="64" filename="$USER_HOME$/workspace/Wx/app/src/main/java/com/wx/tab/FragmentChat.java" />
       <jump line="25" column="12" filename="$USER_HOME$/workspace/Wx/app/src/main/java/com/wx/tab/FragmentChat.java" />
@@ -411,13 +408,15 @@
       <jump line="14" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/LoginActivity.java" />
       <jump line="56" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/LoginActivity.java" />
       <jump line="1" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/LoginActivity.java" />
+      <jump line="31" column="26" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/LoginActivity.java" />
+      <jump line="38" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/LoginActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>基本废物......</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">b3BlbmFwaS9sc3AvZmx1eHRvZGF5P2FwcGlkPTE0ODAzMDQ5Nzk2MzgmYXBwdG9rZW49N2QwMGVlYzc0Mjg2NGJjMGI4ODRhNDQ1MjBkMGVlN2UmdHlwZT1NNQ==</text>
+        <text>time</text>
       </register>
       <register name="/" type="4">
         <text>text</text>
@@ -426,32 +425,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6cGFkZGluZ0xlZnQ9IjMwcHgiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBGb3JtVXJsRW5jb2RlZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>&quot;{ \&quot;product_id\&quot;:\&quot;110100\&quot;, \&quot;keywords\&quot;:\&quot;空间8度量贩KTV\&quot;, \&quot;country\&quot;:\&quot;CHN\&quot;, \&quot;language\&quot;:\&quot;zh\&quot;, \&quot;pos_lon\&quot;:1137956355, &quot; +
-                                    &quot;\&quot;pos_lat\&quot;:385338756, \&quot;need_substitute\&quot;:true, \&quot;source\&quot;:\&quot;mx\&quot;, \&quot;offset\&quot;:0, \&quot;limit\&quot;:200, \&quot;order_by\&quot;:\&quot;name\&quot; } &quot;</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyBUaHJlYWQobmV3IFJ1bm5hYmxlKCkgewogICAgICAgICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgICAgICAgIHB1YmxpYyB2b2lkIHJ1bigpIHsKICAgICAgICAgICAgICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZpbmFsIE1hcCByZXQgPSBBcGkucmVxLmtleXdvcmRzKCkuZXhlY3V0ZSgpLmJvZHkoKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIExvb3Blci5wcmVwYXJlKCk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBUb2FzdC5tYWtlVGV4dChMb2dpbkFjdGl2aXR5LnRoaXMsIHJldC5nZXQoImRhdGEiKS50b1N0cmluZygpLCBMRU5HVEhfTE9ORykuc2hvdygpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgTG9vcGVyLmxvb3AoKTsKICAgICAgICAgICAgICAgICAgICAgICAgfSBjYXRjaCAoSU9FeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0pLnN0YXJ0KCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hY2Vub2RlLlI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6aGVhZGVyRGl2aWRlcnNFbmFibGVkPSJ0cnVlIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIExvb3Blci5sb29wKCk7Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOnBhZGRpbmc9IjMwcHgiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGRpdmkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9KS5zdGFydCgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOnBhZGRpbmc9IjMwcHgiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwdWJsaWMgdm9pZCBydW4oKSB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpwYWRkaW5nQm90dG9tPSIxMjBweCIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5ldyBUaHJlYWQobmV3IFJ1bm5hYmxlKCkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEBPdmVycmlkZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpwYWRkaW5nTGVmdD0iMzBweCIKICAgICAgICAgICAgYW5kcm9pZDpwYWRkaW5nUmlnaHQ9IjMwcHgiCiAgICAgICAgICAgIGFuZHJvaWQ6cGFkZGluZ1RvcD0iMzBweCIKICAgICAgICAgICAgYW5kcm9pZDpwYWRkaW5nQm90dG9tPSI2MHB4Igo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -490,7 +488,6 @@
         <entry>text</entry>
       </history-search>
       <history-cmd>
-        <entry>action SearchWeb</entry>
         <entry>action GotoClass</entry>
         <entry>action FileStructurePopup</entry>
         <entry>source ~/.ideavimrc</entry>
@@ -509,6 +506,7 @@
         <entry encoding="base64">JzwsJz5zL3N0cmVldFJlcS9zdHJlZXRQb2ludFJlcS9n</entry>
         <entry encoding="base64">JzwsJz5zLyNhLyNlL2c=</entry>
         <entry encoding="base64">JzwsJz5zL2ljb25HcmF5L2ljb25HcmVlbi9n</entry>
+        <entry>se nu</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
