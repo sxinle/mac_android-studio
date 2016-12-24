@@ -8,12 +8,12 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/widget/RadialMenuView.java" timestamp="1482584001388">
-        <mark key="'" line="55" column="0" />
-        <mark key="[" line="177" column="95" />
-        <mark key="]" line="178" column="19" />
-        <mark key="." line="178" column="19" />
-        <mark key="^" line="178" column="19" />
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/widget/RadialMenuView.java" timestamp="1482587186346">
+        <mark key="'" line="66" column="33" />
+        <mark key="[" line="127" column="23" />
+        <mark key="]" line="127" column="24" />
+        <mark key="." line="127" column="24" />
+        <mark key="^" line="127" column="24" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/res/drawable/btn_press.xml" timestamp="1482330917819">
         <mark key="[" line="2" column="27" />
@@ -29,10 +29,10 @@
         <mark key="^" line="21" column="11" />
         <mark key="." line="21" column="11" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/res/layout/menu.xml" timestamp="1482585451475">
-        <mark key="[" line="10" column="29" />
-        <mark key="]" line="10" column="38" />
-        <mark key="." line="10" column="38" />
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/res/layout/menu.xml" timestamp="1482587983368">
+        <mark key="[" line="15" column="33" />
+        <mark key="]" line="15" column="34" />
+        <mark key="." line="15" column="34" />
         <mark key="^" line="10" column="38" />
       </file>
       <file name="$USER_HOME$/workspace/admin/src/main/webapp/assets/js/camera/camera.js" timestamp="1464498732472">
@@ -346,8 +346,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="27" filename="$USER_HOME$/workspace/Wx/app/src/main/java/com/wx/view/activity/MainActivity.java" />
-      <jump line="41" column="37" filename="$USER_HOME$/workspace/Wx/app/src/main/java/com/wx/view/activity/MainActivity.java" />
       <jump line="112" column="21" filename="$USER_HOME$/workspace/Wx/app/src/main/java/com/wx/view/activity/MainActivity.java" />
       <jump line="30" column="0" filename="$USER_HOME$/workspace/Wx/app/src/main/java/com/wx/view/activity/SearchActivity.java" />
       <jump line="32" column="12" filename="$USER_HOME$/workspace/Wx/app/src/main/java/com/wx/view/activity/SearchActivity.java" />
@@ -446,55 +444,57 @@
       <jump line="194" column="43" filename="$USER_HOME$/workspace/waffair/app/build/generated/source/r/debug/com/acenode/R.java" />
       <jump line="1981" column="32" filename="$USER_HOME$/workspace/waffair/app/build/generated/source/r/debug/com/acenode/R.java" />
       <jump line="3523" column="59" filename="$USER_HOME$/workspace/waffair/app/build/generated/source/r/debug/com/acenode/R.java" />
+      <jump line="46" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/widget/RadialMenuView.java" />
+      <jump line="66" column="33" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/widget/RadialMenuView.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>基本废物......</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>wrap_content</text>
       </register>
       <register name="/" type="4">
-        <text>center</text>
+        <text>white</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luTGVmdD0iMjUwcHgiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIGFuZHJvaWQ6Z3Jhdml0eT0iY2VudGVyIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSJAY29sb3IvYmxhY2siCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjZW50ZXJJbWcgPSAoSW1hZ2VWaWV3KSBmaW5kVmlld0J5SWQoUi5pZC5jZW50ZXJJbWcpOwogICAgICAgIGNlbnRlckltZy5zZXRPbkNsaWNrTGlzdGVuZXIodGhpcyk7Cg==</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBCaW5kVmlldyhSLmlkLmNlbnRlckltZykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBPbkNsaWNrKFIuaWQuY2VudGVySW1nKQo=</text>
+        <text encoding="base64">ICAgICAgICBjZW50ZXJJbWcgPSAoSW1hZ2VWaWV3KSBmaW5kVmlld0J5SWQoUi5pZC5jZW50ZXJJbWcpOwogICAgICAgIGNlbnRlckltZy5zZXRPbkNsaWNrTGlzdGVuZXIodGhpcyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIEBCaW5kVmlldyhSLmlkLmNlbnRlckltZykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luTGVmdD0iMjAwcHgiCiAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpblRvcD0iMjEwcHgiCg==</text>
+        <text encoding="base64">ICAgIEBPbkNsaWNrKFIuaWQuY2VudGVySW1nKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfZ3Jhdml0eT0iY2VudGVyIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgbWFyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luTGVmdD0iMjAwcHgiCiAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpblRvcD0iMjEwcHgiCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>center</last-search>
+      <last-search>white</last-search>
       <last-offset />
-      <last-pattern>center</last-pattern>
+      <last-pattern>white</last-pattern>
       <last-replace>iconGreen</last-replace>
       <last-substitute>iconGray</last-substitute>
       <last-dir>1</last-dir>
@@ -502,7 +502,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtX2ltcG9ydFw+</entry>
         <entry encoding="base64">XDxpbXBvcnRGb3JtXD4=</entry>
         <entry encoding="base64">XDxhZGRGb3JtXD4=</entry>
         <entry>old</entry>
@@ -522,6 +521,7 @@
         <entry>300</entry>
         <entry>onscroll</entry>
         <entry>center</entry>
+        <entry>white</entry>
       </history-search>
       <history-cmd>
         <entry>action GotoClass</entry>
