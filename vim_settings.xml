@@ -8,12 +8,12 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/widget/RadialMenuView.java" timestamp="1482638935364">
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/widget/RadialMenuView.java" timestamp="1482639373456">
         <mark key="'" line="65" column="0" />
-        <mark key="[" line="129" column="65" />
-        <mark key="]" line="129" column="65" />
-        <mark key="." line="129" column="65" />
-        <mark key="^" line="129" column="77" />
+        <mark key="[" line="120" column="61" />
+        <mark key="]" line="120" column="62" />
+        <mark key="." line="120" column="62" />
+        <mark key="^" line="132" column="49" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/res/drawable/btn_press.xml" timestamp="1482330917819">
         <mark key="[" line="2" column="27" />
@@ -451,7 +451,7 @@
         <text>基本废物......</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>* 1.9</text>
       </register>
       <register name="/" type="4">
         <text>drawCir</text>
