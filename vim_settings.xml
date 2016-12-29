@@ -113,12 +113,12 @@
         <mark key="." line="3" column="67" />
         <mark key="^" line="3" column="67" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_index.xml" timestamp="1483019841030">
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_index.xml" timestamp="1483030476273">
         <mark key="'" line="40" column="53" />
-        <mark key="[" line="13" column="43" />
-        <mark key="]" line="13" column="44" />
-        <mark key="." line="13" column="44" />
-        <mark key="^" line="13" column="43" />
+        <mark key="[" line="18" column="17" />
+        <mark key="]" line="19" column="35" />
+        <mark key="." line="19" column="35" />
+        <mark key="^" line="19" column="35" />
       </file>
       <file name="$USER_HOME$/workspace/Wx/app/src/main/res/layout/tab_chat.xml" timestamp="1481455360035">
         <mark key="[" line="4" column="111" />
@@ -160,12 +160,12 @@
         <mark key="^" line="3" column="40" />
         <mark key="." line="3" column="40" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/res/layout/new_menu.xml" timestamp="1483028661297">
-        <mark key="'" line="27" column="62" />
-        <mark key="[" line="27" column="67" />
-        <mark key="]" line="27" column="72" />
-        <mark key="." line="27" column="72" />
-        <mark key="^" line="27" column="72" />
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/res/layout/new_menu.xml" timestamp="1483030447079">
+        <mark key="'" line="31" column="62" />
+        <mark key="[" line="31" column="67" />
+        <mark key="]" line="31" column="72" />
+        <mark key="." line="1" column="108" />
+        <mark key="^" line="31" column="72" />
       </file>
       <file name="$USER_HOME$/workspace/Wx/app/src/main/java/com/wx/tab/FragementChat.java" timestamp="1481381196087">
         <mark key="[" line="18" column="45" />
@@ -279,7 +279,7 @@
         <mark key="." line="186" column="50" />
         <mark key="^" line="186" column="50" />
       </file>
-      <file name="/Dummy.txt" timestamp="1483013743339">
+      <file name="/Dummy.txt" timestamp="1483030542026">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/Wx/app/src/main/res/layout/popup.xml" timestamp="1481725852177">
@@ -480,7 +480,7 @@
         <text>基本废物......</text>
       </register>
       <register name="-" type="4">
-        <text>latestVersion</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>usr</text>
