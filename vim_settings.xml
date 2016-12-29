@@ -112,12 +112,11 @@
         <mark key="." line="3" column="67" />
         <mark key="^" line="3" column="67" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_index.xml" timestamp="1482935763654">
-        <mark key="'" line="38" column="53" />
-        <mark key="[" line="66" column="41" />
-        <mark key="]" line="66" column="42" />
-        <mark key="." line="66" column="42" />
-        <mark key="^" line="84" column="40" />
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_index.xml" timestamp="1483014147332">
+        <mark key="'" line="40" column="53" />
+        <mark key="[" line="12" column="53" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/Wx/app/src/main/res/layout/tab_chat.xml" timestamp="1481455360035">
         <mark key="[" line="4" column="111" />
@@ -159,6 +158,13 @@
         <mark key="^" line="3" column="40" />
         <mark key="." line="3" column="40" />
       </file>
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/res/layout/new_menu.xml" timestamp="1483015171528">
+        <mark key="'" line="23" column="84" />
+        <mark key="[" line="99" column="0" />
+        <mark key="]" line="101" column="19" />
+        <mark key="." line="99" column="0" />
+        <mark key="^" line="22" column="165" />
+      </file>
       <file name="$USER_HOME$/workspace/Wx/app/src/main/java/com/wx/tab/FragementChat.java" timestamp="1481381196087">
         <mark key="[" line="18" column="45" />
         <mark key="]" line="18" column="48" />
@@ -171,11 +177,11 @@
         <mark key="." line="12" column="36" />
         <mark key="^" line="12" column="36" />
       </file>
-      <file name="$USER_HOME$/workspace/yx/app/src/main/res/layout/activity_mainbak1.xml" timestamp="1483013093963">
-        <mark key="'" line="16" column="137" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/workspace/yx/app/src/main/res/layout/activity_mainbak1.xml" timestamp="1483015165829">
+        <mark key="'" line="111" column="84" />
+        <mark key="[" line="111" column="0" />
+        <mark key="]" line="113" column="22" />
+        <mark key="." line="115" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/Wx/app/src/main/java/com/wx/tab/FragementFind.java" timestamp="1481381170633">
         <mark key="[" line="18" column="46" />
@@ -266,7 +272,7 @@
         <mark key="." line="186" column="50" />
         <mark key="^" line="186" column="50" />
       </file>
-      <file name="/Dummy.txt" timestamp="1483012500088">
+      <file name="/Dummy.txt" timestamp="1483013743339">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/Wx/app/src/main/res/layout/popup.xml" timestamp="1481725852177">
@@ -335,14 +341,17 @@
         <mark key="^" line="13" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/yx/app/src/main/res/values/colors-yx.xml" timestamp="1483013596421">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="3" column="21" />
+      </file>
       <file name="$USER_HOME$/workspace/admin/src/main/java/com/acenode/admin/service/impl/CameraServiceImpl.java" timestamp="1464436182312">
         <mark key="[" line="61" column="40" />
         <mark key="]" line="62" column="20" />
         <mark key="." line="62" column="20" />
         <mark key="^" line="62" column="20" />
-      </file>
-      <file name="$USER_HOME$/workspace/waffair/app/build/generated/source/r/debug/com/acenode/R.java" timestamp="1482663120302">
-        <mark key="'" line="1822" column="32" />
       </file>
       <file name="/fragment.java" timestamp="1482644952313">
         <mark key="[" line="0" column="0" />
@@ -358,28 +367,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="47" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/LoginActivity.java" />
-      <jump line="47" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/LoginActivity.java" />
-      <jump line="3" column="0" filename="$USER_HOME$/workspace/waffair/app/build.gradle" />
-      <jump line="30" column="0" filename="$USER_HOME$/workspace/waffair/app/build.gradle" />
-      <jump line="12" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/LoginActivity.java" />
-      <jump line="41" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/LoginActivity.java" />
-      <jump line="6" column="10" filename="$USER_HOME$/workspace/waffair/app/src/main/res/drawable/btn_bg.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/res/drawable/btn_bg.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/res/drawable/btn_alarm_normal.xml" />
-      <jump line="10" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/res/drawable/btn_back_normal.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/res/drawable/btn_back_normal.xml" />
-      <jump line="80" column="55" filename="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_alarm_handle.xml" />
-      <jump line="127" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_alarm_handle.xml" />
-      <jump line="5" column="0" filename="$USER_HOME$/workspace/waffair/app/build.gradle" />
-      <jump line="22" column="13" filename="$USER_HOME$/workspace/waffair/app/build.gradle" />
-      <jump line="35" column="0" filename="$USER_HOME$/workspace/waffair/app/build.gradle" />
-      <jump line="14" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/LoginActivity.java" />
-      <jump line="56" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/LoginActivity.java" />
-      <jump line="1" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/LoginActivity.java" />
-      <jump line="31" column="26" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/LoginActivity.java" />
-      <jump line="38" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/LoginActivity.java" />
-      <jump line="20" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/DataGatherActivity.java" />
       <jump line="77" column="48" filename="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_alarm_handle.xml" />
       <jump line="18" column="56" filename="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_alarm_handle.xml" />
       <jump line="98" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/widget/RadialMenuView.java" />
@@ -458,82 +445,104 @@
       <jump line="50" column="0" filename="$USER_HOME$/workspace/waffair/app/build.gradle" />
       <jump line="1" column="0" filename="$USER_HOME$/workspace/waffair/app/build.gradle" />
       <jump line="23" column="137" filename="$USER_HOME$/workspace/yx/app/src/main/res/layout/activity_mainbak1.xml" />
+      <jump line="110" column="13" filename="$USER_HOME$/workspace/yx/app/src/main/res/layout/activity_mainbak1.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/yx/app/src/main/res/layout/activity_mainbak1.xml" />
+      <jump line="6" column="14" filename="$USER_HOME$/workspace/waffair/app/src/main/res/layout/new_menu.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/res/layout/new_menu.xml" />
+      <jump line="42" column="27" filename="$USER_HOME$/workspace/yx/app/src/main/res/layout/activity_mainbak1.xml" />
+      <jump line="3" column="79" filename="$USER_HOME$/workspace/waffair/app/src/main/res/layout/new_menu.xml" />
+      <jump line="42" column="130" filename="$USER_HOME$/workspace/waffair/app/src/main/res/layout/new_menu.xml" />
+      <jump line="63" column="42" filename="$USER_HOME$/workspace/waffair/app/src/main/res/layout/new_menu.xml" />
+      <jump line="48" column="89" filename="$USER_HOME$/workspace/waffair/app/src/main/res/layout/new_menu.xml" />
+      <jump line="64" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/res/layout/new_menu.xml" />
+      <jump line="80" column="42" filename="$USER_HOME$/workspace/waffair/app/src/main/res/layout/new_menu.xml" />
+      <jump line="93" column="42" filename="$USER_HOME$/workspace/waffair/app/src/main/res/layout/new_menu.xml" />
+      <jump line="88" column="42" filename="$USER_HOME$/workspace/waffair/app/src/main/res/layout/new_menu.xml" />
+      <jump line="73" column="185" filename="$USER_HOME$/workspace/waffair/app/src/main/res/layout/new_menu.xml" />
+      <jump line="56" column="89" filename="$USER_HOME$/workspace/waffair/app/src/main/res/layout/new_menu.xml" />
+      <jump line="44" column="92" filename="$USER_HOME$/workspace/waffair/app/src/main/res/layout/new_menu.xml" />
+      <jump line="69" column="65" filename="$USER_HOME$/workspace/waffair/app/src/main/res/layout/new_menu.xml" />
+      <jump line="17" column="71" filename="$USER_HOME$/workspace/waffair/app/src/main/res/layout/new_menu.xml" />
+      <jump line="90" column="121" filename="$USER_HOME$/workspace/waffair/app/src/main/res/layout/new_menu.xml" />
+      <jump line="112" column="73" filename="$USER_HOME$/workspace/yx/app/src/main/res/layout/activity_mainbak1.xml" />
+      <jump line="111" column="84" filename="$USER_HOME$/workspace/yx/app/src/main/res/layout/activity_mainbak1.xml" />
+      <jump line="23" column="84" filename="$USER_HOME$/workspace/waffair/app/src/main/res/layout/new_menu.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>基本废物......</text>
       </register>
       <register name="-" type="4">
-        <text>8</text>
+        <text>user</text>
       </register>
       <register name="/" type="4">
-        <text>launtch</text>
+        <text>user</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOnRleHRTdHlsZT0iYm9sZCIK</text>
+        <text encoding="base64">ICAgICAgICA8TGluZWFyTGF5b3V0IGFuZHJvaWQ6Z3Jhdml0eT0iY2VudGVyX3ZlcnRpY2FsIiBhbmRyb2lkOmxheW91dF93aWR0aD0iZmlsbF9wYXJlbnQiIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iMC4wZGlwIiBhbmRyb2lkOmxheW91dF9tYXJnaW49IkBkaW1lbi9zcGFjZV9zaXplX3NtYWxsIiBhbmRyb2lkOm1pbkhlaWdodD0iQGRpbWVuL3ZhbHVlMTAwIiBhbmRyb2lkOmxheW91dF93ZWlnaHQ9IjIuMCIgYW5kcm9pZDpsYXlvdXRfYmVsb3c9IkBpZC9sbE1lbnUiPgogICAgICAgICAgICA8Y29tLnVyb2FkLnN5amp4Y3kud2lkZ2V0Lk1haW5FdmVudFZpZXcxIGFuZHJvaWQ6aWQ9IkBpZC9tYWluRXZlbnRWaWV3IiBhbmRyb2lkOmxheW91dF93aWR0aD0iZmlsbF9wYXJlbnQiIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iZmlsbF9wYXJlbnQiIC8+CiAgICAgICAgPC9MaW5lYXJMYXlvdXQ+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxMaW5lYXJMYXlvdXQgYW5kcm9pZDpvcmllbnRhdGlvbj0idmVydGljYWwiIGFuZHJvaWQ6YmFja2dyb3VuZD0iQGRyYXdhYmxlL2JnbWFpbjEiIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJmaWxsX3BhcmVudCIKICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJmaWxsX3BhcmVudCI+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxSZWxhdGl2ZUxheW91dCBhbmRyb2lkOmxheW91dF93aWR0aD0iZmlsbF9wYXJlbnQiIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iZmlsbF9wYXJlbnQiIGFuZHJvaWQ6bGF5b3V0X2NlbnRlckluUGFyZW50PSJ0cnVlIj4KICAgICAgICAgICAgICAgICAgICA8SW1hZ2VWaWV3IGFuZHJvaWQ6aWQ9IkAraWQvaXZfZmxvdyIgYW5kcm9pZDp2aXNpYmlsaXR5PSJnb25lIiBhbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50IiBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIgYW5kcm9pZDpzcmM9IkBkcmF3YWJsZS9pbWdfZmxvd193aXRoX3dpbmRvd3MiIGFuZHJvaWQ6bGF5b3V0X2FsaWduUGFyZW50Qm90dG9tPSJ0cnVlIiAvPgogICAgICAgICAgICAgICAgPC9SZWxhdGl2ZUxheW91dD4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PC9SZWxhdGl2ZUxheW91dD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfZ3Jhdml0eT0iIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PFJlbGF0aXZlTGF5b3V0IHhtbG5zOmFuZHJvaWQ9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMvYW5kcm9pZCIgYW5kcm9pZDpsYXlvdXRfd2lkdGg9ImZpbGxfcGFyZW50IgogICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJmaWxsX3BhcmVudCI+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8TGluZWFyTGF5b3V0IGFuZHJvaWQ6Z3Jhdml0eT0iY2VudGVyX3ZlcnRpY2FsIiBhbmRyb2lkOmxheW91dF93aWR0aD0iZmlsbF9wYXJlbnQiIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iMC4wZGlwIiBhbmRyb2lkOmxheW91dF9tYXJnaW49IkBkaW1lbi9zcGFjZV9zaXplX3NtYWxsIiBhbmRyb2lkOm1pbkhlaWdodD0iQGRpbWVuL3ZhbHVlMTAwIiBhbmRyb2lkOmxheW91dF93ZWlnaHQ9IjIuMCIgYW5kcm9pZDpsYXlvdXRfYmVsb3c9IkBpZC9sbE1lbnUiPgogICAgICAgICAgICA8Y29tLnVyb2FkLnN5amp4Y3kud2lkZ2V0Lk1haW5FdmVudFZpZXcxIGFuZHJvaWQ6aWQ9IkBpZC9tYWluRXZlbnRWaWV3IiBhbmRyb2lkOmxheW91dF93aWR0aD0iZmlsbF9wYXJlbnQiIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iZmlsbF9wYXJlbnQiIC8+CiAgICAgICAgPC9MaW5lYXJMYXlvdXQ+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxSZWxhdGl2ZUxheW91dCBhbmRyb2lkOmxheW91dF93aWR0aD0iZmlsbF9wYXJlbnQiIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50Ij4KICAgICAgICA8TGluZWFyTGF5b3V0IGFuZHJvaWQ6Z3Jhdml0eT0iY2VudGVyX2hvcml6b250YWwiIGFuZHJvaWQ6b3JpZW50YXRpb249InZlcnRpY2FsIiBhbmRyb2lkOmlkPSJAaWQvbGxfd2VhdGhlciIKICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IiBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjUuMGRpcCIKICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpblJpZ2h0PSI1LjBkaXAiIGFuZHJvaWQ6bGF5b3V0X2FsaWduUGFyZW50UmlnaHQ9InRydWUiPgogICAgICAgICAgICA8SW1hZ2VWaWV3IGFuZHJvaWQ6aWQ9IkBpZC93ZWF0aGVyX2ltZyIgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IjQwLjBkaXAiIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iNDAuMGRpcCIKICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9jZW50ZXJIb3Jpem9udGFsPSJ0cnVlIi8+CiAgICAgICAgICAgIDxMaW5lYXJMYXlvdXQgYW5kcm9pZDpncmF2aXR5PSJjZW50ZXJfaG9yaXpvbnRhbCIgYW5kcm9pZDpvcmllbnRhdGlvbj0idmVydGljYWwiIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiIGFuZHJvaWQ6bGF5b3V0X21hcmdpblRvcD0iMy4wZGlwIiBhbmRyb2lkOmxheW91dF9iZWxvdz0iQGlkL3dlYXRoZXJfaW1nIgogICAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2NlbnRlckluUGFyZW50PSJ0cnVlIj4KICAgICAgICAgICAgICAgIDxUZXh0VmlldyBhbmRyb2lkOnRleHRTaXplPSIxNi4wc3AiIGFuZHJvaWQ6dGV4dENvbG9yPSJAY29sb3Ivd2hpdGUiIGFuZHJvaWQ6ZWxsaXBzaXplPSJlbmQiIGFuZHJvaWQ6aWQ9IkBpZC90ZW1wZXJhdHVyZSIKICAgICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50IiBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIgYW5kcm9pZDpzaW5nbGVMaW5lPSJ0cnVlIi8+CiAgICAgICAgICAgICAgICA8VGV4dFZpZXcgYW5kcm9pZDp0ZXh0Q29sb3I9IkBjb2xvci93aGl0ZSIgYW5kcm9pZDplbGxpcHNpemU9ImVuZCIgYW5kcm9pZDppZD0iQGlkL3dlYXRoZXJfaW5mbyIKICAgICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50IiBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIgYW5kcm9pZDpzaW5nbGVMaW5lPSJ0cnVlIi8+CiAgICAgICAgICAgIDwvTGluZWFyTGF5b3V0PgogICAgICAgIDwvTGluZWFyTGF5b3V0PgogICAgPC9SZWxhdGl2ZUxheW91dD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPFRleHRWaWV3IGFuZHJvaWQ6dGV4dFNpemU9IkBkaW1lbi9mb250X3NpemVfbGFyZ2UiIGFuZHJvaWQ6dGV4dENvbG9yPSJAY29sb3Ivd2hpdGUiIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IiBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjguMGRpcCIgYW5kcm9pZDp0ZXh0PSLmiJHnmoQuLi4iIGFuZHJvaWQ6bGF5b3V0X2JlbG93PSJAaWQvaXZfdXNlciIgYW5kcm9pZDpsYXlvdXRfY2VudGVySG9yaXpvbnRhbD0idHJ1ZSIgLz4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8VGV4dFZpZXcgYW5kcm9pZDp0ZXh0U2l6ZT0iQGRpbWVuL2ZvbnRfc2l6ZV9kZWZhdWx0IiBhbmRyb2lkOnRleHRDb2xvcj0iQGNvbG9yL3doaXRlIiBhbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50IiBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIgYW5kcm9pZDpsYXlvdXRfbWFyZ2luVG9wPSIyLjBkaXAiIGFuZHJvaWQ6dGV4dD0i5YGc6L2m5piTIiBhbmRyb2lkOnNpbmdsZUxpbmU9InRydWUiIC8+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6cGFkZGluZ0xlZnQ9IjUwcHgiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8VGV4dFZpZXcgYW5kcm9pZDp0ZXh0U2l6ZT0iQGRpbWVuL2ZvbnRfc2l6ZV9kZWZhdWx0IiBhbmRyb2lkOnRleHRDb2xvcj0iQGNvbG9yL3doaXRlIiBhbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50IiBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIgYW5kcm9pZDpsYXlvdXRfbWFyZ2luVG9wPSIyLjBkaXAiIGFuZHJvaWQ6dGV4dD0i54mM6K+B57uR5a6aIiBhbmRyb2lkOnNpbmdsZUxpbmU9InRydWUiIC8+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6cGFkZGluZ1RvcD0iMjBweCIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8VGV4dFZpZXcgYW5kcm9pZDp0ZXh0U2l6ZT0iQGRpbWVuL2ZvbnRfc2l6ZV9kZWZhdWx0IiBhbmRyb2lkOnRleHRDb2xvcj0iQGNvbG9yL3doaXRlIiBhbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50IiBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIgYW5kcm9pZDpsYXlvdXRfbWFyZ2luVG9wPSIyLjBkaXAiIGFuZHJvaWQ6dGV4dD0i5b+r5aSE5b+r6LWUIiBhbmRyb2lkOnNpbmdsZUxpbmU9InRydWUiIC8+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8VGV4dFZpZXcgYW5kcm9pZDp0ZXh0U2l6ZT0iQGRpbWVuL2ZvbnRfc2l6ZV9kZWZhdWx0IiBhbmRyb2lkOnRleHRDb2xvcj0iQGNvbG9yL3doaXRlIiBhbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50IiBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIgYW5kcm9pZDpsYXlvdXRfbWFyZ2luVG9wPSIyLjBkaXAiIGFuZHJvaWQ6dGV4dD0i6Lev5Ya15oql5paZIiBhbmRyb2lkOnNpbmdsZUxpbmU9InRydWUiIC8+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8VGV4dFZpZXcgYW5kcm9pZDp0ZXh0U2l6ZT0iQGRpbWVuL2ZvbnRfc2l6ZV9kZWZhdWx0IiBhbmRyb2lkOnRleHRDb2xvcj0iQGNvbG9yL3doaXRlIiBhbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50IiBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIgYW5kcm9pZDpsYXlvdXRfbWFyZ2luVG9wPSIyLjBkaXAiIGFuZHJvaWQ6dGV4dD0i6Lev5Ya15b2x5YOPIiBhbmRyb2lkOnNpbmdsZUxpbmU9InRydWUiIC8+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>launtch</last-search>
+      <last-search>user</last-search>
       <last-offset />
-      <last-pattern>launtch</last-pattern>
+      <last-pattern>user</last-pattern>
       <last-replace>iconGreen</last-replace>
       <last-substitute>iconGray</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>touch</entry>
-        <entry>text</entry>
-        <entry>菜单</entry>
-        <entry>scroll</entry>
-        <entry>onscr</entry>
-        <entry>300</entry>
-        <entry>onscroll</entry>
-        <entry>center</entry>
-        <entry>white</entry>
-        <entry>drawCir</entry>
-        <entry>event</entry>
-        <entry>System</entry>
-        <entry>showAlarm</entry>
-        <entry>Alarm</entry>
-        <entry>show_alarm</entry>
         <entry>高</entry>
         <entry>中</entry>
         <entry>低</entry>
         <entry encoding="base64">XDxiYWNrXD4=</entry>
         <entry>launtch</entry>
+        <entry>mainEvent</entry>
+        <entry>ll_main</entry>
+        <entry>出行导航</entry>
+        <entry>违法处理</entry>
+        <entry>办事指南</entry>
+        <entry>路况</entry>
+        <entry>快</entry>
+        <entry>牌</entry>
+        <entry>停车</entry>
+        <entry>我的</entry>
+        <entry>event</entry>
+        <entry>follow</entry>
+        <entry>followwith</entry>
+        <entry>img_flow</entry>
+        <entry>user</entry>
       </history-search>
       <history-cmd>
         <entry>action GotoClass</entry>
