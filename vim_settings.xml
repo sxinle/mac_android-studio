@@ -127,12 +127,12 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_index.xml" timestamp="1483191219215">
-        <mark key="'" line="81" column="84" />
-        <mark key="[" line="76" column="118" />
-        <mark key="]" line="76" column="118" />
-        <mark key="^" line="16" column="109" />
-        <mark key="." line="76" column="118" />
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_index.xml" timestamp="1483192001249">
+        <mark key="'" line="77" column="88" />
+        <mark key="[" line="76" column="117" />
+        <mark key="]" line="76" column="117" />
+        <mark key="^" line="77" column="59" />
+        <mark key="." line="76" column="117" />
       </file>
       <file name="$USER_HOME$/workspace/Wx/app/src/main/res/layout/tab_chat.xml" timestamp="1481455360035">
         <mark key="[" line="4" column="111" />
@@ -452,7 +452,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="40" filename="$USER_HOME$/workspace/waffair/app/src/main/res/layout/list_data_gather_item.xml" />
       <jump line="38" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_data_gather.xml" />
       <jump line="50" column="41" filename="$USER_HOME$/workspace/waffair/app/src/main/res/layout/list_data_gather_item.xml" />
       <jump line="221" column="37" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/widget/RadialMenuView.java" />
@@ -552,13 +551,14 @@
       <jump line="149" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/res/layout/new_menu.xml" />
       <jump line="16" column="21" filename="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_index.xml" />
       <jump line="81" column="84" filename="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_index.xml" />
+      <jump line="77" column="88" filename="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_index.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>基本废物......</text>
       </register>
       <register name="-" type="4">
-        <text>g</text>
+        <text>b</text>
       </register>
       <register name="/" type="4">
         <text>bg_menu</text>
