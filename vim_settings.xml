@@ -275,11 +275,11 @@
         <mark key="." line="4" column="57" />
         <mark key="^" line="4" column="58" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/res/layout/title_bar.xml" timestamp="1483106339266">
-        <mark key="[" line="10" column="38" />
-        <mark key="]" line="10" column="39" />
-        <mark key="^" line="8" column="36" />
-        <mark key="." line="10" column="39" />
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/res/layout/title_bar.xml" timestamp="1483237914200">
+        <mark key="[" line="18" column="34" />
+        <mark key="]" line="18" column="45" />
+        <mark key="^" line="18" column="45" />
+        <mark key="." line="18" column="45" />
       </file>
       <file name="$USER_HOME$/workspace/Wx/app/src/main/res/layout/tab_frd.xml" timestamp="1481465136775">
         <mark key="[" line="10" column="31" />
@@ -339,7 +339,7 @@
         <mark key="^" line="40" column="38" />
         <mark key="." line="40" column="38" />
       </file>
-      <file name="/Dummy.txt" timestamp="1483174488967">
+      <file name="/Dummy.txt" timestamp="1483237964245">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/Wx/app/src/main/res/layout/popup.xml" timestamp="1481725852177">
@@ -558,7 +558,7 @@
         <text>基本废物......</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>fitCenter</text>
       </register>
       <register name="/" type="4">
         <text>bg_menu</text>
