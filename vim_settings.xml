@@ -44,11 +44,11 @@
         <mark key="^" line="14" column="3" />
         <mark key="." line="14" column="3" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_splash.xml" timestamp="1483275885042">
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_splash.xml" timestamp="1483277208415">
         <mark key="'" line="13" column="0" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="3" column="44" />
-        <mark key="." line="2" column="0" />
+        <mark key="[" line="11" column="45" />
+        <mark key="]" line="11" column="45" />
+        <mark key="." line="11" column="45" />
         <mark key="^" line="9" column="39" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/res/drawable/alarm_bg.xml" timestamp="1482935348920">
@@ -387,6 +387,11 @@
         <mark key="." line="24" column="10" />
         <mark key="^" line="25" column="22" />
       </file>
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/res/drawable/edit_conner.xml" timestamp="1483277544158">
+        <mark key="[" line="2" column="34" />
+        <mark key="]" line="2" column="35" />
+        <mark key="." line="2" column="35" />
+      </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/res/values/colors.xml" timestamp="1483106176185">
         <mark key="'" line="28" column="0" />
         <mark key="[" line="7" column="29" />
@@ -421,12 +426,11 @@
         <mark key="^" line="17" column="27" />
         <mark key="." line="17" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_login.xml" timestamp="1483275880530">
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_login.xml" timestamp="1483277707912">
         <mark key="'" line="10" column="43" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="4" column="41" />
-        <mark key="^" line="17" column="43" />
-        <mark key="." line="10" column="0" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/Wx/app/src/main/java/com/wx/tab/ViewPagerFragementAdapter.java" timestamp="1481381282932">
         <mark key="[" line="2" column="0" />
@@ -566,7 +570,7 @@
         <text>基本废物......</text>
       </register>
       <register name="-" type="4">
-        <text>, R.id.show_alarm_only, R.id.show_all</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>bg_menu</text>
@@ -575,31 +579,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICBhbmRyb2lkOmZpdHNTeXN0ZW1XaW5kb3dzPSJ0cnVlIgogICAgICAgICAgICAgIGFuZHJvaWQ6Y2xpcFRvUGFkZGluZz0idHJ1ZSIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAvLyBAQmluZFZpZXcoUi5pZC5zaG93X2FsYXJtX29ubHkpCiAgICAvLyBUZXh0VmlldyAgc2hvd0FsYXJtT25seTsKICAgIC8vIEBCaW5kVmlldyhSLmlkLnNob3dfYWxsKQogICAgLy8gVGV4dFZpZXcgIHNob3dBbGw7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRyYQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FzZSBSLmlkLnNob3dfYWxhcm1fb25seToKICAgICAgICAgICAgICAgIFRvYXN0Lm1ha2VUZXh0KERhdGFHYXRoZXJBY3Rpdml0eS50aGlzLCAi5LuF5pi+56S65oql6K2m5rO156uZIiwgVG9hc3QuTEVOR1RIX1NIT1JUKS5zaG93KCk7CiAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgY2FzZSBSLmlkLnNob3dfYWxsOgogICAgICAgICAgICAgICAgVG9hc3QubWFrZVRleHQoRGF0YUdhdGhlckFjdGl2aXR5LnRoaXMsICLmmL7npLrlhajpg6jms7Xnq5kiLCBUb2FzdC5MRU5HVEhfU0hPUlQpLnNob3coKTsKICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6ZHJhd2FibGVUb3A9IjMwcHgiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8aW5jbHVkZSBsYXlvdXQ9IkBsYXlvdXQvbG9nb19pbmZvIi8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6ZHJhd2FibGVTdGFydD0iIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8aW5jbHVkZSBsYXlvdXQ9IkBsYXlvdXQvbG9nb19pbmZvIi8+Cg==</text>
+        <text encoding="base64">CiAgICAvLyBAQmluZFZpZXcoUi5pZC5zaG93X2FsYXJtX29ubHkpCiAgICAvLyBUZXh0VmlldyAgc2hvd0FsYXJtT25seTsKICAgIC8vIEBCaW5kVmlldyhSLmlkLnNob3dfYWxsKQogICAgLy8gVGV4dFZpZXcgIHNob3dBbGw7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgYW5kcm9pZDpwYWRkaW5nTGVmdD0iNTBweCIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZSBSLmlkLnNob3dfYWxhcm1fb25seToKICAgICAgICAgICAgICAgIFRvYXN0Lm1ha2VUZXh0KERhdGFHYXRoZXJBY3Rpdml0eS50aGlzLCAi5LuF5pi+56S65oql6K2m5rO156uZIiwgVG9hc3QuTEVOR1RIX1NIT1JUKS5zaG93KCk7CiAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgY2FzZSBSLmlkLnNob3dfYWxsOgogICAgICAgICAgICAgICAgVG9hc3QubWFrZVRleHQoRGF0YUdhdGhlckFjdGl2aXR5LnRoaXMsICLmmL7npLrlhajpg6jms7Xnq5kiLCBUb2FzdC5MRU5HVEhfU0hPUlQpLnNob3coKTsKICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICA8aW5jbHVkZSBsYXlvdXQ9IkBsYXlvdXQvbG9nb19pbmZvIi8+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6cGFkZGluZz0iNjBweCIK</text>
+        <text encoding="base64">ICAgICAgICA8aW5jbHVkZSBsYXlvdXQ9IkBsYXlvdXQvbG9nb19pbmZvIi8+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxpbmNsdWRlIGxheW91dD0iQGxheW91dC9sb2dvX2luZm8iLz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgYW5kcm9pZDpwYWRkaW5nTGVmdD0iNTBweCIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBhbmRyb2lkOm9yaWVudGF0aW9uPSJob3Jpem9udGFsIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
