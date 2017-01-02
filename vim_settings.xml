@@ -117,11 +117,6 @@
         <mark key="." line="51" column="50" />
         <mark key="^" line="51" column="50" />
       </file>
-      <file name="$USER_HOME$/workspace/sxinle-tianjin2world-9f15c554872e/app/src/main/java/com/tianjin2world/Splash.java" timestamp="1483279157658">
-        <mark key="'" line="54" column="17" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="57" />
-      </file>
       <file name="$USER_HOME$/workspace/yx/app/src/main/res/layout/activity_mainbak1.xml" timestamp="1483028112575">
         <mark key="'" line="11" column="53" />
         <mark key="[" line="29" column="0" />
@@ -153,21 +148,11 @@
         <mark key="." line="8" column="3" />
         <mark key="^" line="8" column="3" />
       </file>
-      <file name="$USER_HOME$/Desktop/MultiSpinner/app/src/main/java/com/example/yangqiangyu/multispinner/MainActivity.java" timestamp="1483332028515">
-        <mark key="'" line="30" column="12" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="27" column="50" />
-      </file>
       <file name="$USER_HOME$/Desktop/MultiSpinner/build.gradle" timestamp="1483176183650">
         <mark key="'" line="18" column="0" />
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="56" />
         <mark key="." line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/res-chatdemo/values/em_colors.xml" timestamp="1483334111721">
-        <mark key="'" line="3" column="44" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="43" column="49" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_leak_mng.xml" timestamp="1483318899118">
         <mark key="'" line="73" column="0" />
@@ -420,6 +405,12 @@
         <mark key="." line="14" column="43" />
         <mark key="^" line="14" column="42" />
       </file>
+      <file name="$USER_HOME$/Desktop/WeChatVideoRecordDemo1/app/src/main/java/com/example/wechatvideorecorddemo/MovieRecorderView.java" timestamp="1483347655167">
+        <mark key="'" line="40" column="20" />
+        <mark key="[" line="63" column="36" />
+        <mark key="]" line="63" column="36" />
+        <mark key="." line="63" column="36" />
+      </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/res/values/styles.xml" timestamp="1483106084534">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -613,11 +604,6 @@
         <mark key="." line="173" column="7" />
         <mark key="^" line="173" column="7" />
       </file>
-      <file name="$USER_HOME$/Desktop/Photo/app/src/main/AndroidManifest.xml" timestamp="1483334896480">
-        <mark key="'" line="11" column="0" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="14" column="79" />
-      </file>
       <file name="$USER_HOME$/Desktop/VitamioRecorderSampleFor/build.gradle" timestamp="1483344012689">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="0" column="19" />
@@ -657,8 +643,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="43" filename="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_station_list.xml" />
-      <jump line="1" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_station_list.xml" />
       <jump line="59" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_station_list.xml" />
       <jump line="88" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/AlarmHandleActivity.java" />
       <jump line="62" column="64" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/AlarmHandleActivity.java" />
@@ -757,55 +741,57 @@
       <jump line="19" column="8" filename="$USER_HOME$/workspace/waffair/app/build.gradle" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/waffair/app/build.gradle" />
       <jump line="49" column="0" filename="$USER_HOME$/workspace/waffair/app/build.gradle" />
+      <jump line="47" column="17" filename="$USER_HOME$/Desktop/WeChatVideoRecordDemo1/app/src/main/java/com/example/wechatvideorecorddemo/MovieRecorderView.java" />
+      <jump line="40" column="20" filename="$USER_HOME$/Desktop/WeChatVideoRecordDemo1/app/src/main/java/com/example/wechatvideorecorddemo/MovieRecorderView.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>基本废物......</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">TWVkaWFSZWNvcmRlckNvbmZpZyA=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>publicway</text>
+        <text encoding="base64">XDxtUmVjb3JkTWF4VGltZVw+</text>
       </register>
       <register name="0" type="4">
         <text>MediaRecorderConfig config</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBmaWxlTmFtZSAgICAgICAgICAgICAgIOinhumikeWCqOWtmOS9jee9rgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbml0U21hbGxWaWRlbyhhcHBsaWNhdGlvbkNvbnRleHQpOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpbml0U21hbGxWaWRlbyhDb250ZXh0IGNvbnRleHQpIHsKICAgICAgICAvLyDorr7nva7mi43mkYTop4bpopHnvJPlrZjot6/lvoQKICAgICAgICBGaWxlIGRjaW0gPSBFbnZpcm9ubWVudC5nZXRFeHRlcm5hbFN0b3JhZ2VQdWJsaWNEaXJlY3RvcnkoRW52aXJvbm1lbnQuRElSRUNUT1JZX0RDSU0pOwogICAgICAgIGlmIChEZXZpY2VVdGlscy5pc1p0ZSgpKSB7CiAgICAgICAgICAgIGlmIChkY2ltLmV4aXN0cygpKSB7CiAgICAgICAgICAgICAgICBWQ2FtZXJhLnNldFZpZGVvQ2FjaGVQYXRoKGRjaW0gKyAiL21hYmVpamlhbnhpLyIpOwogICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgVkNhbWVyYS5zZXRWaWRlb0NhY2hlUGF0aChkY2ltLmdldFBhdGgoKS5yZXBsYWNlKCIvc2RjYXJkLyIsCiAgICAgICAgICAgICAgICAgICAgICAgICIvc2RjYXJkLWV4dC8iKQogICAgICAgICAgICAgICAgICAgICAgICArICIvbWFiZWlqaWFueGkvIik7CiAgICAgICAgICAgIH0KICAgICAgICB9IGVsc2UgewogICAgICAgICAgICBWQ2FtZXJhLnNldFZpZGVvQ2FjaGVQYXRoKGRjaW0gKyAiL21hYmVpamlhbnhpLyIpOwogICAgICAgIH0KICAgICAgICBWQ2FtZXJhLnNldERlYnVnTW9kZSh0cnVlKTsKICAgICAgICBWQ2FtZXJhLmluaXRpYWxpemUoY29udGV4dCk7CiAgICB9Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5tYWJlaWppYW54aTpzbWFsbC12aWRlby1yZWNvcmQ6MS4wLjgnCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT3op4bpopHkuIrkvKA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CiAgICBNZWRpYVJlY29yZGVyQ29uZmlnIGNvbmZpZyA9IG51bGw7CiAgICAvLyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT096KeG6aKR5LiK5LygPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25maWcgPSBuZXcgTWVkaWFSZWNvcmRlckNvbmZpZy5CdWlkbGVyKCkKICAgICAgICAgICAgICAgIC5kb0gyNjRDb21wcmVzcyh0cnVlKQogICAgICAgICAgICAgICAgLnNtYWxsVmlkZW9XaWR0aCg0ODApCiAgICAgICAgICAgICAgICAuc21hbGxWaWRlb0hlaWdodCgzNjApCiAgICAgICAgICAgICAgICAucmVjb3JkVGltZU1heCg2ICogMTAwMCkKICAgICAgICAgICAgICAgIC5tYXhGcmFtZVJhdGUoMjApCiAgICAgICAgICAgICAgICAubWluRnJhbWVSYXRlKDgpCiAgICAgICAgICAgICAgICAuY2FwdHVyZVRodW1ibmFpbHNUaW1lKDEpCiAgICAgICAgICAgICAgICAucmVjb3JkVGltZU1pbigoaW50KSAoMS41ICogMTAwMCkpCiAgICAgICAgICAgICAgICAuYnVpbGQoKTsKICAgICAgICBNZWRpYVJlY29yZGVyQWN0aXZpdHkuZ29TbWFsbFZpZGVvUmVjb3JkZXIodGhpcywgQ2hlY2tBY3Rpdml0eS5jbGFzcy5nZXROYW1lKCksIGNvbmZpZyk7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT3mi43nhafkuIrkvKA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBpbml0U21hbGxWaWRlbyhhcHBsaWNhdGlvbkNvbnRleHQpOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpbml0U21hbGxWaWRlbyhDb250ZXh0IGNvbnRleHQpIHsKICAgICAgICAvLyDorr7nva7mi43mkYTop4bpopHnvJPlrZjot6/lvoQKICAgICAgICBGaWxlIGRjaW0gPSBFbnZpcm9ubWVudC5nZXRFeHRlcm5hbFN0b3JhZ2VQdWJsaWNEaXJlY3RvcnkoRW52aXJvbm1lbnQuRElSRUNUT1JZX0RDSU0pOwogICAgICAgIGlmIChEZXZpY2VVdGlscy5pc1p0ZSgpKSB7CiAgICAgICAgICAgIGlmIChkY2ltLmV4aXN0cygpKSB7CiAgICAgICAgICAgICAgICBWQ2FtZXJhLnNldFZpZGVvQ2FjaGVQYXRoKGRjaW0gKyAiL21hYmVpamlhbnhpLyIpOwogICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgVkNhbWVyYS5zZXRWaWRlb0NhY2hlUGF0aChkY2ltLmdldFBhdGgoKS5yZXBsYWNlKCIvc2RjYXJkLyIsCiAgICAgICAgICAgICAgICAgICAgICAgICIvc2RjYXJkLWV4dC8iKQogICAgICAgICAgICAgICAgICAgICAgICArICIvbWFiZWlqaWFueGkvIik7CiAgICAgICAgICAgIH0KICAgICAgICB9IGVsc2UgewogICAgICAgICAgICBWQ2FtZXJhLnNldFZpZGVvQ2FjaGVQYXRoKGRjaW0gKyAiL21hYmVpamlhbnhpLyIpOwogICAgICAgIH0KICAgICAgICBWQ2FtZXJhLnNldERlYnVnTW9kZSh0cnVlKTsKICAgICAgICBWQ2FtZXJhLmluaXRpYWxpemUoY29udGV4dCk7CiAgICB9Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5tYWJlaWppYW54aTpzbWFsbC12aWRlby1yZWNvcmQ6MS4wLjgnCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIC8vID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT3op4bpopHkuIrkvKA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CiAgICBNZWRpYVJlY29yZGVyQ29uZmlnIGNvbmZpZyA9IG51bGw7CiAgICAvLyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT096KeG6aKR5LiK5LygPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBjb25maWcgPSBuZXcgTWVkaWFSZWNvcmRlckNvbmZpZy5CdWlkbGVyKCkKICAgICAgICAgICAgICAgIC5kb0gyNjRDb21wcmVzcyh0cnVlKQogICAgICAgICAgICAgICAgLnNtYWxsVmlkZW9XaWR0aCg0ODApCiAgICAgICAgICAgICAgICAuc21hbGxWaWRlb0hlaWdodCgzNjApCiAgICAgICAgICAgICAgICAucmVjb3JkVGltZU1heCg2ICogMTAwMCkKICAgICAgICAgICAgICAgIC5tYXhGcmFtZVJhdGUoMjApCiAgICAgICAgICAgICAgICAubWluRnJhbWVSYXRlKDgpCiAgICAgICAgICAgICAgICAuY2FwdHVyZVRodW1ibmFpbHNUaW1lKDEpCiAgICAgICAgICAgICAgICAucmVjb3JkVGltZU1pbigoaW50KSAoMS41ICogMTAwMCkpCiAgICAgICAgICAgICAgICAuYnVpbGQoKTsKICAgICAgICBNZWRpYVJlY29yZGVyQWN0aXZpdHkuZ29TbWFsbFZpZGVvUmVjb3JkZXIodGhpcywgQ2hlY2tBY3Rpdml0eS5jbGFzcy5nZXROYW1lKCksIGNvbmZpZyk7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIC8vID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT3mi43nhafkuIrkvKA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpbml0U21hbGxWaWRlbygpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>publicway</last-search>
+      <last-search encoding="base64">XDxtUmVjb3JkTWF4VGltZVw+</last-search>
       <last-offset />
-      <last-pattern>publicway</last-pattern>
+      <last-pattern encoding="base64">XDxtUmVjb3JkTWF4VGltZVw+</last-pattern>
       <last-replace>iconGreen</last-replace>
       <last-substitute>iconGray</last-substitute>
       <last-dir>1</last-dir>
@@ -813,8 +799,6 @@
     </search>
     <history>
       <history-search>
-        <entry>user</entry>
-        <entry>right</entry>
         <entry>IndexActivity</entry>
         <entry>splash</entry>
         <entry>160px</entry>
@@ -833,6 +817,8 @@
         <entry>parent</entry>
         <entry encoding="base64">XDxub1Njcm9sbGdyaWR2aWV3XD4=</entry>
         <entry>publicway</entry>
+        <entry encoding="base64">XDxtVmVjb3JkRmlsZVw+</entry>
+        <entry encoding="base64">XDxtUmVjb3JkTWF4VGltZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>action GotoClass</entry>
