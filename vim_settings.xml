@@ -767,7 +767,7 @@
         <text>ic_baoliao_guanzhi</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx2aWRlb1RhYlw+</text>
+        <text>21315585</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc2V0SW1nKCk7CiAgICAgICAgICAgICAgICBpbWdHdWFuemhpLnNldEJhY2tncm91bmRSZXNvdXJjZShSLmRyYXdhYmxlLmljX2Jhb2xpYW9fZ3VhbnpoaSk7CiAgICAgICAgICAgICAgICBicmVhazsK</text>
@@ -804,9 +804,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx2aWRlb1RhYlw+</last-search>
+      <last-search>21315585</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx2aWRlb1RhYlw+</last-pattern>
+      <last-pattern>21315585</last-pattern>
       <last-replace>iconGreen</last-replace>
       <last-substitute>iconGray</last-substitute>
       <last-dir>1</last-dir>
@@ -814,7 +814,6 @@
     </search>
     <history>
       <history-search>
-        <entry>orange</entry>
         <entry>permi</entry>
         <entry encoding="base64">XDxDQU1FUkFcPg==</entry>
         <entry encoding="base64">XDxXUklURV9FWFRFUk5BTF9TVE9SQUdFXD4=</entry>
@@ -834,6 +833,7 @@
         <entry>click</entry>
         <entry>loushi</entry>
         <entry encoding="base64">XDx2aWRlb1RhYlw+</entry>
+        <entry>21315585</entry>
       </history-search>
       <history-cmd>
         <entry>action GotoClass</entry>
