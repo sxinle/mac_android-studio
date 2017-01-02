@@ -123,6 +123,9 @@
         <mark key="]" line="29" column="324" />
         <mark key="." line="120" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/ShortVideo/app/src/main/java/com/fyy/shortvideo/MovieRecorderView.java" timestamp="1483348985797">
+        <mark key="'" line="38" column="35" />
+      </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/res-photo/layout/activity_selectimg.xml" timestamp="1483336347838">
         <mark key="'" line="24" column="32" />
         <mark key="[" line="6" column="0" />
@@ -643,10 +646,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_station_list.xml" />
-      <jump line="88" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/AlarmHandleActivity.java" />
-      <jump line="62" column="64" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/AlarmHandleActivity.java" />
-      <jump line="37" column="51" filename="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_alarm_handle.xml" />
       <jump line="1" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_alarm_handle.xml" />
       <jump line="133" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_alarm_handle.xml" />
       <jump line="1" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/res/drawable/textview_border.xml" />
@@ -743,6 +742,10 @@
       <jump line="49" column="0" filename="$USER_HOME$/workspace/waffair/app/build.gradle" />
       <jump line="47" column="17" filename="$USER_HOME$/Desktop/WeChatVideoRecordDemo1/app/src/main/java/com/example/wechatvideorecorddemo/MovieRecorderView.java" />
       <jump line="40" column="20" filename="$USER_HOME$/Desktop/WeChatVideoRecordDemo1/app/src/main/java/com/example/wechatvideorecorddemo/MovieRecorderView.java" />
+      <jump line="231" column="13" filename="$USER_HOME$/Desktop/ShortVideo/app/src/main/java/com/fyy/shortvideo/MovieRecorderView.java" />
+      <jump line="248" column="28" filename="$USER_HOME$/Desktop/ShortVideo/app/src/main/java/com/fyy/shortvideo/MovieRecorderView.java" />
+      <jump line="249" column="28" filename="$USER_HOME$/Desktop/ShortVideo/app/src/main/java/com/fyy/shortvideo/MovieRecorderView.java" />
+      <jump line="38" column="35" filename="$USER_HOME$/Desktop/ShortVideo/app/src/main/java/com/fyy/shortvideo/MovieRecorderView.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -752,7 +755,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtUmVjb3JkTWF4VGltZVw+</text>
+        <text encoding="base64">XDxtT25SZWNvcmRGaW5pc2hMaXN0ZW5lclw+</text>
       </register>
       <register name="0" type="4">
         <text>MediaRecorderConfig config</text>
@@ -789,9 +792,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtUmVjb3JkTWF4VGltZVw+</last-search>
+      <last-search encoding="base64">XDxtT25SZWNvcmRGaW5pc2hMaXN0ZW5lclw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtUmVjb3JkTWF4VGltZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxtT25SZWNvcmRGaW5pc2hMaXN0ZW5lclw+</last-pattern>
       <last-replace>iconGreen</last-replace>
       <last-substitute>iconGray</last-substitute>
       <last-dir>1</last-dir>
@@ -799,7 +802,6 @@
     </search>
     <history>
       <history-search>
-        <entry>IndexActivity</entry>
         <entry>splash</entry>
         <entry>160px</entry>
         <entry encoding="base64">XDx0aXRsZVw+</entry>
@@ -819,6 +821,7 @@
         <entry>publicway</entry>
         <entry encoding="base64">XDxtVmVjb3JkRmlsZVw+</entry>
         <entry encoding="base64">XDxtUmVjb3JkTWF4VGltZVw+</entry>
+        <entry encoding="base64">XDxtT25SZWNvcmRGaW5pc2hMaXN0ZW5lclw+</entry>
       </history-search>
       <history-cmd>
         <entry>action GotoClass</entry>
