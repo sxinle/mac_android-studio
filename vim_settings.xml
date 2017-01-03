@@ -484,12 +484,12 @@
       <file name="$USER_HOME$/Desktop/Photo/res/values/color.xml" timestamp="1483333677374">
         <mark key="'" line="20" column="46" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/build.gradle" timestamp="1483452123791">
+      <file name="$USER_HOME$/workspace/waffair/app/build.gradle" timestamp="1483452639696">
         <mark key="'" line="24" column="8" />
-        <mark key="[" line="17" column="69" />
-        <mark key="]" line="17" column="80" />
-        <mark key="^" line="17" column="80" />
-        <mark key="." line="17" column="80" />
+        <mark key="[" line="17" column="39" />
+        <mark key="]" line="17" column="50" />
+        <mark key="^" line="17" column="50" />
+        <mark key="." line="17" column="50" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/videoupload/shortvideo/FirstActivity.java" timestamp="1483351188503">
         <mark key="'" line="36" column="8" />
@@ -699,7 +699,7 @@
         <text>基本废物......</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcHBsaWNhdGlvbkNvbnRleHRcPg==</text>
