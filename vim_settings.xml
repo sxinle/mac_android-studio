@@ -404,6 +404,9 @@
         <mark key="." line="14" column="43" />
         <mark key="^" line="14" column="42" />
       </file>
+      <file name="$USER_HOME$/workspace/waffair/easeui/build.gradle" timestamp="1483461319530">
+        <mark key="'" line="46" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/res/values/styles.xml" timestamp="1483365779231">
         <mark key="[" line="13" column="8" />
         <mark key="]" line="13" column="47" />
@@ -508,8 +511,8 @@
         <mark key="^" line="6" column="19" />
         <mark key="." line="6" column="19" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/easeui/src/com/hyphenate/easeui/ui/EaseBaseActivity.java" timestamp="1483460633635">
-        <mark key="'" line="65" column="33" />
+      <file name="$USER_HOME$/workspace/waffair/easeui/src/com/hyphenate/easeui/ui/EaseBaseActivity.java" timestamp="1483461897962">
+        <mark key="'" line="85" column="0" />
         <mark key="[" line="14" column="13" />
         <mark key="]" line="14" column="28" />
       </file>
@@ -635,11 +638,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="188" column="99" filename="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_check.xml" />
-      <jump line="71" column="14" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/CheckActivity.java" />
-      <jump line="18" column="20" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/videoupload/VideoActivity.java" />
-      <jump line="57" column="8" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/videoupload/VideoActivity.java" />
-      <jump line="63" column="8" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/videoupload/VideoActivity.java" />
       <jump line="369" column="31" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/CheckActivity.java" />
       <jump line="403" column="36" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/CheckActivity.java" />
       <jump line="418" column="16" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/CheckActivity.java" />
@@ -735,6 +733,11 @@
       <jump line="19" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/ChatActivity.java" />
       <jump line="69" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/ChatActivity.java" />
       <jump line="65" column="33" filename="$USER_HOME$/workspace/waffair/easeui/src/com/hyphenate/easeui/ui/EaseBaseActivity.java" />
+      <jump line="62" column="12" filename="$USER_HOME$/workspace/waffair/easeui/src/com/hyphenate/easeui/ui/EaseBaseActivity.java" />
+      <jump line="35" column="0" filename="$USER_HOME$/workspace/waffair/easeui/build.gradle" />
+      <jump line="46" column="0" filename="$USER_HOME$/workspace/waffair/easeui/build.gradle" />
+      <jump line="21" column="51" filename="$USER_HOME$/workspace/waffair/easeui/src/com/hyphenate/easeui/ui/EaseBaseActivity.java" />
+      <jump line="85" column="0" filename="$USER_HOME$/workspace/waffair/easeui/src/com/hyphenate/easeui/ui/EaseBaseActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
