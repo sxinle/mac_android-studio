@@ -461,6 +461,9 @@
         <mark key="[" line="14" column="13" />
         <mark key="]" line="14" column="28" />
       </file>
+      <file name="$USER_HOME$/workspace/waffair/easeui/src/com/hyphenate/easeui/adapter/EaseConversationAdapter.java" timestamp="1483631474395">
+        <mark key="'" line="309" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/AndroidManifest.xml" timestamp="1483542357465">
         <mark key="'" line="13" column="69" />
         <mark key="[" line="388" column="0" />
@@ -597,8 +600,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="47" filename="$USER_HOME$/workspace/waffair/app/src/main/AndroidManifest.xml" />
-      <jump line="76" column="40" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
       <jump line="14" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
       <jump line="115" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/waffair/app/build.gradle" />
@@ -697,6 +698,8 @@
       <jump line="443" column="54" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/MainActivity2.java" />
       <jump line="16" column="33" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/MainActivity2.java" />
       <jump line="248" column="50" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/MainActivity2.java" />
+      <jump line="107" column="17" filename="$USER_HOME$/workspace/waffair/easeui/src/com/hyphenate/easeui/adapter/EaseConversationAdapter.java" />
+      <jump line="309" column="0" filename="$USER_HOME$/workspace/waffair/easeui/src/com/hyphenate/easeui/adapter/EaseConversationAdapter.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
