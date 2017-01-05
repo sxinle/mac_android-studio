@@ -149,12 +149,12 @@
         <mark key="." line="67" column="109" />
         <mark key="^" line="67" column="109" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/MainActivity2.java" timestamp="1483629502993">
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/MainActivity2.java" timestamp="1483630497534">
         <mark key="'" line="248" column="50" />
-        <mark key="[" line="54" column="47" />
-        <mark key="]" line="54" column="50" />
-        <mark key="^" line="54" column="50" />
-        <mark key="." line="54" column="50" />
+        <mark key="[" line="433" column="13" />
+        <mark key="]" line="433" column="12" />
+        <mark key="^" line="433" column="12" />
+        <mark key="." line="433" column="12" />
       </file>
       <file name="$USER_HOME$/workspace/Wx/app/src/main/res/layout/bottom.xml" timestamp="1481384021365">
         <mark key="[" line="34" column="18" />
@@ -530,7 +530,7 @@
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1483628142201">
+      <file name="/Dummy.txt" timestamp="1483630722025">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/Wx/app/src/main/res/layout/popup.xml" timestamp="1481725852177">
@@ -564,7 +564,7 @@
         <mark key="^" line="19" column="3" />
         <mark key="." line="36" column="29" />
       </file>
-      <file name="/a.regexp" timestamp="1483621893826">
+      <file name="/a.regexp" timestamp="1483630518736">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/location/LocationService.java" timestamp="1483540793387">
