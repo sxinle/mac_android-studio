@@ -504,12 +504,11 @@
         <mark key="[" line="7" column="0" />
         <mark key="]" line="8" column="26" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/chatuidemo/DemoHelper.java" timestamp="1483714613309">
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/chatuidemo/DemoHelper.java" timestamp="1483715219039">
         <mark key="'" line="734" column="28" />
-        <mark key="[" line="1102" column="42" />
-        <mark key="]" line="1102" column="41" />
-        <mark key="^" line="1102" column="41" />
-        <mark key="." line="1102" column="41" />
+        <mark key="[" line="1102" column="0" />
+        <mark key="]" line="1102" column="0" />
+        <mark key="." line="1102" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/res/drawable/btn_back_normal.xml" timestamp="1482417124943">
         <mark key="[" line="3" column="29" />
@@ -717,31 +716,31 @@
         <text>conversationListFragment</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOnRleHQ9IjN+N+KEgyIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIEVNQ2xpZW50LmdldEluc3RhbmNlKCkuZ3JvdXBNYW5hZ2VyKCkuampralZrCg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ZWxzZSBpZiAody5jb250YWlucygi6Zy+IikpIHsKICAgICAgICAgICAgICAgICAgICBpbWdJZCA9IFIuZHJhd2FibGUud2VhdGhlcl9kYXd1OwogICAgICAgICAgICAgICAgfSA=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIEVNQ2xpZW50LmdldEluc3RhbmNlKCkudXBkYXRlQ3VycmVudFVzZXJOaWNrKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOnRleHQ9IjN+N+KEgyIK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">ZWxzZSBpZiAody5jb250YWlucygi6Zy+IikpIHsKICAgICAgICAgICAgICAgICAgICBpbWdJZCA9IFIuZHJhd2FibGUud2VhdGhlcl9kYXd1OwogICAgICAgICAgICAgICAgfSA=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
