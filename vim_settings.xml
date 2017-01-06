@@ -461,7 +461,7 @@
         <mark key="[" line="14" column="13" />
         <mark key="]" line="14" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/easeui/src/com/hyphenate/easeui/adapter/EaseConversationAdapter.java" timestamp="1483631474395">
+      <file name="$USER_HOME$/workspace/waffair/easeui/src/com/hyphenate/easeui/adapter/EaseConversationAdapter.java" timestamp="1483677454961">
         <mark key="'" line="309" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/AndroidManifest.xml" timestamp="1483542357465">
@@ -752,7 +752,7 @@
       <last-replace>iconGreen</last-replace>
       <last-substitute>iconGray</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
