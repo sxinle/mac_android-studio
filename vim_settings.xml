@@ -27,6 +27,7 @@
         <mark key="." line="169" column="71" />
         <mark key="^" line="169" column="21" />
       </file>
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/chatuidemo/db/DemoDBManager.java" timestamp="1483711131413" />
       <file name="$USER_HOME$/workspace/Wx/app/src/main/java/com/wx/tab/FragementMe.java" timestamp="1481381183081">
         <mark key="[" line="18" column="45" />
         <mark key="]" line="18" column="46" />
@@ -503,7 +504,7 @@
         <mark key="[" line="7" column="0" />
         <mark key="]" line="8" column="26" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/chatuidemo/DemoHelper.java" timestamp="1483629680036">
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/chatuidemo/DemoHelper.java" timestamp="1483710873755">
         <mark key="'" line="40" column="41" />
         <mark key="[" line="727" column="53" />
         <mark key="]" line="727" column="83" />
@@ -587,7 +588,7 @@
       <file name="$USER_HOME$/workspace/waffair/easeui/src/com/hyphenate/easeui/widget/EaseChatMessageList.java" timestamp="1483458186645">
         <mark key="'" line="30" column="22" />
       </file>
-      <file name="/fragment.java" timestamp="1483709821593">
+      <file name="/fragment.java" timestamp="1483710870183">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
