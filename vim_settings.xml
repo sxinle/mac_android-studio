@@ -168,12 +168,12 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/build.gradle" timestamp="1483770174629">
-        <mark key="'" line="77" column="0" />
-        <mark key="[" line="39" column="32" />
-        <mark key="]" line="39" column="41" />
-        <mark key="^" line="39" column="41" />
-        <mark key="." line="39" column="41" />
+      <file name="$USER_HOME$/workspace/waffair/app/build.gradle" timestamp="1483770453255">
+        <mark key="'" line="76" column="0" />
+        <mark key="[" line="13" column="63" />
+        <mark key="]" line="13" column="80" />
+        <mark key="^" line="38" column="41" />
+        <mark key="." line="38" column="41" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/easeui/widget/EaseAlertDialog.java" timestamp="1483767312942">
         <mark key="[" line="23" column="0" />
@@ -208,6 +208,9 @@
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="/usr/local/android-sdk/extras/android/m2repository/com/android/support/test/runner/0.5/runner-0.5-sources.jar!/android/support/test/runner/AndroidJUnitRunner.java" timestamp="1483770405865">
+        <mark key="'" line="184" column="30" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/easeui/adapter/EmojiconGridAdapter.java" timestamp="1483767343237">
         <mark key="[" line="8" column="0" />
@@ -277,8 +280,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7436" column="36" filename="$USER_HOME$/workspace/waffair/app/build/generated/source/r/debug/com/acenode/R.java" />
-      <jump line="7439" column="60" filename="$USER_HOME$/workspace/waffair/app/build/generated/source/r/debug/com/acenode/R.java" />
       <jump line="7446" column="36" filename="$USER_HOME$/workspace/waffair/app/build/generated/source/r/debug/com/acenode/R.java" />
       <jump line="7449" column="60" filename="$USER_HOME$/workspace/waffair/app/build/generated/source/r/debug/com/acenode/R.java" />
       <jump line="7460" column="36" filename="$USER_HOME$/workspace/waffair/app/build/generated/source/r/debug/com/acenode/R.java" />
@@ -374,9 +375,11 @@
       <jump line="13" column="71" filename="$USER_HOME$/workspace/waffair/app/build.gradle" />
       <jump line="73" column="0" filename="$USER_HOME$/workspace/waffair/app/build.gradle" />
       <jump line="14" column="27" filename="$USER_HOME$/workspace/waffair/app/build.gradle" />
-      <jump line="76" column="0" filename="$USER_HOME$/workspace/waffair/app/build.gradle" />
       <jump line="23" column="44" filename="$USER_HOME$/workspace/waffair/app/build.gradle" />
       <jump line="77" column="0" filename="$USER_HOME$/workspace/waffair/app/build.gradle" />
+      <jump line="15" column="0" filename="$USER_HOME$/workspace/waffair/app/build.gradle" />
+      <jump line="76" column="0" filename="$USER_HOME$/workspace/waffair/app/build.gradle" />
+      <jump line="184" column="30" filename="/usr/local/android-sdk/extras/android/m2repository/com/android/support/test/runner/0.5/runner-0.5-sources.jar!/android/support/test/runner/AndroidJUnitRunner.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -389,7 +392,7 @@
         <text>main</text>
       </register>
       <register name="0" type="4">
-        <text>RecyclingImageView</text>
+        <text>AndroidJUnitRunner</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmVzb3VyY2VzLnNyY0RpcnMgPSBbJ3NyYyddCiAgICAgICAgICAgIGFpZGwuc3JjRGlycyA9IFsnc3JjJ10KICAgICAgICAgICAgcmVuZGVyc2NyaXB0LnNyY0RpcnMgPSBbJ3NyYyddCg==</text>
