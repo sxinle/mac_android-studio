@@ -257,6 +257,11 @@
         <mark key="." line="422" column="20" />
         <mark key="^" line="422" column="21" />
       </file>
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/res-chatdemo/drawable/em_tab_chat_bg.xml" timestamp="1483758956824">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="4" column="38" />
+        <mark key="]" line="4" column="59" />
+      </file>
       <file name="$USER_HOME$/workspace/waffair/easeui/res-waffair/values/colors.xml" timestamp="1483758611207">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -426,6 +431,11 @@
         <mark key="." line="2" column="111" />
         <mark key="^" line="2" column="111" />
       </file>
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/res-easeui/layout/ease_row_chat_history.xml" timestamp="1483766451279">
+        <mark key="'" line="21" column="51" />
+        <mark key="[" line="14" column="45" />
+        <mark key="]" line="14" column="59" />
+      </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/res-video/layout/activity_video_record.xml" timestamp="1483353287104">
         <mark key="[" line="7" column="5" />
         <mark key="]" line="7" column="45" />
@@ -523,6 +533,12 @@
         <mark key="." line="10" column="28" />
         <mark key="^" line="10" column="28" />
       </file>
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/chatuidemo/DemoHelper.java" timestamp="1483715219039">
+        <mark key="'" line="734" column="28" />
+        <mark key="[" line="1102" column="0" />
+        <mark key="]" line="1102" column="0" />
+        <mark key="." line="1102" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/res/drawable/btn_back_normal.xml" timestamp="1482417124943">
         <mark key="[" line="3" column="29" />
         <mark key="]" line="3" column="30" />
@@ -541,7 +557,7 @@
         <mark key="^" line="61" column="24" />
         <mark key="." line="61" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1483761632813">
+      <file name="/Dummy.txt" timestamp="1483764963464">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/Wx/app/src/main/res/layout/popup.xml" timestamp="1481725852177">
@@ -549,6 +565,12 @@
         <mark key="]" line="9" column="38" />
         <mark key="." line="9" column="38" />
         <mark key="^" line="9" column="40" />
+      </file>
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/easeui/widget/chatrow/ShapedImageView.java" timestamp="1483766437745">
+        <mark key="'" line="59" column="70" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/utils/Api.java" timestamp="1482503124375">
         <mark key="[" line="24" column="10" />
@@ -571,7 +593,7 @@
         <mark key="^" line="19" column="3" />
         <mark key="." line="36" column="29" />
       </file>
-      <file name="/a.regexp" timestamp="1483764519543">
+      <file name="/a.regexp" timestamp="1483766398453">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_login.xml" timestamp="1483356219752">
@@ -598,8 +620,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="873" column="60" filename="$USER_HOME$/workspace/waffair/app/build/generated/source/r/debug/com/acenode/R.java" />
-      <jump line="2344" column="30" filename="$USER_HOME$/workspace/waffair/app/build/generated/source/r/debug/com/acenode/R.java" />
       <jump line="5055" column="130" filename="$USER_HOME$/workspace/waffair/app/build/generated/source/r/debug/com/acenode/R.java" />
       <jump line="5058" column="65" filename="$USER_HOME$/workspace/waffair/app/build/generated/source/r/debug/com/acenode/R.java" />
       <jump line="5065" column="103" filename="$USER_HOME$/workspace/waffair/app/build/generated/source/r/debug/com/acenode/R.java" />
@@ -698,6 +718,8 @@
       <jump line="13" column="57" filename="$USER_HOME$/workspace/waffair/app/build.gradle" />
       <jump line="61" column="40" filename="$USER_HOME$/workspace/waffair/app/build.gradle" />
       <jump line="20" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/res-easeui/layout/ease_row_received_file.xml" />
+      <jump line="59" column="70" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/easeui/widget/chatrow/ShapedImageView.java" />
+      <jump line="21" column="51" filename="$USER_HOME$/workspace/waffair/app/src/main/res-easeui/layout/ease_row_chat_history.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -707,46 +729,46 @@
         <text>video</text>
       </register>
       <register name="/" type="4">
-        <text>baidu</text>
+        <text>shape</text>
       </register>
       <register name="0" type="4">
-        <text>image_thumbnail_size</text>
+        <text>ShapedImageView</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZWFzZXVpL2J1aWxkLwo=</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20uYmFpZHUubG9jYXRpb24uaC5qLlI7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5oeXBoZW5hdGUuZWFzZXVpLlI7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDxjb2xvciBuYW1lPSJib3R0b21fZ3JheSI+I2JmYmViZTwvY29sb3I+Cg==</text>
+        <text encoding="base64">ZWFzZXVpL2J1aWxkLwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">I2JmYmViZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxjb2xvciBuYW1lPSJib3R0b21fZ3JheSI+I2JmYmViZTwvY29sb3I+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I2JmYmViZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS1hbmRyb2lkOmJhY2tncm91bmQ9IkBjb2xvci9jb21tb25fYmciPi0tPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS1hbmRyb2lkOmJhY2tncm91bmQ9IkBjb2xvci9jb21tb25fYmciPi0tPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>baidu</last-search>
+      <last-search>shape</last-search>
       <last-offset />
-      <last-pattern>baidu</last-pattern>
+      <last-pattern>shape</last-pattern>
       <last-replace>iconGreen</last-replace>
       <last-substitute>iconGray</last-substitute>
       <last-dir>1</last-dir>
@@ -754,7 +776,6 @@
     </search>
     <history>
       <history-search>
-        <entry>IndexActivity</entry>
         <entry>login</entry>
         <entry>backpre</entry>
         <entry>press</entry>
@@ -774,6 +795,7 @@
         <entry>drawable</entry>
         <entry>chat</entry>
         <entry>baidu</entry>
+        <entry>shape</entry>
       </history-search>
       <history-cmd>
         <entry>action GotoClass</entry>
