@@ -97,12 +97,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_index.xml" timestamp="1483787699100">
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_index.xml" timestamp="1483788177275">
         <mark key="'" line="88" column="91" />
-        <mark key="[" line="362" column="88" />
-        <mark key="]" line="362" column="87" />
-        <mark key="." line="362" column="87" />
-        <mark key="^" line="362" column="87" />
+        <mark key="[" line="362" column="0" />
+        <mark key="]" line="362" column="0" />
+        <mark key="." line="362" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/videoupload/VideoActivity.java" timestamp="1483366605980">
         <mark key="'" line="63" column="8" />
@@ -136,12 +135,12 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" timestamp="1483787447374">
-        <mark key="'" line="58" column="79" />
-        <mark key="[" line="138" column="44" />
-        <mark key="]" line="138" column="48" />
-        <mark key="." line="138" column="48" />
-        <mark key="^" line="138" column="48" />
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" timestamp="1483788054486">
+        <mark key="'" line="59" column="79" />
+        <mark key="[" line="139" column="36" />
+        <mark key="]" line="139" column="46" />
+        <mark key="." line="139" column="46" />
+        <mark key="^" line="139" column="46" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/easeui/widget/emojicon/EaseEmojiconMenu.java" timestamp="1483767371353">
         <mark key="[" line="12" column="0" />
@@ -244,11 +243,11 @@
         <mark key="." line="21" column="64" />
         <mark key="^" line="21" column="64" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/widget/VerticalTextview.java" timestamp="1483785424413">
-        <mark key="[" line="42" column="12" />
-        <mark key="]" line="42" column="15" />
-        <mark key="." line="42" column="15" />
-        <mark key="^" line="42" column="15" />
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/widget/VerticalTextview.java" timestamp="1483788069694">
+        <mark key="[" line="122" column="22" />
+        <mark key="]" line="122" column="23" />
+        <mark key="." line="122" column="23" />
+        <mark key="^" line="26" column="40" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/App.java" timestamp="1483449192877">
         <mark key="'" line="44" column="44" />
@@ -445,22 +444,22 @@
         <text>基本废物......</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>wrap_content</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvblBhdXNlXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>scrollNotice</text>
+        <text>公告3</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8L2NvbS5hY2Vub2RlLnZpZXcud2lkZ2V0LlZlcnRpY2FsVGV4dHZpZXc+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8VGV4dFZpZXcgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiLz4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8QnV0dG9uIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50Ii8+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8L2NvbS5hY2Vub2RlLnZpZXcud2lkZ2V0LlZlcnRpY2FsVGV4dHZpZXc+Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -472,13 +471,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIHZvaWQgb25QYXVzZSgpIHsKICAgICAgICBzdXBlci5vblBhdXNlKCk7CiAgICAgICAgc2Nyb2xsTm90aWNlLnN0b3BBdXRvU2Nyb2xsKCk7CiAgICB9Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIHZvaWQgb25QYXVzZSgpIHsKICAgICAgICBzdXBlci5vblBhdXNlKCk7CiAgICAgICAgc2Nyb2xsTm90aWNlLnN0b3BBdXRvU2Nyb2xsKCk7CiAgICB9Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
