@@ -138,12 +138,12 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_index.xml" timestamp="1483628043272">
-        <mark key="'" line="237" column="0" />
-        <mark key="[" line="38" column="81" />
-        <mark key="]" line="38" column="82" />
-        <mark key="." line="38" column="82" />
-        <mark key="^" line="345" column="45" />
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_index.xml" timestamp="1483772803835">
+        <mark key="'" line="314" column="55" />
+        <mark key="[" line="92" column="62" />
+        <mark key="]" line="92" column="63" />
+        <mark key="." line="92" column="63" />
+        <mark key="^" line="50" column="41" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/DataGatherActivity.java" timestamp="1483322433808">
         <mark key="'" line="19" column="0" />
@@ -199,8 +199,8 @@
         <mark key="." line="163" column="118" />
         <mark key="^" line="163" column="118" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" timestamp="1483771970880">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" timestamp="1483772128989">
+        <mark key="'" line="278" column="0" />
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
@@ -384,7 +384,7 @@
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1483772105798">
+      <file name="/Dummy.txt" timestamp="1483772840062">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/chatuidemo/widget/ChatRowVoiceCall.java" timestamp="1483767341397">
@@ -478,8 +478,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2478" column="37" filename="$USER_HOME$/workspace/waffair/app/build/generated/source/r/debug/com/acenode/R.java" />
-      <jump line="2479" column="37" filename="$USER_HOME$/workspace/waffair/app/build/generated/source/r/debug/com/acenode/R.java" />
       <jump line="2480" column="37" filename="$USER_HOME$/workspace/waffair/app/build/generated/source/r/debug/com/acenode/R.java" />
       <jump line="2481" column="37" filename="$USER_HOME$/workspace/waffair/app/build/generated/source/r/debug/com/acenode/R.java" />
       <jump line="2482" column="37" filename="$USER_HOME$/workspace/waffair/app/build/generated/source/r/debug/com/acenode/R.java" />
@@ -578,6 +576,8 @@
       <jump line="39" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
       <jump line="315" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
+      <jump line="278" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
+      <jump line="314" column="55" filename="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_index.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -587,7 +587,7 @@
         <text>weather_leizhenyu</text>
       </register>
       <register name="/" type="4">
-        <text>useLocation</text>
+        <text>user</text>
       </register>
       <register name="0" type="4">
         <text>AndroidJUnitRunner</text>
@@ -624,9 +624,9 @@
       </register>
     </registers>
     <search>
-      <last-search>useLocation</last-search>
+      <last-search>user</last-search>
       <last-offset />
-      <last-pattern>useLocation</last-pattern>
+      <last-pattern>user</last-pattern>
       <last-replace>iconGreen</last-replace>
       <last-substitute>iconGray</last-substitute>
       <last-dir>1</last-dir>
@@ -634,7 +634,6 @@
     </search>
     <history>
       <history-search>
-        <entry>selected</entry>
         <entry>laun</entry>
         <entry>Index</entry>
         <entry encoding="base64">XDxNYWluQWN0aXZpdHkyXD4=</entry>
@@ -654,6 +653,7 @@
         <entry encoding="base64">XDxpdGVtZHJhd2FibGVzXD4=</entry>
         <entry encoding="base64">XDxleHRlbmRNZW51SXRlbUNsaWNrTGlzdGVuZXJcPg==</entry>
         <entry>useLocation</entry>
+        <entry>user</entry>
       </history-search>
       <history-cmd>
         <entry>action GotoClass</entry>
