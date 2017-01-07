@@ -168,12 +168,12 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/build.gradle" timestamp="1483769405803">
-        <mark key="'" line="17" column="34" />
-        <mark key="[" line="38" column="32" />
-        <mark key="]" line="38" column="41" />
-        <mark key="^" line="38" column="41" />
-        <mark key="." line="38" column="41" />
+      <file name="$USER_HOME$/workspace/waffair/app/build.gradle" timestamp="1483770174629">
+        <mark key="'" line="77" column="0" />
+        <mark key="[" line="39" column="32" />
+        <mark key="]" line="39" column="41" />
+        <mark key="^" line="39" column="41" />
+        <mark key="." line="39" column="41" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/easeui/widget/EaseAlertDialog.java" timestamp="1483767312942">
         <mark key="[" line="23" column="0" />
@@ -200,6 +200,9 @@
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1483769461934">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/chatuidemo/widget/ChatRowVoiceCall.java" timestamp="1483767341397">
         <mark key="[" line="9" column="0" />
@@ -274,11 +277,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7420" column="21" filename="$USER_HOME$/workspace/waffair/app/build/generated/source/r/debug/com/acenode/R.java" />
-      <jump line="7421" column="21" filename="$USER_HOME$/workspace/waffair/app/build/generated/source/r/debug/com/acenode/R.java" />
-      <jump line="7422" column="21" filename="$USER_HOME$/workspace/waffair/app/build/generated/source/r/debug/com/acenode/R.java" />
-      <jump line="7424" column="38" filename="$USER_HOME$/workspace/waffair/app/build/generated/source/r/debug/com/acenode/R.java" />
-      <jump line="7429" column="60" filename="$USER_HOME$/workspace/waffair/app/build/generated/source/r/debug/com/acenode/R.java" />
       <jump line="7436" column="36" filename="$USER_HOME$/workspace/waffair/app/build/generated/source/r/debug/com/acenode/R.java" />
       <jump line="7439" column="60" filename="$USER_HOME$/workspace/waffair/app/build/generated/source/r/debug/com/acenode/R.java" />
       <jump line="7446" column="36" filename="$USER_HOME$/workspace/waffair/app/build/generated/source/r/debug/com/acenode/R.java" />
@@ -349,7 +347,6 @@
       <jump line="124" column="60" filename="$USER_HOME$/workspace/waffair/app/src/main/AndroidManifest.xml" />
       <jump line="307" column="35" filename="$USER_HOME$/workspace/waffair/app/src/main/AndroidManifest.xml" />
       <jump line="311" column="37" filename="$USER_HOME$/workspace/waffair/app/src/main/AndroidManifest.xml" />
-      <jump line="13" column="57" filename="$USER_HOME$/workspace/waffair/app/build.gradle" />
       <jump line="61" column="40" filename="$USER_HOME$/workspace/waffair/app/build.gradle" />
       <jump line="20" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/res-easeui/layout/ease_row_received_file.xml" />
       <jump line="21" column="51" filename="$USER_HOME$/workspace/waffair/app/src/main/res-easeui/layout/ease_row_chat_history.xml" />
@@ -370,10 +367,16 @@
       <jump line="19" column="58" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/easeui/ui/EaseBaseFragment.java" />
       <jump line="50" column="46" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/easeui/widget/EaseChatMessageList.java" />
       <jump line="77" column="35" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/easeui/model/EaseAtMessageHelper.java" />
-      <jump line="14" column="27" filename="$USER_HOME$/workspace/waffair/app/build.gradle" />
       <jump line="32" column="4" filename="$USER_HOME$/workspace/waffair/app/build.gradle" />
       <jump line="40" column="38" filename="$USER_HOME$/workspace/waffair/app/build.gradle" />
       <jump line="17" column="34" filename="$USER_HOME$/workspace/waffair/app/build.gradle" />
+      <jump line="12" column="24" filename="$USER_HOME$/workspace/waffair/app/build.gradle" />
+      <jump line="13" column="71" filename="$USER_HOME$/workspace/waffair/app/build.gradle" />
+      <jump line="73" column="0" filename="$USER_HOME$/workspace/waffair/app/build.gradle" />
+      <jump line="14" column="27" filename="$USER_HOME$/workspace/waffair/app/build.gradle" />
+      <jump line="76" column="0" filename="$USER_HOME$/workspace/waffair/app/build.gradle" />
+      <jump line="23" column="44" filename="$USER_HOME$/workspace/waffair/app/build.gradle" />
+      <jump line="77" column="0" filename="$USER_HOME$/workspace/waffair/app/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
