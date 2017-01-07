@@ -166,6 +166,12 @@
         <mark key="^" line="433" column="12" />
         <mark key="." line="433" column="12" />
       </file>
+      <file name="$USER_HOME$/workspace/waffair/easeui/res/drawable/top_border.xml" timestamp="1483760612553">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="10" column="26" />
+        <mark key="]" line="10" column="27" />
+        <mark key="." line="5" column="39" />
+      </file>
       <file name="$USER_HOME$/workspace/Wx/app/src/main/res/layout/bottom.xml" timestamp="1481384021365">
         <mark key="[" line="34" column="18" />
         <mark key="]" line="34" column="39" />
@@ -262,6 +268,11 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="3" column="21" />
       </file>
+      <file name="$USER_HOME$/workspace/waffair/easeui/res/values/ease_colors.xml" timestamp="1483760482487">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/waffair/easeui/src/com/hyphenate/easeui/utils/EaseUserUtils.java" timestamp="1483710477158" />
       <file name="$USER_HOME$/workspace/admin/src/main/java/com/acenode/admin/service/impl/CameraServiceImpl.java" timestamp="1464436182312">
         <mark key="[" line="61" column="40" />
@@ -275,11 +286,11 @@
         <mark key="." line="17" column="3" />
         <mark key="^" line="17" column="3" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/res/drawable/textview_border.xml" timestamp="1483364303216">
-        <mark key="[" line="3" column="27" />
-        <mark key="]" line="3" column="28" />
-        <mark key="." line="3" column="28" />
-        <mark key="^" line="3" column="68" />
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/res/drawable/textview_border.xml" timestamp="1483759869010">
+        <mark key="[" line="2" column="27" />
+        <mark key="]" line="2" column="28" />
+        <mark key="." line="2" column="28" />
+        <mark key="^" line="2" column="11" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/photoupload/activity/GalleryActivity.java" timestamp="1483371388428">
         <mark key="'" line="89" column="4" />
@@ -457,12 +468,12 @@
         <mark key="." line="18" column="48" />
         <mark key="^" line="18" column="48" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/res-chatdemo/layout/em_activity_main2.xml" timestamp="1483719494483">
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/res-chatdemo/layout/em_activity_main2.xml" timestamp="1483760640620">
         <mark key="'" line="21" column="0" />
-        <mark key="[" line="12" column="44" />
-        <mark key="]" line="12" column="46" />
-        <mark key="." line="12" column="46" />
-        <mark key="^" line="12" column="46" />
+        <mark key="[" line="13" column="58" />
+        <mark key="]" line="13" column="58" />
+        <mark key="^" line="13" column="58" />
+        <mark key="." line="13" column="58" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/easeui/src/com/hyphenate/easeui/adapter/EaseConversationAdapter.java" timestamp="1483677454961">
         <mark key="'" line="309" column="0" />
@@ -497,11 +508,11 @@
       <file name="/JavaScript Console" timestamp="1463312454350">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/res-chatdemo/drawable/em_main_bottom_item_bg.xml" timestamp="1483758604229">
-        <mark key="[" line="3" column="36" />
-        <mark key="]" line="3" column="40" />
-        <mark key="." line="3" column="40" />
-        <mark key="^" line="3" column="40" />
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/res-chatdemo/drawable/em_main_bottom_item_bg.xml" timestamp="1483760477837">
+        <mark key="[" line="3" column="28" />
+        <mark key="]" line="3" column="39" />
+        <mark key="^" line="3" column="39" />
+        <mark key="." line="3" column="39" />
       </file>
       <file name="$USER_HOME$/workspace/Wx/app/src/main/res/layout/tab_me.xml" timestamp="1481380956213">
         <mark key="[" line="10" column="28" />
@@ -533,7 +544,7 @@
         <mark key="^" line="61" column="24" />
         <mark key="." line="61" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1483630722025">
+      <file name="/Dummy.txt" timestamp="1483760569114">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/Wx/app/src/main/res/layout/popup.xml" timestamp="1481725852177">
@@ -584,7 +595,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="8" filename="$USER_HOME$/workspace/waffair/app/build.gradle" />
       <jump line="21" column="67" filename="$USER_HOME$/workspace/waffair/app/build/outputs/logs/manifest-merger-debug-report.txt" />
       <jump line="95" column="41" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/MainActivity2.java" />
       <jump line="382" column="44" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/MainActivity2.java" />
@@ -684,46 +694,47 @@
       <jump line="188" column="24" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/MainActivity2.java" />
       <jump line="3" column="62" filename="$USER_HOME$/workspace/waffair/app/src/main/res-chatdemo/drawable/em_tab_chat_bg.xml" />
       <jump line="6" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/res-chatdemo/drawable/em_tab_chat_bg.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/waffair/easeui/res/drawable/top_border.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>基本废物......</text>
       </register>
       <register name="-" type="4">
-        <text>common_bottom_bar_normal_bg</text>
+        <text>k</text>
       </register>
       <register name="/" type="4">
         <text>selected</text>
       </register>
       <register name="0" type="4">
-        <text>em_contact_list_normal</text>
+        <text>@color/bottom_gray</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxjb2xvciBuYW1lPSJ0b3BfbGlnaHRfYmx1ZV9zZWwiPiNGRjI1ODFCMzwvY29sb3I+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIDxjb2xvciBuYW1lPSJib3R0b21fZ3JheSI+I2JmYmViZTwvY29sb3I+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8TGluZWFyTGF5b3V0CiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSI0NWRwIgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9Im1hdGNoX3BhcmVudCIKICAgICAgICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSJAZHJhd2FibGUvZWFzZV9jb21tb25fdGFiX2JnIgogICAgICAgICAgICBhbmRyb2lkOm9uQ2xpY2s9ImJhY2siID4KICAgICAgICAgICAgPCEtLTxJbWFnZVZpZXctLT4KICAgICAgICAgICAgICAgIDwhLS1hbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50Ii0tPgogICAgICAgICAgICAgICAgPCEtLWFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50Ii0tPgogICAgICAgICAgICAgICAgPCEtLWFuZHJvaWQ6bGF5b3V0X2dyYXZpdHk9ImNlbnRlcl92ZXJ0aWNhbCItLT4KICAgICAgICAgICAgICAgIDwhLS1hbmRyb2lkOmxheW91dF9tYXJnaW5MZWZ0PSI5ZHAiLS0+CiAgICAgICAgICAgICAgICA8IS0tYW5kcm9pZDpzY2FsZVR5cGU9ImNlbnRlckluc2lkZSItLT4KICAgICAgICAgICAgICAgIDwhLS1hbmRyb2lkOnNyYz0iQGRyYXdhYmxlL2VtX21tX3RpdGxlX2JhY2siIC8+LS0+CiAgICAgICAgPC9MaW5lYXJMYXlvdXQ+Cg==</text>
+        <text encoding="base64">I2JmYmViZQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPEltYWdlVmlldyBhbmRyb2lkOmlkPSJAK2lkL2xlZnRfaW1hZ2UiCiAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IjcwZHAiCiAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSIzNWRwIgogICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6cGFkZGluZ0xlZnQ9IjgwcHgiCiAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luTGVmdD0iLTE5ZHAiCiAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfZ3Jhdml0eT0iY2VudGVyX3ZlcnRpY2FsIgogICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6c3JjPSJAZHJhd2FibGUvYmFjayIKICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOnNjYWxlVHlwZT0iY2VudGVyQ3JvcCIKICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOnBhZGRpbmdUb3A9IjJkcCIKICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOnBhZGRpbmdCb3R0b209IjJkcCIKICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOnBhZGRpbmdSaWdodD0iNWRwIgogICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6YmFja2dyb3VuZD0iQGRyYXdhYmxlL2J0bl9iYWNrIi8+Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPCEtLWFuZHJvaWQ6YmFja2dyb3VuZD0iQGRyYXdhYmxlL2Vhc2VfY29tbW9uX3RhYl9iZyItLT4K</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS1hbmRyb2lkOmJhY2tncm91bmQ9IkBjb2xvci9jb21tb25fYmciPi0tPgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgPCEtLWFuZHJvaWQ6cGFkZGluZ1RvcD0iMTBkcCItLT4KICAgICAgICAgICAgICAgPCEtLWFuZHJvaWQ6cGFkZGluZ0JvdHRvbT0iMTBkcCItLT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgYW5kcm9pZDpwYWRkaW5nQm90dG9tPSIxMGRwIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJhY2sK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
