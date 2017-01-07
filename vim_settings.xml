@@ -143,11 +143,12 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_index.xml" timestamp="1483773955584">
-        <mark key="'" line="315" column="55" />
-        <mark key="[" line="138" column="0" />
-        <mark key="]" line="138" column="0" />
-        <mark key="." line="138" column="0" />
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_index.xml" timestamp="1483774852395">
+        <mark key="'" line="88" column="91" />
+        <mark key="[" line="91" column="87" />
+        <mark key="]" line="91" column="88" />
+        <mark key="." line="91" column="88" />
+        <mark key="^" line="91" column="88" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/DataGatherActivity.java" timestamp="1483322433808">
         <mark key="'" line="19" column="0" />
@@ -203,8 +204,8 @@
         <mark key="." line="163" column="118" />
         <mark key="^" line="163" column="118" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" timestamp="1483772128989">
-        <mark key="'" line="278" column="0" />
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" timestamp="1483774900247">
+        <mark key="'" line="54" column="28" />
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
@@ -482,14 +483,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2480" column="37" filename="$USER_HOME$/workspace/waffair/app/build/generated/source/r/debug/com/acenode/R.java" />
-      <jump line="2481" column="37" filename="$USER_HOME$/workspace/waffair/app/build/generated/source/r/debug/com/acenode/R.java" />
-      <jump line="2482" column="37" filename="$USER_HOME$/workspace/waffair/app/build/generated/source/r/debug/com/acenode/R.java" />
-      <jump line="2483" column="37" filename="$USER_HOME$/workspace/waffair/app/build/generated/source/r/debug/com/acenode/R.java" />
-      <jump line="2484" column="37" filename="$USER_HOME$/workspace/waffair/app/build/generated/source/r/debug/com/acenode/R.java" />
-      <jump line="2485" column="37" filename="$USER_HOME$/workspace/waffair/app/build/generated/source/r/debug/com/acenode/R.java" />
-      <jump line="2486" column="37" filename="$USER_HOME$/workspace/waffair/app/build/generated/source/r/debug/com/acenode/R.java" />
-      <jump line="2487" column="37" filename="$USER_HOME$/workspace/waffair/app/build/generated/source/r/debug/com/acenode/R.java" />
       <jump line="2488" column="37" filename="$USER_HOME$/workspace/waffair/app/build/generated/source/r/debug/com/acenode/R.java" />
       <jump line="2489" column="37" filename="$USER_HOME$/workspace/waffair/app/build/generated/source/r/debug/com/acenode/R.java" />
       <jump line="2490" column="37" filename="$USER_HOME$/workspace/waffair/app/build/generated/source/r/debug/com/acenode/R.java" />
@@ -582,55 +575,63 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
       <jump line="278" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
       <jump line="314" column="55" filename="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_index.xml" />
+      <jump line="44" column="45" filename="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_index.xml" />
+      <jump line="279" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_index.xml" />
+      <jump line="285" column="20" filename="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_index.xml" />
+      <jump line="47" column="42" filename="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_index.xml" />
+      <jump line="78" column="67" filename="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_index.xml" />
+      <jump line="174" column="64" filename="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_index.xml" />
+      <jump line="88" column="91" filename="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_index.xml" />
+      <jump line="54" column="28" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>基本废物......</text>
       </register>
       <register name="-" type="4">
-        <text>match_parent</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>user</text>
+        <text>onKey</text>
       </register>
       <register name="0" type="4">
         <text>AndroidJUnitRunner</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6cGFkZGluZz0iMTBkcCIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxJbWFnZVZpZXcgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJtYXRjaF9wYXJlbnQiLz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxJbWFnZVZpZXcgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJtYXRjaF9wYXJlbnQiLz4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBzY2EK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxJbWFnZVZpZXcgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJtYXRjaF9wYXJlbnQiLz4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOnNjYWxlWT0iLjgiIGFuZHJvaWQ6c2NhbGVYPSIuOCIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBzY2EK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2VpZ2h0PSIiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOnNjYWxlWT0iLjgiIGFuZHJvaWQ6c2NhbGVYPSIuOCIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpwYWRkaW5nPSIyNWRwIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2VpZ2h0PSIiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpwYWRkaW5nUmlnaHQ9IjI1ZHAiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpwYWRkaW5nPSIyNWRwIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpwYWRkaW5nPSIyNWRwIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpwYWRkaW5nUmlnaHQ9IjI1ZHAiCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>user</last-search>
+      <last-search>onKey</last-search>
       <last-offset />
-      <last-pattern>user</last-pattern>
+      <last-pattern>onKey</last-pattern>
       <last-replace>iconGreen</last-replace>
       <last-substitute>iconGray</last-substitute>
       <last-dir>1</last-dir>
@@ -638,11 +639,6 @@
     </search>
     <history>
       <history-search>
-        <entry>laun</entry>
-        <entry>Index</entry>
-        <entry encoding="base64">XDxNYWluQWN0aXZpdHkyXD4=</entry>
-        <entry>drawable</entry>
-        <entry>chat</entry>
         <entry>baidu</entry>
         <entry>shape</entry>
         <entry>refuse</entry>
@@ -657,7 +653,12 @@
         <entry encoding="base64">XDxpdGVtZHJhd2FibGVzXD4=</entry>
         <entry encoding="base64">XDxleHRlbmRNZW51SXRlbUNsaWNrTGlzdGVuZXJcPg==</entry>
         <entry>useLocation</entry>
+        <entry>paddingTop</entry>
+        <entry>scaleX</entry>
+        <entry>bgmenu</entry>
+        <entry>menu</entry>
         <entry>user</entry>
+        <entry>onKey</entry>
       </history-search>
       <history-cmd>
         <entry>action GotoClass</entry>
