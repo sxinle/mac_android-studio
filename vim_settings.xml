@@ -115,6 +115,10 @@
         <mark key="." line="38" column="47" />
         <mark key="^" line="38" column="47" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.zhy/autolayout/1.4.5/dffc7b1642b42864ae590a0697200ca663d0c686/autolayout-1.4.5-sources.jar!/com/zhy/autolayout/AutoLayoutActivity.java" timestamp="1484326036736">
+        <mark key="[" line="12" column="40" />
+        <mark key="]" line="12" column="56" />
+      </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" timestamp="1484322056568">
         <mark key="'" line="424" column="52" />
         <mark key="[" line="287" column="39" />
@@ -173,6 +177,10 @@
         <mark key="^" line="23" column="60" />
         <mark key="." line="18" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/BaseActivity.java" timestamp="1484326186570">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="30" />
+      </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_station_detail.xml" timestamp="1484059219808">
         <mark key="'" line="81" column="44" />
         <mark key="[" line="36" column="52" />
@@ -208,12 +216,12 @@
         <mark key="." line="84" column="80" />
         <mark key="^" line="84" column="53" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/res-chatdemo/layout/activity_weather_detail.xml" timestamp="1484324916959">
-        <mark key="'" line="34" column="47" />
-        <mark key="[" line="175" column="62" />
-        <mark key="]" line="175" column="62" />
-        <mark key="^" line="175" column="62" />
-        <mark key="." line="175" column="62" />
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/res-chatdemo/layout/activity_weather_detail.xml" timestamp="1484326543955">
+        <mark key="'" line="92" column="61" />
+        <mark key="[" line="91" column="80" />
+        <mark key="]" line="91" column="81" />
+        <mark key="^" line="207" column="105" />
+        <mark key="." line="91" column="81" />
       </file>
       <file name="/Dummy.txt" timestamp="1484317464361">
         <mark key="[" line="0" column="0" />
@@ -281,11 +289,11 @@
         <mark key="^" line="9" column="29" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/WeatherDetailActivity.java" timestamp="1484324773193">
-        <mark key="[" line="15" column="47" />
-        <mark key="]" line="15" column="48" />
-        <mark key="." line="15" column="48" />
-        <mark key="^" line="15" column="55" />
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/WeatherDetailActivity.java" timestamp="1484326196939">
+        <mark key="[" line="77" column="8" />
+        <mark key="]" line="77" column="31" />
+        <mark key="." line="77" column="0" />
+        <mark key="^" line="76" column="7" />
       </file>
       <file name="/fragment.java" timestamp="1484323197196">
         <mark key="[" line="0" column="0" />
@@ -298,7 +306,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="79" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
       <jump line="4" column="36" filename="$USER_HOME$/workspace/waffair/app/src/main/res/values/colors.xml" />
       <jump line="137" column="37" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
       <jump line="222" column="12" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
@@ -398,55 +405,56 @@
       <jump line="35" column="47" filename="$USER_HOME$/workspace/waffair/app/src/main/res-chatdemo/layout/activity_weather_detail.xml" />
       <jump line="99" column="42" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/WeatherDetailActivity.java" />
       <jump line="423" column="52" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
+      <jump line="92" column="61" filename="$USER_HOME$/workspace/waffair/app/src/main/res-chatdemo/layout/activity_weather_detail.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>基本废物......</text>
       </register>
       <register name="-" type="4">
-        <text>k</text>
+        <text>wrap_content</text>
       </register>
       <register name="/" type="4">
-        <text>detail</text>
+        <text>1.3</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6cGFkZGluZz0iM2RwIgo=</text>
+        <text encoding="base64">ICAgICAgICBCdXR0ZXJLbmlmZS5iaW5kKHRoaXMpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPFJlbGF0aXZlTGF5b3V0IGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJmaWxsX3BhcmVudCIgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSIwLjBkaXAiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF93ZWlnaHQ9IjEiPgogICAgICAgICAgICAgICAgPExpbmVhckxheW91dCBhbmRyb2lkOmdyYXZpdHk9ImNlbnRlcl92ZXJ0aWNhbCIgYW5kcm9pZDpvcmllbnRhdGlvbj0iaG9yaXpvbnRhbCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSJAZHJhd2FibGUvaW1nX3dlYXRoZXJfc3RhdHVzIiBhbmRyb2lkOnBhZGRpbmc9IjMuMGRpcCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpblJpZ2h0PSIxMC4wZGlwIiBhbmRyb2lkOmxheW91dF9hbGlnblBhcmVudFJpZ2h0PSJ0cnVlIj4KICAgICAgICAgICAgICAgICAgICA8SW1hZ2VWaWV3IGFuZHJvaWQ6aWQ9IkAraWQvaXZfc3RhdHVzIiBhbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiIGFuZHJvaWQ6c3JjPSJAZHJhd2FibGUvc3RhdHVzXzAiLz4KICAgICAgICAgICAgICAgICAgICA8TGluZWFyTGF5b3V0IGFuZHJvaWQ6Z3Jhdml0eT0iY2VudGVyX2hvcml6b250YWwiIGFuZHJvaWQ6b3JpZW50YXRpb249InZlcnRpY2FsIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IjAuMGRpcCIgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF93ZWlnaHQ9IjEuMCI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxUZXh0VmlldyBhbmRyb2lkOnRleHRTaXplPSIxNnNwIiBhbmRyb2lkOnRleHRDb2xvcj0iQGNvbG9yL3doaXRlIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC90dl9zdGF0dXNfbnVtIiBhbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiIGFuZHJvaWQ6dGV4dD0iNzgiLz4KICAgICAgICAgICAgICAgICAgICAgICAgPFRleHRWaWV3IGFuZHJvaWQ6dGV4dFNpemU9IjE2c3AiIGFuZHJvaWQ6dGV4dENvbG9yPSJAY29sb3Ivd2hpdGUiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3R2X3N0YXR1c190ZXh0IiBhbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiIGFuZHJvaWQ6dGV4dD0i6Imv5aW9Ii8+CiAgICAgICAgICAgICAgICAgICAgPC9MaW5lYXJMYXlvdXQ+CiAgICAgICAgICAgICAgICA8L0xpbmVhckxheW91dD4KICAgICAgICAgICAgICAgIDxMaW5lYXJMYXlvdXQgYW5kcm9pZDpncmF2aXR5PSJjZW50ZXJfaG9yaXpvbnRhbCIgYW5kcm9pZDpvcmllbnRhdGlvbj0idmVydGljYWwiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvbGxfd2VhdGhlcmluZm8iIGFuZHJvaWQ6cGFkZGluZ1RvcD0iNi4wZGlwIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50IiBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfY2VudGVySW5QYXJlbnQ9InRydWUiPgogICAgICAgICAgICAgICAgICAgIDxUZXh0VmlldyBhbmRyb2lkOnRleHRTaXplPSI4MC4wZGlwIiBhbmRyb2lkOnRleHRDb2xvcj0iQGNvbG9yL3doaXRlIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3R2X3RvZGF5X3RlbXAiIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IiBhbmRyb2lkOnRleHQ9Ii0xNOKEgyIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfY2VudGVySW5QYXJlbnQ9InRydWUiLz4KICAgICAgICAgICAgICAgICAgICA8VGV4dFZpZXcgYW5kcm9pZDp0ZXh0U2l6ZT0iMjZzcCIgYW5kcm9pZDp0ZXh0Q29sb3I9IkBjb2xvci93aGl0ZSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC90dl90b2RheV93ZWF0aGVyIiBhbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIgYW5kcm9pZDp0ZXh0PSLmmbQiLz4KICAgICAgICAgICAgICAgICAgICA8VGV4dFZpZXcgYW5kcm9pZDp0ZXh0Q29sb3I9IkBjb2xvci93aGl0ZSIgYW5kcm9pZDppZD0iQCtpZC90dl90b2RheV9kYXRlIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50IiBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDp0ZXh0PSIwMeaciDEz5pelIOWRqOS6lCIvPgogICAgICAgICAgICAgICAgPC9MaW5lYXJMYXlvdXQ+CiAgICAgICAgICAgIDwvUmVsYXRpdmVMYXlvdXQ+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8L0xpbmVhckxheW91dD4K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CiAgICAgICAgPExpbmVhckxheW91dCBhbmRyb2lkOm9yaWVudGF0aW9uPSJ2ZXJ0aWNhbCIKICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCI+Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICA8L0xpbmVhckxheW91dD4K</text>
       </register>
-      <register name="6" type="2">
+      <register name="4" type="2">
         <text encoding="base64">CiAgICAgICAgPExpbmVhckxheW91dCBhbmRyb2lkOm9yaWVudGF0aW9uPSJ2ZXJ0aWNhbCIKICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCI+Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICA8L0xpbmVhckxheW91dD4K</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">CiAgICAgICAgPExpbmVhckxheW91dCBhbmRyb2lkOm9yaWVudGF0aW9uPSJ2ZXJ0aWNhbCIKICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCI+Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8TGluZWFyTGF5b3V0IGFuZHJvaWQ6b3JpZW50YXRpb249InZlcnRpY2FsIgogICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50Ij4KCg==</text>
+        <text encoding="base64">ICAgICAgICA8L0xpbmVhckxheW91dD4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICA8TGluZWFyTGF5b3V0IGFuZHJvaWQ6b3JpZW50YXRpb249InZlcnRpY2FsIgogICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50Ij4KCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>detail</last-search>
+      <last-search>1.3</last-search>
       <last-offset />
-      <last-pattern>detail</last-pattern>
+      <last-pattern>1.3</last-pattern>
       <last-replace>20sp</last-replace>
       <last-substitute>@dimen\/font_size_xxlarge</last-substitute>
       <last-dir>1</last-dir>
@@ -454,7 +462,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxoYW5kbGVyXD4=</entry>
         <entry encoding="base64">XDxjdXJyZW50SWRcPg==</entry>
         <entry>list</entry>
         <entry>loushi</entry>
@@ -474,6 +481,7 @@
         <entry>tv_status_num</entry>
         <entry>tv_chuan</entry>
         <entry>detail</entry>
+        <entry>1.3</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1N0cmVldFJlcS9TdHJlZXRQb2ludFJlcS9n</entry>
