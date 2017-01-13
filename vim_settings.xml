@@ -208,12 +208,12 @@
         <mark key="." line="84" column="80" />
         <mark key="^" line="84" column="53" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/res-chatdemo/layout/activity_weather_detail.xml" timestamp="1484324242064">
-        <mark key="'" line="35" column="47" />
-        <mark key="[" line="91" column="80" />
-        <mark key="]" line="91" column="80" />
-        <mark key="^" line="91" column="80" />
-        <mark key="." line="91" column="91" />
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/res-chatdemo/layout/activity_weather_detail.xml" timestamp="1484324916959">
+        <mark key="'" line="34" column="47" />
+        <mark key="[" line="175" column="62" />
+        <mark key="]" line="175" column="62" />
+        <mark key="^" line="175" column="62" />
+        <mark key="." line="175" column="62" />
       </file>
       <file name="/Dummy.txt" timestamp="1484317464361">
         <mark key="[" line="0" column="0" />
@@ -281,11 +281,11 @@
         <mark key="^" line="9" column="29" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/WeatherDetailActivity.java" timestamp="1484323222663">
-        <mark key="[" line="88" column="69" />
-        <mark key="]" line="88" column="69" />
-        <mark key="." line="88" column="69" />
-        <mark key="^" line="88" column="69" />
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/WeatherDetailActivity.java" timestamp="1484324773193">
+        <mark key="[" line="15" column="47" />
+        <mark key="]" line="15" column="48" />
+        <mark key="." line="15" column="48" />
+        <mark key="^" line="15" column="55" />
       </file>
       <file name="/fragment.java" timestamp="1484323197196">
         <mark key="[" line="0" column="0" />
@@ -404,7 +404,7 @@
         <text>基本废物......</text>
       </register>
       <register name="-" type="4">
-        <text>4</text>
+        <text>k</text>
       </register>
       <register name="/" type="4">
         <text>detail</text>
@@ -413,31 +413,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6cGFkZGluZz0iM2RwIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8L0xpbmVhckxheW91dD4K</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">CiAgICAgICAgPExpbmVhckxheW91dCBhbmRyb2lkOm9yaWVudGF0aW9uPSJ2ZXJ0aWNhbCIKICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCI+Cg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICA8L0xpbmVhckxheW91dD4K</text>
       </register>
-      <register name="5" type="2">
+      <register name="3" type="2">
         <text encoding="base64">CiAgICAgICAgPExpbmVhckxheW91dCBhbmRyb2lkOm9yaWVudGF0aW9uPSJ2ZXJ0aWNhbCIKICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCI+Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICA8L0xpbmVhckxheW91dD4K</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">CiAgICAgICAgPExpbmVhckxheW91dCBhbmRyb2lkOm9yaWVudGF0aW9uPSJ2ZXJ0aWNhbCIKICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCI+Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8TGluZWFyTGF5b3V0IGFuZHJvaWQ6b3JpZW50YXRpb249InZlcnRpY2FsIgogICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50Ij4KCg==</text>
+        <text encoding="base64">ICAgICAgICA8L0xpbmVhckxheW91dD4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICA8TGluZWFyTGF5b3V0IGFuZHJvaWQ6b3JpZW50YXRpb249InZlcnRpY2FsIgogICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50Ij4KCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
