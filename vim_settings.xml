@@ -215,14 +215,14 @@
         <mark key="." line="84" column="80" />
         <mark key="^" line="84" column="53" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/res-chatdemo/layout/activity_weather_detail.xml" timestamp="1484355144585">
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/res-chatdemo/layout/activity_weather_detail.xml" timestamp="1484355297371">
         <mark key="'" line="91" column="61" />
-        <mark key="[" line="296" column="57" />
-        <mark key="]" line="296" column="58" />
-        <mark key="^" line="52" column="92" />
-        <mark key="." line="296" column="58" />
+        <mark key="[" line="90" column="77" />
+        <mark key="]" line="90" column="78" />
+        <mark key="^" line="50" column="57" />
+        <mark key="." line="90" column="78" />
       </file>
-      <file name="/Dummy.txt" timestamp="1484328130352">
+      <file name="/Dummy.txt" timestamp="1484355171380">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/AlarmSubmitActivity.java" timestamp="1484062378248">
@@ -412,7 +412,7 @@
         <text>基本废物......</text>
       </register>
       <register name="-" type="4">
-        <text>weatherMap.get(w.getWeather());</text>
+        <text>shadow</text>
       </register>
       <register name="/" type="4">
         <text>1.3</text>
