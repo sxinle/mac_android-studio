@@ -111,6 +111,9 @@
         <mark key="[" line="119" column="0" />
         <mark key="]" line="119" column="61" />
       </file>
+      <file name="$USER_HOME$/workspace/waffair/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml" timestamp="1484390941974">
+        <mark key="'" line="1170" column="11" />
+      </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/easeui/widget/emojicon/EaseEmojiconPagerView.java" timestamp="1483767374115">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -314,6 +317,12 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/res/values/styles.xml" timestamp="1484391029016">
+        <mark key="[" line="18" column="50" />
+        <mark key="]" line="18" column="58" />
+        <mark key="." line="18" column="58" />
+        <mark key="^" line="18" column="58" />
+      </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/DataGatherActivity.java" timestamp="1484062398637">
         <mark key="'" line="44" column="40" />
         <mark key="[" line="30" column="0" />
@@ -469,7 +478,7 @@
         <mark key="." line="70" column="0" />
         <mark key="^" line="70" column="56" />
       </file>
-      <file name="/Dummy.txt" timestamp="1484377624615">
+      <file name="/Dummy.txt" timestamp="1484391119795">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/chatuidemo/widget/ChatRowVoiceCall.java" timestamp="1483767341397">
@@ -508,11 +517,11 @@
         <mark key="." line="11" column="58" />
         <mark key="^" line="11" column="58" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_login.xml" timestamp="1484389132790">
-        <mark key="[" line="99" column="0" />
-        <mark key="]" line="99" column="0" />
-        <mark key="." line="99" column="0" />
-        <mark key="^" line="99" column="47" />
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_login.xml" timestamp="1484390392449">
+        <mark key="[" line="98" column="67" />
+        <mark key="]" line="98" column="83" />
+        <mark key="." line="98" column="83" />
+        <mark key="^" line="98" column="83" />
       </file>
       <file name="/fragment.java" timestamp="1484388896095">
         <mark key="[" line="0" column="0" />
@@ -525,7 +534,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="258" column="47" filename="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_station_detail.xml" />
       <jump line="51" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_station_detail.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_station_detail.xml" />
       <jump line="81" column="44" filename="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_station_detail.xml" />
@@ -625,43 +633,44 @@
       <jump line="453" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
       <jump line="61" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
       <jump line="99" column="63" filename="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_login.xml" />
+      <jump line="1170" column="11" filename="$USER_HOME$/workspace/waffair/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>基本废物......</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>top_light_blue</text>
       </register>
       <register name="/" type="4">
-        <text>station_info</text>
+        <text>checkbox</text>
       </register>
-      <register name="0" type="4">
-        <text>(String)SPUtils.get(context, SPKey.USERNAME, &quot;&quot;)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICA8aXRlbSBuYW1lPSJjb2xvckFjY2VudCI+IzIwYTJlODwvaXRlbT4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6YnV0dG9uPSJAZHJhd2FibGUvZW1fY2hlY2tib3hfYmdfc2VsZWN0b3IiCg==</text>
+        <text encoding="base64">ICAgICAgICA8aXRlbSBuYW1lPSJjb2xvckFjY2VudCI+QGNvbG9yL3doaXRlPC9pdGVtPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6YnV0dG9uPSJAZHJhd2FibGUvZW1fY2hlY2tib3hfYmdfc2VsZWN0b3IiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXNlck5hbWUuc2V0VGV4dCgoU3RyaW5nKVNQVXRpbHMuZ2V0KGNvbnRleHQsIFNQS2V5LlVTRVJOQU1FLCAiIikpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXNlck5hbWUuc2V0VGV4dCgoU3RyaW5nKVNQVXRpbHMuZ2V0KGNvbnRleHQsIFNQS2V5LlVTRVJOQU1FLCAiIikpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgc2F2ZWRVc2VyTmFtZSA9IFNQVXRpbHMuZ2V0KGNvbnRleHQsIFNQS2V5LlVTRVJOQU1FLCBudWxsKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoU1BVdGlscy5nZXQoY29udGV4dCwgU1BLZXkuVVNFUk5BTUUsICIiKS50b1N0cmluZygpLmlzRW1wdHkoKSkgewogICAgICAgICAgICAKICAgICAgICB9Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgc2F2ZWRVc2VyTmFtZSA9IFNQVXRpbHMuZ2V0KGNvbnRleHQsIFNQS2V5LlVTRVJOQU1FLCBudWxsKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoU1BVdGlscy5nZXQoY29udGV4dCwgU1BLZXkuVVNFUk5BTUUsICIiKS50b1N0cmluZygpLmlzRW1wdHkoKSkgewogICAgICAgICAgICAKICAgICAgICB9Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -671,9 +680,9 @@
       </register>
     </registers>
     <search>
-      <last-search>station_info</last-search>
+      <last-search>checkbox</last-search>
       <last-offset />
-      <last-pattern>station_info</last-pattern>
+      <last-pattern>checkbox</last-pattern>
       <last-replace>20sp</last-replace>
       <last-substitute>@dimen\/font_size_xxlarge</last-substitute>
       <last-dir>1</last-dir>
@@ -681,7 +690,6 @@
     </search>
     <history>
       <history-search>
-        <entry>list</entry>
         <entry>loushi</entry>
         <entry>start</entry>
         <entry>nwgl</entry>
@@ -701,6 +709,7 @@
         <entry>detail</entry>
         <entry>1.3</entry>
         <entry>station_info</entry>
+        <entry>checkbox</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1N0cmVldFJlcS9TdHJlZXRQb2ludFJlcS9n</entry>
