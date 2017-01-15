@@ -98,12 +98,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/MainActivity2.java" timestamp="1484446627774">
-        <mark key="'" line="46" column="24" />
-        <mark key="[" line="160" column="0" />
-        <mark key="]" line="160" column="62" />
-        <mark key="^" line="177" column="11" />
-        <mark key="." line="160" column="0" />
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/MainActivity2.java" timestamp="1484447256149">
+        <mark key="'" line="52" column="32" />
+        <mark key="[" line="118" column="72" />
+        <mark key="]" line="118" column="72" />
+        <mark key="^" line="118" column="52" />
+        <mark key="." line="118" column="72" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_alarm_detail.xml" timestamp="1484385034468">
         <mark key="[" line="33" column="32" />
@@ -187,7 +187,7 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/res/layout/fragment_alarm_list.xml" timestamp="1484440649501">
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/res/layout/fragment_alarm_list.xml" timestamp="1484447654570">
         <mark key="[" line="119" column="45" />
         <mark key="]" line="119" column="51" />
         <mark key="." line="119" column="51" />
@@ -417,7 +417,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="235" column="40" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
       <jump line="364" column="47" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
       <jump line="53" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
@@ -517,19 +516,20 @@
       <jump line="360" column="15" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/MainActivity2.java" />
       <jump line="362" column="15" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/MainActivity2.java" />
       <jump line="46" column="24" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/MainActivity2.java" />
+      <jump line="52" column="32" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/MainActivity2.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>基本废物......</text>
       </register>
       <register name="-" type="4">
-        <text>Right</text>
+        <text>, alarmListFragment</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1bnJlYWRMYWJlbFw+</text>
+        <text encoding="base64">XDxmcmFnbWVudHNcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8UmVsYXRpdmVMYXlvdXQKICAgICAgICAgICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvYnRuX2NvbnRhaW5lcl9hbGFybV9saXN0IgogICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IjBkcCIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0ibWF0Y2hfcGFyZW50IgogICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2VpZ2h0PSIxIj4KCiAgICAgICAgICAgIDxCdXR0b24KICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL2J0bl9hbGFybV9saXN0IgogICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJtYXRjaF9wYXJlbnQiCiAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSJAZHJhd2FibGUvdG9wX2JvcmRlciIKICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmRyYXdhYmxlVG9wPSJAZHJhd2FibGUvZW1fdGFiX2FsYXJtX2JnIgogICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6b25DbGljaz0ib25UYWJDbGlja2VkIgogICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6cGFkZGluZ0JvdHRvbT0iMmRpcCIKICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOnBhZGRpbmdUb3A9IjdkaXAiCiAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpzY2FsZVR5cGU9Im1hdHJpeCIKICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOnRleHQ9IuaKpeitpiIKICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOnRleHRDb2xvcj0iIzcxODA5MyIKICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOnRleHRTaXplPSIxMnNwIi8+CgogICAgICAgICAgICA8VGV4dFZpZXcKICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3VucmVhZF9hbGFybV9udW1iZXIiCiAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9hbGlnblBhcmVudFJpZ2h0PSJ0cnVlIgogICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpblJpZ2h0PSIxMGRwIgogICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6YmFja2dyb3VuZD0iQGRyYXdhYmxlL2VtX3VucmVhZF9kb3QiCiAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDp2aXNpYmlsaXR5PSJ2aXNpYmxlIi8+CiAgICAgICAgPC9SZWxhdGl2ZUxheW91dD4K</text>
+      <register name="0" type="4">
+        <text>alarmListFragment</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2FsaWduU3RhcnQ9IkBpZC9idG5fYWxhcm1fbGlzdCIK</text>
@@ -563,9 +563,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1bnJlYWRMYWJlbFw+</last-search>
+      <last-search encoding="base64">XDxmcmFnbWVudHNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1bnJlYWRMYWJlbFw+</last-pattern>
+      <last-pattern encoding="base64">XDxmcmFnbWVudHNcPg==</last-pattern>
       <last-replace>20sp</last-replace>
       <last-substitute>@dimen\/font_size_xxlarge</last-substitute>
       <last-dir>1</last-dir>
@@ -573,7 +573,6 @@
     </search>
     <history>
       <history-search>
-        <entry>support</entry>
         <entry encoding="base64">XDx3ZWF0aGVySW1nXD4=</entry>
         <entry>onclick</entry>
         <entry>@id</entry>
@@ -593,6 +592,7 @@
         <entry encoding="base64">XDxhbGFybUxpc3RGcmFnbWVudFw+</entry>
         <entry encoding="base64">XDxtVGFic1w+</entry>
         <entry encoding="base64">XDx1bnJlYWRMYWJlbFw+</entry>
+        <entry encoding="base64">XDxmcmFnbWVudHNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1N0cmVldFJlcS9TdHJlZXRQb2ludFJlcS9n</entry>
