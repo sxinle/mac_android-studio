@@ -194,11 +194,12 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/AlarmListFragment.java" timestamp="1484450878340">
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/AlarmListFragment.java" timestamp="1484450983917">
         <mark key="'" line="22" column="14" />
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="0" />
-        <mark key="." line="74" column="0" />
+        <mark key="[" line="106" column="82" />
+        <mark key="]" line="106" column="101" />
+        <mark key="." line="106" column="101" />
+        <mark key="^" line="106" column="101" />
       </file>
       <file name="$USER_HOME$/workspace/Wx/app/src/main/java/com/wx/view/fragement/FragmentChat.java" timestamp="1484444221448">
         <mark key="[" line="33" column="0" />
@@ -592,7 +593,7 @@
         <text>基本废物......</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>list_alarm_item</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxidG5CYWNrXD4=</text>
