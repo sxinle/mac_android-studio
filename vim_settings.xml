@@ -39,6 +39,9 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/ContactListFragment.java" timestamp="1484394268940">
+        <mark key="'" line="63" column="79" />
+      </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/easeui/ui/EaseShowBigImageActivity.java" timestamp="1483767348112">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="0" />
@@ -48,6 +51,9 @@
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
+      </file>
+      <file name="/usr/local/android-sdk/platforms/android-25/android.jar!/android/app/Fragment.class" timestamp="1484394854081">
+        <mark key="'" line="38" column="13" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/easeui/utils/EaseUserUtils.java" timestamp="1483767354861">
         <mark key="[" line="5" column="0" />
@@ -106,6 +112,9 @@
       <file name="$USER_HOME$/workspace/waffair/app/src/main/res-chatdemo/layout/em_activity_new_group.xml" timestamp="1484387855892">
         <mark key="[" line="119" column="0" />
         <mark key="]" line="119" column="61" />
+      </file>
+      <file name="$USER_HOME$/workspace/waffair/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml" timestamp="1484390941974">
+        <mark key="'" line="1170" column="11" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/easeui/widget/emojicon/EaseEmojiconPagerView.java" timestamp="1483767374115">
         <mark key="[" line="10" column="0" />
@@ -336,6 +345,9 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/ConversationListFragment.java" timestamp="1484394527163">
+        <mark key="'" line="143" column="43" />
+      </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/res/values/styles.xml" timestamp="1484453758583">
         <mark key="[" line="21" column="17" />
         <mark key="]" line="21" column="35" />
@@ -382,7 +394,6 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/res/layout/fragAlarm.xml" timestamp="1484395591051" />
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/easeui/widget/EaseContactList.java" timestamp="1483767331463">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -392,6 +403,9 @@
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/MPAndroidChart-3.0.1/MPChartExample/AndroidManifest.xml" timestamp="1484464837988">
+        <mark key="'" line="14" column="35" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/easeui/widget/EaseChatExtendMenu.java" timestamp="1483767322302">
         <mark key="[" line="10" column="0" />
@@ -585,8 +599,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="55" filename="$USER_HOME$/workspace/waffair/app/build.gradle" />
-      <jump line="210" column="29" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
       <jump line="111" column="99" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/LeakMngActivity.java" />
       <jump line="62" column="46" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/StationInfoActivity.java" />
       <jump line="73" column="1" filename="$USER_HOME$/workspace/waffair/app/build.gradle" />
@@ -685,6 +697,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/res/drawable/checkboxstyle.xml" />
       <jump line="56" column="43" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/AlarmListFragment.java" />
       <jump line="2" column="0" filename="$USER_HOME$/workspace/waffair/app/build.gradle" />
+      <jump line="10" column="0" filename="$USER_HOME$/Desktop/MPAndroidChart-3.0.1/MPChartExample/AndroidManifest.xml" />
+      <jump line="14" column="35" filename="$USER_HOME$/Desktop/MPAndroidChart-3.0.1/MPChartExample/AndroidManifest.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -694,7 +708,7 @@
         <text>VISIBLE</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxidG5CYWNrXD4=</text>
+        <text>launcher</text>
       </register>
       <register name="0" type="4">
         <text>CustomCheckboxTheme</text>
@@ -731,9 +745,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxidG5CYWNrXD4=</last-search>
+      <last-search>launcher</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxidG5CYWNrXD4=</last-pattern>
+      <last-pattern>launcher</last-pattern>
       <last-replace>20sp</last-replace>
       <last-substitute>@dimen\/font_size_xxlarge</last-substitute>
       <last-dir>1</last-dir>
@@ -741,7 +755,6 @@
     </search>
     <history>
       <history-search>
-        <entry>@dimen\/font_size_small</entry>
         <entry>@dimen\/font_size_default</entry>
         <entry>@dimen\/font_size_xxlarge</entry>
         <entry>bg_water</entry>
@@ -761,6 +774,7 @@
         <entry>left</entry>
         <entry encoding="base64">XDxsZWZ0TGF5b3V0XD4=</entry>
         <entry encoding="base64">XDxidG5CYWNrXD4=</entry>
+        <entry>launcher</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1N0cmVldFJlcS9TdHJlZXRQb2ludFJlcS9n</entry>
