@@ -101,12 +101,8 @@
         <mark key="." line="74" column="43" />
         <mark key="^" line="74" column="43" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/AndroidManifest.xml" timestamp="1484496607664">
-        <mark key="'" line="49" column="51" />
-        <mark key="[" line="49" column="47" />
-        <mark key="]" line="49" column="66" />
-        <mark key="^" line="49" column="66" />
-        <mark key="." line="49" column="66" />
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/AndroidManifest.xml" timestamp="1484576268024">
+        <mark key="'" line="439" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/GroupContactActivity.java" timestamp="1484495720752">
         <mark key="'" line="157" column="99" />
@@ -135,6 +131,7 @@
         <mark key="." line="76" column="0" />
         <mark key="^" line="77" column="3" />
       </file>
+      <file name="$USER_HOME$/workspace/MyApplication/app/src/main/res/values/strings.xml" timestamp="1484576571207" />
       <file name="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_pic_detail.xml" timestamp="1484391465231">
         <mark key="[" line="17" column="45" />
         <mark key="]" line="17" column="46" />
@@ -194,6 +191,7 @@
         <mark key="^" line="54" column="38" />
         <mark key="." line="58" column="12" />
       </file>
+      <file name="$USER_HOME$/workspace/MyApplication/app/src/main/res/values/public.xml" timestamp="1484576589802" />
       <file name="$USER_HOME$/workspace/waffair/app/src/main/res/layout/list_data_gather_item.xml" timestamp="1484453502505">
         <mark key="'" line="242" column="52" />
         <mark key="[" line="3" column="0" />
@@ -221,7 +219,7 @@
         <mark key="^" line="85" column="47" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1484496617161">
+      <file name="/Dummy.txt" timestamp="1484576378121">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/res/layout/frag_item_alarm_list.xml" timestamp="1484465708143">
@@ -248,7 +246,7 @@
         <mark key="." line="14" column="34" />
         <mark key="^" line="14" column="27" />
       </file>
-      <file name="/a.regexp" timestamp="1484385023264">
+      <file name="/a.regexp" timestamp="1484576590761">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_energy_mng.xml" timestamp="1484475241950">
@@ -320,8 +318,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="363" column="9" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/MainActivity2.java" />
-      <jump line="359" column="15" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/MainActivity2.java" />
       <jump line="46" column="24" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/MainActivity2.java" />
       <jump line="52" column="32" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/MainActivity2.java" />
       <jump line="44" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/AlarmHandleActivity.java" />
@@ -420,6 +416,8 @@
       <jump line="21" column="50" filename="$USER_HOME$/workspace/waffair/app/src/main/res-easeui/values/ease_colors.xml" />
       <jump line="14" column="17" filename="$USER_HOME$/workspace/waffair/app/src/main/res-easeui/values/ease_colors.xml" />
       <jump line="49" column="51" filename="$USER_HOME$/workspace/waffair/app/src/main/AndroidManifest.xml" />
+      <jump line="60" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/AndroidManifest.xml" />
+      <jump line="439" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/AndroidManifest.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -472,7 +470,7 @@
       <last-replace>20sp</last-replace>
       <last-substitute>@dimen\/font_size_xxlarge</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
