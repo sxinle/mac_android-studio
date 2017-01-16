@@ -101,8 +101,8 @@
         <mark key="." line="74" column="43" />
         <mark key="^" line="74" column="43" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/AndroidManifest.xml" timestamp="1484576268024">
-        <mark key="'" line="439" column="0" />
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/AndroidManifest.xml" timestamp="1484577338457">
+        <mark key="'" line="49" column="51" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/GroupContactActivity.java" timestamp="1484495720752">
         <mark key="'" line="157" column="99" />
@@ -318,7 +318,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="24" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/MainActivity2.java" />
       <jump line="52" column="32" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/MainActivity2.java" />
       <jump line="44" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/AlarmHandleActivity.java" />
       <jump line="251" column="16" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/MainActivity2.java" />
@@ -402,7 +401,6 @@
       <jump line="92" column="83" filename="$USER_HOME$/workspace/waffair/app/src/main/AndroidManifest.xml" />
       <jump line="105" column="82" filename="$USER_HOME$/workspace/waffair/app/src/main/AndroidManifest.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/AndroidManifest.xml" />
-      <jump line="40" column="42" filename="$USER_HOME$/workspace/waffair/app/src/main/AndroidManifest.xml" />
       <jump line="0" column="29" filename="$USER_HOME$/workspace/waffair/app/src/main/res/drawable/elv_indicator.xml" />
       <jump line="69" column="92" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/GroupContactActivity.java" />
       <jump line="160" column="9" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/GroupContactActivity.java" />
@@ -415,9 +413,11 @@
       <jump line="155" column="99" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/GroupContactActivity.java" />
       <jump line="21" column="50" filename="$USER_HOME$/workspace/waffair/app/src/main/res-easeui/values/ease_colors.xml" />
       <jump line="14" column="17" filename="$USER_HOME$/workspace/waffair/app/src/main/res-easeui/values/ease_colors.xml" />
-      <jump line="49" column="51" filename="$USER_HOME$/workspace/waffair/app/src/main/AndroidManifest.xml" />
       <jump line="60" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/AndroidManifest.xml" />
       <jump line="439" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/AndroidManifest.xml" />
+      <jump line="13" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/AndroidManifest.xml" />
+      <jump line="40" column="42" filename="$USER_HOME$/workspace/waffair/app/src/main/AndroidManifest.xml" />
+      <jump line="49" column="51" filename="$USER_HOME$/workspace/waffair/app/src/main/AndroidManifest.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -470,7 +470,7 @@
       <last-replace>20sp</last-replace>
       <last-substitute>@dimen\/font_size_xxlarge</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -490,9 +490,9 @@
         <entry encoding="base64">XDxHcm91cFw+</entry>
         <entry encoding="base64">XDxpbWdfaWNvblw+</entry>
         <entry>lau</entry>
-        <entry>laun</entry>
         <entry>null</entry>
         <entry>divi</entry>
+        <entry>laun</entry>
         <entry encoding="base64">XDxHcm91cENvbnRhY3RBY3Rpdml0eVw+</entry>
       </history-search>
       <history-cmd>
