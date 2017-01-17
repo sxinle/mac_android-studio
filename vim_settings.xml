@@ -131,7 +131,6 @@
         <mark key="." line="76" column="0" />
         <mark key="^" line="77" column="3" />
       </file>
-      <file name="$USER_HOME$/workspace/MyApplication/app/src/main/res/values/strings.xml" timestamp="1484576571207" />
       <file name="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_pic_detail.xml" timestamp="1484391465231">
         <mark key="[" line="17" column="45" />
         <mark key="]" line="17" column="46" />
@@ -191,7 +190,6 @@
         <mark key="^" line="54" column="38" />
         <mark key="." line="58" column="12" />
       </file>
-      <file name="$USER_HOME$/workspace/MyApplication/app/src/main/res/values/public.xml" timestamp="1484576589802" />
       <file name="$USER_HOME$/workspace/waffair/app/src/main/res/layout/list_data_gather_item.xml" timestamp="1484453502505">
         <mark key="'" line="242" column="52" />
         <mark key="[" line="3" column="0" />
@@ -219,7 +217,7 @@
         <mark key="^" line="85" column="47" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1484576378121">
+      <file name="/Dummy.txt" timestamp="1484654553869">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/res/layout/frag_item_alarm_list.xml" timestamp="1484465708143">
@@ -470,7 +468,7 @@
       <last-replace>20sp</last-replace>
       <last-substitute>@dimen\/font_size_xxlarge</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
