@@ -21,12 +21,12 @@
         <mark key="." line="74" column="43" />
         <mark key="^" line="74" column="43" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/AndroidManifest.xml" timestamp="1484828762068">
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/AndroidManifest.xml" timestamp="1484838843919">
         <mark key="'" line="73" column="0" />
         <mark key="[" line="43" column="34" />
-        <mark key="]" line="43" column="37" />
-        <mark key="." line="43" column="37" />
-        <mark key="^" line="43" column="37" />
+        <mark key="]" line="43" column="38" />
+        <mark key="." line="43" column="38" />
+        <mark key="^" line="43" column="38" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_station_chart.xml" timestamp="1484475020365">
         <mark key="[" line="30" column="39" />
@@ -61,11 +61,16 @@
         <mark key="]" line="78" column="0" />
         <mark key="." line="78" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/data/entity/Station.java" timestamp="1484833899831">
-        <mark key="[" line="84" column="31" />
-        <mark key="]" line="84" column="32" />
-        <mark key="." line="84" column="32" />
-        <mark key="^" line="84" column="32" />
+      <file name="/usr/local/android-sdk/platforms/android-25/android.jar!/android/graphics/drawable/Drawable.class" timestamp="1484838995653">
+        <mark key="[" line="295" column="20" />
+        <mark key="]" line="295" column="32" />
+      </file>
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/data/entity/Station.java" timestamp="1484838467001">
+        <mark key="'" line="313" column="46" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
+        <mark key="^" line="48" column="99" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_pic_detail.xml" timestamp="1484391465231">
         <mark key="[" line="17" column="45" />
@@ -96,6 +101,11 @@
         <mark key="]" line="0" column="38" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="3" column="45" />
+      </file>
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/res/drawable/text_bg_gather_red_corner_big.xml" timestamp="1484838675571">
+        <mark key="[" line="3" column="29" />
+        <mark key="]" line="3" column="30" />
+        <mark key="." line="3" column="30" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/BaseActivity.java" timestamp="1484444871956">
         <mark key="[" line="36" column="8" />
@@ -161,17 +171,23 @@
         <mark key="." line="5" column="38" />
         <mark key="^" line="4" column="53" />
       </file>
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/utils/Http.java" timestamp="1484743944197">
+        <mark key="[" line="33" column="81" />
+        <mark key="]" line="33" column="81" />
+        <mark key="." line="33" column="81" />
+      </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/DevicesListActivity.java" timestamp="1484748100036">
         <mark key="[" line="59" column="25" />
         <mark key="]" line="57" column="34" />
         <mark key="^" line="57" column="34" />
         <mark key="." line="59" column="34" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/DataGatherActivity.java" timestamp="1484836476746">
-        <mark key="[" line="110" column="41" />
-        <mark key="]" line="110" column="41" />
-        <mark key="." line="110" column="41" />
-        <mark key="^" line="144" column="81" />
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/DataGatherActivity.java" timestamp="1484839061485">
+        <mark key="'" line="153" column="26" />
+        <mark key="[" line="97" column="117" />
+        <mark key="]" line="97" column="117" />
+        <mark key="." line="97" column="117" />
+        <mark key="^" line="96" column="15" />
       </file>
       <file name="/a.regexp" timestamp="1484744692160">
         <mark key="[" line="0" column="0" />
@@ -234,7 +250,7 @@
         <mark key="^" line="7" column="45" />
         <mark key="." line="7" column="45" />
       </file>
-      <file name="/fragment.java" timestamp="1484836463004">
+      <file name="/fragment.java" timestamp="1484839114690">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/res-chatdemo/layout/activity_inet_devicelist.xml" timestamp="1484749657576">
@@ -245,10 +261,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="39" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/MainActivity2.java" />
-      <jump line="48" column="21" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/MainActivity2.java" />
-      <jump line="157" column="54" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/MainActivity2.java" />
-      <jump line="379" column="8" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/MainActivity2.java" />
       <jump line="374" column="61" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/MainActivity2.java" />
       <jump line="376" column="63" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/MainActivity2.java" />
       <jump line="360" column="46" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/MainActivity2.java" />
@@ -345,55 +357,59 @@
       <jump line="101" column="76" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/DataGatherActivity.java" />
       <jump line="27" column="17" filename="$USER_HOME$/workspace/waffair/app/src/main/res/layout/item_data_gather_list.xml" />
       <jump line="232" column="22" filename="$USER_HOME$/workspace/waffair/app/src/main/res/layout/item_data_gather_list.xml" />
+      <jump line="313" column="46" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/data/entity/Station.java" />
+      <jump line="149" column="21" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/DataGatherActivity.java" />
+      <jump line="116" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/DataGatherActivity.java" />
+      <jump line="148" column="26" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/DataGatherActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>基本废物......</text>
       </register>
       <register name="-" type="4">
-        <text>\</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>red</text>
+        <text>red_cor</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FzZSBSLmlkLnNoZXlhX2hpZ2g6CiAgICAgICAgICAgIGNhc2UgUi5pZC5zaGV5YV9taWQ6CiAgICAgICAgICAgIGNhc2UgUi5pZC5zaGV5YV9sb3c6CiAgICAgICAgICAgIGNhc2UgUi5pZC5zaGl5YV9oaWdoOgogICAgICAgICAgICBjYXNlIFIuaWQuc2hpeWFfbWlkOgogICAgICAgICAgICBjYXNlIFIuaWQuc2hpeWFfbG93OgogICAgICAgICAgICBjYXNlIFIuaWQuZGlhbmxpdV9oaWdoOgogICAgICAgICAgICBjYXNlIFIuaWQuZGlhbmxpdV9taWQ6CiAgICAgICAgICAgIGNhc2UgUi5pZC5kaWFubGl1X2xvdzoKICAgICAgICAgICAgY2FzZSBSLmlkLmxpdWxpYW5nX2hpZ2g6CiAgICAgICAgICAgIGNhc2UgUi5pZC5saXVsaWFuZ19taWQ6CiAgICAgICAgICAgIGNhc2UgUi5pZC5saXVsaWFuZ19sb3c6CiAgICAgICAgICAgIGNhc2UgUi5pZC55dWx2OgogICAgICAgICAgICBjYXNlIFIuaWQueWV3ZWk6Cg==</text>
+      <register name="0" type="4">
+        <text>getResources().getDrawable(R.drawable.text_bg_gather_red_corner).getConstantState()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZihzaXRlbmFtZS5lcXVhbHMoIuaFp+e8mOmmqOadkeS4gOacnyIpKXsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBCaW5kVmlldyhSLmlkLm9yZykKICAgIFRleHRWaWV3IG9yZzsKICAgIEBCaW5kVmlldyhSLmlkLm5vdykKICAgIFRleHRWaWV3IG5vdzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcGQuZGlzbWlzcygpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcGQuZGlzbWlzcygpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcGQuZGlzbWlzcygpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgYWxhcm1UeXBlID0gIiI7Ly8g5oql6K2m57G75YirLOeUqOadpeetm+mAiWFsYXJtSW5mb+WvueixoQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFsYXJtVHlwZSA9ICJZXyI7CiAgICAgICAgICAgICAgICBpZiAoc2hvdWxkUmVkaXJlY3QodikpIHsKICAgICAgICAgICAgICAgICAgICBBbGFybUluZm8gYWxhcm0gPSBnZXRBbGFybSh2LCBhbGFybVR5cGUpOwogICAgICAgICAgICAgICAgICAgIGlmIChhbGFybSAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIEJ1bmRsZSBiID0gbmV3IEJ1bmRsZSgpOwogICAgICAgICAgICAgICAgICAgICAgICBiLnB1dFNlcmlhbGl6YWJsZSgiYWxhcm0iLCBhbGFybSk7CiAgICAgICAgICAgICAgICAgICAgICAgIGkucHV0RXh0cmFzKGIpOwogICAgICAgICAgICAgICAgICAgICAgICBzdGFydEFjdGl2aXR5KGkpOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2IudG9TdHJpbmcoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgIEBCaW5kVmlldyhSLmlkLm9yZykKICAgIFRleHRWaWV3IG9yZzsKICAgIEBCaW5kVmlldyhSLmlkLm5vdykKICAgIFRleHRWaWV3IG5vdzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>red</last-search>
+      <last-search>red_cor</last-search>
       <last-offset />
-      <last-pattern>red</last-pattern>
+      <last-pattern>red_cor</last-pattern>
       <last-replace>20sp</last-replace>
       <last-substitute>@dimen\/font_size_xxlarge</last-substitute>
       <last-dir>1</last-dir>
@@ -401,7 +417,6 @@
     </search>
     <history>
       <history-search>
-        <entry>visi</entry>
         <entry>onclick</entry>
         <entry encoding="base64">XDxHcm91cFw+</entry>
         <entry encoding="base64">XDxpbWdfaWNvblw+</entry>
@@ -421,6 +436,7 @@
         <entry encoding="base64">XDxzdGF0aW9uc1w+</entry>
         <entry>高</entry>
         <entry>red</entry>
+        <entry>red_cor</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3N0cmVldFJlcS9zdHJlZXRQb2ludFJlcS9n</entry>
