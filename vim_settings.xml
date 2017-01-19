@@ -55,6 +55,12 @@
         <mark key="]" line="78" column="0" />
         <mark key="." line="78" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/data/entity/Station.java" timestamp="1484833899831">
+        <mark key="[" line="84" column="31" />
+        <mark key="]" line="84" column="32" />
+        <mark key="." line="84" column="32" />
+        <mark key="^" line="84" column="32" />
+      </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_pic_detail.xml" timestamp="1484391465231">
         <mark key="[" line="17" column="45" />
         <mark key="]" line="17" column="46" />
@@ -149,11 +155,11 @@
         <mark key="^" line="57" column="34" />
         <mark key="." line="59" column="34" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/DataGatherActivity.java" timestamp="1484831850132">
-        <mark key="[" line="101" column="19" />
-        <mark key="]" line="101" column="19" />
-        <mark key="." line="101" column="19" />
-        <mark key="^" line="101" column="19" />
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/DataGatherActivity.java" timestamp="1484834462454">
+        <mark key="[" line="142" column="49" />
+        <mark key="]" line="142" column="49" />
+        <mark key="." line="142" column="49" />
+        <mark key="^" line="142" column="49" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/easeui/widget/EaseChatInputMenu.java" timestamp="1484744701120">
         <mark key="'" line="42" column="34" />
@@ -209,9 +215,12 @@
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/easeui/ui/EaseChatFragment.java" timestamp="1484660450114">
         <mark key="'" line="16" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/res/layout/item_data_gather_list.xml" timestamp="1484831661679">
-        <mark key="'" line="27" column="17" />
-        <mark key="^" line="34" column="45" />
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/res/layout/item_data_gather_list.xml" timestamp="1484834006861">
+        <mark key="'" line="232" column="22" />
+        <mark key="[" line="97" column="67" />
+        <mark key="]" line="97" column="70" />
+        <mark key="^" line="97" column="70" />
+        <mark key="." line="97" column="70" />
       </file>
       <file name="/fragment.java" timestamp="1484831560906">
         <mark key="[" line="0" column="0" />
@@ -224,7 +233,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="22" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/StationChartActivity.java" />
       <jump line="47" column="39" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/MainActivity2.java" />
       <jump line="48" column="21" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/MainActivity2.java" />
       <jump line="157" column="54" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/MainActivity2.java" />
@@ -324,16 +332,17 @@
       <jump line="109" column="36" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/DataGatherActivity.java" />
       <jump line="101" column="76" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/DataGatherActivity.java" />
       <jump line="27" column="17" filename="$USER_HOME$/workspace/waffair/app/src/main/res/layout/item_data_gather_list.xml" />
+      <jump line="232" column="22" filename="$USER_HOME$/workspace/waffair/app/src/main/res/layout/item_data_gather_list.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>基本废物......</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>k</text>
       </register>
       <register name="/" type="4">
-        <text>高</text>
+        <text>red</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6dmlzaWJpbGl0eT0iZ29uZSIK</text>
@@ -342,37 +351,37 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGkucHV0RXh0cmEoInNuYW1lIiwgbGlzdC5nZXQoKEludGVnZXIpIHYuZ2V0VGFnKCkpLnNpdGVuYW1lKTsKICAgICAgICAgICAgICAgIHN0YXJ0QWN0aXZpdHkoaSk7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoQXBwLmluRGV2KSB7CiAgICAgICAgICAgIG1vY2tEYXRhKCk7CiAgICAgICAgfSBlbHNlIHsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CiAgICBwcml2YXRlIHZvaWQgbW9ja0RhdGEoKSB7CiAgICAgICAgc3RhdGlvbnMgPSBuZXcgQXJyYXlMaXN0PD4oKTsKICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IDIwOyBpKyspIHsKICAgICAgICAgICAgU3RhdGlvbiBhID0gbmV3IFN0YXRpb24oKTsKICAgICAgICAgICAgYS5zZXRTaXRlbmFtZShNb2NrRGF0YS5zdGF0aW9uTmFtZXMuZ2V0KGkpKTsKICAgICAgICAgICAgLy8gYS5zZXRJY29uKE1vY2tEYXRhLmltZ0lkc1tpXSArICIiKTsKICAgICAgICAgICAgc3RhdGlvbnMuYWRkKGEpOwogICAgICAgIH0KICAgICAgICBhbGFybUdhdGhlckxpc3Quc2V0QWRhcHRlcihuZXcgQWRhcHRlcigpKTsK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGhvbGRlci55dWx2LnNldEJhY2tncm91bmQoZ2V0UmVzb3VyY2VzKCkuZ2V0RHJhd2FibGUoUi5kcmF3YWJsZS50ZXh0X2JnX2dhdGhlcl9yZWRfY29ybmVyKSk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc3dpdGNoICgpCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8gYWxhcm0uZ2V05L2N5Y+3KCkK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBtb2NrRGF0YSgpIHsKICAgICAgICBzdGF0aW9ucyA9IG5ldyBBcnJheUxpc3Q8PigpOwogICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgMjA7IGkrKykgewogICAgICAgICAgICBTdGF0aW9uIGEgPSBuZXcgU3RhdGlvbigpOwogICAgICAgICAgICBhLnNldFNpdGVuYW1lKE1vY2tEYXRhLnN0YXRpb25OYW1lcy5nZXQoaSkpOwogICAgICAgICAgICAvLyBhLnNldEljb24oTW9ja0RhdGEuaW1nSWRzW2ldICsgIiIpOwogICAgICAgICAgICBzdGF0aW9ucy5hZGQoYSk7CiAgICAgICAgfQogICAgICAgIGFsYXJtR2F0aGVyTGlzdC5zZXRBZGFwdGVyKG5ldyBBZGFwdGVyKCkpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTGlzdDxTdGF0aW9uPiBzdGF0aW9uczsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>高</last-search>
+      <last-search>red</last-search>
       <last-offset />
-      <last-pattern>高</last-pattern>
+      <last-pattern>red</last-pattern>
       <last-replace>20sp</last-replace>
       <last-substitute>@dimen\/font_size_xxlarge</last-substitute>
       <last-dir>1</last-dir>
@@ -380,7 +389,6 @@
     </search>
     <history>
       <history-search>
-        <entry>unread</entry>
         <entry>visi</entry>
         <entry>onclick</entry>
         <entry encoding="base64">XDxHcm91cFw+</entry>
@@ -400,6 +408,7 @@
         <entry encoding="base64">XDxzaXRlRGF0YU1hcFw+</entry>
         <entry encoding="base64">XDxzdGF0aW9uc1w+</entry>
         <entry>高</entry>
+        <entry>red</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3N0cmVldFJlcS9zdHJlZXRQb2ludFJlcS9n</entry>
