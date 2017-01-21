@@ -27,19 +27,21 @@
         <mark key="." line="57" column="33" />
         <mark key="^" line="57" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/ContactListFragment.java" timestamp="1484977335764">
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/ContactListFragment.java" timestamp="1485001160325">
         <mark key="'" line="47" column="13" />
+        <mark key="[" line="123" column="0" />
+        <mark key="]" line="123" column="109" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/res/drawable/text_bg_gather_red_corner_big.xml" timestamp="1484838675571">
         <mark key="[" line="3" column="29" />
         <mark key="]" line="3" column="30" />
         <mark key="." line="3" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/ContactListFragment2.java" timestamp="1484966630714">
-        <mark key="'" line="79" column="43" />
-        <mark key="[" line="89" column="0" />
-        <mark key="]" line="89" column="0" />
-        <mark key="." line="89" column="0" />
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/ContactListFragment2.java" timestamp="1485001167842">
+        <mark key="'" line="82" column="43" />
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="84" column="0" />
+        <mark key="." line="84" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/res/values/styles.xml" timestamp="1484453758583">
         <mark key="[" line="21" column="17" />
@@ -78,10 +80,6 @@
         <mark key="]" line="36" column="51" />
         <mark key="." line="36" column="51" />
         <mark key="^" line="36" column="51" />
-      </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_data_gather.xml" timestamp="1484976994776">
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="70" column="59" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_ueer_center.xml" timestamp="1484977667897">
         <mark key="'" line="57" column="21" />
@@ -241,6 +239,11 @@
         <mark key="^" line="141" column="56" />
         <mark key="." line="141" column="29" />
       </file>
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/chatuidemo/DemoHelper.java" timestamp="1485000112482">
+        <mark key="[" line="236" column="0" />
+        <mark key="]" line="236" column="0" />
+        <mark key="." line="236" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/res-chatdemo/drawable/em_tab_alarm_bg.xml" timestamp="1484393919860">
         <mark key="[" line="4" column="38" />
         <mark key="]" line="4" column="52" />
@@ -279,9 +282,9 @@
         <mark key="]" line="116" column="0" />
         <mark key="." line="116" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/utils/Http.java" timestamp="1484743944197">
-        <mark key="[" line="33" column="81" />
-        <mark key="]" line="33" column="81" />
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/utils/Http.java" timestamp="1485000865887">
+        <mark key="[" line="58" column="11" />
+        <mark key="]" line="58" column="45" />
         <mark key="." line="33" column="81" />
       </file>
       <file name="/a.regexp" timestamp="1484744692160">
@@ -449,26 +452,26 @@
       <register name="/" type="4">
         <text>18sp</text>
       </register>
-      <register name="0" type="4">
-        <text>ShapedImageView</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdGFydEFjdGl2aXR5KG5ldyBJbnRlbnQoZ2V0QWN0aXZpdHkoKSwgQ2hhdEFjdGl2aXR5LmNsYXNzKS5wdXRFeHRyYSgidXNlcklkIiwgdXNlcm5hbWUpKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8VmlldyBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IiBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IjFkcCIgYW5kcm9pZDpiYWNrZ3JvdW5kPSJAY29sb3IvZ3JheSIvPgo=</text>
+        <text encoding="base64">ICAgICAgICBvcHRpb25zLnNldE1pcHVzaENvbmZpZyhrKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8VmlldyBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IiBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IjFkcCIgYW5kcm9pZDpiYWNrZ3JvdW5kPSJAY29sb3IvZ3JheSIvPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgRU1DCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9MaW5lYXJMYXlvdXQ+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9MaW5lYXJMYXlvdXQ+CiAgICAgICAgICAgIDxMaW5lYXJMYXlvdXQgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpncmF2aXR5PSJjZW50ZXJfdmVydGljYWwiIGFuZHJvaWQ6bGF5b3V0X2FsaWduUGFyZW50UmlnaHQ9InRydWUiPgo=</text>
+        <text encoding="base64">ICAgICAgICA8VmlldyBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IiBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IjFkcCIgYW5kcm9pZDpiYWNrZ3JvdW5kPSJAY29sb3IvZ3JheSIvPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPExpbmVhckxheW91dCBhbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50IiBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmdyYXZpdHk9ImNlbnRlcl92ZXJ0aWNhbCI+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8VmlldyBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IiBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IjFkcCIgYW5kcm9pZDpiYWNrZ3JvdW5kPSJAY29sb3IvZ3JheSIvPgo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPC9MaW5lYXJMYXlvdXQ+Cg==</text>
