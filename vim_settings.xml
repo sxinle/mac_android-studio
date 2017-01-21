@@ -150,12 +150,6 @@
         <mark key="^" line="12" column="111" />
         <mark key="." line="12" column="111" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/build.gradle" timestamp="1485012251850">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="76" column="67" />
-        <mark key="." line="78" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_pic_detail.xml" timestamp="1484391465231">
         <mark key="[" line="17" column="45" />
         <mark key="]" line="17" column="46" />
@@ -240,7 +234,7 @@
         <mark key="." line="106" column="69" />
         <mark key="^" line="106" column="71" />
       </file>
-      <file name="/Dummy.txt" timestamp="1485022864307">
+      <file name="/Dummy.txt" timestamp="1485028659377">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/AlarmSubmitActivity.java" timestamp="1484836036229">
@@ -281,7 +275,7 @@
         <mark key="." line="69" column="20" />
         <mark key="^" line="69" column="20" />
       </file>
-      <file name="/a.regexp" timestamp="1484744692160">
+      <file name="/a.regexp" timestamp="1485029022605">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/res/layout/item_contact_list.xml" timestamp="1485017454212">
@@ -320,12 +314,6 @@
       <file name="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_login.xml" timestamp="1485022570116">
         <mark key="[" line="76" column="0" />
         <mark key="]" line="78" column="40" />
-      </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/res/layout/fragment_alarm_list.xml" timestamp="1485019445396">
-        <mark key="'" line="20" column="0" />
-        <mark key="[" line="95" column="38" />
-        <mark key="]" line="95" column="49" />
-        <mark key="." line="81" column="38" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/data/pojo/AlarmInfo.java" timestamp="1485013018631">
         <mark key="[" line="53" column="26" />
