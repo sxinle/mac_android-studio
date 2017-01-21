@@ -37,11 +37,11 @@
         <mark key="]" line="3" column="30" />
         <mark key="." line="3" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/ContactListFragment2.java" timestamp="1485001167842">
-        <mark key="'" line="82" column="43" />
-        <mark key="[" line="84" column="0" />
-        <mark key="]" line="84" column="0" />
-        <mark key="." line="84" column="0" />
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/ContactListFragment2.java" timestamp="1485001328305">
+        <mark key="'" line="80" column="43" />
+        <mark key="[" line="82" column="95" />
+        <mark key="]" line="82" column="149" />
+        <mark key="." line="82" column="95" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/res/values/styles.xml" timestamp="1484453758583">
         <mark key="[" line="21" column="17" />
@@ -316,7 +316,6 @@
         <mark key="^" line="9" column="38" />
         <mark key="." line="9" column="38" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/res-chatdemo/layout/em_choose_griditem.xml" timestamp="1484977409403" />
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/AlarmListFragment.java" timestamp="1484966340403">
         <mark key="'" line="52" column="26" />
         <mark key="[" line="45" column="0" />
@@ -447,13 +446,13 @@
         <text>基本废物......</text>
       </register>
       <register name="-" type="4">
-        <text>j</text>
+        <text>username</text>
       </register>
       <register name="/" type="4">
         <text>18sp</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdGFydEFjdGl2aXR5KG5ldyBJbnRlbnQoZ2V0QWN0aXZpdHkoKSwgQ2hhdEFjdGl2aXR5LmNsYXNzKS5wdXRFeHRyYSgidXNlcklkIiwgdXNlcm5hbWUpKTsK</text>
+      <register name="0" type="4">
+        <text>iData.get(groupPosition).get(childPosition).getiName()</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -493,7 +492,7 @@
       <last-replace>20sp</last-replace>
       <last-substitute>@dimen\/font_size_xxlarge</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
