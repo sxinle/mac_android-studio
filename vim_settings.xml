@@ -269,7 +269,7 @@
         <mark key="." line="106" column="69" />
         <mark key="^" line="106" column="71" />
       </file>
-      <file name="/Dummy.txt" timestamp="1485011684930">
+      <file name="/Dummy.txt" timestamp="1485018225457">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/AlarmSubmitActivity.java" timestamp="1484836036229">
@@ -297,10 +297,10 @@
         <mark key="." line="18" column="44" />
         <mark key="^" line="18" column="44" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/LoginActivity.java" timestamp="1485012969172">
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/LoginActivity.java" timestamp="1485018438829">
         <mark key="'" line="118" column="33" />
-        <mark key="[" line="174" column="58" />
-        <mark key="]" line="174" column="58" />
+        <mark key="[" line="174" column="0" />
+        <mark key="]" line="174" column="88" />
         <mark key="^" line="174" column="53" />
         <mark key="." line="174" column="58" />
       </file>
@@ -327,7 +327,7 @@
         <mark key="." line="54" column="9" />
         <mark key="^" line="54" column="9" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/data/pojo/DataSum.java" timestamp="1485016548063">
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/data/pojo/DataSum.java" timestamp="1485018651909">
         <mark key="'" line="418" column="30" />
         <mark key="[" line="96" column="23" />
         <mark key="]" line="96" column="53" />
@@ -482,7 +482,7 @@
         <text encoding="base64">XDxjb25maXJtXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxjb20uaHlwaGVuYXRlLmVhc2V1aS53aWRnZXQuY2hhdHJvdy5TaGFwZWRJbWFnZVZpZXcKICAgICAgICAgICAgICAgICAgICAgICAgYXBwOnNoYXBlX21vZGU9ImNpcmNsZSIKICAgICAgICAgICAgICAgICAgICAgICAgYXBwOnN0cm9rZV9jb2xvcj0iIzAwOTY4OCIKICAgICAgICAgICAgICAgICAgICAgICAgYXBwOnN0cm9rZV93aWR0aD0iMWRwIgogICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9hbGlnblBhcmVudFJpZ2h0PSJ0cnVlIgogICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL2F2YXRhciIKICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IjQ1ZHAiCiAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iNDVkcCIKICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfY2VudGVyVmVydGljYWw9InRydWUiCiAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpbkxlZnQ9IjEwZHAiCiAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6c2NhbGVUeXBlPSJmaXRYWSIKICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpzcmM9IkBkcmF3YWJsZS9lYXNlX2RlZmF1bHRfYXZhdGFyIi8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgVG9hc3QubWFrZVRleHQoY29udGV4dCwgIuiBiuWkqeacjeWKoeWZqOeZu+W9leWksei0pSEiLCBUb2FzdC5MRU5HVEhfU0hPUlQpLnNob3coKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
