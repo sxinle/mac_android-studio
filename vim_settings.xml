@@ -27,8 +27,8 @@
         <mark key="." line="73" column="0" />
         <mark key="^" line="101" column="66" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/ContactListFragment2.java" timestamp="1485012021242">
-        <mark key="'" line="82" column="23" />
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/ContactListFragment2.java" timestamp="1485051155798">
+        <mark key="'" line="268" column="0" />
         <mark key="[" line="177" column="37" />
         <mark key="]" line="177" column="39" />
         <mark key="^" line="177" column="39" />
@@ -243,7 +243,7 @@
         <mark key="." line="106" column="69" />
         <mark key="^" line="106" column="71" />
       </file>
-      <file name="/Dummy.txt" timestamp="1485029304312">
+      <file name="/Dummy.txt" timestamp="1485051119052">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/AlarmSubmitActivity.java" timestamp="1484836036229">
@@ -341,8 +341,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="41" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/UserEditActivity.java" />
-      <jump line="17" column="14" filename="$USER_HOME$/workspace/waffair/app/src/main/res/layout/item_contact_list.xml" />
       <jump line="112" column="20" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/ContactListFragment2.java" />
       <jump line="113" column="23" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/ContactListFragment2.java" />
       <jump line="226" column="6" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/GroupContactActivity.java" />
@@ -441,6 +439,8 @@
       <jump line="126" column="12" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/EnergyMngActivity.java" />
       <jump line="386" column="60" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/EnergyMngActivity.java" />
       <jump line="401" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/EnergyMngActivity.java" />
+      <jump line="103" column="4" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/ContactListFragment2.java" />
+      <jump line="268" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/ContactListFragment2.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
