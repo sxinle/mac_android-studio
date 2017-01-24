@@ -16,6 +16,9 @@
         <mark key="^" line="87" column="49" />
         <mark key="." line="87" column="49" />
       </file>
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/ChatFragment.java" timestamp="1484977194627">
+        <mark key="'" line="436" column="60" />
+      </file>
       <file name="/a.dummy" timestamp="1483785060967">
         <mark key="[" line="0" column="0" />
       </file>
@@ -80,12 +83,11 @@
         <mark key="^" line="57" column="34" />
         <mark key="." line="59" column="34" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/DataGatherActivity.java" timestamp="1485235762993">
-        <mark key="'" line="241" column="12" />
-        <mark key="[" line="249" column="61" />
-        <mark key="]" line="250" column="57" />
-        <mark key="." line="250" column="57" />
-        <mark key="^" line="250" column="57" />
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/DataGatherActivity.java" timestamp="1485236630052">
+        <mark key="'" line="244" column="29" />
+        <mark key="[" line="245" column="0" />
+        <mark key="]" line="245" column="0" />
+        <mark key="." line="245" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/UserCenterActivity.java" timestamp="1485022425267">
         <mark key="'" line="40" column="49" />
@@ -317,7 +319,7 @@
         <mark key="." line="106" column="69" />
         <mark key="^" line="106" column="71" />
       </file>
-      <file name="/Dummy.txt" timestamp="1485154963356">
+      <file name="/Dummy.txt" timestamp="1485236645063">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/AlarmSubmitActivity.java" timestamp="1484836036229">
@@ -392,6 +394,9 @@
         <mark key="^" line="22" column="30" />
         <mark key="." line="22" column="30" />
       </file>
+      <file name="/usr/local/android-sdk/platforms/android-25/android.jar!/android/view/View.class" timestamp="1485235832368">
+        <mark key="'" line="638" column="21" />
+      </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/utils/SPKey.java" timestamp="1484388272417">
         <mark key="[" line="9" column="26" />
         <mark key="]" line="9" column="38" />
@@ -435,9 +440,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="243" column="31" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/DataGatherActivity.java" />
-      <jump line="252" column="31" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/DataGatherActivity.java" />
-      <jump line="261" column="31" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/DataGatherActivity.java" />
       <jump line="289" column="26" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/DataGatherActivity.java" />
       <jump line="288" column="23" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/DataGatherActivity.java" />
       <jump line="104" column="22" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/DataGatherActivity.java" />
@@ -535,6 +537,9 @@
       <jump line="60" column="45" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/DataGatherActivity.java" />
       <jump line="240" column="12" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/DataGatherActivity.java" />
       <jump line="37" column="47" filename="$USER_HOME$/workspace/waffair/app/src/main/res/layout/frag_item_alarm_list.xml" />
+      <jump line="201" column="66" filename="/usr/local/android-sdk/platforms/android-25/android.jar!/android/view/View.class" />
+      <jump line="638" column="21" filename="/usr/local/android-sdk/platforms/android-25/android.jar!/android/view/View.class" />
+      <jump line="244" column="29" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/DataGatherActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -544,7 +549,7 @@
         <text>midhigh</text>
       </register>
       <register name="/" type="4">
-        <text>setVal</text>
+        <text>= 8</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZiAodmlldy5maW5kVmlld0J5SWQoUi5pZC5zaGV5YV9oaWdoKS5nZXRWaXNpYmlsaXR5KCkgPT0gVmlldy5WSVNJQkxFKSB7CiAgICAgICAgICAgIHJldHVybiB2aWV3OwogICAgICAgIH0K</text>
@@ -553,25 +558,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFZpZXcuRklORF9WSUVXU19XSVRIX0NPTlRFTlRfREVTQ1JJUFRJT04K</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGxpbmVOdW0oY29udmVydFZpZXcpIDw9IDEpIHsKICAgICAgICAgICAgICAgIFZpZXcgYmFzZWxpbmUgPSBnZXRGaXJWaXNpYWJsZVZpZXcoY29udmVydFZpZXcpOwogICAgICAgICAgICAgICAgYmFzZWxpbmUuZ2V0SGVpZ2h0KCk7CiAgICAgICAgICAgICAgICBob2xkZXIueWV3ZWkuc2V0SGVpZ2h0KGJhc2VsaW5lLmdldEhlaWdodCgpKTsKICAgICAgICAgICAgICAgIGhvbGRlci55dWx2LnNldEhlaWdodChiYXNlbGluZS5nZXRIZWlnaHQoKSk7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoVmlldy5WSVNJQkxFID09IHZpZXcuZmluZFZpZXdCeUlkKFIuaWQubGFiZWxfbWlkaGlnaCkuZ2V0VmlzaWJpbGl0eSgpKSB7CiAgICAgICAgICAgIGNudCsrOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIFZpZXcgZ2V0RmlyVmlzaWFibGVWaWV3KFZpZXcgdmlldykgewogICAgICAgIGlmICh2aWV3LmZpbmRWaWV3QnlJZChSLmlkLnNoZXlhX2hpZ2gpLmdldFZpc2liaWxpdHkoKSA9PSBWaWV3LlZJU0lCTEUpIHsKICAgICAgICAgICAgcmV0dXJuIHZpZXc7CiAgICAgICAgfQogICAgICAgIGlmICh2aWV3LmZpbmRWaWV3QnlJZChSLmlkLnNoZXlhX21pZCkuZ2V0VmlzaWJpbGl0eSgpID09IFZpZXcuVklTSUJMRSkgewogICAgICAgICAgICByZXR1cm4gdmlldzsKICAgICAgICB9CiAgICAgICAgaWYgKHZpZXcuZmluZFZpZXdCeUlkKFIuaWQuc2hleWFfbG93KS5nZXRWaXNpYmlsaXR5KCkgPT0gVmlldy5WSVNJQkxFKSB7CiAgICAgICAgICAgIHJldHVybiB2aWV3OwogICAgICAgIH0KICAgICAgICBpZiAodmlldy5maW5kVmlld0J5SWQoUi5pZC5zaGV5YV9ub25lKS5nZXRWaXNpYmlsaXR5KCkgPT0gVmlldy5WSVNJQkxFKSB7CiAgICAgICAgICAgIHJldHVybiB2aWV3OwogICAgICAgIH0KICAgICAgICByZXR1cm4gbnVsbDsKICAgIH0KCiAgICBpbnQgbGluZU51bShWaWV3IHZpZXcpIHsKICAgICAgICBpbnQgY250ID0gMDsKICAgICAgICBpZiAoVmlldy5WSVNJQkxFID09IHZpZXcuZmluZFZpZXdCeUlkKFIuaWQubGFiZWxfaGlnaCkuZ2V0VmlzaWJpbGl0eSgpKSB7CiAgICAgICAgICAgIGNudCsrOwogICAgICAgIH0KICAgICAgICBpZiAoVmlldy5WSVNJQkxFID09IHZpZXcuZmluZFZpZXdCeUlkKFIuaWQubGFiZWxfbWlkaGlnaCkuZ2V0VmlzaWJpbGl0eSgpKSB7CiAgICAgICAgICAgIGNudCsrOwogICAgICAgIH0KICAgICAgICBpZiAoVmlldy5WSVNJQkxFID09IHZpZXcuZmluZFZpZXdCeUlkKFIuaWQubGFiZWxfbWlkKS5nZXRWaXNpYmlsaXR5KCkpIHsKICAgICAgICAgICAgY250Kys7CiAgICAgICAgfQogICAgICAgIGlmIChWaWV3LlZJU0lCTEUgPT0gdmlldy5maW5kVmlld0J5SWQoUi5pZC5sYWJlbF9sb3cpLmdldFZpc2liaWxpdHkoKSkgewogICAgICAgICAgICBjbnQrKzsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIGNudDsKICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZihWaWQpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFZpZXcuRklORF9WSUVXU19XSVRIX0NPTlRFTlRfREVTQ1JJUFRJT04K</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -581,9 +586,9 @@
       </register>
     </registers>
     <search>
-      <last-search>setVal</last-search>
+      <last-search>= 8</last-search>
       <last-offset />
-      <last-pattern>setVal</last-pattern>
+      <last-pattern>= 8</last-pattern>
       <last-replace>none</last-replace>
       <last-substitute>low</last-substitute>
       <last-dir>1</last-dir>
@@ -591,7 +596,6 @@
     </search>
     <history>
       <history-search>
-        <entry>setAlarm</entry>
         <entry>red_cor</entry>
         <entry>sheya</entry>
         <entry>dianliu</entry>
@@ -611,6 +615,7 @@
         <entry>onResu</entry>
         <entry encoding="base64">XDxzY3JvbGxOb3RpY2VcPg==</entry>
         <entry>setVal</entry>
+        <entry>= 8</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3N0YXJ0L1wvXC8gc3RhcnQvZw==</entry>
