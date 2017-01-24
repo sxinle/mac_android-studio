@@ -146,7 +146,7 @@
         <mark key="." line="62" column="60" />
         <mark key="^" line="62" column="59" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" timestamp="1485154925076">
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" timestamp="1485236804357">
         <mark key="'" line="105" column="0" />
         <mark key="[" line="504" column="100" />
         <mark key="]" line="504" column="100" />
@@ -409,8 +409,8 @@
         <mark key="." line="2" column="40" />
         <mark key="^" line="2" column="40" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/AlarmListFragment.java" timestamp="1485072728039">
-        <mark key="'" line="82" column="17" />
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/AlarmListFragment.java" timestamp="1485236866280">
+        <mark key="'" line="181" column="52" />
         <mark key="[" line="139" column="16" />
         <mark key="]" line="139" column="25" />
         <mark key="^" line="139" column="25" />
@@ -440,7 +440,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="289" column="26" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/DataGatherActivity.java" />
       <jump line="288" column="23" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/DataGatherActivity.java" />
       <jump line="104" column="22" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/DataGatherActivity.java" />
       <jump line="459" column="15" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/DataGatherActivity.java" />
@@ -540,6 +539,7 @@
       <jump line="201" column="66" filename="/usr/local/android-sdk/platforms/android-25/android.jar!/android/view/View.class" />
       <jump line="638" column="21" filename="/usr/local/android-sdk/platforms/android-25/android.jar!/android/view/View.class" />
       <jump line="244" column="29" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/DataGatherActivity.java" />
+      <jump line="181" column="52" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/AlarmListFragment.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
