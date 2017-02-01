@@ -59,6 +59,12 @@
         <mark key="." line="2" column="40" />
         <mark key="^" line="2" column="40" />
       </file>
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/ContactListFragment2.java" timestamp="1485057914741">
+        <mark key="'" line="32" column="27" />
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="." line="73" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/res/values/styles.xml" timestamp="1484453758583">
         <mark key="[" line="21" column="17" />
         <mark key="]" line="21" column="35" />
@@ -146,12 +152,11 @@
         <mark key="." line="62" column="60" />
         <mark key="^" line="62" column="59" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" timestamp="1485237474034">
-        <mark key="'" line="105" column="0" />
-        <mark key="[" line="537" column="0" />
-        <mark key="]" line="537" column="0" />
-        <mark key="^" line="526" column="26" />
-        <mark key="." line="537" column="0" />
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" timestamp="1485928458884">
+        <mark key="'" line="574" column="0" />
+        <mark key="[" line="563" column="0" />
+        <mark key="]" line="563" column="0" />
+        <mark key="." line="563" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_user_edit.xml" timestamp="1485022577820">
         <mark key="[" line="57" column="0" />
@@ -219,6 +224,12 @@
         <mark key="]" line="12" column="111" />
         <mark key="^" line="12" column="111" />
         <mark key="." line="12" column="111" />
+      </file>
+      <file name="$USER_HOME$/workspace/waffair/app/build.gradle" timestamp="1485012251850">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="76" column="67" />
+        <mark key="." line="78" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/data/entity/Station.java" timestamp="1484838467001">
         <mark key="'" line="313" column="46" />
@@ -440,9 +451,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="459" column="15" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/DataGatherActivity.java" />
-      <jump line="458" column="15" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/DataGatherActivity.java" />
-      <jump line="457" column="15" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/DataGatherActivity.java" />
       <jump line="441" column="15" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/DataGatherActivity.java" />
       <jump line="440" column="15" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/DataGatherActivity.java" />
       <jump line="439" column="15" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/DataGatherActivity.java" />
@@ -540,6 +548,9 @@
       <jump line="181" column="52" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/AlarmListFragment.java" />
       <jump line="111" column="46" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/AlarmListFragment.java" />
       <jump line="15" column="25" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/AlarmListFragment.java" />
+      <jump line="226" column="37" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
+      <jump line="61" column="30" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
+      <jump line="574" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
