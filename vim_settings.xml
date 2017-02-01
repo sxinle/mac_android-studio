@@ -135,7 +135,8 @@
         <mark key="." line="74" column="43" />
         <mark key="^" line="74" column="43" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_station_chart.xml" timestamp="1485930392342">
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_station_chart.xml" timestamp="1485931747070">
+        <mark key="'" line="18" column="54" />
         <mark key="[" line="43" column="41" />
         <mark key="]" line="43" column="42" />
         <mark key="." line="43" column="42" />
@@ -183,12 +184,12 @@
         <mark key="." line="33" column="59" />
         <mark key="^" line="33" column="59" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_alarm_detail.xml" timestamp="1485929543635">
-        <mark key="'" line="43" column="36" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="37" column="21" />
-        <mark key="^" line="33" column="59" />
-        <mark key="." line="33" column="59" />
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_alarm_detail.xml" timestamp="1485931742998">
+        <mark key="'" line="259" column="0" />
+        <mark key="[" line="250" column="51" />
+        <mark key="]" line="250" column="52" />
+        <mark key="^" line="250" column="54" />
+        <mark key="." line="250" column="52" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/StationDetailActivity.java" timestamp="1484828494273">
         <mark key="[" line="46" column="48" />
@@ -245,11 +246,11 @@
         <mark key="." line="106" column="69" />
         <mark key="^" line="106" column="71" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/res-chatdemo/layout/activity_weather_detail.xml" timestamp="1485928947320">
-        <mark key="[" line="57" column="47" />
-        <mark key="]" line="57" column="66" />
-        <mark key="." line="57" column="66" />
-        <mark key="^" line="57" column="66" />
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/res-chatdemo/layout/activity_weather_detail.xml" timestamp="1485931682192">
+        <mark key="[" line="64" column="50" />
+        <mark key="]" line="64" column="72" />
+        <mark key="." line="64" column="72" />
+        <mark key="^" line="64" column="72" />
       </file>
       <file name="/Dummy.txt" timestamp="1485238269547">
         <mark key="[" line="0" column="0" />
@@ -369,12 +370,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="418" column="12" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/DataGatherActivity.java" />
-      <jump line="406" column="12" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/DataGatherActivity.java" />
-      <jump line="405" column="12" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/DataGatherActivity.java" />
-      <jump line="404" column="12" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/DataGatherActivity.java" />
-      <jump line="370" column="23" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/DataGatherActivity.java" />
-      <jump line="347" column="27" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/DataGatherActivity.java" />
       <jump line="345" column="27" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/DataGatherActivity.java" />
       <jump line="343" column="27" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/DataGatherActivity.java" />
       <jump line="70" column="65" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/DataGatherActivity.java" />
@@ -468,17 +463,23 @@
       <jump line="1" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/res/values/dimens.xml" />
       <jump line="5" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/res/values/dimens.xml" />
       <jump line="22" column="46" filename="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_alarm_detail.xml" />
+      <jump line="254" column="48" filename="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_alarm_detail.xml" />
       <jump line="43" column="36" filename="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_alarm_detail.xml" />
+      <jump line="49" column="49" filename="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_alarm_detail.xml" />
+      <jump line="50" column="50" filename="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_alarm_detail.xml" />
+      <jump line="250" column="53" filename="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_alarm_detail.xml" />
+      <jump line="259" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_alarm_detail.xml" />
+      <jump line="18" column="54" filename="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_station_chart.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>基本废物......</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>x</text>
       </register>
       <register name="/" type="4">
-        <text>px&quot;</text>
+        <text>px</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8SW1hZ2VWaWV3IGFuZHJvaWQ6aWQ9IkAraWQvYnRuX2JhY2siCiAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0iQGRpbWVuL2J0bl9iYWNrX3dpZHRoIgogICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJAZGltZW4vYnRuX2JhY2tfaGVpZ2h0IgogICAgICAgICAgICAgICAgICAgYW5kcm9pZDpwYWRkaW5nTGVmdD0iQGRpbWVuL2J0bl9iYWNrX3BhZGxlZnQiCiAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5MZWZ0PSJAZGltZW4vYnRuX2JhY2tfbWFybGVmdCIKICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2NlbnRlclZlcnRpY2FsPSJ0cnVlIgogICAgICAgICAgICAgICAgICAgYW5kcm9pZDpzcmM9IkBkcmF3YWJsZS9iYWNrIgogICAgICAgICAgICAgICAgICAgYW5kcm9pZDpzY2FsZVR5cGU9ImNlbnRlckNyb3AiCiAgICAgICAgICAgICAgICAgICBhbmRyb2lkOnBhZGRpbmdUb3A9IjIwZHAiCiAgICAgICAgICAgICAgICAgICBhbmRyb2lkOnBhZGRpbmdCb3R0b209IjIwZHAiCiAgICAgICAgICAgICAgICAgICBhbmRyb2lkOnBhZGRpbmdSaWdodD0iNWRwIgogICAgICAgICAgICAgICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSJAZHJhd2FibGUvYnRuX2JhY2siLz4K</text>
@@ -515,9 +516,9 @@
       </register>
     </registers>
     <search>
-      <last-search>px&quot;</last-search>
+      <last-search>px</last-search>
       <last-offset />
-      <last-pattern>px&quot;</last-pattern>
+      <last-pattern>px</last-pattern>
       <last-replace>none</last-replace>
       <last-substitute>low</last-substitute>
       <last-dir>1</last-dir>
@@ -525,7 +526,6 @@
     </search>
     <history>
       <history-search>
-        <entry>dianliu</entry>
         <entry>gone</entry>
         <entry>View.V</entry>
         <entry>yulv</entry>
@@ -545,6 +545,7 @@
         <entry>= 8</entry>
         <entry>http</entry>
         <entry>px&quot;</entry>
+        <entry>px</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5nL1RvYXN0L2Q=</entry>
