@@ -29,6 +29,12 @@
         <mark key="." line="105" column="54" />
         <mark key="^" line="33" column="71" />
       </file>
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/res-ytx/values/strings.xml" timestamp="1486216619533">
+        <mark key="'" line="461" column="44" />
+        <mark key="[" line="532" column="0" />
+        <mark key="]" line="532" column="0" />
+        <mark key="." line="532" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/INetDetailActivity.java" timestamp="1484376770798">
         <mark key="[" line="49" column="22" />
         <mark key="]" line="49" column="35" />
@@ -56,6 +62,12 @@
         <mark key="^" line="37" column="35" />
         <mark key="." line="37" column="35" />
       </file>
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/yuntongxun/ecdemo/common/base/OverflowAdapter.java" timestamp="1486218758896">
+        <mark key="'" line="81" column="4" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/yuntongxun/ecdemo/common/utils/NetUtils.java" timestamp="1486218494026">
         <mark key="[" line="208" column="34" />
         <mark key="]" line="208" column="38" />
@@ -64,6 +76,12 @@
       </file>
       <file name="$USER_HOME$/Desktop/YTX_Android_Full_Demo_v5.3.1r/app/src/main/java/com/yuntongxun/ecdemo/core/ClientUser.java" timestamp="1486214314160">
         <mark key="'" line="90" column="38" />
+      </file>
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/voip/AnimatorUtils.java" timestamp="1486215419435">
+        <mark key="'" line="31" column="61" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/yuntongxun/ecdemo/service/YuntxNotifyReceiver.java" timestamp="1486222305017">
         <mark key="'" line="13" column="37" />
@@ -120,11 +138,13 @@
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/yuntongxun/ecdemo/ui/huawei/MyReceiver.java" timestamp="1486218607517">
         <mark key="'" line="58" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/res-ytx/values/styles.xml" timestamp="1486216290607">
-        <mark key="'" line="26" column="22" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="743" column="11" />
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/res-photo/values/color.xml" timestamp="1486216679943">
+        <mark key="'" line="143" column="17" />
+        <mark key="[" line="143" column="0" />
+        <mark key="]" line="143" column="0" />
+        <mark key="." line="143" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/yuntongxun/ecdemo/common/SwipeActivityManager.java" timestamp="1486223245464" />
       <file name="$USER_HOME$/workspace/waffair/app/src/main/res/drawable/text_bg_gather_grey_corner_big.xml" timestamp="1486035517724">
         <mark key="[" line="3" column="33" />
         <mark key="]" line="3" column="33" />
@@ -149,6 +169,7 @@
         <mark key="^" line="229" column="43" />
         <mark key="." line="229" column="43" />
       </file>
+      <file name="$USER_HOME$/Desktop/YTX_Android_Full_Demo_v5.3.1r/app/src/main/java/com/yuntongxun/ecdemo/common/SwipeActivityManager.java" timestamp="1486222917409" />
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/yuntongxun/ecdemo/ui/chatting/model/RichTextRxRow.java" timestamp="1486217505515">
         <mark key="'" line="8" column="20" />
       </file>
@@ -166,6 +187,12 @@
         <mark key="^" line="74" column="43" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/yuntongxun/ecdemo/ui/CCPActivityBase.java" timestamp="1486221984263" />
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/yuntongxun/ecdemo/ui/meeting/CreateVoiceMeetingActivity.java" timestamp="1486223485570">
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="106" column="0" />
+        <mark key="^" line="105" column="72" />
+        <mark key="." line="106" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_pic_detail.xml" timestamp="1484391465231">
         <mark key="[" line="17" column="45" />
         <mark key="]" line="17" column="46" />
@@ -223,7 +250,7 @@
         <mark key="^" line="15" column="29" />
         <mark key="." line="15" column="29" />
       </file>
-      <file name="/a.regexp" timestamp="1486219556166">
+      <file name="/a.regexp" timestamp="1486223659677">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/data/pojo/UsersResp.java" timestamp="1485009662199">
@@ -312,6 +339,12 @@
         <mark key="^" line="41" column="125" />
         <mark key="." line="41" column="125" />
       </file>
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/yuntongxun/ecdemo/common/view/TopBarView.java" timestamp="1486218804631">
+        <mark key="'" line="58" column="14" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/res/layout/frag_item_alarm_list.xml" timestamp="1485951360889">
         <mark key="[" line="38" column="34" />
         <mark key="]" line="38" column="37" />
@@ -343,16 +376,17 @@
         <mark key="." line="3" column="32" />
         <mark key="^" line="3" column="32" />
       </file>
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/voip/MethodInvoke.java" timestamp="1486215150730">
+        <mark key="'" line="56" column="62" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/res-chatdemo/layout/activity_inet_device_maintanlog.xml" timestamp="1485930767549">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="28" column="59" />
         <mark key="." line="40" column="54" />
         <mark key="^" line="14" column="62" />
-      </file>
-      <file name="$USER_HOME$/Desktop/YTX_Android_Full_Demo_v5.3.1r/app/src/main/java/com/yuntongxun/ecdemo/ui/account/LoginActivity.java" timestamp="1486219208611">
-        <mark key="'" line="45" column="21" />
-        <mark key="[" line="53" column="48" />
-        <mark key="]" line="53" column="86" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/res/drawable/text_bg_gather_grey_corner.xml" timestamp="1486035489943">
         <mark key="[" line="3" column="29" />
@@ -399,17 +433,12 @@
         <mark key="^" line="9" column="19" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/YTX_Android_Full_Demo_v5.3.1r/app/src/main/java/com/yuntongxun/ecdemo/ui/SDKCoreHelper.java" timestamp="1486215822422">
-        <mark key="'" line="233" column="39" />
-        <mark key="[" line="51" column="50" />
-        <mark key="]" line="51" column="86" />
-      </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/AndroidManifest.xml" timestamp="1486220533810">
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/AndroidManifest.xml" timestamp="1486222549912">
         <mark key="'" line="73" column="66" />
-        <mark key="[" line="147" column="32" />
-        <mark key="]" line="147" column="77" />
-        <mark key="." line="147" column="77" />
-        <mark key="^" line="147" column="77" />
+        <mark key="[" line="147" column="62" />
+        <mark key="]" line="147" column="90" />
+        <mark key="." line="147" column="90" />
+        <mark key="^" line="147" column="90" />
       </file>
       <file name="$USER_HOME$/Desktop/YTX_Android_Full_Demo_v5.3.1r/app/src/main/java/com/yuntongxun/ecdemo/ui/meeting/MeetingListActivity.java" timestamp="1486210501858">
         <mark key="[" line="48" column="90" />
@@ -449,6 +478,12 @@
         <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/yuntongxun/ecdemo/ui/ECSuperActivity.java" timestamp="1486221697617" />
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/yuntongxun/ecdemo/ui/ECFragmentActivity.java" timestamp="1486222754697">
+        <mark key="'" line="28" column="40" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/res-chatdemo/drawable/em_tab_alarm_bg.xml" timestamp="1484393919860">
         <mark key="[" line="4" column="38" />
         <mark key="]" line="4" column="52" />
@@ -485,7 +520,6 @@
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/yuntongxun/ecdemo/ui/contact/ContactLogic.java" timestamp="1486218542130" />
     </filemarks>
     <jumps>
-      <jump line="401" column="36" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/voip/SwipeBackLayout.java" />
       <jump line="39" column="45" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/voip/ECFragmentActivity.java" />
       <jump line="59" column="25" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/voip/ECFragmentActivity.java" />
       <jump line="266" column="52" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/voip/ECFragmentActivity.java" />
@@ -585,55 +619,56 @@
       <jump line="13" column="37" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/yuntongxun/ecdemo/service/YuntxNotifyReceiver.java" />
       <jump line="28" column="37" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/yuntongxun/ecdemo/ui/SDKCoreHelper.java" />
       <jump line="34" column="37" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/yuntongxun/ecdemo/common/CCPAppManager.java" />
+      <jump line="28" column="40" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/yuntongxun/ecdemo/ui/ECFragmentActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>基本废物......</text>
       </register>
       <register name="-" type="4">
-        <text>VoIPCallActivity</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxWb0lQQ2FsbEFjdGl2aXR5XD4=</text>
+        <text encoding="base64">XDxTd2lwZUxpc3RlbmVyXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICog5L+d5a2Y5b2T5YmN55qE6IGK5aSp55WM6Z2i5omA5a+55bqU55qE6IGU57O75Lq644CB5pa55L6/5p2l5raI5oGv5bGP6JS96YCa55+lCiAgICAgKi8KICAgIHByaXZhdGUgdm9pZCBzZXRDaGF0dGluZ0NvbnRhY3RJZCgpIHsKICAgICAgICB0cnkgewogICAgICAgICAgICBFQ1ByZWZlcmVuY2VzLnNhdmVQcmVmZXJlbmNlKEVDUHJlZmVyZW5jZVNldHRpbmdzLlNFVFRJTkdfQ0hBVFRJTkdfQ09OVEFDVElELCAiIiwgdHJ1ZSk7CiAgICAgICAgfSBjYXRjaCAoSW52YWxpZENsYXNzRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICB9CiAgICB9Cg==</text>
+      <register name="0" type="4">
+        <text>create_meetingName_Null</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpbml0SW1hZ2VMb2FkZXIoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICog5L+d5a2Y5b2T5YmN55qE6IGK5aSp55WM6Z2i5omA5a+55bqU55qE6IGU57O75Lq644CB5pa55L6/5p2l5raI5oGv5bGP6JS96YCa55+lCiAgICAgKi8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUb2FzdFV0aWwuc2hvd01lc3NhZ2UoUi5zdHJpbmcuY3JlYXRlX21lZXRpbmdOYW1lX051bGwpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpbnN0YW5jZSA9IHRoaXM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUb2FzdAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbml0SW1hZ2VMb2FkZXIoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICog5L+d5a2Y5b2T5YmN55qE6IGK5aSp55WM6Z2i5omA5a+55bqU55qE6IGU57O75Lq644CB5pa55L6/5p2l5raI5oGv5bGP6JS96YCa55+lCiAgICAgKi8K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbnN0YW5jZSA9IHRoaXM7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxwZXJtaXNzaW9uIGFuZHJvaWQ6bmFtZT0iYW5kcm9pZC5wZXJtaXNzaW9uLldSSVRFX0FQTl9TRVRUSU5HUyIgYW5kcm9pZDpwcm90ZWN0aW9uTGV2ZWw9InNpZ25hdHVyZSIvPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAogICAgPHBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uV1JJVEVfQVBOX1NFVFRJTkdTIiBhbmRyb2lkOnByb3RlY3Rpb25MZXZlbD0ic2lnbmF0dXJlIi8+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNsaWVudFVzZXIuc2V0UGFzc3dvcmQocGFzcyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxWb0lQQ2FsbEFjdGl2aXR5XD4=</last-search>
+      <last-search encoding="base64">XDxTd2lwZUxpc3RlbmVyXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxWb0lQQ2FsbEFjdGl2aXR5XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxTd2lwZUxpc3RlbmVyXD4=</last-pattern>
       <last-replace>Log</last-replace>
       <last-substitute>LogUtil</last-substitute>
       <last-dir>1</last-dir>
@@ -641,7 +676,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxBcHBUaGVtZVw+</entry>
         <entry>green</entry>
         <entry>lightgrey</entry>
         <entry>select</entry>
@@ -661,6 +695,7 @@
         <entry>Voip</entry>
         <entry>voip</entry>
         <entry encoding="base64">XDxWb0lQQ2FsbEFjdGl2aXR5XD4=</entry>
+        <entry encoding="base64">XDxTd2lwZUxpc3RlbmVyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0BkaW1lbi9mb250X3NpemVfbGFyZ2UvMTZzcC9n</entry>
