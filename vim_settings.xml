@@ -175,9 +175,9 @@
         <mark key="^" line="188" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/yuntongxun/ecdemo/ui/voip/ECVoIPBaseActivity.java" timestamp="1486222265882" />
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/yuntongxun/ecdemo/ui/meeting/MeetingHelper.java" timestamp="1486225807579">
-        <mark key="[" line="68" column="41" />
-        <mark key="]" line="68" column="56" />
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/yuntongxun/ecdemo/ui/meeting/MeetingHelper.java" timestamp="1486226587189">
+        <mark key="[" line="69" column="8" />
+        <mark key="]" line="69" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/res-ytx/layout/settings_activity.xml" timestamp="1486216857641">
         <mark key="[" line="163" column="35" />
@@ -204,6 +204,7 @@
         <mark key="." line="49" column="20" />
       </file>
       <file name="$USER_HOME$/Desktop/YTX_Android_Full_Demo_v5.3.1r/app/src/main/res/values/strings.xml" timestamp="1486210322336" />
+      <file name="$USER_HOME$/Desktop/YTX_Android_Full_Demo_v5.3.1r/app/src/main/java/com/yuntongxun/ecdemo/ui/meeting/MeetingHelper.java" timestamp="1486226501079" />
       <file name="$USER_HOME$/workspace/waffair/app/build.gradle" timestamp="1486216174263">
         <mark key="[" line="48" column="42" />
         <mark key="]" line="48" column="44" />
