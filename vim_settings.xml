@@ -50,6 +50,9 @@
         <mark key="." line="11" column="33" />
         <mark key="^" line="9" column="38" />
       </file>
+      <file name="$USER_HOME$/Desktop/YTX_Android_Full_Demo_v5.3.1r/app/src/main/java/com/yuntongxun/ecdemo/ui/account/LoginActivity.java" timestamp="1486212199322">
+        <mark key="'" line="45" column="21" />
+      </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/res/drawable/text_bg_gather_grey_corner.xml" timestamp="1486035489943">
         <mark key="[" line="3" column="29" />
         <mark key="]" line="3" column="31" />
@@ -288,6 +291,9 @@
         <mark key="]" line="63" column="62" />
         <mark key="." line="63" column="62" />
         <mark key="^" line="63" column="62" />
+      </file>
+      <file name="$USER_HOME$/Desktop/YTX_Android_Full_Demo_v5.3.1r/app/src/main/AndroidManifest.xml" timestamp="1486212274709">
+        <mark key="'" line="637" column="28" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_pic_detail.xml" timestamp="1484391465231">
         <mark key="[" line="17" column="45" />
@@ -544,12 +550,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="127" column="52" filename="$USER_HOME$/workspace/waffair/app/src/main/res/layout/item_data_gather_list.xml" />
-      <jump line="137" column="63" filename="$USER_HOME$/workspace/waffair/app/src/main/res/layout/item_data_gather_list.xml" />
-      <jump line="138" column="66" filename="$USER_HOME$/workspace/waffair/app/src/main/res/layout/item_data_gather_list.xml" />
-      <jump line="145" column="41" filename="$USER_HOME$/workspace/waffair/app/src/main/res/layout/item_data_gather_list.xml" />
-      <jump line="158" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/res/layout/item_data_gather_list.xml" />
-      <jump line="161" column="51" filename="$USER_HOME$/workspace/waffair/app/src/main/res/layout/item_data_gather_list.xml" />
       <jump line="170" column="63" filename="$USER_HOME$/workspace/waffair/app/src/main/res/layout/item_data_gather_list.xml" />
       <jump line="171" column="66" filename="$USER_HOME$/workspace/waffair/app/src/main/res/layout/item_data_gather_list.xml" />
       <jump line="175" column="51" filename="$USER_HOME$/workspace/waffair/app/src/main/res/layout/item_data_gather_list.xml" />
@@ -644,6 +644,12 @@
       <jump line="88" column="21" filename="$USER_HOME$/Desktop/YTX_Android_Full_Demo_v5.3.1r/app/src/main/java/com/yuntongxun/ecdemo/ui/chatting/view/CCPChattingFooter2.java" />
       <jump line="1186" column="34" filename="$USER_HOME$/Desktop/YTX_Android_Full_Demo_v5.3.1r/app/src/main/java/com/yuntongxun/ecdemo/ui/chatting/view/CCPChattingFooter2.java" />
       <jump line="84" column="17" filename="$USER_HOME$/Desktop/YTX_Android_Full_Demo_v5.3.1r/app/src/main/java/com/yuntongxun/ecdemo/ui/CCPActivityBase.java" />
+      <jump line="136" column="8" filename="$USER_HOME$/Desktop/YTX_Android_Full_Demo_v5.3.1r/app/src/main/java/com/yuntongxun/ecdemo/ui/account/LoginActivity.java" />
+      <jump line="45" column="21" filename="$USER_HOME$/Desktop/YTX_Android_Full_Demo_v5.3.1r/app/src/main/java/com/yuntongxun/ecdemo/ui/account/LoginActivity.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/YTX_Android_Full_Demo_v5.3.1r/app/src/main/AndroidManifest.xml" />
+      <jump line="56" column="62" filename="$USER_HOME$/Desktop/YTX_Android_Full_Demo_v5.3.1r/app/src/main/AndroidManifest.xml" />
+      <jump line="89" column="47" filename="$USER_HOME$/Desktop/YTX_Android_Full_Demo_v5.3.1r/app/src/main/AndroidManifest.xml" />
+      <jump line="637" column="28" filename="$USER_HOME$/Desktop/YTX_Android_Full_Demo_v5.3.1r/app/src/main/AndroidManifest.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -653,7 +659,7 @@
         <text>// FIXME: 2017/2/4  faqiqunliao</text>
       </register>
       <register name="/" type="4">
-        <text>语音群聊</text>
+        <text>token</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGhvbGRlci5zaGl5YV9taWQuc2V0VGV4dChmb3JtYXRWYWwoYWxhcm0uZ2V05pWw5YC8KCkpKTsK</text>
@@ -690,9 +696,9 @@
       </register>
     </registers>
     <search>
-      <last-search>语音群聊</last-search>
+      <last-search>token</last-search>
       <last-offset />
-      <last-pattern>语音群聊</last-pattern>
+      <last-pattern>token</last-pattern>
       <last-replace />
       <last-substitute>final</last-substitute>
       <last-dir>1</last-dir>
@@ -700,12 +706,6 @@
     </search>
     <history>
       <history-search>
-        <entry>setVal</entry>
-        <entry>= 8</entry>
-        <entry>http</entry>
-        <entry>px&quot;</entry>
-        <entry>dianya</entry>
-        <entry>px</entry>
         <entry>定位</entry>
         <entry encoding="base64">XDxsb2NhdGlvblNlcnZpY2VcPg==</entry>
         <entry>genyy</entry>
@@ -720,6 +720,12 @@
         <entry>final</entry>
         <entry encoding="base64">XDxtVG9wQmFyVmlld1w+</entry>
         <entry>语音群聊</entry>
+        <entry encoding="base64">XDxzaWduQnRuXD4=</entry>
+        <entry encoding="base64">XDxhcHBrZXlFdFw+</entry>
+        <entry>apkey</entry>
+        <entry>appkey</entry>
+        <entry>key</entry>
+        <entry>token</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5TL0BpZC9AK2lkL2c=</entry>
