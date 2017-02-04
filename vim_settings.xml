@@ -487,6 +487,12 @@
         <mark key="." line="2" column="40" />
         <mark key="^" line="2" column="40" />
       </file>
+      <file name="$USER_HOME$/Desktop/YTX_Android_Full_Demo_v5.3.1r/app/src/main/java/com/yuntongxun/ecdemo/ui/meeting/CreateVoiceMeetingActivity.java" timestamp="1486210874501">
+        <mark key="[" line="20" column="3" />
+        <mark key="]" line="20" column="7" />
+        <mark key="^" line="20" column="7" />
+        <mark key="." line="20" column="7" />
+      </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/AlarmListFragment.java" timestamp="1485238160393">
         <mark key="'" line="15" column="25" />
         <mark key="[" line="126" column="42" />
@@ -521,7 +527,7 @@
         <mark key="^" line="55" column="30" />
         <mark key="." line="55" column="30" />
       </file>
-      <file name="/fragment.java" timestamp="1485949629355">
+      <file name="/fragment.java" timestamp="1486210861831">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/res-chatdemo/layout/activity_inet_devicelist.xml" timestamp="1485930778069">
@@ -644,7 +650,7 @@
         <text>基本废物......</text>
       </register>
       <register name="-" type="4">
-        <text>k</text>
+        <text>// FIXME: 2017/2/4  faqiqunliao</text>
       </register>
       <register name="/" type="4">
         <text>语音群聊</text>
