@@ -50,6 +50,11 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/INetDetailActivity.java" timestamp="1486391568169">
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="0" />
+        <mark key="." line="71" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/YTX_Android_Full_Demo_v5.3.1r/app/src/main/java/com/yuntongxun/ecdemo/ui/chatting/view/CCPChattingFooter2.java" timestamp="1486210045881">
         <mark key="'" line="1186" column="34" />
       </file>
@@ -73,6 +78,13 @@
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_user_center.xml" timestamp="1486391339170">
+        <mark key="'" line="158" column="0" />
+        <mark key="[" line="134" column="34" />
+        <mark key="]" line="134" column="37" />
+        <mark key="." line="134" column="37" />
+        <mark key="^" line="134" column="37" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/yuntongxun/ecdemo/ui/chatting/view/CCPChattingFooter2.java" timestamp="1486217308946">
         <mark key="'" line="0" column="0" />
@@ -207,7 +219,7 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1486308153870">
+      <file name="/Dummy.txt" timestamp="1486391722364">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/yuntongxun/ecdemo/common/view/CCPImageButton.java" timestamp="1486218075090">
@@ -539,10 +551,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="150" column="20" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/yuntongxun/ecdemo/ui/chatting/ChattingActivity.java" />
-      <jump line="197" column="79" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/yuntongxun/ecdemo/ui/chatting/model/BaseChattingRow.java" />
-      <jump line="530" column="11" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/yuntongxun/ecdemo/ui/chatting/ChattingFragment.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/yuntongxun/ecdemo/ui/chatting/ChattingFragment.java" />
       <jump line="51" column="4" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/yuntongxun/ecdemo/ui/chatting/redpacketutils/CheckRedPacketMessageUtil.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/yuntongxun/ecdemo/ui/chatting/redpacketutils/CheckRedPacketMessageUtil.java" />
       <jump line="65" column="22" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/yuntongxun/ecdemo/ui/chatting/model/RedPacketTxRow.java" />
@@ -639,13 +647,17 @@
       <jump line="36" column="49" filename="$USER_HOME$/workspace/waffair/app/src/main/res/layout/frag_group_contactlist.xml" />
       <jump line="117" column="30" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/ContactListFragment2.java" />
       <jump line="37" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/LoginActivity.java" />
+      <jump line="139" column="37" filename="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_user_center.xml" />
+      <jump line="1" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_user_center.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_user_center.xml" />
+      <jump line="158" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_user_center.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>基本废物......</text>
       </register>
       <register name="-" type="4">
-        <text>registerId</text>
+        <text>资料修改</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtTGVmdEJ1dHRvblw+</text>
@@ -657,28 +669,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHR2X25vQWxhcm0uc2V0VmlzaWJpbGl0eShWaWV3LkdPTkUpOwogICAgICAgICAgICAgICAgdHZfaGFzQWxhcm0uc2V0VGV4dChhbGFybUluZm8uZ2V057G75Z6LKCkpOwogICAgICAgICAgICAgICAgdHZfaGFzQWxhcm0uc2V0VmlzaWJpbGl0eShWaWV3LlZJU0lCTEUpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDxMaW5lYXJMYXlvdXQgYW5kcm9pZDpwYWRkaW5nPSIyMGRwIiBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IiBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCI+CiAgICAgICAgPEJ1dHRvbiBhbmRyb2lkOmlkPSJAK2lkL2J0bl9tZWV0aW5nIgogICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iNDBkcCIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6dGV4dD0i5Y+R6LW36KeG6aKR5Lya6K6uIgogICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2VpZ2h0PSIzIgogICAgICAgICAgICAgICAgYW5kcm9pZDp0ZXh0Q29sb3I9IkBjb2xvci93aGl0ZSIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6dGV4dFNpemU9IjE3c3AiCiAgICAgICAgICAgICAgICBhbmRyb2lkOmJhY2tncm91bmQ9IkBkcmF3YWJsZS9idG5fYWxhcm1fYmciLz4KICAgIDwvTGluZWFyTGF5b3V0Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgamsK</text>
+        <text encoding="base64">ICAgIDxMaW5lYXJMYXlvdXQgYW5kcm9pZDpwYWRkaW5nPSIyMGRwIiBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IiBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCI+CiAgICAgICAgPEJ1dHRvbiBhbmRyb2lkOmlkPSJAK2lkL2J0bl9tZWV0aW5nIgogICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iNDBkcCIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6dGV4dD0i5Y+R6LW36KeG6aKR5Lya6K6uIgogICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2VpZ2h0PSIzIgogICAgICAgICAgICAgICAgYW5kcm9pZDp0ZXh0Q29sb3I9IkBjb2xvci93aGl0ZSIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6dGV4dFNpemU9IjE3c3AiCiAgICAgICAgICAgICAgICBhbmRyb2lkOmJhY2tncm91bmQ9IkBkcmF3YWJsZS9idG5fYWxhcm1fYmciLz4KICAgIDwvTGluZWFyTGF5b3V0Pgo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2dyYXZpdHk9ImNlbnRlciIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgamsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2dyYXZpdHk9ImNlbnRlcl92ZXJ0aWNhbCIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGdyYQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2dyYXZpdHk9ImNlbnRlciIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
