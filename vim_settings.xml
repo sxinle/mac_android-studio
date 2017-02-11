@@ -329,6 +329,10 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/ChartActivity.java" timestamp="1486805986570">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="0" column="34" />
+      </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/res-ytx/values/dimens.xml" timestamp="1486216522719">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -537,9 +541,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="4" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/yuntongxun/ecdemo/ui/chatting/redpacketutils/CheckRedPacketMessageUtil.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/yuntongxun/ecdemo/ui/chatting/redpacketutils/CheckRedPacketMessageUtil.java" />
-      <jump line="65" column="22" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/yuntongxun/ecdemo/ui/chatting/model/RedPacketTxRow.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/yuntongxun/ecdemo/ui/chatting/model/RedPacketTxRow.java" />
       <jump line="8" column="20" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/yuntongxun/ecdemo/ui/chatting/model/RichTextRxRow.java" />
       <jump line="15" column="25" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/yuntongxun/ecdemo/ui/chatting/model/RedPacketRxRow.java" />
@@ -637,6 +638,9 @@
       <jump line="1" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_user_center.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_user_center.xml" />
       <jump line="158" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_user_center.xml" />
+      <jump line="219" column="52" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/ChartActivity.java" />
+      <jump line="590" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/ChartActivity.java" />
+      <jump line="2" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/ChartActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -646,7 +650,7 @@
         <text>true</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtTGVmdEJ1dHRvblw+</text>
+        <text>onCreate</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8SW1hZ2VWaWV3IGFuZHJvaWQ6aWQ9IkAraWQvcmVmcmVzaCIgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJtYXRjaF9wYXJlbnQiCiAgICAgICAgICAgICAgICAgICBhbmRyb2lkOnNyYz0iQGRyYXdhYmxlL3JlZnJlc2giIGFuZHJvaWQ6bGF5b3V0X2FsaWduUGFyZW50UmlnaHQ9InRydWUiLz4K</text>
@@ -683,17 +687,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtTGVmdEJ1dHRvblw+</last-search>
+      <last-search>onCreate</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtTGVmdEJ1dHRvblw+</last-pattern>
+      <last-pattern>onCreate</last-pattern>
       <last-replace>Log</last-replace>
       <last-substitute>LogUtil</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Voip</entry>
         <entry>voip</entry>
         <entry encoding="base64">XDxWb0lQQ2FsbEFjdGl2aXR5XD4=</entry>
         <entry encoding="base64">XDxTd2lwZUxpc3RlbmVyXD4=</entry>
@@ -713,6 +716,7 @@
         <entry encoding="base64">XDxsZWZ0VGV4dFw+</entry>
         <entry encoding="base64">XDxtVG9wQmFyVmlld1w+</entry>
         <entry encoding="base64">XDxtTGVmdEJ1dHRvblw+</entry>
+        <entry>onCreate</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0BkaW1lbi9mb250X3NpemVfbGFyZ2UvMTZzcC9n</entry>
