@@ -39,7 +39,8 @@
         <mark key="." line="45" column="54" />
         <mark key="^" line="110" column="46" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_leak_chart.xml" timestamp="1486862740264">
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_leak_chart.xml" timestamp="1486867169580">
+        <mark key="'" line="23" column="48" />
         <mark key="[" line="59" column="49" />
         <mark key="]" line="59" column="72" />
         <mark key="." line="59" column="72" />
@@ -271,7 +272,7 @@
         <mark key="." line="62" column="13" />
         <mark key="^" line="62" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1486862598027">
+      <file name="/Dummy.txt" timestamp="1486862747391">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/utils/Http.java" timestamp="1486812039852">
@@ -297,7 +298,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="94" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/yuntongxun/ecdemo/ui/chatting/model/RedPacketAckTxRow.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/yuntongxun/ecdemo/ui/chatting/model/RedPacketAckTxRow.java" />
       <jump line="8" column="28" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/yuntongxun/ecdemo/ui/chatting/model/RedPacketAckRxRow.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/yuntongxun/ecdemo/ui/chatting/model/RedPacketAckRxRow.java" />
@@ -397,6 +397,7 @@
       <jump line="96" column="36" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/LeakChartActivity.java" />
       <jump line="26" column="14" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/data/pojo/EnergyChart.java" />
       <jump line="17" column="13" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/UserCenterActivity.java" />
+      <jump line="23" column="48" filename="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_leak_chart.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
