@@ -86,12 +86,12 @@
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/yuntongxun/ecdemo/ui/huawei/MyReceiver.java" timestamp="1486218607517">
         <mark key="'" line="58" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/EnergyChartActivity.java" timestamp="1486880442456">
-        <mark key="'" line="73" column="30" />
-        <mark key="[" line="125" column="47" />
-        <mark key="]" line="125" column="62" />
-        <mark key="." line="125" column="62" />
-        <mark key="^" line="125" column="62" />
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/EnergyChartActivity.java" timestamp="1486881934695">
+        <mark key="'" line="141" column="20" />
+        <mark key="[" line="146" column="0" />
+        <mark key="]" line="146" column="0" />
+        <mark key="." line="146" column="0" />
+        <mark key="^" line="145" column="76" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/EnergyMngActivity.java" timestamp="1486876157795">
         <mark key="[" line="101" column="58" />
@@ -188,12 +188,11 @@
         <mark key="^" line="20" column="7" />
         <mark key="." line="20" column="7" />
       </file>
-      <file name="/fragment.java" timestamp="1486876719386">
+      <file name="/fragment.java" timestamp="1486880739566">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="184" column="24" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/yuntongxun/ecdemo/ui/chatting/ChattingListClickListener.java" />
       <jump line="186" column="17" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/yuntongxun/ecdemo/ui/chatting/ChattingListClickListener.java" />
       <jump line="58" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/yuntongxun/ecdemo/ui/huawei/MyReceiver.java" />
       <jump line="80" column="4" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/yuntongxun/ecdemo/common/base/OverflowAdapter.java" />
@@ -293,63 +292,63 @@
       <jump line="64" column="19" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/EnergyChartActivity.java" />
       <jump line="65" column="17" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/EnergyChartActivity.java" />
       <jump line="73" column="30" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/EnergyChartActivity.java" />
+      <jump line="141" column="20" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/EnergyChartActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>基本废物......</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>20f</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxxdWFydGVyc1w+</text>
+        <text>wsMax</text>
       </register>
-      <register name="0" type="4">
-        <text>energy</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBsZWZ0QXhpcy5zZXRBeGlzTWF4aW11bSgyMGYpOwogICAgICAgIGxlZnRBeGlzLnNldEF4aXNNaW5pbXVtKC0zZik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRhdGExID0gbmV3IEFycmF5TGlzdDw+KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsZWZ0QXhpcy5zZXRBeGlzTWluaW11bSgtM2YpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIExpc3Q8U3RyaW5nPiAgICAgIHRpbWVzID0gbmV3IEFycmF5TGlzdDw+KCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbUNoYXJ0LnNldGRhCg==</text>
+        <text encoding="base64">ICAgIExpc3Q8U3RyaW5nPiAgICAgIHRpbWVzID0gbmV3IEFycmF5TGlzdDw+KCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGF0YVNldHMuYWRkKGRhdGEpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBzcF90aW1lLnNldE9uSXRlbVNlbGVjdGVkTGlzdGVuZXIobmV3IEFkYXB0ZXJWaWV3Lk9uSXRlbVNlbGVjdGVkTGlzdGVuZXIoKSB7CiAgICAgICAgLy8gICAgIEBPdmVycmlkZQogICAgICAgIC8vICAgICBwdWJsaWMgdm9pZCBvbkl0ZW1TZWxlY3RlZChBZGFwdGVyVmlldzw/PiBwYXJlbnQsIFZpZXcgdmlldywgaW50IHBvc2l0aW9uLCBsb25nIGlkKSB7CiAgICAgICAgLy8gICAgICAgICBzZXRFbmVyZ3lWYWxzKHR5cGUsIHRpbWVzLmdldChwb3NpdGlvbikpOwogICAgICAgIC8vICAgICB9CiAgICAgICAgLy8KICAgICAgICAvLyAgICAgQE92ZXJyaWRlCiAgICAgICAgLy8gICAgIHB1YmxpYyB2b2lkIG9uTm90aGluZ1NlbGVjdGVkKEFkYXB0ZXJWaWV3PD8+IHBhcmVudCkgewogICAgICAgIC8vICAgICB9CiAgICAgICAgLy8gfSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTGluZURhdGEgZGF0YSA9IG5ldyBMaW5lRGF0YShzZXQxKTsKICAgICAgICAgICAgZGF0YS5zZXRWYWx1ZVRleHRDb2xvcihDb2xvci5XSElURSk7CiAgICAgICAgICAgIGRhdGEuc2V0VmFsdWVUZXh0U2l6ZSg5Zik7CgogICAgICAgICAgICBMaW5lRGF0YSBkYXRhMiA9IG5ldyBMaW5lRGF0YShzZXQyKTsKICAgICAgICAgICAgZGF0YTIuc2V0VmFsdWVUZXh0Q29sb3IoQ29sb3IuV0hJVEUpOwogICAgICAgICAgICBkYXRhMi5zZXRWYWx1ZVRleHRTaXplKDlmKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbUNoYXJ0LnNldERhdGEoZGF0YSk7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgY2xhc3MgU3Bpbm5lckFkYXB0ZXIgZXh0ZW5kcyBBcnJheUFkYXB0ZXI8U3RyaW5nPiB7CiAgICAgICAgQ29udGV4dCBjb250ZXh0OwogICAgICAgIExpc3Q8U3RyaW5nPiBpdGVtcyA9IG5ldyBBcnJheUxpc3Q8PigpOwoKICAgICAgICBwdWJsaWMgU3Bpbm5lckFkYXB0ZXIoZmluYWwgQ29udGV4dCBjb250ZXh0LCBmaW5hbCBpbnQgdGV4dFZpZXdSZXNvdXJjZUlkLCBmaW5hbCBMaXN0PFN0cmluZz4gb2JqZWN0cykgewogICAgICAgICAgICBzdXBlcihjb250ZXh0LCB0ZXh0Vmlld1Jlc291cmNlSWQsIG9iamVjdHMpOwogICAgICAgICAgICB0aGlzLml0ZW1zID0gb2JqZWN0czsKICAgICAgICAgICAgdGhpcy5jb250ZXh0ID0gY29udGV4dDsKICAgICAgICB9CgogICAgICAgIEBPdmVycmlkZQogICAgICAgIHB1YmxpYyBWaWV3IGdldERyb3BEb3duVmlldyhpbnQgcG9zaXRpb24sIFZpZXcgY29udmVydFZpZXcsIFZpZXdHcm91cCBwYXJlbnQpIHsKCiAgICAgICAgICAgIGlmIChjb252ZXJ0VmlldyA9PSBudWxsKSB7CiAgICAgICAgICAgICAgICBMYXlvdXRJbmZsYXRlciBpbmZsYXRlciA9IExheW91dEluZmxhdGVyLmZyb20oY29udGV4dCk7CiAgICAgICAgICAgICAgICBjb252ZXJ0VmlldyA9IGluZmxhdGVyLmluZmxhdGUoYW5kcm9pZC5SLmxheW91dC5zaW1wbGVfc3Bpbm5lcl9pdGVtLCBwYXJlbnQsIGZhbHNlKTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgVGV4dFZpZXcgdHYgPSAoVGV4dFZpZXcpIGNvbnZlcnRWaWV3LmZpbmRWaWV3QnlJZChhbmRyb2lkLlIuaWQudGV4dDEpOwogICAgICAgICAgICB0di5zZXRCYWNrZ3JvdW5kQ29sb3IoZ2V0UmVzb3VyY2VzKCkuZ2V0Q29sb3IoUi5jb2xvci5jaGFydF9iZykpOwogICAgICAgICAgICB0di5zZXRUZXh0KGl0ZW1zLmdldChwb3NpdGlvbikpOwogICAgICAgICAgICB0di5zZXRUZXh0Q29sb3IoQ29sb3IuV0hJVEUpOwogICAgICAgICAgICB0di5zZXRUZXh0U2l6ZShVdGlscy5zcDJweChjb250ZXh0LCAxMykpOwogICAgICAgICAgICByZXR1cm4gY29udmVydFZpZXc7CiAgICAgICAgfQoKICAgICAgICBAT3ZlcnJpZGUKICAgICAgICBwdWJsaWMgVmlldyBnZXRWaWV3KGludCBwb3NpdGlvbiwgVmlldyBjb252ZXJ0VmlldywgVmlld0dyb3VwIHBhcmVudCkgewogICAgICAgICAgICBpZiAoY29udmVydFZpZXcgPT0gbnVsbCkgewogICAgICAgICAgICAgICAgTGF5b3V0SW5mbGF0ZXIgaW5mbGF0ZXIgPSBMYXlvdXRJbmZsYXRlci5mcm9tKGNvbnRleHQpOwogICAgICAgICAgICAgICAgY29udmVydFZpZXcgPSBpbmZsYXRlci5pbmZsYXRlKGFuZHJvaWQuUi5sYXlvdXQuc2ltcGxlX3NwaW5uZXJfaXRlbSwgcGFyZW50LCBmYWxzZSk7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIC8vIGFuZHJvaWQuUi5pZC50ZXh0MSBpcyBkZWZhdWx0IHRleHQgdmlldyBpbiByZXNvdXJjZSBvZiB0aGUgYW5kcm9pZC4KICAgICAgICAgICAgLy8gYW5kcm9pZC5SLmxheW91dC5zaW1wbGVfc3Bpbm5lcl9pdGVtIGlzIGRlZmF1bHQgbGF5b3V0IGluIHJlc291cmNlcyBvZiBhbmRyb2lkLgoKICAgICAgICAgICAgVGV4dFZpZXcgdHYgPSAoVGV4dFZpZXcpIGNvbnZlcnRWaWV3LmZpbmRWaWV3QnlJZChhbmRyb2lkLlIuaWQudGV4dDEpOwogICAgICAgICAgICB0di5zZXRCYWNrZ3JvdW5kQ29sb3IoZ2V0UmVzb3VyY2VzKCkuZ2V0Q29sb3IoUi5jb2xvci5jaGFydF9iZykpOwogICAgICAgICAgICB0di5zZXRUZXh0KGl0ZW1zLmdldChwb3NpdGlvbikpOwogICAgICAgICAgICB0di5zZXRUZXh0Q29sb3IoQ29sb3IuV0hJVEUpOwogICAgICAgICAgICB0di5zZXRUZXh0U2l6ZShVdGlscy5zcDJweChjb250ZXh0LCAxMykpOwogICAgICAgICAgICByZXR1cm4gY29udmVydFZpZXc7CiAgICAgICAgfQogICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGEK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgQXJyYXlBZGFwdGVyPFN0cmluZz4gYXJyX2FkYXB0ZXI7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoVGV4dFV0aWxzLmlzRW1wdHkodGltZSkpIHsKICAgICAgICAgICAgbCA9IGRhdGExLmdldChkYXRhMS5zaXplKCkgLSAxKTsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICBmb3IgKEVuZXJneUNoYXJ0IGVuZXJneSA6IGRhdGExKSB7CiAgICAgICAgICAgICAgICBpZiAoZW5lcmd5LmdldFRpbWUoKS5lcXVhbHModGltZSkpIHsKICAgICAgICAgICAgICAgICAgICBsID0gZW5lcmd5OwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRhdGExID0gbmV3IEFycmF5TGlzdDw+KCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxxdWFydGVyc1w+</last-search>
+      <last-search>wsMax</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxxdWFydGVyc1w+</last-pattern>
-      <last-replace>Log</last-replace>
-      <last-substitute>LogUtil</last-substitute>
+      <last-pattern>wsMax</last-pattern>
+      <last-replace>wsMin</last-replace>
+      <last-substitute>wsMax</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxsb2dpbl9wb3N0aW5nX3N1Ym1pdFw+</entry>
         <entry>voiceMeet</entry>
         <entry>show</entry>
         <entry>progre</entry>
@@ -369,9 +368,9 @@
         <entry>leakchart</entry>
         <entry encoding="base64">XDxzcF90aW1lXD4=</entry>
         <entry encoding="base64">XDxxdWFydGVyc1w+</entry>
+        <entry>wsMax</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL0BkaW1lbi9mb250X3NpemVfbGFyZ2UvMTZzcC9n</entry>
         <entry encoding="base64">JzwsJz5zL0BkaW1lblwvZm9udF9zaXplX2xhcmdlLzE2c3AvZw==</entry>
         <entry encoding="base64">JzwsJz5zL0BkaW1lblwvZm9udF9zaXplX25vcm1hbC8xNHNwL2c=</entry>
         <entry encoding="base64">JzwsJz5zL0BkaW1lblwvZm9udF9zaXplX25vcm1hbC8xMHNwL2c=</entry>
@@ -390,6 +389,7 @@
         <entry encoding="base64">JzwsJz5zL2ZpbmFsLy9n</entry>
         <entry encoding="base64">JzwsJz5zL2NvbS55dW50b25neHVuLmVjZGVtby9jb20uYWNlbm9kZS9n</entry>
         <entry encoding="base64">JzwsJz5zL0xvZ1V0aWwvTG9nL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL3dzTWF4L3dzTWluL2c=</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
