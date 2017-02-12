@@ -68,11 +68,11 @@
         <mark key="^" line="41" column="125" />
         <mark key="." line="41" column="125" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/data/pojo/EnergyChart.java" timestamp="1486811820722">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="24" column="23" />
-        <mark key="^" line="24" column="23" />
-        <mark key="." line="24" column="23" />
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/data/pojo/EnergyChart.java" timestamp="1486882181100">
+        <mark key="[" line="57" column="36" />
+        <mark key="]" line="57" column="43" />
+        <mark key="^" line="57" column="43" />
+        <mark key="." line="57" column="43" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/UserEditActivity.java" timestamp="1486861768029">
         <mark key="[" line="67" column="53" />
@@ -86,12 +86,12 @@
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/yuntongxun/ecdemo/ui/huawei/MyReceiver.java" timestamp="1486218607517">
         <mark key="'" line="58" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/EnergyChartActivity.java" timestamp="1486881934695">
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/EnergyChartActivity.java" timestamp="1486882376079">
         <mark key="'" line="141" column="20" />
-        <mark key="[" line="146" column="0" />
-        <mark key="]" line="146" column="0" />
-        <mark key="." line="146" column="0" />
-        <mark key="^" line="145" column="76" />
+        <mark key="[" line="189" column="30" />
+        <mark key="]" line="189" column="67" />
+        <mark key="." line="189" column="67" />
+        <mark key="^" line="189" column="67" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/EnergyMngActivity.java" timestamp="1486876157795">
         <mark key="[" line="101" column="58" />
@@ -299,7 +299,7 @@
         <text>基本废物......</text>
       </register>
       <register name="-" type="4">
-        <text>20f</text>
+        <text>ColorTemplate.getHoloBlue()</text>
       </register>
       <register name="/" type="4">
         <text>wsMax</text>
