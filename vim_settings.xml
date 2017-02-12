@@ -86,11 +86,12 @@
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/yuntongxun/ecdemo/ui/huawei/MyReceiver.java" timestamp="1486218607517">
         <mark key="'" line="58" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/EnergyChartActivity.java" timestamp="1486877677268">
-        <mark key="[" line="131" column="17" />
-        <mark key="]" line="131" column="18" />
-        <mark key="." line="131" column="18" />
-        <mark key="^" line="186" column="17" />
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/EnergyChartActivity.java" timestamp="1486880442456">
+        <mark key="'" line="73" column="30" />
+        <mark key="[" line="125" column="47" />
+        <mark key="]" line="125" column="62" />
+        <mark key="." line="125" column="62" />
+        <mark key="^" line="125" column="62" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/EnergyMngActivity.java" timestamp="1486876157795">
         <mark key="[" line="101" column="58" />
@@ -192,10 +193,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="117" column="15" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/yuntongxun/ecdemo/ui/chatting/ChattingListClickListener.java" />
-      <jump line="173" column="34" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/yuntongxun/ecdemo/ui/chatting/ChattingListClickListener.java" />
-      <jump line="178" column="31" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/yuntongxun/ecdemo/ui/chatting/ChattingListClickListener.java" />
-      <jump line="181" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/yuntongxun/ecdemo/ui/chatting/ChattingListClickListener.java" />
       <jump line="184" column="24" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/yuntongxun/ecdemo/ui/chatting/ChattingListClickListener.java" />
       <jump line="186" column="17" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/yuntongxun/ecdemo/ui/chatting/ChattingListClickListener.java" />
       <jump line="58" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/yuntongxun/ecdemo/ui/huawei/MyReceiver.java" />
@@ -292,16 +289,20 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_leak_chart.xml" />
       <jump line="42" column="39" filename="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_energy_chart.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_energy_chart.xml" />
+      <jump line="270" column="8" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/EnergyChartActivity.java" />
+      <jump line="64" column="19" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/EnergyChartActivity.java" />
+      <jump line="65" column="17" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/EnergyChartActivity.java" />
+      <jump line="73" column="30" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/EnergyChartActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>基本废物......</text>
       </register>
       <register name="-" type="4">
-        <text>visible</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
-        <text>leakchart</text>
+        <text encoding="base64">XDxxdWFydGVyc1w+</text>
       </register>
       <register name="0" type="4">
         <text>energy</text>
@@ -338,9 +339,9 @@
       </register>
     </registers>
     <search>
-      <last-search>leakchart</last-search>
+      <last-search encoding="base64">XDxxdWFydGVyc1w+</last-search>
       <last-offset />
-      <last-pattern>leakchart</last-pattern>
+      <last-pattern encoding="base64">XDxxdWFydGVyc1w+</last-pattern>
       <last-replace>Log</last-replace>
       <last-substitute>LogUtil</last-substitute>
       <last-dir>1</last-dir>
@@ -348,8 +349,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxWb0lQQ2FsbEFjdGl2aXR5XD4=</entry>
-        <entry encoding="base64">XDxTd2lwZUxpc3RlbmVyXD4=</entry>
         <entry encoding="base64">XDxsb2dpbl9wb3N0aW5nX3N1Ym1pdFw+</entry>
         <entry>voiceMeet</entry>
         <entry>show</entry>
@@ -368,6 +367,8 @@
         <entry encoding="base64">XDxtTGVmdEJ1dHRvblw+</entry>
         <entry>onCreate</entry>
         <entry>leakchart</entry>
+        <entry encoding="base64">XDxzcF90aW1lXD4=</entry>
+        <entry encoding="base64">XDxxdWFydGVyc1w+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0BkaW1lbi9mb250X3NpemVfbGFyZ2UvMTZzcC9n</entry>
