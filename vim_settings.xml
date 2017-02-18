@@ -213,7 +213,11 @@
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/yuntongxun/ecdemo/common/utils/DemoUtils.java" timestamp="1487422825714">
         <mark key="'" line="1302" column="8" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/res-chatdemo/layout/em_activity_main2.xml" timestamp="1487431937331" />
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/res-chatdemo/layout/em_activity_main2.xml" timestamp="1487433192254">
+        <mark key="[" line="102" column="48" />
+        <mark key="]" line="102" column="49" />
+        <mark key="." line="102" column="49" />
+      </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/AndroidManifest.xml" timestamp="1487430809792">
         <mark key="'" line="141" column="27" />
         <mark key="[" line="92" column="51" />
