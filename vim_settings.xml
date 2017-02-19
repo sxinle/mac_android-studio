@@ -114,18 +114,6 @@
         <mark key="." line="157" column="0" />
         <mark key="^" line="156" column="105" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_user_edit.xml" timestamp="1486811369437">
-        <mark key="[" line="69" column="38" />
-        <mark key="]" line="69" column="39" />
-        <mark key="." line="69" column="39" />
-        <mark key="^" line="69" column="39" />
-      </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_station_chart.xml" timestamp="1486806810289">
-        <mark key="[" line="51" column="100" />
-        <mark key="]" line="51" column="103" />
-        <mark key="." line="51" column="103" />
-        <mark key="^" line="51" column="103" />
-      </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/widget/AbstractSpinerAdapter.java" timestamp="1487481816746">
         <mark key="[" line="17" column="4" />
         <mark key="]" line="17" column="4" />
@@ -164,18 +152,7 @@
         <mark key="." line="379" column="56" />
         <mark key="^" line="379" column="56" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/UserEditActivity.java" timestamp="1486903196280">
-        <mark key="[" line="67" column="53" />
-        <mark key="]" line="67" column="95" />
-        <mark key="." line="67" column="53" />
-        <mark key="^" line="67" column="52" />
-      </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_invite_user.xml" timestamp="1487168949115">
-        <mark key="[" line="46" column="50" />
-        <mark key="]" line="46" column="64" />
-        <mark key="^" line="46" column="64" />
-        <mark key="." line="46" column="64" />
-      </file>
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/jpush/JpushReceiver.java" timestamp="1487497089700" />
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/LoginActivity.java" timestamp="1487418681993">
         <mark key="'" line="37" column="0" />
         <mark key="[" line="63" column="0" />
@@ -195,12 +172,6 @@
         <mark key="]" line="10" column="39" />
         <mark key="." line="23" column="36" />
         <mark key="^" line="23" column="36" />
-      </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_push_alarm_list.xml" timestamp="1487080218450">
-        <mark key="[" line="33" column="32" />
-        <mark key="]" line="33" column="36" />
-        <mark key="." line="33" column="36" />
-        <mark key="^" line="33" column="36" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/voip/SwipTranslucentMethodUtils.java" timestamp="1486215371011">
         <mark key="'" line="77" column="14" />
@@ -250,12 +221,6 @@
         <mark key="^" line="70" column="50" />
         <mark key="." line="70" column="50" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/EnergyMngActivity.java" timestamp="1486892638352">
-        <mark key="[" line="69" column="42" />
-        <mark key="]" line="69" column="57" />
-        <mark key="." line="69" column="57" />
-        <mark key="^" line="69" column="57" />
-      </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/photoupload/activity/ShowAllPhoto2.java" timestamp="1487087683307">
         <mark key="'" line="19" column="33" />
         <mark key="[" line="162" column="42" />
@@ -297,20 +262,10 @@
         <mark key="." line="62" column="49" />
         <mark key="^" line="62" column="49" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/res-ytx/values/arrays.xml" timestamp="1487473678281">
-        <mark key="'" line="68" column="24" />
-        <mark key="[" line="526" column="19" />
-      </file>
       <file name="$USER_HOME$/workspace/SpinerWindowDemo/app/src/main/java/com/geniuseoe/spiner/demo/SpinerWindowDemoActivity.java" timestamp="1487481585364">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="27" />
         <mark key="." line="18" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/ConversationListFragment.java" timestamp="1487442121191">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-        <mark key="^" line="142" column="22" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/res/layout/frag_group_contactlist.xml" timestamp="1487469351698">
         <mark key="'" line="36" column="49" />
@@ -326,12 +281,6 @@
         <mark key="^" line="51" column="0" />
         <mark key="." line="51" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/DataGatherActivity.java" timestamp="1486892620825">
-        <mark key="[" line="73" column="36" />
-        <mark key="]" line="74" column="42" />
-        <mark key="^" line="74" column="42" />
-        <mark key="." line="74" column="42" />
-      </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/InviteUserActivity.java" timestamp="1487419085667">
         <mark key="'" line="107" column="45" />
         <mark key="[" line="140" column="56" />
@@ -339,6 +288,7 @@
         <mark key="." line="140" column="77" />
         <mark key="^" line="140" column="77" />
       </file>
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/res-easeui/layout/ease_row_chat_history.xml" timestamp="1487431390670" />
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/easeui/widget/EaseChatPrimaryMenu.java" timestamp="1487441420673">
         <mark key="'" line="249" column="8" />
         <mark key="[" line="63" column="58" />
@@ -374,12 +324,6 @@
         <mark key="." line="96" column="64" />
         <mark key="^" line="96" column="64" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/data/pojo/AlarmCount.java" timestamp="1486891956495">
-        <mark key="[" line="8" column="24" />
-        <mark key="]" line="8" column="24" />
-        <mark key="^" line="8" column="39" />
-        <mark key="." line="8" column="24" />
-      </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/SettingsFragment.java" timestamp="1487469934548">
         <mark key="[" line="54" column="50" />
         <mark key="]" line="54" column="61" />
@@ -393,12 +337,6 @@
         <mark key="^" line="105" column="72" />
         <mark key="." line="106" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_energy_chart.xml" timestamp="1486994058686">
-        <mark key="[" line="135" column="52" />
-        <mark key="]" line="135" column="52" />
-        <mark key="^" line="135" column="51" />
-        <mark key="." line="135" column="52" />
-      </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/utils/MappingUtil.java" timestamp="1487486323247">
         <mark key="'" line="43" column="0" />
         <mark key="[" line="13" column="45" />
@@ -408,12 +346,6 @@
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/data/pojo/LeakChat.java" timestamp="1486811675904">
         <mark key="[" line="6" column="21" />
-      </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/res/layout/item_invite_user.xml" timestamp="1487168188832">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="12" column="53" />
-        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/yuntongxun/ecdemo/ui/ECFragmentActivity.java" timestamp="1486306627382">
         <mark key="'" line="28" column="40" />
@@ -441,7 +373,7 @@
         <mark key="[" line="29" column="0" />
         <mark key="]" line="35" column="62" />
       </file>
-      <file name="/Dummy.txt" timestamp="1487477867204">
+      <file name="/Dummy.txt" timestamp="1487496874159">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/data/entity/PushAlarm.java" timestamp="1486901066571">
@@ -458,12 +390,6 @@
         <mark key="." line="29" column="36" />
         <mark key="^" line="29" column="36" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/utils/Http.java" timestamp="1486903176081">
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="32" />
-        <mark key="." line="70" column="24" />
-        <mark key="^" line="70" column="24" />
-      </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/photoupload/util/BitmapCache2.java" timestamp="1487087589841">
         <mark key="'" line="9" column="33" />
         <mark key="[" line="83" column="28" />
@@ -471,13 +397,7 @@
         <mark key="." line="83" column="44" />
         <mark key="^" line="83" column="44" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/res/values/arrays.xml" timestamp="1487473752825">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="4" column="15" />
-      </file>
-      <file name="/a.regexp" timestamp="1487441423406">
+      <file name="/a.regexp" timestamp="1487497369576">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/data/pojo/UsersResp.java" timestamp="1487167858969">
@@ -486,12 +406,6 @@
         <mark key="]" line="63" column="31" />
         <mark key="." line="63" column="31" />
         <mark key="^" line="63" column="31" />
-      </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/data/pojo/BaseResp.java" timestamp="1486891300752">
-        <mark key="[" line="8" column="24" />
-        <mark key="]" line="10" column="29" />
-        <mark key="^" line="10" column="29" />
-        <mark key="." line="10" column="29" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/res-easeui/layout/ease_fragment_conversation_list.xml" timestamp="1487439495124">
         <mark key="'" line="46" column="37" />
@@ -505,7 +419,7 @@
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="72" />
       </file>
-      <file name="/fragment.java" timestamp="1487496590712">
+      <file name="/fragment.java" timestamp="1487497362417">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="^" line="0" column="6" />
