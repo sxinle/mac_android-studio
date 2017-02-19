@@ -345,7 +345,8 @@
         <mark key="^" line="64" column="14" />
         <mark key="." line="64" column="14" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" timestamp="1487473210426">
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" timestamp="1487487743276">
+        <mark key="'" line="521" column="26" />
         <mark key="[" line="270" column="48" />
         <mark key="]" line="270" column="65" />
         <mark key="." line="270" column="65" />
@@ -511,13 +512,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="87" column="59" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/easeui/widget/EaseTitleBar.java" />
-      <jump line="440" column="39" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/SettingsFragment.java" />
-      <jump line="459" column="25" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/MainActivity2.java" />
-      <jump line="95" column="44" filename="$USER_HOME$/workspace/waffair/app/src/main/res-chatdemo/layout/em_activity_main2.xml" />
-      <jump line="120" column="42" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/SettingsFragmentBak.java" />
-      <jump line="54" column="53" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/ContactListFragment2.java" />
-      <jump line="86" column="72" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/ContactListFragment2.java" />
       <jump line="46" column="37" filename="$USER_HOME$/workspace/waffair/app/src/main/res-easeui/layout/ease_fragment_conversation_list.xml" />
       <jump line="12" column="33" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/easeui/ui/EaseBaseFragment.java" />
       <jump line="12" column="29" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/ChatActivity.java" />
@@ -611,6 +605,13 @@
       <jump line="33" column="19" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/CheckIndexActivity.java" />
       <jump line="34" column="17" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/CheckIndexActivity.java" />
       <jump line="42" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/utils/MappingUtil.java" />
+      <jump line="381" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
+      <jump line="489" column="29" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
+      <jump line="522" column="41" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
+      <jump line="23" column="25" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
+      <jump line="456" column="33" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
+      <jump line="490" column="39" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
+      <jump line="521" column="26" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -620,7 +621,7 @@
         <text>invalidToken()</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzdGF0aW9uX25hbWVcPg==</text>
+        <text>http</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgTWFwPFN0cmluZywgU3RyaW5nPiAgIGtleTJuYW1lTWFwICA9IG5ldyBIYXNoTWFwPD4oKTsK</text>
@@ -657,9 +658,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzdGF0aW9uX25hbWVcPg==</last-search>
+      <last-search>http</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzdGF0aW9uX25hbWVcPg==</last-pattern>
+      <last-pattern>http</last-pattern>
       <last-replace>wsMin</last-replace>
       <last-substitute>wsMax</last-substitute>
       <last-dir>1</last-dir>
@@ -667,7 +668,6 @@
     </search>
     <history>
       <history-search>
-        <entry>send</entry>
         <entry>more</entry>
         <entry encoding="base64">XDxidXR0b25Nb3JlXD4=</entry>
         <entry>emo</entry>
@@ -687,6 +687,7 @@
         <entry encoding="base64">XDxzcGlubmVyX3dpbmRvd19sYXlvdXRcPg==</entry>
         <entry>tv_val</entry>
         <entry encoding="base64">XDxzdGF0aW9uX25hbWVcPg==</entry>
+        <entry>http</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0BkaW1lblwvZm9udF9zaXplX25vcm1hbC8xNHNwL2c=</entry>
