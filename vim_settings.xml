@@ -47,11 +47,11 @@
         <mark key="." line="40" column="65" />
         <mark key="^" line="40" column="65" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_check_index.xml" timestamp="1487482743692">
-        <mark key="[" line="65" column="48" />
-        <mark key="]" line="66" column="47" />
-        <mark key="." line="66" column="47" />
-        <mark key="^" line="66" column="47" />
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_check_index.xml" timestamp="1487485927927">
+        <mark key="[" line="109" column="94" />
+        <mark key="]" line="110" column="53" />
+        <mark key="." line="110" column="55" />
+        <mark key="^" line="110" column="53" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/UserInfoActivity.java" timestamp="1487430576508">
         <mark key="[" line="28" column="41" />
@@ -182,12 +182,12 @@
         <mark key="." line="122" column="21" />
         <mark key="^" line="122" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/CheckIndexActivity.java" timestamp="1487483633609">
-        <mark key="'" line="118" column="0" />
-        <mark key="[" line="46" column="11" />
-        <mark key="]" line="51" column="15" />
-        <mark key="^" line="51" column="15" />
-        <mark key="." line="51" column="15" />
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/CheckIndexActivity.java" timestamp="1487486339902">
+        <mark key="'" line="34" column="17" />
+        <mark key="[" line="77" column="71" />
+        <mark key="]" line="77" column="73" />
+        <mark key="." line="77" column="73" />
+        <mark key="^" line="77" column="73" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/res/values/colors.xml" timestamp="1487435060743">
         <mark key="[" line="10" column="33" />
@@ -397,10 +397,12 @@
         <mark key="^" line="135" column="51" />
         <mark key="." line="135" column="52" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/utils/MappingUtil.java" timestamp="1487482421126">
-        <mark key="'" line="41" column="13" />
-        <mark key="[" line="16" column="44" />
-        <mark key="]" line="16" column="53" />
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/utils/MappingUtil.java" timestamp="1487486323247">
+        <mark key="'" line="43" column="0" />
+        <mark key="[" line="13" column="45" />
+        <mark key="]" line="13" column="46" />
+        <mark key="." line="13" column="46" />
+        <mark key="^" line="13" column="50" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/data/pojo/LeakChat.java" timestamp="1486811675904">
         <mark key="[" line="6" column="21" />
@@ -447,12 +449,12 @@
         <mark key="^" line="30" column="24" />
         <mark key="." line="30" column="24" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/res/values/dimens.xml" timestamp="1487427703758">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="27" column="33" />
-        <mark key="]" line="27" column="36" />
-        <mark key="." line="27" column="36" />
-        <mark key="^" line="27" column="36" />
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/res/values/dimens.xml" timestamp="1487485261783">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="29" column="35" />
+        <mark key="]" line="29" column="36" />
+        <mark key="." line="29" column="36" />
+        <mark key="^" line="29" column="36" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/utils/Http.java" timestamp="1486903176081">
         <mark key="[" line="63" column="0" />
@@ -509,10 +511,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="36" filename="$USER_HOME$/workspace/waffair/app/src/main/res-easeui/layout/ease_widget_title_bar.xml" />
-      <jump line="50" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/SettingsFragment.java" />
-      <jump line="195" column="6" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/easeui/ui/EaseConversationListFragment.java" />
-      <jump line="121" column="8" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/easeui/ui/EaseConversationListFragment.java" />
       <jump line="87" column="59" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/easeui/widget/EaseTitleBar.java" />
       <jump line="440" column="39" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/SettingsFragment.java" />
       <jump line="459" column="25" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/MainActivity2.java" />
@@ -609,55 +607,59 @@
       <jump line="50" column="33" filename="$USER_HOME$/workspace/SpinerWindowDemo/app/src/main/res/layout/main.xml" />
       <jump line="92" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/CheckIndexActivity.java" />
       <jump line="41" column="13" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/utils/MappingUtil.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/res/values/dimens.xml" />
+      <jump line="33" column="19" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/CheckIndexActivity.java" />
+      <jump line="34" column="17" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/CheckIndexActivity.java" />
+      <jump line="42" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/utils/MappingUtil.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>基本废物......</text>
       </register>
       <register name="-" type="4">
-        <text>8</text>
+        <text>invalidToken()</text>
       </register>
       <register name="/" type="4">
-        <text>tv_val</text>
+        <text encoding="base64">XDxzdGF0aW9uX25hbWVcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>123.508611</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgTWFwPFN0cmluZywgU3RyaW5nPiAgIGtleTJuYW1lTWFwICA9IG5ldyBIYXNoTWFwPD4oKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PFN0cmluZz4ga2V5cyA9IG5ldyBBcnJheUxpc3Q8Pihrcyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHBhZGxlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGtleXMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBvc2kK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkcmF3TWFya2VyKDQxLjc1NzU2MywgMTIzLjUwODYxMSwgdHJ1ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkcmF3TWFya2VyKDQxLjc1MzIwMSwgMTIzLjQ2MzkxMyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>tv_val</last-search>
+      <last-search encoding="base64">XDxzdGF0aW9uX25hbWVcPg==</last-search>
       <last-offset />
-      <last-pattern>tv_val</last-pattern>
+      <last-pattern encoding="base64">XDxzdGF0aW9uX25hbWVcPg==</last-pattern>
       <last-replace>wsMin</last-replace>
       <last-substitute>wsMax</last-substitute>
       <last-dir>1</last-dir>
@@ -665,7 +667,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjaGF0RXh0ZW5kTWVudUNvbnRhaW5lclw+</entry>
         <entry>send</entry>
         <entry>more</entry>
         <entry encoding="base64">XDxidXR0b25Nb3JlXD4=</entry>
@@ -685,9 +686,9 @@
         <entry encoding="base64">XDxhcnJfYWRhcHRlclw+</entry>
         <entry encoding="base64">XDxzcGlubmVyX3dpbmRvd19sYXlvdXRcPg==</entry>
         <entry>tv_val</entry>
+        <entry encoding="base64">XDxzdGF0aW9uX25hbWVcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL0BkaW1lblwvZm9udF9zaXplX2xhcmdlLzE2c3AvZw==</entry>
         <entry encoding="base64">JzwsJz5zL0BkaW1lblwvZm9udF9zaXplX25vcm1hbC8xNHNwL2c=</entry>
         <entry encoding="base64">JzwsJz5zL0BkaW1lblwvZm9udF9zaXplX25vcm1hbC8xMHNwL2c=</entry>
         <entry encoding="base64">JzwsJz5zL0BkaW1lblwvZm9udF9zaXplX3NtYWxsLzEwc3AvZw==</entry>
@@ -706,6 +707,7 @@
         <entry encoding="base64">JzwsJz5zL2NvbS55dW50b25neHVuLmVjZGVtby9jb20uYWNlbm9kZS9n</entry>
         <entry encoding="base64">JzwsJz5zL0xvZ1V0aWwvTG9nL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3dzTWF4L3dzTWluL2c=</entry>
+        <entry>vsp</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
