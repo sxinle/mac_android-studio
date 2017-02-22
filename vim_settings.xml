@@ -296,9 +296,12 @@
         <mark key="^" line="124" column="57" />
         <mark key="." line="124" column="57" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/BaseActivity.java" timestamp="1487770432682">
-        <mark key="'" line="226" column="75" />
-        <mark key="^" line="237" column="51" />
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/BaseActivity.java" timestamp="1487771957069">
+        <mark key="'" line="227" column="75" />
+        <mark key="[" line="244" column="96" />
+        <mark key="]" line="244" column="97" />
+        <mark key="^" line="244" column="97" />
+        <mark key="." line="244" column="97" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/data/pojo/LeakChat.java" timestamp="1486811675904">
         <mark key="[" line="6" column="21" />
@@ -446,7 +449,7 @@
         <mark key="^" line="38" column="35" />
         <mark key="." line="38" column="35" />
       </file>
-      <file name="/fragment.java" timestamp="1487513590344">
+      <file name="/fragment.java" timestamp="1487771670296">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="^" line="0" column="6" />
@@ -561,7 +564,7 @@
         <text>基本废物......</text>
       </register>
       <register name="-" type="4">
-        <text>Right</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>alarm</text>
