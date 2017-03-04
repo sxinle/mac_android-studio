@@ -62,6 +62,12 @@
         <mark key="." line="79" column="40" />
         <mark key="^" line="79" column="40" />
       </file>
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/res/drawable/radiobutton.xml" timestamp="1488623082687">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/WorkOrderListFrag.java" timestamp="1488617466597">
         <mark key="[" line="55" column="38" />
         <mark key="]" line="57" column="38" />
@@ -170,7 +176,7 @@
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/data/pojo/LeakChat.java" timestamp="1486811675904">
         <mark key="[" line="6" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1488610570568">
+      <file name="/Dummy.txt" timestamp="1488622734713">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/data/pojo/WorkOrder.java" timestamp="1488601421080">
@@ -229,9 +235,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="235" column="47" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
-      <jump line="77" column="91" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
-      <jump line="150" column="35" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/UserMngActivity.java" />
       <jump line="29" column="13" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/DataGatherActivity.java" />
       <jump line="60" column="29" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/DataGatherActivity.java" />
       <jump line="80" column="4" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/AlarmListFragment.java" />
@@ -329,6 +332,9 @@
       <jump line="182" column="28" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/PositionFragment.java" />
       <jump line="183" column="56" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/PositionFragment.java" />
       <jump line="184" column="82" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/PositionFragment.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/res/drawable/radiobutton.xml" />
+      <jump line="1" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/res/drawable/radiobutton.xml" />
+      <jump line="2" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/res/drawable/radiobutton.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -343,29 +349,37 @@
       <register name="0" type="4">
         <text>ImageView</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQkK</text>
+      <register name="1" type="8">
+        <text>02
+03
+04
+05
+06
+07
+08
+09
+10</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkvLyBtTGlzdFZpZXcgPSAoTGlzdFZpZXcpIHZpZXcuZmluZFZpZXdCeUlkKFIuaWQubGlzdHZpZXcpOwo=</text>
+        <text encoding="base64">PHNlbGVjdG9yIHhtbG5zOmFuZHJvaWQ9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMvYW5kcm9pZCI+Cgo8L3NlbGVjdG9yPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">CQkK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQkvLyBtTGlzdFZpZXcgPSAoTGlzdFZpZXcpIHZpZXcuZmluZFZpZXdCeUlkKFIuaWQubGlzdHZpZXcpOwo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjYXNlIHZpZXcK</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUK</text>
+        <text encoding="base64">ICAgICAgICBjYXNlIHZpZXcK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIAo=</text>
