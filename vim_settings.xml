@@ -245,8 +245,8 @@
         <mark key="." line="177" column="69" />
         <mark key="^" line="177" column="69" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" timestamp="1488682328806">
-        <mark key="'" line="102" column="11" />
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" timestamp="1488683869443">
+        <mark key="'" line="362" column="19" />
         <mark key="[" line="277" column="48" />
         <mark key="]" line="277" column="66" />
         <mark key="." line="277" column="66" />
@@ -512,7 +512,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="528" column="36" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
       <jump line="75" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
       <jump line="226" column="75" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/BaseActivity.java" />
       <jump line="531" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
@@ -612,6 +611,7 @@
       <jump line="87" column="4" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/SettingsFragment.java" />
       <jump line="83" column="16" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/WorkOrderListActivity.java" />
       <jump line="79" column="16" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/SettingsFragment.java" />
+      <jump line="362" column="19" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -621,7 +621,7 @@
         <text>index</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwcm9ncmVzc1w+</text>
+        <text>Http</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgb25MaXN0SXRlbUNsaWNrKExpc3RWaWV3IGwsIFZpZXcgdiwgaW50IHBvc2l0aW9uLCBsb25nIGlkKSB7CiAgICAgICAgc3VwZXIub25MaXN0SXRlbUNsaWNrKGwsIHYsIHBvc2l0aW9uLCBpZCk7CiAgICAgICAgZmluYWwgQWxhcm1JbmZvIGFsYXJtSW5mbyA9IGFsYXJtcy5nZXQocG9zaXRpb24pOwogICAgICAgIENhbGw8TWFwPiBjYWxsID0gSHR0cC5hcGkuYWxhcm1fcmVhZCgoU3RyaW5nKSBTUFV0aWxzLmdldChnZXRBY3Rpdml0eSgpLCBTUEtleS5UT0tFTiwgIiIpLCBhbGFybUluZm8uZ2V0SWQoKSk7CiAgICAgICAgY2FsbC5lbnF1ZXVlKG5ldyBDYWxsYmFjazxNYXA+KCkgewogICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgcHVibGljIHZvaWQgb25SZXNwb25zZShDYWxsPE1hcD4gY2FsbCwgUmVzcG9uc2U8TWFwPiByZXNwb25zZSkgewogICAgICAgICAgICAgICAgTWFwIHJlc3AgPSByZXNwb25zZS5ib2R5KCk7CiAgICAgICAgICAgICAgICBpZiAocmVzcCAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgQnVuZGxlIGIgPSBuZXcgQnVuZGxlKCk7CiAgICAgICAgICAgICAgICAgICAgYi5wdXRTZXJpYWxpemFibGUoImFsYXJtIiwgYWxhcm1JbmZvKTsKICAgICAgICAgICAgICAgICAgICBJbnRlbnQgaSA9IG5ldyBJbnRlbnQoZ2V0QWN0aXZpdHkoKSwgQWxhcm1EZXRhaWxBY3Rpdml0eS5jbGFzcyk7CiAgICAgICAgICAgICAgICAgICAgaS5wdXRFeHRyYXMoYik7CiAgICAgICAgICAgICAgICAgICAgc3RhcnRBY3Rpdml0eShpKTsKICAgICAgICAgICAgICAgICAgICBJbnRlbnQgaW50ZW50ID0gbmV3IEludGVudChCYXNlQWN0aXZpdHkuQUxNX1JFQURFRCk7CiAgICAgICAgICAgICAgICAgICAgY3R4LnNlbmRCcm9hZGNhc3QoaW50ZW50KTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQoKICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyB2b2lkIG9uRmFpbHVyZShDYWxsPE1hcD4gY2FsbCwgVGhyb3dhYmxlIHQpIHsKICAgICAgICAgICAgICAgIFRvYXN0Lm1ha2VUZXh0KGdldEFjdGl2aXR5KCksICLmm7TmlrDlt7Lor7vnirbmgIHlpLHotKUuLi4iLCBUb2FzdC5MRU5HVEhfU0hPUlQpLnNob3coKTsKICAgICAgICAgICAgfQogICAgICAgIH0pOwogICAgfQo=</text>
@@ -658,9 +658,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwcm9ncmVzc1w+</last-search>
+      <last-search>Http</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwcm9ncmVzc1w+</last-pattern>
+      <last-pattern>Http</last-pattern>
       <last-replace>wsMin</last-replace>
       <last-substitute>wsMax</last-substitute>
       <last-dir>1</last-dir>
@@ -668,7 +668,6 @@
     </search>
     <history>
       <history-search>
-        <entry>http</entry>
         <entry encoding="base64">XDxhbGFybUNudFw+</entry>
         <entry>消息</entry>
         <entry>geny</entry>
@@ -688,6 +687,7 @@
         <entry>pd</entry>
         <entry>.show</entry>
         <entry encoding="base64">XDxwcm9ncmVzc1w+</entry>
+        <entry>Http</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0BkaW1lblwvZm9udF9zaXplX25vcm1hbC8xNHNwL2c=</entry>
