@@ -87,11 +87,11 @@
         <mark key="." line="10" column="37" />
         <mark key="^" line="10" column="37" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/data/pojo/Job.java" timestamp="1488686411359">
-        <mark key="[" line="107" column="61" />
-        <mark key="]" line="107" column="64" />
-        <mark key="." line="107" column="64" />
-        <mark key="^" line="107" column="64" />
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/data/pojo/Job.java" timestamp="1488689454385">
+        <mark key="[" line="8" column="16" />
+        <mark key="]" line="8" column="39" />
+        <mark key="." line="8" column="39" />
+        <mark key="^" line="8" column="39" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_intelligent_check.xml" timestamp="1488617822168">
         <mark key="[" line="44" column="41" />
@@ -136,12 +136,11 @@
         <mark key="." line="103" column="0" />
         <mark key="^" line="114" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/MyJobsActivity.java" timestamp="1488686207379">
-        <mark key="'" line="137" column="0" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="^" line="115" column="56" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/MyJobsActivity.java" timestamp="1488689499495">
+        <mark key="'" line="143" column="0" />
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_sign_in_map.xml" timestamp="1488680374254">
         <mark key="[" line="60" column="0" />
@@ -306,6 +305,13 @@
       <file name="/a.regexp" timestamp="1487691962418">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/WorkOrderActivity.java" timestamp="1488689407913">
+        <mark key="'" line="52" column="44" />
+        <mark key="[" line="59" column="34" />
+        <mark key="]" line="59" column="37" />
+        <mark key="." line="59" column="37" />
+        <mark key="^" line="59" column="37" />
+      </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/PositionFragment.java" timestamp="1488676941616">
         <mark key="'" line="39" column="33" />
         <mark key="[" line="182" column="93" />
@@ -427,7 +433,7 @@
         <text>基本废物......</text>
       </register>
       <register name="-" type="4">
-        <text>POST</text>
+        <text>putExtra(b);</text>
       </register>
       <register name="/" type="4">
         <text>Http</text>
@@ -436,31 +442,31 @@
         <text encoding="base64">ICAgICAgICA8YWN0aXZpdHkgYW5kcm9pZDpuYW1lPSIudmlldy5hY3Rpdml0eS5TaWduSW5NYXBBY3Rpdml0eSIvPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFRvYXN0Lm1ha2VUZXh0KGNvbnRleHQsICLmiJHnmoTku7vliqEiLCBUb2FzdC5MRU5HVEhfU0hPUlQpLnNob3coKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaS5wdXRFeHRyYSgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgSW50ZWxsaWdlbnRBY3Rpdml0eQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFRvYXN0Lm1ha2VUZXh0KGNvbnRleHQsICLmiJHnmoTku7vliqEiLCBUb2FzdC5MRU5HVEhfU0hPUlQpLnNob3coKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjYWxsLmVucXVldWUobmV3IENhbGxiYWNrPExpc3Q8Tm90aWZpY2F0aW9uPj4oKSB7CiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgdm9pZCBvblJlc3BvbnNlKENhbGw8TGlzdDxOb3RpZmljYXRpb24+PiBjYWxsLCBSZXNwb25zZTxMaXN0PE5vdGlmaWNhdGlvbj4+IHJlc3BvbnNlKSB7CiAgICAgICAgICAgICAgICBucyA9IHJlc3BvbnNlLmJvZHkoKTsKCiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgdm9pZCBvbkZhaWx1cmUoQ2FsbDxMaXN0PE5vdGlmaWNhdGlvbj4+IGNhbGwsIFRocm93YWJsZSB0KSB7CgogICAgICAgICAgICB9CiAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbi5zZXRSZWFkZWQoInRydWUiKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
