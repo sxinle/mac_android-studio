@@ -212,6 +212,9 @@
         <mark key="." line="70" column="63" />
         <mark key="^" line="51" column="106" />
       </file>
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/INetDetailActivity.java" timestamp="1493730817934">
+        <mark key="'" line="31" column="14" />
+      </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/easeui/widget/EaseTitleBar.java" timestamp="1487470024458">
         <mark key="'" line="21" column="24" />
         <mark key="[" line="85" column="8" />
@@ -504,8 +507,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="108" column="70" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/utils/Http.java" />
-      <jump line="91" column="12" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/WorkOrderActivity.java" />
       <jump line="16" column="25" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/WorkOrderActivity.java" />
       <jump line="90" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/WorkOrderActivity.java" />
       <jump line="99" column="62" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/WorkOrderActivity.java" />
@@ -604,6 +605,8 @@
       <jump line="43" column="8" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/StationDetailActivity.java" />
       <jump line="23" column="19" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/StationDetailActivity.java" />
       <jump line="24" column="13" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/StationDetailActivity.java" />
+      <jump line="30" column="19" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/INetDetailActivity.java" />
+      <jump line="31" column="14" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/INetDetailActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -613,7 +616,7 @@
         <text>sites</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0dl9kZXZpY2VfdHlwZVw+</text>
+        <text encoding="base64">XDxpdl9zdHJ1Y3RfaW1nXD4=</text>
       </register>
       <register name="0" type="4">
         <text>/api/stations</text>
@@ -650,9 +653,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0dl9kZXZpY2VfdHlwZVw+</last-search>
+      <last-search encoding="base64">XDxpdl9zdHJ1Y3RfaW1nXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0dl9kZXZpY2VfdHlwZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxpdl9zdHJ1Y3RfaW1nXD4=</last-pattern>
       <last-replace>wsMin</last-replace>
       <last-substitute>wsMax</last-substitute>
       <last-dir>1</last-dir>
@@ -660,7 +663,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxTaWduSW5NYXBBY3Rpdml0eVw+</entry>
         <entry encoding="base64">XDxkcmF3TWFya2Vyc1w+</entry>
         <entry>markerclick</entry>
         <entry encoding="base64">XDzpppbliJvlm73pmYXln47kuInmnJ9cPg==</entry>
@@ -680,6 +682,7 @@
         <entry>Http</entry>
         <entry encoding="base64">XDxkcmF3U3RhdGlvbnNcPg==</entry>
         <entry encoding="base64">XDx0dl9kZXZpY2VfdHlwZVw+</entry>
+        <entry encoding="base64">XDxpdl9zdHJ1Y3RfaW1nXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0BkaW1lblwvZm9udF9zaXplX25vcm1hbC8xNHNwL2c=</entry>
