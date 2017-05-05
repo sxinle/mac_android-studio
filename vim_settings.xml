@@ -97,6 +97,7 @@
         <mark key="." line="188" column="23" />
         <mark key="^" line="188" column="23" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.3.0/ce902532a348a685692095f86d14800314078813/okhttp-3.3.0-sources.jar!/okhttp3/Interceptor.java" timestamp="1493996234029" />
       <file name="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_check_index.xml" timestamp="1488691132228">
         <mark key="'" line="86" column="54" />
         <mark key="[" line="84" column="0" />
@@ -406,7 +407,7 @@
         <mark key="." line="153" column="38" />
         <mark key="^" line="153" column="38" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/utils/Http.java" timestamp="1493990970453">
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/utils/Http.java" timestamp="1493995772058">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="61" column="10" />
         <mark key="]" line="61" column="22" />
