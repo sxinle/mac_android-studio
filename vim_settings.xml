@@ -408,8 +408,8 @@
         <mark key="." line="153" column="38" />
         <mark key="^" line="153" column="38" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/utils/Http.java" timestamp="1494036474746">
-        <mark key="'" line="88" column="15" />
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/utils/Http.java" timestamp="1494043131271">
+        <mark key="'" line="88" column="21" />
         <mark key="[" line="31" column="47" />
         <mark key="]" line="31" column="47" />
         <mark key="." line="31" column="47" />
@@ -605,7 +605,7 @@
       <jump line="71" column="36" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/utils/Http.java" />
       <jump line="1" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/utils/Http.java" />
       <jump line="28" column="47" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/utils/Http.java" />
-      <jump line="88" column="15" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/utils/Http.java" />
+      <jump line="88" column="21" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/utils/Http.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
