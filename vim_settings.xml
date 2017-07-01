@@ -97,7 +97,6 @@
         <mark key="." line="188" column="23" />
         <mark key="^" line="188" column="23" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.3.0/ce902532a348a685692095f86d14800314078813/okhttp-3.3.0-sources.jar!/okhttp3/Interceptor.java" timestamp="1493996234029" />
       <file name="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_check_index.xml" timestamp="1488691132228">
         <mark key="'" line="86" column="54" />
         <mark key="[" line="84" column="0" />
@@ -255,7 +254,6 @@
         <mark key="." line="104" column="46" />
         <mark key="^" line="104" column="46" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/res/layout/main.xml" timestamp="1494037362043" />
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/LeakMngActivity.java" timestamp="1486892510654">
         <mark key="'" line="117" column="39" />
         <mark key="[" line="59" column="35" />
@@ -477,6 +475,11 @@
         <mark key="." line="44" column="0" />
         <mark key="^" line="95" column="48" />
       </file>
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/res/layout/frg_list.xml" timestamp="1498871724668">
+        <mark key="'" line="13" column="37" />
+        <mark key="[" line="4" column="5" />
+        <mark key="]" line="4" column="12" />
+      </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/EnergyChartActivity.java" timestamp="1493729663622">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="237" column="45" />
@@ -506,10 +509,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="101" column="56" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/WorkOrderActivity.java" />
-      <jump line="71" column="45" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/SignInMapActivity.java" />
-      <jump line="102" column="50" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/SignInMapActivity.java" />
-      <jump line="131" column="16" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/PositionFragment.java" />
       <jump line="160" column="17" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/PositionFragment.java" />
       <jump line="206" column="16" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/PositionFragment.java" />
       <jump line="213" column="16" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/PositionFragment.java" />
@@ -606,6 +605,10 @@
       <jump line="1" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/utils/Http.java" />
       <jump line="28" column="47" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/utils/Http.java" />
       <jump line="88" column="21" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/utils/Http.java" />
+      <jump line="17" column="37" filename="$USER_HOME$/workspace/waffair/app/src/main/res/layout/frg_list.xml" />
+      <jump line="23" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/res/layout/frg_list.xml" />
+      <jump line="14" column="58" filename="$USER_HOME$/workspace/waffair/app/src/main/res/layout/frg_list.xml" />
+      <jump line="13" column="37" filename="$USER_HOME$/workspace/waffair/app/src/main/res/layout/frg_list.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -618,7 +621,7 @@
         <text>users</text>
       </register>
       <register name="0" type="4">
-        <text>/api/stations</text>
+        <text>ListView</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGJvb2xlYW4gc3VjY2VzcyA9IEFwcC5pbkRldiA/IHRydWUgOiAhVGV4dFV0aWxzLmlzRW1wdHkocmVzcC5nZXRUb2tlbigpKTsK</text>
@@ -658,7 +661,7 @@
       <last-replace>wsMin</last-replace>
       <last-substitute>wsMax</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
