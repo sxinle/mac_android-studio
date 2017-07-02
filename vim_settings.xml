@@ -43,11 +43,11 @@
         <mark key="." line="20" column="41" />
         <mark key="^" line="20" column="41" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/data/pojo/EnergyNew.java" timestamp="1498978990795">
-        <mark key="[" line="128" column="4" />
-        <mark key="]" line="128" column="17" />
-        <mark key="." line="128" column="17" />
-        <mark key="^" line="128" column="17" />
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/data/pojo/EnergyNew.java" timestamp="1498980695528">
+        <mark key="[" line="164" column="57" />
+        <mark key="]" line="164" column="56" />
+        <mark key="." line="164" column="56" />
+        <mark key="^" line="164" column="56" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/res/layout/alarm_his_other.xml" timestamp="1498891598893">
         <mark key="[" line="7" column="0" />
@@ -118,12 +118,12 @@
         <mark key="^" line="68" column="7" />
         <mark key="." line="68" column="8" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/CostOutFragment.java" timestamp="1498977558344">
-        <mark key="'" line="155" column="32" />
-        <mark key="[" line="104" column="44" />
-        <mark key="]" line="104" column="57" />
-        <mark key="." line="104" column="57" />
-        <mark key="^" line="104" column="57" />
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/CostOutFragment.java" timestamp="1498979557498">
+        <mark key="'" line="157" column="32" />
+        <mark key="[" line="78" column="65" />
+        <mark key="]" line="78" column="65" />
+        <mark key="." line="78" column="65" />
+        <mark key="^" line="78" column="65" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" timestamp="1498885029127">
         <mark key="'" line="48" column="0" />
@@ -295,7 +295,7 @@
         <text>基本废物......</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>getClass()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhbGFybXNcPg==</text>
@@ -304,31 +304,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIEJsb2NrIGIgPSBuZXcgQmxvY2soKTsKICAgICAgICAgICAgICAgIGIuYWxhcm0gPSBoYXNBbGFybShzdWRkZW5MaXN0LCByb3dCZWFuLmdldFNpdGVrZXkoKSwgcm93QmVhbi5nZXRUeXBlKCkpOwogICAgICAgICAgICAgICAgYi5iZWFuID0gcm93QmVhbjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBzaXRla2V5X2ZzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYobWFwLmdldChzaXRlICsgIl9mc196ZCIpKQo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgU3RyaW5nIHNpdGVrZXk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgU3RyaW5nIHNpdGVuYW1lOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8U2V0Pgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8U2V0Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHNpdGVrZXkgPSByb3dCZWFuLmdldFNpdGVrZXkoKTsKICAgICAgICAgICAgaWYgKG51bGwgPT0gbWFwLmdldChzaXRla2V5ICsgIl8iICsgcm93QmVhbi5nZXRUcCgpKSkgewogICAgICAgICAgICAgICAgTGlzdDxSb3dCZWFuPiByb3dzID0gbmV3IEFycmF5TGlzdDw+KCk7CiAgICAgICAgICAgICAgICByb3dzLmFkZChyb3dCZWFuKTsKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIG1hcC5nZXQoc2l0ZWtleSArICJfIiArIHJvd0JlYW4uZ2V0VHAoKSkuYWRkKHJvd0JlYW4pOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHJvd0JlYW4uZ2V0U2l0ZWtleSgpLmVxdWFsc0lnbm9yZUNhc2Uoc2l0ZUtleSkgJiYgZ3pkLmVxdWFsc0lnbm9yZUNhc2Uocm93QmVhbi5nZXRTdWJ0eXBlKCkpKQogICAgICAgICAgICAgICAgcmV0dXJuIHRydWU7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBzaXRla2V5X2ZzCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
