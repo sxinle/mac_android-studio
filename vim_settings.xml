@@ -111,8 +111,8 @@
         <mark key="^" line="68" column="7" />
         <mark key="." line="68" column="8" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/CostOutFragment.java" timestamp="1498900947459">
-        <mark key="'" line="35" column="28" />
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/CostOutFragment.java" timestamp="1498961835604">
+        <mark key="'" line="185" column="64" />
         <mark key="[" line="35" column="0" />
         <mark key="]" line="490" column="4" />
         <mark key="^" line="229" column="50" />
@@ -198,7 +198,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="59" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/PositionFragment.java" />
       <jump line="188" column="15" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/PositionFragment.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/PositionFragment.java" />
       <jump line="377" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/PositionFragment.java" />
@@ -298,6 +297,7 @@
       <jump line="82" column="24" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/UnitEffFragment.java" />
       <jump line="444" column="65" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/UnitEffFragment.java" />
       <jump line="57" column="45" filename="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_energy_mng.xml" />
+      <jump line="185" column="64" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/CostOutFragment.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
