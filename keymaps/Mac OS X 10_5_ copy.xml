@@ -62,6 +62,10 @@
     <keyboard-shortcut first-keystroke="meta multiply" second-keystroke="numpad5" />
     <keyboard-shortcut first-keystroke="ctrl meta e" second-keystroke="5" />
   </action>
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="meta f12" />
+    <keyboard-shortcut first-keystroke="ctrl o" />
+  </action>
   <action id="FullyExpandTreeNode">
     <keyboard-shortcut first-keystroke="multiply" />
     <keyboard-shortcut first-keystroke="1" />
@@ -78,6 +82,7 @@
     <keyboard-shortcut first-keystroke="ctrl alt o" />
     <keyboard-shortcut first-keystroke="ctrl meta o" />
   </action>
+  <action id="OverrideMethods" />
   <action id="Resume">
     <keyboard-shortcut first-keystroke="meta alt r" />
     <keyboard-shortcut first-keystroke="shift f" />
