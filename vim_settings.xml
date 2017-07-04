@@ -132,10 +132,10 @@
         <mark key="^" line="74" column="42" />
         <mark key="." line="74" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/utils/Http.java" timestamp="1498992598316">
-        <mark key="'" line="56" column="13" />
-        <mark key="[" line="153" column="5" />
-        <mark key="]" line="153" column="8" />
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/utils/Http.java" timestamp="1499133691024">
+        <mark key="'" line="127" column="0" />
+        <mark key="[" line="154" column="23" />
+        <mark key="]" line="154" column="28" />
         <mark key="." line="153" column="8" />
         <mark key="^" line="153" column="8" />
       </file>
@@ -157,8 +157,8 @@
       <file name="$USER_HOME$/workspace/waffair/app/src/main/res/layout/item_unit_eff.xml" timestamp="1498985569813">
         <mark key="'" line="234" column="12" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/CostOutFragment.java" timestamp="1499133278335">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/CostOutFragment.java" timestamp="1499133298542">
+        <mark key="'" line="372" column="45" />
         <mark key="[" line="382" column="0" />
         <mark key="]" line="382" column="0" />
         <mark key="^" line="353" column="57" />
@@ -212,9 +212,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="368" column="19" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/EnergyChartActivity.java" />
-      <jump line="394" column="21" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/EnergyChartActivity.java" />
-      <jump line="395" column="26" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/EnergyChartActivity.java" />
       <jump line="366" column="46" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/EnergyChartActivity.java" />
       <jump line="97" column="11" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/utils/Http.java" />
       <jump line="55" column="35" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/CostOutFragment.java" />
@@ -312,6 +309,9 @@
       <jump line="1" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/CostOutFragment.java" />
       <jump line="397" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/CostOutFragment.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/CostOutFragment.java" />
+      <jump line="286" column="33" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/CostOutFragment.java" />
+      <jump line="372" column="45" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/CostOutFragment.java" />
+      <jump line="127" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/utils/Http.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -324,7 +324,7 @@
         <text>click</text>
       </register>
       <register name="0" type="4">
-        <text>getIntent().getExtras().getString(&quot;sitekey&quot;)</text>
+        <text>sudden</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZ2V0QWN0aXZpdHkoKS5maW5pc2goKTsK</text>
