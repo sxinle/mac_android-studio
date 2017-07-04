@@ -16,12 +16,12 @@
         <mark key="." line="111" column="0" />
         <mark key="^" line="110" column="65" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/AlarmHisOwnFrag.java" timestamp="1499155547480">
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/AlarmHisOwnFrag.java" timestamp="1499155929278">
         <mark key="'" line="35" column="58" />
-        <mark key="[" line="167" column="0" />
-        <mark key="]" line="167" column="0" />
-        <mark key="." line="167" column="0" />
-        <mark key="^" line="35" column="58" />
+        <mark key="[" line="153" column="51" />
+        <mark key="]" line="153" column="52" />
+        <mark key="." line="153" column="52" />
+        <mark key="^" line="153" column="52" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/data/pojo/SuddenList.java" timestamp="1498967245053">
         <mark key="[" line="8" column="25" />
@@ -132,7 +132,7 @@
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/App.java" timestamp="1499153531892">
         <mark key="'" line="40" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499135016433">
+      <file name="/Dummy.txt" timestamp="1499155769594">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/data/pojo/UnitEffDetail.java" timestamp="1499134042072">
@@ -193,12 +193,12 @@
         <mark key="." line="53" column="4" />
         <mark key="^" line="53" column="3" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/AlarmHisOtherFrag.java" timestamp="1499155328894">
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/AlarmHisOtherFrag.java" timestamp="1499155951493">
         <mark key="'" line="66" column="10" />
-        <mark key="[" line="132" column="105" />
-        <mark key="]" line="132" column="104" />
-        <mark key="." line="132" column="104" />
-        <mark key="^" line="132" column="104" />
+        <mark key="[" line="151" column="51" />
+        <mark key="]" line="151" column="52" />
+        <mark key="." line="151" column="52" />
+        <mark key="^" line="151" column="52" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" timestamp="1499154990466">
         <mark key="'" line="379" column="30" />
@@ -347,7 +347,7 @@
         <text>基本废物......</text>
       </register>
       <register name="-" type="4">
-        <text>own</text>
+        <text>读</text>
       </register>
       <register name="/" type="4">
         <text>AlarmInfo</text>
