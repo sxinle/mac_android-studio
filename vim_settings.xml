@@ -105,8 +105,8 @@
         <mark key="[" line="202" column="0" />
         <mark key="]" line="224" column="10" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/UnitEffFragment.java" timestamp="1499134601825">
-        <mark key="'" line="386" column="0" />
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/UnitEffFragment.java" timestamp="1499135093018">
+        <mark key="'" line="30" column="13" />
         <mark key="[" line="342" column="39" />
         <mark key="]" line="342" column="57" />
         <mark key="." line="342" column="57" />
@@ -123,7 +123,7 @@
         <mark key="[" line="42" column="0" />
         <mark key="]" line="66" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498992978677">
+      <file name="/Dummy.txt" timestamp="1499135016433">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/data/pojo/UnitEffDetail.java" timestamp="1499134042072">
@@ -225,7 +225,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="64" column="38" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/CostOutFragment.java" />
       <jump line="65" column="34" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/CostOutFragment.java" />
       <jump line="67" column="64" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/CostOutFragment.java" />
       <jump line="68" column="16" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/CostOutFragment.java" />
@@ -325,6 +324,7 @@
       <jump line="1" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/UnitEffFragment.java" />
       <jump line="134" column="34" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/UnitEffFragment.java" />
       <jump line="386" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/UnitEffFragment.java" />
+      <jump line="30" column="13" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/UnitEffFragment.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
