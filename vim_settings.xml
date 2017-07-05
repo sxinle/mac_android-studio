@@ -47,11 +47,6 @@
       <file name="$USER_HOME$/workspace/waffair/app/src/main/res-ytx/values/arrays.xml" timestamp="1499166272180">
         <mark key="'" line="525" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/data/pojo/UnitEffDetail.java" timestamp="1499134042072">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="233" column="5" />
-        <mark key="." line="9" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_data_gather.xml" timestamp="1498895512504">
         <mark key="'" line="3" column="20" />
         <mark key="[" line="113" column="0" />
@@ -136,11 +131,6 @@
         <mark key="." line="49" column="23" />
         <mark key="^" line="49" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/data/pojo/SaveCostDetail.java" timestamp="1499134079821">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="233" column="5" />
-        <mark key="." line="9" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/res-easeui/values-zh-rCN/ease_strings.xml" timestamp="1499221610884">
         <mark key="'" line="38" column="34" />
       </file>
@@ -157,7 +147,7 @@
         <mark key="." line="33" column="16" />
         <mark key="^" line="33" column="15" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/res-photo/layout/activity_photo_record.xml" timestamp="1499166477508">
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/res-photo/layout/activity_photo_record.xml" timestamp="1499222164607">
         <mark key="[" line="9" column="45" />
         <mark key="]" line="9" column="46" />
         <mark key="." line="9" column="46" />
@@ -196,7 +186,7 @@
         <mark key="^" line="87" column="61" />
         <mark key="." line="87" column="61" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499221476635">
+      <file name="/Dummy.txt" timestamp="1499222141162">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/UserEditActivity.java" timestamp="1499160311031">
