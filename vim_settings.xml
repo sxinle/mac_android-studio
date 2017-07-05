@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/a.dummy" timestamp="1498987481882">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/data/pojo/EffList.java" timestamp="1498988324853">
         <mark key="[" line="90" column="99" />
         <mark key="]" line="91" column="8" />
@@ -96,6 +99,12 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="3" column="45" />
       </file>
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/easeui/widget/chatrow/EaseChatRowVoice.java" timestamp="1499166527875">
+        <mark key="'" line="51" column="49" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/waffair/app/build.gradle" timestamp="1499166374913">
         <mark key="'" line="11" column="8" />
         <mark key="[" line="34" column="0" />
@@ -114,10 +123,13 @@
         <mark key="^" line="50" column="28" />
         <mark key="." line="26" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/res-photo/layout/activity_photo_record.xml" timestamp="1499166099861">
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/res-photo/layout/activity_photo_record.xml" timestamp="1499166477508">
         <mark key="[" line="9" column="45" />
         <mark key="]" line="9" column="46" />
         <mark key="." line="9" column="46" />
+      </file>
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/data/pojo/LeakChat.java" timestamp="1486811675904">
+        <mark key="[" line="6" column="21" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_user_center.xml" timestamp="1499161629857">
         <mark key="'" line="92" column="43" />
@@ -136,6 +148,9 @@
         <mark key="^" line="87" column="61" />
         <mark key="." line="87" column="61" />
       </file>
+      <file name="/Dummy.txt" timestamp="1499166431796">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/UserEditActivity.java" timestamp="1499160311031">
         <mark key="[" line="57" column="42" />
         <mark key="]" line="57" column="42" />
@@ -152,6 +167,9 @@
         <mark key="]" line="53" column="80" />
         <mark key="." line="93" column="13" />
         <mark key="^" line="164" column="65" />
+      </file>
+      <file name="/a.regexp" timestamp="1499159784146">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/res-ytx/values/ssdk_strings.xml" timestamp="1499166324202">
         <mark key="'" line="2" column="20" />
@@ -176,7 +194,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/CostOutFragment.java" />
       <jump line="62" column="32" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/CostOutFragment.java" />
       <jump line="386" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/CostOutFragment.java" />
       <jump line="1" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/CostOutFragment.java" />
@@ -276,6 +293,7 @@
       <jump line="68" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/res-ytx/values/ssdk_instapaper_strings.xml" />
       <jump line="2" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/res-ytx/values/ssdk_oks_strings.xml" />
       <jump line="2" column="20" filename="$USER_HOME$/workspace/waffair/app/src/main/res-ytx/values/ssdk_strings.xml" />
+      <jump line="51" column="49" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/easeui/widget/chatrow/EaseChatRowVoice.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -291,31 +309,31 @@
         <text>http://218.61.69.246:3030/public/waffair.apk</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20uYmFpZHUubG9jYXRpb24uaC5qLlI7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVsZWFzZSB7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20uYmFpZHUubG9jYXRpb24uaC5qLlI7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5hY2Vub2RlLlI7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0VmVyc2lvbigpIHsKICAgICAgICB0cnkgewogICAgICAgICAgICBQYWNrYWdlTWFuYWdlciBtYW5hZ2VyID0gdGhpcy5nZXRQYWNrYWdlTWFuYWdlcigpOwogICAgICAgICAgICBQYWNrYWdlSW5mbyBpbmZvID0gbWFuYWdlci5nZXRQYWNrYWdlSW5mbyh0aGlzLmdldFBhY2thZ2VOYW1lKCksIDApOwogICAgICAgICAgICBTdHJpbmcgdmVyc2lvbiA9IGluZm8udmVyc2lvbk5hbWU7CiAgICAgICAgICAgIHJldHVybiB0aGlzLmdldFN0cmluZyhSLnN0cmluZy52ZXJzaW9uX25hbWUpICsgdmVyc2lvbjsKICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewogICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgICAgICByZXR1cm4gdGhpcy5nZXRTdHJpbmcoUi5zdHJpbmcuY2FuX25vdF9maW5kX3ZlcnNpb25fbmFtZSk7CiAgICAgICAgfQogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVsZWFzZSB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU1BVdGlscy5wdXQoY29udGV4dCwgU1BLZXkuVkVSU0lPTiwgIjEuMDEiKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0VmVyc2lvbigpIHsKICAgICAgICB0cnkgewogICAgICAgICAgICBQYWNrYWdlTWFuYWdlciBtYW5hZ2VyID0gdGhpcy5nZXRQYWNrYWdlTWFuYWdlcigpOwogICAgICAgICAgICBQYWNrYWdlSW5mbyBpbmZvID0gbWFuYWdlci5nZXRQYWNrYWdlSW5mbyh0aGlzLmdldFBhY2thZ2VOYW1lKCksIDApOwogICAgICAgICAgICBTdHJpbmcgdmVyc2lvbiA9IGluZm8udmVyc2lvbk5hbWU7CiAgICAgICAgICAgIHJldHVybiB0aGlzLmdldFN0cmluZyhSLnN0cmluZy52ZXJzaW9uX25hbWUpICsgdmVyc2lvbjsKICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewogICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgICAgICByZXR1cm4gdGhpcy5nZXRTdHJpbmcoUi5zdHJpbmcuY2FuX25vdF9maW5kX3ZlcnNpb25fbmFtZSk7CiAgICAgICAgfQogICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU1BVdGlscy5wdXQoY29udGV4dCwgU1BLZXkuVkVSU0lPTiwgIjEuMDEiKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
