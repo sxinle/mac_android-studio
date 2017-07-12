@@ -51,6 +51,7 @@
       <file name="$USER_HOME$/workspace/waffair/app/src/main/res-easeui/values-zh-rCN/ease_strings.xml" timestamp="1499221610884">
         <mark key="'" line="38" column="34" />
       </file>
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/data/pojo/EffList.java" timestamp="1499826273869" />
       <file name="$USER_HOME$/workspace/waffair/app/src/main/res/layout/cost_up.xml" timestamp="1498902151670">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="2" column="0" />
@@ -83,12 +84,12 @@
         <mark key="]" line="9" column="46" />
         <mark key="." line="9" column="46" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/AlarmDetailActivity.java" timestamp="1498990794197">
-        <mark key="'" line="95" column="51" />
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/AlarmDetailActivity.java" timestamp="1499825508929">
+        <mark key="'" line="25" column="13" />
         <mark key="[" line="44" column="0" />
         <mark key="]" line="44" column="3" />
         <mark key="^" line="44" column="3" />
-        <mark key="." line="44" column="3" />
+        <mark key="." line="9" column="57" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/data/pojo/LeakChat.java" timestamp="1486811675904">
         <mark key="[" line="6" column="21" />
@@ -133,12 +134,6 @@
       <file name="/Dummy.txt" timestamp="1499594985621">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/UserEditActivity.java" timestamp="1499160311031">
-        <mark key="[" line="57" column="42" />
-        <mark key="]" line="57" column="42" />
-        <mark key="." line="57" column="42" />
-        <mark key="^" line="71" column="74" />
-      </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/ContactListFragment2.java" timestamp="1499824191262">
         <mark key="'" line="26" column="13" />
       </file>
@@ -165,12 +160,6 @@
         <mark key="^" line="74" column="42" />
         <mark key="." line="74" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/UserCenterActivity.java" timestamp="1499161646974">
-        <mark key="[" line="37" column="35" />
-        <mark key="]" line="37" column="78" />
-        <mark key="^" line="37" column="78" />
-        <mark key="." line="37" column="78" />
-      </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/utils/Http.java" timestamp="1499162117775">
         <mark key="'" line="93" column="13" />
         <mark key="[" line="53" column="56" />
@@ -178,17 +167,11 @@
         <mark key="." line="93" column="13" />
         <mark key="^" line="164" column="65" />
       </file>
-      <file name="/a.regexp" timestamp="1499159784146">
+      <file name="/a.regexp" timestamp="1499825280159">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/res-ytx/values/ssdk_strings.xml" timestamp="1499166324202">
         <mark key="'" line="2" column="20" />
-      </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/utils/SPKey.java" timestamp="1499161560115">
-        <mark key="[" line="12" column="29" />
-        <mark key="]" line="12" column="35" />
-        <mark key="." line="12" column="35" />
-        <mark key="^" line="12" column="35" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/CostOutFragment.java" timestamp="1499134541805">
         <mark key="'" line="372" column="45" />
@@ -241,7 +224,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="13" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/data/pojo/UnitEffDetail.java" />
       <jump line="10" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/data/pojo/SuddenDetail.java" />
       <jump line="9" column="4" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/data/pojo/SaveCostDetail.java" />
       <jump line="70" column="10" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/UnitEffFragment.java" />
@@ -341,6 +323,7 @@
       <jump line="33" column="42" filename="$USER_HOME$/workspace/waffair/app/src/main/res-easeui/values/ease_strings.xml" />
       <jump line="38" column="34" filename="$USER_HOME$/workspace/waffair/app/src/main/res-easeui/values-zh-rCN/ease_strings.xml" />
       <jump line="26" column="13" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/ContactListFragment2.java" />
+      <jump line="25" column="13" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/AlarmDetailActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
