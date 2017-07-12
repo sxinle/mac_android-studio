@@ -130,7 +130,7 @@
         <mark key="^" line="87" column="61" />
         <mark key="." line="87" column="61" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499594933336">
+      <file name="/Dummy.txt" timestamp="1499594985621">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/UserEditActivity.java" timestamp="1499160311031">
@@ -138,6 +138,9 @@
         <mark key="]" line="57" column="42" />
         <mark key="." line="57" column="42" />
         <mark key="^" line="71" column="74" />
+      </file>
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/ContactListFragment2.java" timestamp="1499824191262">
+        <mark key="'" line="26" column="13" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/res-ytx/values/ssdk_instapaper_strings.xml" timestamp="1499166301069">
         <mark key="'" line="68" column="0" />
@@ -238,7 +241,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="127" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/utils/Http.java" />
       <jump line="9" column="13" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/data/pojo/UnitEffDetail.java" />
       <jump line="10" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/data/pojo/SuddenDetail.java" />
       <jump line="9" column="4" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/data/pojo/SaveCostDetail.java" />
@@ -338,6 +340,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/res-easeui/values/ease_strings.xml" />
       <jump line="33" column="42" filename="$USER_HOME$/workspace/waffair/app/src/main/res-easeui/values/ease_strings.xml" />
       <jump line="38" column="34" filename="$USER_HOME$/workspace/waffair/app/src/main/res-easeui/values-zh-rCN/ease_strings.xml" />
+      <jump line="26" column="13" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/ContactListFragment2.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
