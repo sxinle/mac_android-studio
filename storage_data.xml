@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="上报" />
       <item value="正在查询" />
       <item value="实时" />
       <item value="Indoor" />
