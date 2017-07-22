@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Desktop/workspace/waffair/app/src/main/java/com/acenode/view/activity/EnergyMngActivity.java" timestamp="1500709403357">
+        <mark key="'" line="582" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/AlarmHisOwnFrag.java" timestamp="1499156142573">
         <mark key="'" line="35" column="58" />
         <mark key="[" line="153" column="50" />
@@ -266,11 +269,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="353" column="53" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/MainActivity2.java" />
-      <jump line="90" column="13" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/App.java" />
-      <jump line="40" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/App.java" />
-      <jump line="19" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/data/pojo/HisAlarmInfo.java" />
-      <jump line="265" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/data/pojo/HisAlarmInfo.java" />
       <jump line="73" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/utils/Http.java" />
       <jump line="69" column="10" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/AlarmHisOtherFrag.java" />
       <jump line="379" column="30" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
@@ -366,6 +364,11 @@
       <jump line="203" column="20" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/CostOutFragment.java" />
       <jump line="392" column="53" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/CostOutFragment.java" />
       <jump line="40" column="29" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/CostOutFragment.java" />
+      <jump line="297" column="26" filename="$USER_HOME$/Desktop/workspace/waffair/app/src/main/java/com/acenode/view/activity/EnergyMngActivity.java" />
+      <jump line="155" column="27" filename="$USER_HOME$/Desktop/workspace/waffair/app/src/main/java/com/acenode/view/activity/EnergyMngActivity.java" />
+      <jump line="98" column="0" filename="$USER_HOME$/Desktop/workspace/waffair/app/src/main/java/com/acenode/view/activity/EnergyMngActivity.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/workspace/waffair/app/src/main/java/com/acenode/view/activity/EnergyMngActivity.java" />
+      <jump line="582" column="0" filename="$USER_HOME$/Desktop/workspace/waffair/app/src/main/java/com/acenode/view/activity/EnergyMngActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -418,7 +421,7 @@
       <last-replace>异常</last-replace>
       <last-substitute>突增</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
