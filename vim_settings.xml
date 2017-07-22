@@ -60,17 +60,17 @@
       <file name="$USER_HOME$/workspace/waffair/app/src/main/res-ytx/values/arrays.xml" timestamp="1499166272180">
         <mark key="'" line="525" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/HisJobOwnFrag.java" timestamp="1500718032650">
-        <mark key="'" line="70" column="12" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="66" column="10" />
-        <mark key="^" line="117" column="48" />
-        <mark key="." line="117" column="48" />
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/HisJobOwnFrag.java" timestamp="1500721344382">
+        <mark key="'" line="68" column="12" />
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="0" />
+        <mark key="^" line="114" column="48" />
+        <mark key="." line="71" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/ContactListFragment2.java" timestamp="1499824191262">
         <mark key="'" line="26" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/NwglActivity.java" timestamp="1500717428352">
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/NwglActivity.java" timestamp="1500721762486">
         <mark key="'" line="46" column="35" />
         <mark key="[" line="43" column="26" />
         <mark key="]" line="43" column="27" />
@@ -168,12 +168,12 @@
       <file name="$USER_HOME$/workspace/waffair/app/src/main/res-easeui/values-zh-rCN/ease_strings.xml" timestamp="1499221610884">
         <mark key="'" line="38" column="34" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/HisJobOtherFrag.java" timestamp="1500718388538">
-        <mark key="'" line="121" column="0" />
-        <mark key="[" line="134" column="23" />
-        <mark key="]" line="134" column="29" />
-        <mark key="^" line="134" column="29" />
-        <mark key="." line="134" column="29" />
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/HisJobOtherFrag.java" timestamp="1500721340006">
+        <mark key="'" line="118" column="0" />
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="0" />
+        <mark key="^" line="131" column="29" />
+        <mark key="." line="71" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/build.gradle" timestamp="1499222004461">
         <mark key="'" line="11" column="8" />
@@ -248,7 +248,7 @@
         <mark key="." line="170" column="20" />
         <mark key="^" line="170" column="14" />
       </file>
-      <file name="/a.regexp" timestamp="1500199570466">
+      <file name="/a.regexp" timestamp="1500721689633">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/StationListActivity.java" timestamp="1500183009906">
@@ -395,46 +395,46 @@
         <text>tv_his_alarm_info</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwZFw+</text>
+        <text>正在查询</text>
       </register>
       <register name="0" type="4">
         <text>info</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGhvbGRlci50dl9oaXNfYWxhcm1fc3RhdCA9IChUZXh0VmlldykgY29udmVydFZpZXcuZmluZFZpZXdCeUlkKFIuaWQudHZfaGlzX2FsYXJtX3N0YXQpOwogICAgICAgICAgICAgICAgaG9sZGVyLnR2X2hpc19hbGFybV9vd25lciA9IChUZXh0VmlldykgY29udmVydFZpZXcuZmluZFZpZXdCeUlkKFIuaWQudHZfaGlzX2FsYXJtX293bmVyKTsK</text>
+        <text encoding="base64">ICAgICAgICBnZXRVcEluZm9zKCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaG9sZGVyLnR2X2hpc19hbGFybV9kYXRlLnNldFRleHQoYWxhcm0uZ2V05pel5pyfKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBnZXRVcEluZm9zKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaG9sZGVyLnR2X2hpc19hbGFybV9vd25lci5zZXRUZXh0KGFsYXJtLmdldERpc3BfbmFtZSgpID09IG51bGwgPyAi5pyq5aSE55CGIiA6IGFsYXJtLmdldERpc3BfbmFtZSgpLnRvU3RyaW5nKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICh1cEluZm9zLnNpemUoKSA+IDApIHsKICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBAQmluZFZpZXcoUi5pZC50dl9oaXNfYWxhcm1fc3RhdCkKICAgICAgICBwdWJsaWMgVGV4dFZpZXcgdHZfaGlzX2FsYXJtX3N0YXQ7CiAgICAgICAgQEJpbmRWaWV3KFIuaWQudHZfaGlzX2FsYXJtX293bmVyKQogICAgICAgIHB1YmxpYyBUZXh0VmlldyB0dl9oaXNfYWxhcm1fb3duZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICh1cEluZm9zLnNpemUoKSA+IDApIHsKICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaG9sZGVyLnR2X2hpc19hbGFybV9zdGF0LnNldFZpc2liaWxpdHkoVmlldy5WSVNJQkxFKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGhvbGRlci50dl9oaXNfYWxhcm1fc3RhdCA9IChUZXh0VmlldykgY29udmVydFZpZXcuZmluZFZpZXdCeUlkKFIuaWQudHZfaGlzX2FsYXJtX3N0YXQpOwogICAgICAgICAgICAgICAgaG9sZGVyLnR2X2hpc19hbGFybV9vd25lciA9IChUZXh0VmlldykgY29udmVydFZpZXcuZmluZFZpZXdCeUlkKFIuaWQudHZfaGlzX2FsYXJtX293bmVyKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBDYWxsPEhpc0FsYXJtSW5mbz4gY2FsbCA9IEh0dHAuYXBpLmFsYXJtX2hpc3RvcnkoKFN0cmluZykgU1BVdGlscy5nZXQoZ2V0QWN0aXZpdHkoKSwgU1BLZXkuVE9LRU4sICIiKSk7CgogICAgICAgIGNhbGwuZW5xdWV1ZShuZXcgQ2FsbGJhY2s8SGlzQWxhcm1JbmZvPigpIHsKICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyB2b2lkIG9uUmVzcG9uc2UoQ2FsbDxIaXNBbGFybUluZm8+IGNhbGwsIFJlc3BvbnNlPEhpc0FsYXJtSW5mbz4gcmVzcG9uc2UpIHsKICAgICAgICAgICAgICAgIGFsYXJtcyA9IHJlc3BvbnNlLmJvZHkoKS5nZXRSb3coKTsKICAgICAgICAgICAgICAgIGlmIChhbGFybXMuc2l6ZSgpID4gMCkgewogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgc2V0TGlzdEFkYXB0ZXIoYWRhcHRlcik7CiAgICAgICAgICAgICAgICBpZiAocGQuaXNTaG93aW5nKCkpIHsKICAgICAgICAgICAgICAgICAgICBwZC5kaXNtaXNzKCk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgdm9pZCBvbkZhaWx1cmUoQ2FsbDxIaXNBbGFybUluZm8+IGNhbGwsIFRocm93YWJsZSB0KSB7CiAgICAgICAgICAgICAgICBUb2FzdC5tYWtlVGV4dChnZXRBY3Rpdml0eSgpLCAi6K+35rGC5aSx6LSlISIsIFRvYXN0LkxFTkdUSF9TSE9SVCkuc2hvdygpOwogICAgICAgICAgICAgICAgaWYgKHBkLmlzU2hvd2luZygpKSB7CiAgICAgICAgICAgICAgICAgICAgcGQuZGlzbWlzcygpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgZ2V0QWN0aXZpdHkoKS5maW5pc2goKTsKICAgICAgICAgICAgfQogICAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaG9sZGVyLnR2X2hpc19hbGFybV9kYXRlLnNldFRleHQoYWxhcm0uZ2V05pel5pyfKCkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgaG9sZGVyLnR2X2hpc19hbGFybV9vd25lci5zZXRUZXh0KGFsYXJtLmdldERpc3BfbmFtZSgpID09IG51bGwgPyAi5pyq5aSE55CGIiA6IGFsYXJtLmdldERpc3BfbmFtZSgpLnRvU3RyaW5nKCkpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gaG9sZGVyLnR2X2hpc19hbGFybV9pbmZvLnNldFRleHQoaW5mby5nZXTmoIfnrb4xKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBAQmluZFZpZXcoUi5pZC50dl9oaXNfYWxhcm1fc3RhdCkKICAgICAgICBwdWJsaWMgVGV4dFZpZXcgdHZfaGlzX2FsYXJtX3N0YXQ7CiAgICAgICAgQEJpbmRWaWV3KFIuaWQudHZfaGlzX2FsYXJtX293bmVyKQogICAgICAgIHB1YmxpYyBUZXh0VmlldyB0dl9oaXNfYWxhcm1fb3duZXI7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gaG9sZGVyLnR2X2hpc19hbGFybV9kYXRlLnNldFRleHQoaW5mby5nZXTml6XmnJ8oKSArICIgIiArCiAgICAgICAgICAgIC8vICAgICAgICAgKChpbmZvLmdldOaKpeitpue7hCgpICE9IG51bGwpID8gaW5mby5nZXTml7bpl7QoKS5zdWJzdHJpbmcoMCwgaW5mby5nZXTml7bpl7QoKS5sZW5ndGgoKSAtIDQpIDogIiIpCiAgICAgICAgICAgIC8vICk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaG9sZGVyLnR2X2hpc19hbGFybV9zdGF0LnNldFZpc2liaWxpdHkoVmlldy5WSVNJQkxFKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwZFw+</last-search>
+      <last-search>正在查询</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwZFw+</last-pattern>
+      <last-pattern>正在查询</last-pattern>
       <last-replace>异常</last-replace>
       <last-substitute>突增</last-substitute>
       <last-dir>1</last-dir>
@@ -442,7 +442,6 @@
     </search>
     <history>
       <history-search>
-        <entry>AlarmInfo</entry>
         <entry encoding="base64">XDx3c3RyXD4=</entry>
         <entry>app</entry>
         <entry encoding="base64">XDx0dl92ZXJzaW9uXD4=</entry>
@@ -462,6 +461,7 @@
         <entry>nwgjl</entry>
         <entry>nwgl</entry>
         <entry encoding="base64">XDxwZFw+</entry>
+        <entry>正在查询</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3dzTWF4L3dzTWluL2c=</entry>
