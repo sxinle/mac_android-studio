@@ -255,7 +255,8 @@
       <file name="$USER_HOME$/workspace/waffair/app/src/main/res-ytx/values/ssdk_strings.xml" timestamp="1499166324202">
         <mark key="'" line="2" column="20" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/WorkOrderActivity.java" timestamp="1500723337869">
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/WorkOrderActivity.java" timestamp="1500860528217">
+        <mark key="'" line="490" column="0" />
         <mark key="[" line="183" column="59" />
         <mark key="]" line="183" column="62" />
         <mark key="^" line="183" column="62" />
@@ -286,8 +287,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="11" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/UpdateService.java" />
-      <jump line="93" column="13" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/utils/Http.java" />
       <jump line="19" column="48" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/UpdateService.java" />
       <jump line="17" column="53" filename="$USER_HOME$/workspace/waffair/app/src/main/AndroidManifest.xml" />
       <jump line="166" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/AndroidManifest.xml" />
@@ -386,6 +385,8 @@
       <jump line="133" column="97" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/HisJobOtherFrag.java" />
       <jump line="121" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/HisJobOtherFrag.java" />
       <jump line="39" column="20" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/HisJobOtherFrag.java" />
+      <jump line="166" column="52" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/WorkOrderActivity.java" />
+      <jump line="490" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/WorkOrderActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -438,7 +439,7 @@
       <last-replace>异常</last-replace>
       <last-substitute>突增</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
