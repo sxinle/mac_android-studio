@@ -66,8 +66,8 @@
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/ContactListFragment2.java" timestamp="1499824191262">
         <mark key="'" line="26" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/NwglActivity.java" timestamp="1500721762486">
-        <mark key="'" line="46" column="35" />
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/NwglActivity.java" timestamp="1500863766260">
+        <mark key="'" line="117" column="0" />
         <mark key="[" line="43" column="26" />
         <mark key="]" line="43" column="27" />
         <mark key="." line="43" column="27" />
@@ -239,7 +239,7 @@
         <mark key="." line="174" column="60" />
         <mark key="^" line="174" column="60" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/utils/Http.java" timestamp="1500717257635">
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/utils/Http.java" timestamp="1500863696770">
         <mark key="'" line="75" column="26" />
         <mark key="[" line="170" column="20" />
         <mark key="]" line="170" column="21" />
@@ -287,9 +287,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="53" filename="$USER_HOME$/workspace/waffair/app/src/main/AndroidManifest.xml" />
-      <jump line="166" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/AndroidManifest.xml" />
-      <jump line="168" column="60" filename="$USER_HOME$/workspace/waffair/app/src/main/AndroidManifest.xml" />
       <jump line="170" column="73" filename="$USER_HOME$/workspace/waffair/app/src/main/AndroidManifest.xml" />
       <jump line="190" column="54" filename="$USER_HOME$/workspace/waffair/app/src/main/AndroidManifest.xml" />
       <jump line="324" column="71" filename="$USER_HOME$/workspace/waffair/app/src/main/AndroidManifest.xml" />
@@ -387,6 +384,9 @@
       <jump line="166" column="52" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/WorkOrderActivity.java" />
       <jump line="490" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/WorkOrderActivity.java" />
       <jump line="68" column="4" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/HisJobOwnFrag.java" />
+      <jump line="57" column="40" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/NwglActivity.java" />
+      <jump line="48" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/NwglActivity.java" />
+      <jump line="117" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/NwglActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
