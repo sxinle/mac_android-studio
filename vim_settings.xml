@@ -189,8 +189,8 @@
         <mark key="." line="33" column="16" />
         <mark key="^" line="33" column="15" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/data/pojo/UpInfo.java" timestamp="1500869327697">
-        <mark key="'" line="34" column="28" />
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/data/pojo/UpInfo.java" timestamp="1500891452441">
+        <mark key="'" line="175" column="33" />
         <mark key="[" line="173" column="5" />
         <mark key="]" line="175" column="33" />
         <mark key="." line="175" column="33" />
@@ -307,7 +307,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="195" column="30" filename="$USER_HOME$/workspace/waffair/app/src/main/AndroidManifest.xml" />
       <jump line="66" column="36" filename="$USER_HOME$/workspace/waffair/app/build.gradle" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/waffair/app/build.gradle" />
       <jump line="5" column="14" filename="$USER_HOME$/workspace/waffair/app/build.gradle" />
@@ -407,6 +406,7 @@
       <jump line="50" column="30" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/HisJobOwnFrag.java" />
       <jump line="271" column="11" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/PositionFragment.java" />
       <jump line="239" column="20" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/PositionFragment.java" />
+      <jump line="175" column="33" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/data/pojo/UpInfo.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
