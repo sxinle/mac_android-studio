@@ -21,6 +21,7 @@
     <keyboard-shortcut first-keystroke="subtract" />
     <keyboard-shortcut first-keystroke="2" />
   </action>
+  <action id="Console.Execute.Multiline" />
   <action id="DashLauncherAction">
     <keyboard-shortcut first-keystroke="shift meta d" />
     <keyboard-shortcut first-keystroke="shift meta s" />
@@ -37,6 +38,7 @@
     <keyboard-shortcut first-keystroke="enter" />
     <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
+  <action id="EditorSplitLine" />
   <action id="EditorToggleColumnMode" />
   <action id="EvaluateExpression">
     <keyboard-shortcut first-keystroke="alt f8" />
@@ -95,6 +97,10 @@
   <action id="RevealIn">
     <keyboard-shortcut first-keystroke="shift ctrl o" />
   </action>
+  <action id="ShowIntentionActions">
+    <keyboard-shortcut first-keystroke="alt enter" />
+    <keyboard-shortcut first-keystroke="meta enter" />
+  </action>
   <action id="ShowUsages">
     <keyboard-shortcut first-keystroke="meta alt f7" />
     <keyboard-shortcut first-keystroke="shift meta 7" />
@@ -127,6 +133,7 @@
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
   <action id="TypeHierarchy" />
+  <action id="ViewSource" />
   <action id="XDebugger.MuteBreakpoints">
     <keyboard-shortcut first-keystroke="shift meta m" />
   </action>
