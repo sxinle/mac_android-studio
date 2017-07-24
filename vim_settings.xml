@@ -56,8 +56,8 @@
       <file name="$USER_HOME$/workspace/waffair/app/src/main/res-ytx/values/arrays.xml" timestamp="1499166272180">
         <mark key="'" line="525" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/HisJobOwnFrag.java" timestamp="1500861154978">
-        <mark key="'" line="70" column="12" />
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/HisJobOwnFrag.java" timestamp="1500863083388">
+        <mark key="'" line="68" column="4" />
         <mark key="[" line="80" column="0" />
         <mark key="]" line="80" column="64" />
         <mark key="." line="80" column="41" />
@@ -287,7 +287,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="48" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/UpdateService.java" />
       <jump line="17" column="53" filename="$USER_HOME$/workspace/waffair/app/src/main/AndroidManifest.xml" />
       <jump line="166" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/AndroidManifest.xml" />
       <jump line="168" column="60" filename="$USER_HOME$/workspace/waffair/app/src/main/AndroidManifest.xml" />
@@ -387,6 +386,7 @@
       <jump line="39" column="20" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/HisJobOtherFrag.java" />
       <jump line="166" column="52" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/WorkOrderActivity.java" />
       <jump line="490" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/WorkOrderActivity.java" />
+      <jump line="68" column="4" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/HisJobOwnFrag.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
