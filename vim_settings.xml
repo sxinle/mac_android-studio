@@ -315,8 +315,8 @@
         <mark key="^" line="183" column="62" />
         <mark key="." line="183" column="62" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/AlarmListFragment.java" timestamp="1500905816765">
-        <mark key="'" line="121" column="28" />
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/AlarmListFragment.java" timestamp="1500997832399">
+        <mark key="'" line="348" column="0" />
         <mark key="[" line="219" column="46" />
         <mark key="]" line="219" column="48" />
         <mark key="." line="219" column="48" />
@@ -354,8 +354,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/workspace/waffair/app/src/main/java/com/acenode/view/activity/EnergyMngActivity.java" />
-      <jump line="582" column="0" filename="$USER_HOME$/Desktop/workspace/waffair/app/src/main/java/com/acenode/view/activity/EnergyMngActivity.java" />
       <jump line="117" column="26" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
       <jump line="156" column="45" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
       <jump line="165" column="12" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
@@ -454,6 +452,8 @@
       <jump line="32" column="17" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/data/pojo/DataSum.java" />
       <jump line="70" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/LeakMngActivity.java" />
       <jump line="297" column="34" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/LeakMngActivity.java" />
+      <jump line="212" column="51" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/AlarmListFragment.java" />
+      <jump line="348" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/AlarmListFragment.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
