@@ -118,12 +118,12 @@
         <mark key="." line="148" column="51" />
         <mark key="^" line="148" column="51" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" timestamp="1501062089511">
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" timestamp="1501066856762">
         <mark key="'" line="261" column="33" />
         <mark key="[" line="68" column="24" />
-        <mark key="]" line="68" column="24" />
-        <mark key="." line="68" column="24" />
-        <mark key="^" line="261" column="59" />
+        <mark key="]" line="68" column="28" />
+        <mark key="." line="68" column="28" />
+        <mark key="^" line="68" column="28" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/UpdateService.java" timestamp="1499165783387">
         <mark key="'" line="19" column="48" />
@@ -226,12 +226,12 @@
         <mark key="]" line="64" column="114" />
         <mark key="." line="64" column="108" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/StationDetailActivity.java" timestamp="1501043716290">
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/StationDetailActivity.java" timestamp="1501067412506">
         <mark key="'" line="69" column="50" />
-        <mark key="[" line="67" column="11" />
-        <mark key="]" line="67" column="15" />
-        <mark key="." line="67" column="15" />
-        <mark key="^" line="67" column="15" />
+        <mark key="[" line="68" column="66" />
+        <mark key="]" line="68" column="93" />
+        <mark key="." line="68" column="93" />
+        <mark key="^" line="68" column="93" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/res/layout/save_cost.xml" timestamp="1500895829099">
         <mark key="[" line="21" column="100" />
@@ -313,6 +313,7 @@
       <file name="/a.regexp" timestamp="1501037359264">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/StationListActivity.java" timestamp="1501067244489" />
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/data/pojo/UsersResp.java" timestamp="1500892627637">
         <mark key="'" line="129" column="0" />
         <mark key="[" line="128" column="5" />
@@ -476,7 +477,7 @@
         <text>基本废物......</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>wkxlc2</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpdl9zdHJ1Y3RfaW1nXD4=</text>
