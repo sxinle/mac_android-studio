@@ -94,6 +94,11 @@
         <mark key="." line="27" column="77" />
         <mark key="^" line="27" column="77" />
       </file>
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/INetDetailActivity.java" timestamp="1501043492073">
+        <mark key="'" line="61" column="10" />
+        <mark key="[" line="61" column="33" />
+        <mark key="]" line="61" column="79" />
+      </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/CostOutFragment.java" timestamp="1500893360360">
         <mark key="'" line="207" column="58" />
         <mark key="[" line="392" column="52" />
@@ -221,6 +226,13 @@
         <mark key="]" line="64" column="114" />
         <mark key="." line="64" column="108" />
       </file>
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/StationDetailActivity.java" timestamp="1501043716290">
+        <mark key="'" line="69" column="50" />
+        <mark key="[" line="67" column="11" />
+        <mark key="]" line="67" column="15" />
+        <mark key="." line="67" column="15" />
+        <mark key="^" line="67" column="15" />
+      </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/res/layout/save_cost.xml" timestamp="1500895829099">
         <mark key="[" line="21" column="100" />
         <mark key="]" line="21" column="103" />
@@ -243,6 +255,12 @@
         <mark key="]" line="93" column="70" />
         <mark key="." line="92" column="52" />
         <mark key="^" line="92" column="52" />
+      </file>
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_station_detail.xml" timestamp="1501043022093">
+        <mark key="[" line="136" column="45" />
+        <mark key="]" line="136" column="57" />
+        <mark key="^" line="123" column="15" />
+        <mark key="." line="137" column="47" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/widget/WrapContentHeightViewPager.java" timestamp="1500868640123">
         <mark key="[" line="41" column="83" />
@@ -276,7 +294,7 @@
         <mark key="^" line="87" column="61" />
         <mark key="." line="87" column="61" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501036889010">
+      <file name="/Dummy.txt" timestamp="1501043690411">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/LoginActivity.java" timestamp="1499594978558">
@@ -301,6 +319,10 @@
         <mark key="]" line="130" column="30" />
         <mark key="^" line="130" column="30" />
         <mark key="." line="130" column="30" />
+      </file>
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/res-chatdemo/layout/activity_inet_detail.xml" timestamp="1501042893377">
+        <mark key="[" line="99" column="0" />
+        <mark key="]" line="123" column="30" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/WorkOrderActivity.java" timestamp="1501038176904">
         <mark key="'" line="490" column="0" />
@@ -348,19 +370,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="21" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/data/pojo/UpInfo.java" />
-      <jump line="171" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/data/pojo/UpInfo.java" />
-      <jump line="46" column="35" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/NwglActivity.java" />
-      <jump line="40" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/res/layout/frag_item_upinfo.xml" />
-      <jump line="72" column="24" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/HisJobOwnFrag.java" />
-      <jump line="30" column="19" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/HisJobOwnFrag.java" />
-      <jump line="36" column="8" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/HisJobOwnFrag.java" />
-      <jump line="37" column="8" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/HisJobOwnFrag.java" />
-      <jump line="43" column="8" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/HisJobOwnFrag.java" />
-      <jump line="53" column="20" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/HisJobOwnFrag.java" />
-      <jump line="54" column="20" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/HisJobOwnFrag.java" />
-      <jump line="61" column="20" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/HisJobOwnFrag.java" />
-      <jump line="62" column="20" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/HisJobOwnFrag.java" />
       <jump line="70" column="12" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/HisJobOwnFrag.java" />
       <jump line="133" column="97" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/HisJobOtherFrag.java" />
       <jump line="121" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/HisJobOtherFrag.java" />
@@ -448,55 +457,68 @@
       <jump line="96" column="19" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/WorkOrderViewActivity.java" />
       <jump line="97" column="13" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/WorkOrderViewActivity.java" />
       <jump line="152" column="12" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/WorkOrderViewActivity.java" />
+      <jump line="94" column="51" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/INetDetailActivity.java" />
+      <jump line="106" column="22" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/INetDetailActivity.java" />
+      <jump line="32" column="19" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/INetDetailActivity.java" />
+      <jump line="33" column="11" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/INetDetailActivity.java" />
+      <jump line="55" column="12" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/INetDetailActivity.java" />
+      <jump line="57" column="15" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/INetDetailActivity.java" />
+      <jump line="61" column="10" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/INetDetailActivity.java" />
+      <jump line="32" column="22" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/StationDetailActivity.java" />
+      <jump line="33" column="19" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/StationDetailActivity.java" />
+      <jump line="34" column="13" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/StationDetailActivity.java" />
+      <jump line="113" column="27" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/StationDetailActivity.java" />
+      <jump line="46" column="15" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/StationDetailActivity.java" />
+      <jump line="67" column="50" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/StationDetailActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>基本废物......</text>
       </register>
       <register name="-" type="4">
-        <text>pipe_mat</text>
+        <text>TODO</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtYXRcPg==</text>
+        <text encoding="base64">XDxpdl9zdHJ1Y3RfaW1nXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIEBCaW5kVmlldyhSLmlkLnJhZGl1cykKICAgIFRleHRWaWV3IHJhZGl1czI7Cg==</text>
+      <register name="0" type="4">
+        <text>http://218.61.69.246:3030/upload/tuz/wkxlc2.pdf</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gaXZfc3RydWN0X2ltZy5zZXRJbWFnZUJpdG1hcChJbWFnZUxvYWRlci5nZXRJbnN0YW5jZSgpLmxvYWRJbWFnZVN5bmMoImh0dHBzOi8vd3d3LmJhaWR1LmNvbS9pbWcvYmRfbG9nbzEucG5nIikpOwogICAgICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIGl2X3N0cnVjdF9pbWcubG9hZFVybCgiaHR0cDovLzIxOC42MS42OS4yNDY6MzAzMC91cGxvYWQvdHV6L3dreGxjMi5wZGYiKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWF0ID0gKFRleHRWaWV3KSBmaW5kVmlld0J5SWQoUi5pZC5tYXQpOwogICAgICAgICAgICByYWRpdXMyID0gKFRleHRWaWV3KSBmaW5kVmlld0J5SWQoUi5pZC5yYWRpdXMpOwogICAgICAgICAgICBzb2x2ZWQgPSAoVGV4dFZpZXcpIGZpbmRWaWV3QnlJZChSLmlkLnNvbHZlZCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBCaW5kVmlldyhSLmlkLnBpcGVyKQogICAgRWRpdFRleHQgcmFkaXVzOwo=</text>
+        <text encoding="base64">ICAgICAgICBjaGVja0hhc0FsYXJtKHMuZ2V0U2l0ZWtleSgpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBCaW5kVmlldyhSLmlkLm1hdCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBCaW5kVmlldyhSLmlkLnJhZGl1cykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBCaW5kVmlldyhSLmlkLnNvbHZlZCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgYW5kcm9pZDpncmF2aXR5PSJjZW50ZXIiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWF0ID0gKFRleHRWaWV3KSBmaW5kVmlld0J5SWQoUi5pZC5tYXQpOwogICAgICAgICAgICByYWRpdXMyID0gKFRleHRWaWV3KSBmaW5kVmlld0J5SWQoUi5pZC5yYWRpdXMpOwogICAgICAgICAgICBzb2x2ZWQgPSAoVGV4dFZpZXcpIGZpbmRWaWV3QnlJZChSLmlkLnNvbHZlZCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgYW5kcm9pZDp0ZXh0QWxpZ25tZW50PSJjZW50ZXIiCg==</text>
+        <text encoding="base64">ICAgIEBCaW5kVmlldyhSLmlkLnBpcGVyKQogICAgRWRpdFRleHQgcmFkaXVzOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtYXRcPg==</last-search>
+      <last-search encoding="base64">XDxpdl9zdHJ1Y3RfaW1nXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtYXRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxpdl9zdHJ1Y3RfaW1nXD4=</last-pattern>
       <last-replace>建议</last-replace>
       <last-substitute>异常</last-substitute>
       <last-dir>1</last-dir>
@@ -504,7 +526,6 @@
     </search>
     <history>
       <history-search>
-        <entry>up</entry>
         <entry encoding="base64">XDxuZWVkc3VcPg==</entry>
         <entry>_g</entry>
         <entry>_z</entry>
@@ -524,6 +545,7 @@
         <entry>Http.</entry>
         <entry encoding="base64">XDxzb2x2ZVw+</entry>
         <entry encoding="base64">XDxtYXRcPg==</entry>
+        <entry encoding="base64">XDxpdl9zdHJ1Y3RfaW1nXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2JsYWNrL3doaXRlL2c=</entry>
