@@ -226,10 +226,10 @@
         <mark key="]" line="64" column="114" />
         <mark key="." line="64" column="108" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/StationDetailActivity.java" timestamp="1501067412506">
-        <mark key="'" line="69" column="50" />
-        <mark key="[" line="68" column="66" />
-        <mark key="]" line="68" column="93" />
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/StationDetailActivity.java" timestamp="1501123899690">
+        <mark key="'" line="144" column="0" />
+        <mark key="[" line="29" column="13" />
+        <mark key="]" line="29" column="24" />
         <mark key="." line="68" column="93" />
         <mark key="^" line="68" column="93" />
       </file>
@@ -371,15 +371,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="133" column="97" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/HisJobOtherFrag.java" />
-      <jump line="121" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/HisJobOtherFrag.java" />
-      <jump line="39" column="20" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/HisJobOtherFrag.java" />
-      <jump line="166" column="52" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/WorkOrderActivity.java" />
-      <jump line="490" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/WorkOrderActivity.java" />
-      <jump line="68" column="4" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/HisJobOwnFrag.java" />
-      <jump line="57" column="40" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/NwglActivity.java" />
-      <jump line="48" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/NwglActivity.java" />
-      <jump line="117" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/NwglActivity.java" />
       <jump line="142" column="36" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/utils/Http.java" />
       <jump line="170" column="23" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/utils/Http.java" />
       <jump line="166" column="15" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/utils/Http.java" />
@@ -471,6 +462,15 @@
       <jump line="46" column="15" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/StationDetailActivity.java" />
       <jump line="67" column="50" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/StationDetailActivity.java" />
       <jump line="261" column="33" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
+      <jump line="66" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/StationDetailActivity.java" />
+      <jump line="15" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/StationDetailActivity.java" />
+      <jump line="30" column="13" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/StationDetailActivity.java" />
+      <jump line="139" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/StationDetailActivity.java" />
+      <jump line="18" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/StationDetailActivity.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/StationDetailActivity.java" />
+      <jump line="140" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/StationDetailActivity.java" />
+      <jump line="27" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/StationDetailActivity.java" />
+      <jump line="144" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/StationDetailActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -483,7 +483,7 @@
         <text encoding="base64">XDxpdl9zdHJ1Y3RfaW1nXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>http://218.61.69.246:3030/upload/tuz/wkxlc2.pdf</text>
+        <text>tv_comp_type</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy8gaXZfc3RydWN0X2ltZy5zZXRJbWFnZUJpdG1hcChJbWFnZUxvYWRlci5nZXRJbnN0YW5jZSgpLmxvYWRJbWFnZVN5bmMoImh0dHBzOi8vd3d3LmJhaWR1LmNvbS9pbWcvYmRfbG9nbzEucG5nIikpOwogICAgICAgIH0K</text>
