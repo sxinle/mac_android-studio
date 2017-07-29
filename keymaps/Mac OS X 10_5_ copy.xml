@@ -135,6 +135,6 @@
   <action id="TypeHierarchy" />
   <action id="ViewSource" />
   <action id="XDebugger.MuteBreakpoints">
-    <keyboard-shortcut first-keystroke="shift meta m" />
+    <keyboard-shortcut first-keystroke="shift meta s" />
   </action>
 </keymap>
