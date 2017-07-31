@@ -334,10 +334,10 @@
         <mark key="^" line="130" column="30" />
         <mark key="." line="130" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/WorkOrderActivity.java" timestamp="1501495053822">
-        <mark key="'" line="26" column="25" />
-        <mark key="[" line="326" column="41" />
-        <mark key="]" line="326" column="43" />
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/WorkOrderActivity.java" timestamp="1501495499153">
+        <mark key="'" line="80" column="4" />
+        <mark key="[" line="194" column="54" />
+        <mark key="]" line="194" column="65" />
         <mark key="." line="326" column="43" />
         <mark key="^" line="326" column="43" />
       </file>
@@ -434,7 +434,6 @@
       <jump line="427" column="33" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/WorkOrderViewActivity.java" />
       <jump line="146" column="16" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/WorkOrderActivity.java" />
       <jump line="79" column="19" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/WorkOrderActivity.java" />
-      <jump line="80" column="17" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/WorkOrderActivity.java" />
       <jump line="155" column="16" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/SignInMapActivity.java" />
       <jump line="45" column="32" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/BaseActivity.java" />
       <jump line="61" column="34" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/data/entity/User.java" />
@@ -470,7 +469,6 @@
       <jump line="235" column="49" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/SignInMapActivity.java" />
       <jump line="149" column="46" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/SignInMapActivity.java" />
       <jump line="171" column="52" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/WorkOrderActivity.java" />
-      <jump line="194" column="54" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/WorkOrderActivity.java" />
       <jump line="284" column="38" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/WorkOrderActivity.java" />
       <jump line="403" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/WorkOrderActivity.java" />
       <jump line="493" column="25" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/WorkOrderActivity.java" />
@@ -480,6 +478,8 @@
       <jump line="44" column="20" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/SignInMapActivity.java" />
       <jump line="46" column="8" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/SignInMapActivity.java" />
       <jump line="169" column="8" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/SignInMapActivity.java" />
+      <jump line="194" column="73" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/WorkOrderActivity.java" />
+      <jump line="80" column="4" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/WorkOrderActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -491,8 +491,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxzdGF0aW9uSW5kZXhcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwb2ludHMgPSAoTGlzdDxKb2JQb2ludHM+KSBnZXRJbnRlbnQoKS5nZXRFeHRyYXMoKS5nZXRTZXJpYWxpemFibGUoInBvaW50cyIpOwo=</text>
+      <register name="0" type="4">
+        <text>checkin_list</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgKG51bGwgIT0gcG9pbnRzLmdldFBvaW50X3N0YXR1cygpICYmIHBvaW50cy5nZXRQb2ludF9zdGF0dXMoKS5lcXVhbHMoIuW3suetvuWIsCIpKSB7CiAgICAgICAgICAgICAgICBob2xkZXIucmVhZFN0YXQuc2V0VGV4dCgi5bey562+5YiwIik7CiAgICAgICAgICAgICAgICBob2xkZXIucmVhZFN0YXQuc2V0VGV4dENvbG9yKGdldFJlc291cmNlcygpLmdldENvbG9yKFIuY29sb3IubGlnaHRfZ3JlZW4pKTsKICAgICAgICAgICAgfQo=</text>
