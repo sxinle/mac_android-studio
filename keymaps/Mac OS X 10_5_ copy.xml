@@ -13,6 +13,15 @@
   <action id="ActivatePreviewToolWindow">
     <keyboard-shortcut first-keystroke="meta 0" />
   </action>
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="meta open_bracket" />
+    <keyboard-shortcut first-keystroke="meta alt left" />
+    <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="shift alt h" />
+  </action>
+  <action id="CIDR.Lang.ImportsHierarchy">
+    <keyboard-shortcut first-keystroke="ctrl meta h" />
+  </action>
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="ctrl space" />
     <keyboard-shortcut first-keystroke="ctrl l" />
@@ -85,11 +94,21 @@
     <keyboard-shortcut first-keystroke="shift meta alt m" />
   </action>
   <action id="MinimizeCurrentWindow" />
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="shift meta close_bracket" />
+    <keyboard-shortcut first-keystroke="ctrl right" />
+    <keyboard-shortcut first-keystroke="shift alt l" />
+  </action>
   <action id="OptimizeImports">
     <keyboard-shortcut first-keystroke="ctrl alt o" />
     <keyboard-shortcut first-keystroke="ctrl meta o" />
   </action>
   <action id="OverrideMethods" />
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="shift meta open_bracket" />
+    <keyboard-shortcut first-keystroke="ctrl left" />
+    <keyboard-shortcut first-keystroke="shift alt open_bracket" />
+  </action>
   <action id="Resume">
     <keyboard-shortcut first-keystroke="meta alt r" />
     <keyboard-shortcut first-keystroke="shift f" />
