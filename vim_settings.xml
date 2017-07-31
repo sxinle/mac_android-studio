@@ -153,7 +153,7 @@
         <mark key="." line="319" column="47" />
         <mark key="^" line="319" column="47" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/WorkOrderViewActivity.java" timestamp="1501465969475">
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/WorkOrderViewActivity.java" timestamp="1501476939475">
         <mark key="'" line="516" column="0" />
         <mark key="[" line="157" column="0" />
         <mark key="]" line="157" column="95" />
@@ -352,7 +352,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="289" column="46" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/data/pojo/SaveCostList.java" />
       <jump line="272" column="18" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/data/pojo/SaveCostList.java" />
       <jump line="63" column="68" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/SaveCostFragment.java" />
       <jump line="343" column="42" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
@@ -440,7 +439,6 @@
       <jump line="2" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/WorkOrderViewActivity.java" />
       <jump line="480" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/WorkOrderViewActivity.java" />
       <jump line="52" column="22" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/WorkOrderViewActivity.java" />
-      <jump line="516" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/WorkOrderViewActivity.java" />
       <jump line="152" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_work_order_view.xml" />
       <jump line="17" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_work_order_view.xml" />
       <jump line="7" column="48" filename="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_work_order_view.xml" />
@@ -452,6 +450,8 @@
       <jump line="168" column="27" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/AlarmDetailActivity.java" />
       <jump line="159" column="49" filename="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_alarm_detail_v1.xml" />
       <jump line="74" column="13" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/AlarmDetailActivity.java" />
+      <jump line="64" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/WorkOrderViewActivity.java" />
+      <jump line="516" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/WorkOrderViewActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
