@@ -124,8 +124,8 @@
         <mark key="." line="148" column="51" />
         <mark key="^" line="148" column="51" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" timestamp="1501490703019">
-        <mark key="'" line="118" column="0" />
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" timestamp="1501568553473">
+        <mark key="'" line="382" column="45" />
         <mark key="[" line="597" column="62" />
         <mark key="]" line="597" column="63" />
         <mark key="." line="597" column="63" />
@@ -135,12 +135,12 @@
         <mark key="[" line="110" column="47" />
         <mark key="]" line="110" column="58" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/UpdateService.java" timestamp="1499165783387">
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/UpdateService.java" timestamp="1501568735356">
         <mark key="'" line="19" column="48" />
-        <mark key="[" line="24" column="69" />
-        <mark key="]" line="24" column="69" />
-        <mark key="." line="24" column="69" />
-        <mark key="^" line="24" column="108" />
+        <mark key="[" line="23" column="39" />
+        <mark key="]" line="23" column="61" />
+        <mark key="." line="23" column="61" />
+        <mark key="^" line="23" column="61" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_work_order_view.xml" timestamp="1501466422081">
         <mark key="'" line="362" column="0" />
@@ -310,7 +310,7 @@
         <mark key="^" line="87" column="61" />
         <mark key="." line="87" column="61" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501467173946">
+      <file name="/Dummy.txt" timestamp="1501499544134">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/LoginActivity.java" timestamp="1499594978558">
@@ -382,11 +382,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="21" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/StationDetailActivity.java" />
-      <jump line="162" column="55" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/WorkOrderViewActivity.java" />
-      <jump line="446" column="37" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/WorkOrderViewActivity.java" />
-      <jump line="35" column="30" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/WorkOrderViewActivity.java" />
-      <jump line="93" column="27" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/WorkOrderViewActivity.java" />
       <jump line="94" column="21" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/WorkOrderViewActivity.java" />
       <jump line="96" column="19" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/WorkOrderViewActivity.java" />
       <jump line="97" column="13" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/WorkOrderViewActivity.java" />
@@ -482,6 +477,11 @@
       <jump line="80" column="4" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/WorkOrderActivity.java" />
       <jump line="103" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/SplashActivity.java" />
       <jump line="208" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/SplashActivity.java" />
+      <jump line="192" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
+      <jump line="607" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
+      <jump line="19" column="19" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
+      <jump line="382" column="45" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -491,7 +491,7 @@
         <text>0</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzdGF0aW9uSW5kZXhcPg==</text>
+        <text>update</text>
       </register>
       <register name="0" type="4">
         <text>checkin_list</text>
@@ -528,9 +528,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzdGF0aW9uSW5kZXhcPg==</last-search>
+      <last-search>update</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzdGF0aW9uSW5kZXhcPg==</last-pattern>
+      <last-pattern>update</last-pattern>
       <last-replace>建议</last-replace>
       <last-substitute>异常</last-substitute>
       <last-dir>1</last-dir>
@@ -538,7 +538,6 @@
     </search>
     <history>
       <history-search>
-        <entry>fromuser</entry>
         <entry>检测数值</entry>
         <entry encoding="base64">XDxkZXRlY3Rpb25fdmFsdWVcPg==</entry>
         <entry>base</entry>
@@ -558,6 +557,7 @@
         <entry>Http</entry>
         <entry>points</entry>
         <entry encoding="base64">XDxzdGF0aW9uSW5kZXhcPg==</entry>
+        <entry>update</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2JsYWNrL3doaXRlL2c=</entry>
