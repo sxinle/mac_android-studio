@@ -96,7 +96,7 @@
         <mark key="." line="113" column="34" />
         <mark key="^" line="113" column="53" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/DataGatherActivity.java" timestamp="1502945867686">
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/DataGatherActivity.java" timestamp="1502946734997">
         <mark key="'" line="555" column="0" />
         <mark key="[" line="68" column="108" />
         <mark key="]" line="68" column="24" />
@@ -374,15 +374,14 @@
         <mark key="^" line="56" column="25" />
         <mark key="." line="56" column="25" />
       </file>
-      <file name="/fragment.java" timestamp="1502945804393">
+      <file name="/fragment.java" timestamp="1502946369936">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="5" />
-        <mark key="^" line="0" column="4" />
-        <mark key="." line="0" column="5" />
+        <mark key="]" line="0" column="21" />
+        <mark key="^" line="0" column="21" />
+        <mark key="." line="0" column="21" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="147" column="77" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/WorkOrderViewActivity.java" />
       <jump line="44" column="13" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/WorkOrderActivity.java" />
       <jump line="490" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/WorkOrderActivity.java" />
       <jump line="79" column="24" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/HisJobOwnFrag.java" />
@@ -481,6 +480,7 @@
       <jump line="29" column="13" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/DataGatherActivity.java" />
       <jump line="297" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/DataGatherActivity.java" />
       <jump line="63" column="41" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/DataGatherActivity.java" />
+      <jump line="258" column="23" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/DataGatherActivity.java" />
       <jump line="555" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/DataGatherActivity.java" />
     </jumps>
     <registers>
@@ -488,7 +488,7 @@
         <text>基本废物......</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>response.</text>
       </register>
       <register name="/" type="4">
         <text>update</text>
