@@ -96,12 +96,12 @@
         <mark key="." line="113" column="34" />
         <mark key="^" line="113" column="53" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/DataGatherActivity.java" timestamp="1502946734997">
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/DataGatherActivity.java" timestamp="1502949308659">
         <mark key="'" line="555" column="0" />
-        <mark key="[" line="68" column="108" />
-        <mark key="]" line="68" column="24" />
-        <mark key="^" line="68" column="24" />
-        <mark key="." line="68" column="24" />
+        <mark key="[" line="57" column="41" />
+        <mark key="]" line="57" column="7" />
+        <mark key="^" line="57" column="7" />
+        <mark key="." line="57" column="7" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/res/layout/frag_item_upinfo.xml" timestamp="1501035971885">
         <mark key="'" line="31" column="0" />
@@ -329,6 +329,9 @@
       <file name="/a.regexp" timestamp="1502945259366">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/data/pojo/DataSum.java" timestamp="1502949684469">
+        <mark key="'" line="64" column="36" />
+      </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/data/pojo/UsersResp.java" timestamp="1500892627637">
         <mark key="'" line="129" column="0" />
         <mark key="[" line="128" column="5" />
@@ -374,7 +377,7 @@
         <mark key="^" line="56" column="25" />
         <mark key="." line="56" column="25" />
       </file>
-      <file name="/fragment.java" timestamp="1502946369936">
+      <file name="/fragment.java" timestamp="1502949629295">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="21" />
         <mark key="^" line="0" column="21" />
@@ -382,7 +385,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="13" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/WorkOrderActivity.java" />
       <jump line="490" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/WorkOrderActivity.java" />
       <jump line="79" column="24" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/HisJobOwnFrag.java" />
       <jump line="85" column="12" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/HisJobOtherFrag.java" />
@@ -482,6 +484,7 @@
       <jump line="63" column="41" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/DataGatherActivity.java" />
       <jump line="258" column="23" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/DataGatherActivity.java" />
       <jump line="555" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/DataGatherActivity.java" />
+      <jump line="64" column="36" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/data/pojo/DataSum.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -491,7 +494,7 @@
         <text>response.</text>
       </register>
       <register name="/" type="4">
-        <text>update</text>
+        <text encoding="base64">XDxnemRzXD4=</text>
       </register>
       <register name="0" type="4">
         <text>checkin_list</text>
@@ -528,17 +531,16 @@
       </register>
     </registers>
     <search>
-      <last-search>update</last-search>
+      <last-search encoding="base64">XDxnemRzXD4=</last-search>
       <last-offset />
-      <last-pattern>update</last-pattern>
+      <last-pattern encoding="base64">XDxnemRzXD4=</last-pattern>
       <last-replace>建议</last-replace>
       <last-substitute>异常</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>检测数值</entry>
         <entry encoding="base64">XDxkZXRlY3Rpb25fdmFsdWVcPg==</entry>
         <entry>base</entry>
         <entry encoding="base64">XDxiYXNpY19pbmZvXD4=</entry>
@@ -558,6 +560,7 @@
         <entry>points</entry>
         <entry encoding="base64">XDxzdGF0aW9uSW5kZXhcPg==</entry>
         <entry>update</entry>
+        <entry encoding="base64">XDxnemRzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2JsYWNrL3doaXRlL2c=</entry>
