@@ -56,6 +56,10 @@
       <file name="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_alarm_detail_v1.xml" timestamp="1501467081670">
         <mark key="'" line="159" column="49" />
       </file>
+      <file name="$USER_HOME$/workspace/shuiwu/waffair/app/build.gradle" timestamp="1504002085308">
+        <mark key="[" line="78" column="28" />
+        <mark key="]" line="78" column="35" />
+      </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/AlarmDetailActivity.java" timestamp="1501467103135">
         <mark key="'" line="74" column="13" />
         <mark key="[" line="181" column="76" />
@@ -236,7 +240,6 @@
         <mark key="." line="33" column="16" />
         <mark key="^" line="33" column="15" />
       </file>
-      <file name="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/data/pojo/SaveCostList.java" timestamp="1503996679787" />
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/StationDetailActivity.java" timestamp="1501232432644">
         <mark key="'" line="33" column="21" />
         <mark key="[" line="22" column="4" />
@@ -313,7 +316,6 @@
       <file name="/Dummy.txt" timestamp="1501569758652">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/view/activity/CostOutFragment.java" timestamp="1503996318287" />
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/LoginActivity.java" timestamp="1499594978558">
         <mark key="[" line="174" column="55" />
         <mark key="]" line="174" column="60" />
@@ -506,7 +508,7 @@
         <text>click</text>
       </register>
       <register name="0" type="4">
-        <text>eff_list</text>
+        <text>greendao</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgKG51bGwgIT0gcG9pbnRzLmdldFBvaW50X3N0YXR1cygpICYmIHBvaW50cy5nZXRQb2ludF9zdGF0dXMoKS5lcXVhbHMoIuW3suetvuWIsCIpKSB7CiAgICAgICAgICAgICAgICBob2xkZXIucmVhZFN0YXQuc2V0VGV4dCgi5bey562+5YiwIik7CiAgICAgICAgICAgICAgICBob2xkZXIucmVhZFN0YXQuc2V0VGV4dENvbG9yKGdldFJlc291cmNlcygpLmdldENvbG9yKFIuY29sb3IubGlnaHRfZ3JlZW4pKTsKICAgICAgICAgICAgfQo=</text>
@@ -546,7 +548,7 @@
       <last-replace>建议</last-replace>
       <last-substitute>异常</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
