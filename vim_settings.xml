@@ -309,7 +309,6 @@
       <file name="/Dummy.txt" timestamp="1501569758652">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/view/activity/CostOutFragment.java" timestamp="1503477180479" />
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/LoginActivity.java" timestamp="1499594978558">
         <mark key="[" line="174" column="55" />
         <mark key="]" line="174" column="60" />
@@ -323,9 +322,9 @@
         <mark key="." line="128" column="21" />
         <mark key="^" line="128" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/utils/Http.java" timestamp="1503477186828">
-        <mark key="[" line="145" column="15" />
-        <mark key="]" line="145" column="24" />
+      <file name="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/utils/Http.java" timestamp="1503971179094">
+        <mark key="[" line="145" column="0" />
+        <mark key="]" line="149" column="63" />
       </file>
       <file name="/a.regexp" timestamp="1502945259366">
         <mark key="[" line="0" column="0" />
@@ -500,8 +499,8 @@
       <register name="/" type="4">
         <text>nygl</text>
       </register>
-      <register name="0" type="4">
-        <text>energy_new</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIEBHRVQoIi9hcGkvZW5lcmd5X25ldyIpLy8g6IO96ICX56qB5aKeCiAgICBDYWxsPEVuZXJneU5ldz4gZW5lcmd5X25ldyhASGVhZGVyKCJUb2tlbiIpIFN0cmluZyB0b2tlbik7CgogICAgQEdFVCgiL2FwaS9zdWRkZW5fbGlzdCIpLy8g6IO96ICX56qB5aKe5oql6K2mCiAgICBDYWxsPFN1ZGRlbkxpc3Q+IHN1ZGRlbl9saXN0KEBIZWFkZXIoIlRva2VuIikgU3RyaW5nIHRva2VuKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgKG51bGwgIT0gcG9pbnRzLmdldFBvaW50X3N0YXR1cygpICYmIHBvaW50cy5nZXRQb2ludF9zdGF0dXMoKS5lcXVhbHMoIuW3suetvuWIsCIpKSB7CiAgICAgICAgICAgICAgICBob2xkZXIucmVhZFN0YXQuc2V0VGV4dCgi5bey562+5YiwIik7CiAgICAgICAgICAgICAgICBob2xkZXIucmVhZFN0YXQuc2V0VGV4dENvbG9yKGdldFJlc291cmNlcygpLmdldENvbG9yKFIuY29sb3IubGlnaHRfZ3JlZW4pKTsKICAgICAgICAgICAgfQo=</text>
@@ -541,7 +540,7 @@
       <last-replace>建议</last-replace>
       <last-substitute>异常</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
