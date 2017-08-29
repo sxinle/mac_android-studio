@@ -322,10 +322,10 @@
         <mark key="." line="128" column="21" />
         <mark key="^" line="128" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/utils/Http.java" timestamp="1503985157101">
+      <file name="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/utils/Http.java" timestamp="1503985977778">
         <mark key="'" line="32" column="47" />
-        <mark key="[" line="65" column="15" />
-        <mark key="]" line="65" column="25" />
+        <mark key="[" line="53" column="56" />
+        <mark key="]" line="53" column="80" />
       </file>
       <file name="/a.regexp" timestamp="1502945259366">
         <mark key="[" line="0" column="0" />
@@ -501,7 +501,7 @@
         <text>alarms</text>
       </register>
       <register name="0" type="4">
-        <text>alarm_count</text>
+        <text>http://218.61.69.246:3030</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgKG51bGwgIT0gcG9pbnRzLmdldFBvaW50X3N0YXR1cygpICYmIHBvaW50cy5nZXRQb2ludF9zdGF0dXMoKS5lcXVhbHMoIuW3suetvuWIsCIpKSB7CiAgICAgICAgICAgICAgICBob2xkZXIucmVhZFN0YXQuc2V0VGV4dCgi5bey562+5YiwIik7CiAgICAgICAgICAgICAgICBob2xkZXIucmVhZFN0YXQuc2V0VGV4dENvbG9yKGdldFJlc291cmNlcygpLmdldENvbG9yKFIuY29sb3IubGlnaHRfZ3JlZW4pKTsKICAgICAgICAgICAgfQo=</text>
