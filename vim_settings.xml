@@ -322,9 +322,10 @@
         <mark key="." line="128" column="21" />
         <mark key="^" line="128" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/utils/Http.java" timestamp="1503971179094">
-        <mark key="[" line="145" column="0" />
-        <mark key="]" line="149" column="63" />
+      <file name="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/utils/Http.java" timestamp="1503982040590">
+        <mark key="'" line="32" column="47" />
+        <mark key="[" line="148" column="15" />
+        <mark key="]" line="148" column="25" />
       </file>
       <file name="/a.regexp" timestamp="1502945259366">
         <mark key="[" line="0" column="0" />
@@ -388,7 +389,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="480" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/WorkOrderViewActivity.java" />
       <jump line="52" column="22" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/WorkOrderViewActivity.java" />
       <jump line="152" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_work_order_view.xml" />
       <jump line="17" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_work_order_view.xml" />
@@ -488,6 +488,7 @@
       <jump line="154" column="21" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
       <jump line="293" column="33" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
       <jump line="99" column="94" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
+      <jump line="32" column="47" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/utils/Http.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -499,8 +500,8 @@
       <register name="/" type="4">
         <text>nygl</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIEBHRVQoIi9hcGkvZW5lcmd5X25ldyIpLy8g6IO96ICX56qB5aKeCiAgICBDYWxsPEVuZXJneU5ldz4gZW5lcmd5X25ldyhASGVhZGVyKCJUb2tlbiIpIFN0cmluZyB0b2tlbik7CgogICAgQEdFVCgiL2FwaS9zdWRkZW5fbGlzdCIpLy8g6IO96ICX56qB5aKe5oql6K2mCiAgICBDYWxsPFN1ZGRlbkxpc3Q+IHN1ZGRlbl9saXN0KEBIZWFkZXIoIlRva2VuIikgU3RyaW5nIHRva2VuKTsK</text>
+      <register name="0" type="4">
+        <text>sudden_list</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgKG51bGwgIT0gcG9pbnRzLmdldFBvaW50X3N0YXR1cygpICYmIHBvaW50cy5nZXRQb2ludF9zdGF0dXMoKS5lcXVhbHMoIuW3suetvuWIsCIpKSB7CiAgICAgICAgICAgICAgICBob2xkZXIucmVhZFN0YXQuc2V0VGV4dCgi5bey562+5YiwIik7CiAgICAgICAgICAgICAgICBob2xkZXIucmVhZFN0YXQuc2V0VGV4dENvbG9yKGdldFJlc291cmNlcygpLmdldENvbG9yKFIuY29sb3IubGlnaHRfZ3JlZW4pKTsKICAgICAgICAgICAgfQo=</text>
