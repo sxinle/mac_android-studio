@@ -56,7 +56,8 @@
       <file name="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_alarm_detail_v1.xml" timestamp="1501467081670">
         <mark key="'" line="159" column="49" />
       </file>
-      <file name="$USER_HOME$/workspace/shuiwu/waffair/app/build.gradle" timestamp="1504002085308">
+      <file name="$USER_HOME$/workspace/shuiwu/waffair/app/build.gradle" timestamp="1504102937020">
+        <mark key="'" line="89" column="0" />
         <mark key="[" line="78" column="28" />
         <mark key="]" line="78" column="35" />
       </file>
@@ -66,6 +67,9 @@
         <mark key="]" line="181" column="76" />
         <mark key="^" line="181" column="71" />
         <mark key="." line="181" column="76" />
+      </file>
+      <file name="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/view/activity/UnitEffFragment.java" timestamp="1504103085707">
+        <mark key="'" line="380" column="35" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/HisJobOwnFrag.java" timestamp="1501236173091">
         <mark key="'" line="80" column="24" />
@@ -144,6 +148,13 @@
         <mark key="]" line="23" column="61" />
         <mark key="." line="23" column="61" />
         <mark key="^" line="23" column="61" />
+      </file>
+      <file name="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/data/pojo/EffList.java" timestamp="1504103959065">
+        <mark key="'" line="99" column="23" />
+        <mark key="[" line="154" column="56" />
+        <mark key="]" line="129" column="68" />
+        <mark key="^" line="129" column="68" />
+        <mark key="." line="154" column="59" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_work_order_view.xml" timestamp="1501466422081">
         <mark key="'" line="362" column="0" />
@@ -337,6 +348,12 @@
       <file name="/a.regexp" timestamp="1502945259366">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/res/layout/item_unit_eff.xml" timestamp="1504103037488">
+        <mark key="[" line="41" column="36" />
+        <mark key="]" line="41" column="37" />
+        <mark key="." line="41" column="37" />
+        <mark key="^" line="41" column="37" />
+      </file>
       <file name="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" timestamp="1503998381508">
         <mark key="'" line="607" column="0" />
       </file>
@@ -396,13 +413,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_work_order_view.xml" />
-      <jump line="2" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_work_order_view.xml" />
-      <jump line="16" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_work_order_view.xml" />
-      <jump line="362" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_work_order_view.xml" />
-      <jump line="168" column="27" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/AlarmDetailActivity.java" />
-      <jump line="159" column="49" filename="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_alarm_detail_v1.xml" />
-      <jump line="74" column="13" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/AlarmDetailActivity.java" />
       <jump line="64" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/WorkOrderViewActivity.java" />
       <jump line="516" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/WorkOrderViewActivity.java" />
       <jump line="147" column="1" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/WorkOrderListFrag.java" />
@@ -496,16 +506,23 @@
       <jump line="161" column="68" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/view/activity/SaveCostFragment.java" />
       <jump line="522" column="38" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
       <jump line="607" column="0" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
+      <jump line="54" column="50" filename="$USER_HOME$/workspace/shuiwu/waffair/app/build.gradle" />
+      <jump line="11" column="20" filename="$USER_HOME$/workspace/shuiwu/waffair/app/build.gradle" />
+      <jump line="89" column="0" filename="$USER_HOME$/workspace/shuiwu/waffair/app/build.gradle" />
+      <jump line="65" column="0" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/view/activity/UnitEffFragment.java" />
+      <jump line="168" column="31" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/view/activity/UnitEffFragment.java" />
+      <jump line="380" column="35" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/view/activity/UnitEffFragment.java" />
+      <jump line="99" column="23" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/data/pojo/EffList.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>基本废物......</text>
       </register>
       <register name="-" type="4">
-        <text>低</text>
+        <text>danq单曲</text>
       </register>
       <register name="/" type="4">
-        <text>click</text>
+        <text encoding="base64">XDxqaXp1eGlhb2x2XD4=</text>
       </register>
       <register name="0" type="4">
         <text>greendao</text>
@@ -542,17 +559,16 @@
       </register>
     </registers>
     <search>
-      <last-search>click</last-search>
+      <last-search encoding="base64">XDxqaXp1eGlhb2x2XD4=</last-search>
       <last-offset />
-      <last-pattern>click</last-pattern>
+      <last-pattern encoding="base64">XDxqaXp1eGlhb2x2XD4=</last-pattern>
       <last-replace>建议</last-replace>
       <last-substitute>异常</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx1c2VyXD4=</entry>
         <entry>sign</entry>
         <entry>signmap</entry>
         <entry>SignInMap</entry>
@@ -572,6 +588,7 @@
         <entry>nygl</entry>
         <entry>alarms</entry>
         <entry>click</entry>
+        <entry encoding="base64">XDxqaXp1eGlhb2x2XD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2JsYWNrL3doaXRlL2c=</entry>
