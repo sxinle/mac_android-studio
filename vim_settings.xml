@@ -68,8 +68,8 @@
         <mark key="^" line="181" column="71" />
         <mark key="." line="181" column="76" />
       </file>
-      <file name="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/view/activity/UnitEffFragment.java" timestamp="1504156772227">
-        <mark key="'" line="109" column="59" />
+      <file name="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/view/activity/UnitEffFragment.java" timestamp="1504157722964">
+        <mark key="'" line="298" column="40" />
         <mark key="[" line="108" column="76" />
         <mark key="]" line="108" column="92" />
         <mark key="." line="108" column="92" />
@@ -394,6 +394,12 @@
         <mark key="." line="237" column="45" />
         <mark key="^" line="237" column="45" />
       </file>
+      <file name="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/view/activity/SuddeDetailActivity.java" timestamp="1504157749220">
+        <mark key="[" line="129" column="31" />
+        <mark key="]" line="129" column="37" />
+        <mark key="^" line="129" column="37" />
+        <mark key="." line="129" column="37" />
+      </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/PositionFragment.java" timestamp="1500892716278">
         <mark key="'" line="278" column="79" />
         <mark key="[" line="281" column="0" />
@@ -416,7 +422,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="79" column="19" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/WorkOrderActivity.java" />
       <jump line="155" column="16" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/SignInMapActivity.java" />
       <jump line="45" column="32" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/BaseActivity.java" />
       <jump line="61" column="34" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/data/entity/User.java" />
@@ -516,55 +521,56 @@
       <jump line="307" column="15" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/view/activity/UnitEffFragment.java" />
       <jump line="323" column="15" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/view/activity/UnitEffFragment.java" />
       <jump line="109" column="59" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/view/activity/UnitEffFragment.java" />
+      <jump line="298" column="40" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/view/activity/UnitEffFragment.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>基本废物......</text>
       </register>
       <register name="-" type="4">
-        <text>equals</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1bml0ZWZmX2xhYmVsX21pZGhpZ2hcPg==</text>
+        <text>ddrjy</text>
       </register>
-      <register name="0" type="4">
-        <text>holder.uniteff_label_midhigh</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWRzLnB1dCgic3VidHlwZSIsICIiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKHJvdy4pCg==</text>
+        <text encoding="base64">ICAgICAgICBpZHMucHV0KCJzdWJ0eXBlIiwgIiIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJvdy5zaXRla2V5ID0gCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmlhdGUgCg==</text>
+        <text encoding="base64">ICAgICAgICBpZHMucHV0KCJzdWJ0eXBlIiwgc3VidHlwZSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKG51bGwgIT0gcG9pbnRzLmdldFBvaW50X3N0YXR1cygpICYmIHBvaW50cy5nZXRQb2ludF9zdGF0dXMoKS5lcXVhbHMoIuW3suetvuWIsCIpKSB7CiAgICAgICAgICAgICAgICBob2xkZXIucmVhZFN0YXQuc2V0VGV4dCgi5bey562+5YiwIik7CiAgICAgICAgICAgICAgICBob2xkZXIucmVhZFN0YXQuc2V0VGV4dENvbG9yKGdldFJlc291cmNlcygpLmdldENvbG9yKFIuY29sb3IubGlnaHRfZ3JlZW4pKTsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQogICAgICAgICAgICBob2xkZXIucmVhZFN0YXQuc2V0VGV4dENvbG9yKGdldFJlc291cmNlcygpLmdldENvbG9yKFRleHRVdGlscy5pc0VtcHR5KGNoZWNraW5UaW1lKSA/IFIuY29sb3IucmVkIDogUi5jb2xvci5saWdodF9ncmVlbikpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKHJvdy4pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJvdy5zaXRla2V5ID0gCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgMTA6CiAgICAgICAgICAgICAgICAgICAgbWFya2VyID0gUi5kcmF3YWJsZS5tYXJrZXJfMTA7CiAgICAgICAgICAgICAgICAgICAgYnJlYWs7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmlhdGUgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGkgPT0gMCkgewogICAgICAgICAgICAgICAgbWFya2VyID0gUi5kcmF3YWJsZS5tYXJrZXJfMTsKICAgICAgICAgICAgfSBlbHNlIGlmIChpID09IDEpIHsKICAgICAgICAgICAgICAgIG1hcmtlciA9IFIuZHJhd2FibGUubWFya2VyXzI7CiAgICAgICAgICAgIH0gZWxzZSBpZiAoaSA9PSAyKSB7CiAgICAgICAgICAgICAgICBtYXJrZXIgPSBSLmRyYXdhYmxlLm1hcmtlcl8zOwogICAgICAgICAgICB9IGVsc2UgaWYgKGkgPT0gMykgewogICAgICAgICAgICAgICAgbWFya2VyID0gUi5kcmF3YWJsZS5tYXJrZXJfNDsKICAgICAgICAgICAgfSBlbHNlIGlmIChpID09IDQpIHsKICAgICAgICAgICAgICAgIG1hcmtlciA9IFIuZHJhd2FibGUubWFya2VyXzU7CiAgICAgICAgICAgIH0gZWxzZSBpZiB7CiAgICAgICAgICAgICAgICBtYXJrZXIgPSBSLmRyYXdhYmxlLm1hcmtlcl82OwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKG51bGwgIT0gcG9pbnRzLmdldFBvaW50X3N0YXR1cygpICYmIHBvaW50cy5nZXRQb2ludF9zdGF0dXMoKS5lcXVhbHMoIuW3suetvuWIsCIpKSB7CiAgICAgICAgICAgICAgICBob2xkZXIucmVhZFN0YXQuc2V0VGV4dCgi5bey562+5YiwIik7CiAgICAgICAgICAgICAgICBob2xkZXIucmVhZFN0YXQuc2V0VGV4dENvbG9yKGdldFJlc291cmNlcygpLmdldENvbG9yKFIuY29sb3IubGlnaHRfZ3JlZW4pKTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1bml0ZWZmX2xhYmVsX21pZGhpZ2hcPg==</last-search>
+      <last-search>ddrjy</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1bml0ZWZmX2xhYmVsX21pZGhpZ2hcPg==</last-pattern>
+      <last-pattern>ddrjy</last-pattern>
       <last-replace>建议</last-replace>
       <last-substitute>异常</last-substitute>
       <last-dir>1</last-dir>
@@ -572,7 +578,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxidG5fc2lnbmluXD4=</entry>
         <entry>已签到</entry>
         <entry>未签到</entry>
         <entry>marker</entry>
@@ -592,6 +597,7 @@
         <entry>单</entry>
         <entry>单区</entry>
         <entry encoding="base64">XDx1bml0ZWZmX2xhYmVsX21pZGhpZ2hcPg==</entry>
+        <entry>ddrjy</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2JsYWNrL3doaXRlL2c=</entry>
