@@ -149,12 +149,12 @@
         <mark key="." line="23" column="61" />
         <mark key="^" line="23" column="61" />
       </file>
-      <file name="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/data/pojo/EffList.java" timestamp="1504103959065">
+      <file name="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/data/pojo/EffList.java" timestamp="1504148747669">
         <mark key="'" line="99" column="23" />
-        <mark key="[" line="154" column="56" />
-        <mark key="]" line="129" column="68" />
-        <mark key="^" line="129" column="68" />
-        <mark key="." line="154" column="59" />
+        <mark key="[" line="154" column="55" />
+        <mark key="]" line="154" column="55" />
+        <mark key="^" line="137" column="54" />
+        <mark key="." line="154" column="55" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_work_order_view.xml" timestamp="1501466422081">
         <mark key="'" line="362" column="0" />
@@ -519,7 +519,7 @@
         <text>基本废物......</text>
       </register>
       <register name="-" type="4">
-        <text>danq单曲</text>
+        <text>pump_efficiency</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqaXp1eGlhb2x2XD4=</text>
