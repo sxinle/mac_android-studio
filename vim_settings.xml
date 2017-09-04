@@ -354,7 +354,7 @@
         <mark key="[" line="158" column="15" />
         <mark key="]" line="158" column="22" />
       </file>
-      <file name="/a.regexp" timestamp="1502945259366">
+      <file name="/a.regexp" timestamp="1504500970526">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/res/layout/item_unit_eff.xml" timestamp="1504156748490">
@@ -393,6 +393,7 @@
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/HisJobOther.java" timestamp="1500184605256">
         <mark key="[" line="26" column="24" />
       </file>
+      <file name="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/view/activity/LeakMngActivity.java" timestamp="1504500837721" />
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/EnergyChartActivity.java" timestamp="1498962867861">
         <mark key="'" line="366" column="46" />
         <mark key="[" line="237" column="45" />
