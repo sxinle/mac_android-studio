@@ -159,6 +159,12 @@
         <mark key="]" line="137" column="0" />
         <mark key="." line="137" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/utils/MappingUtil.java" timestamp="1504489929829">
+        <mark key="'" line="156" column="23" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_work_order_view.xml" timestamp="1501466422081">
         <mark key="'" line="362" column="0" />
         <mark key="[" line="151" column="48" />
@@ -421,12 +427,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="155" column="16" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/SignInMapActivity.java" />
-      <jump line="45" column="32" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/BaseActivity.java" />
-      <jump line="61" column="34" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/data/entity/User.java" />
-      <jump line="110" column="42" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
-      <jump line="90" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/WorkOrderActivity.java" />
-      <jump line="2" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/WorkOrderActivity.java" />
       <jump line="118" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
       <jump line="71" column="45" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/WorkOrderListFrag.java" />
       <jump line="161" column="51" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/WorkOrderListFrag.java" />
@@ -521,55 +521,61 @@
       <jump line="323" column="15" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/view/activity/UnitEffFragment.java" />
       <jump line="109" column="59" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/view/activity/UnitEffFragment.java" />
       <jump line="298" column="40" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/view/activity/UnitEffFragment.java" />
+      <jump line="17" column="0" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/utils/MappingUtil.java" />
+      <jump line="150" column="67" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/utils/MappingUtil.java" />
+      <jump line="141" column="11" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/utils/MappingUtil.java" />
+      <jump line="206" column="33" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/utils/MappingUtil.java" />
+      <jump line="180" column="25" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/utils/MappingUtil.java" />
+      <jump line="156" column="23" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/utils/MappingUtil.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>基本废物......</text>
       </register>
       <register name="-" type="4">
-        <text>!</text>
+        <text>123.461074</text>
       </register>
       <register name="/" type="4">
-        <text>ddrjy</text>
+        <text>万达公寓</text>
       </register>
       <register name="0" type="4">
-        <text>faultpoint</text>
+        <text>123.471315</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFVuaXRFZmZEZXRhaWwuUm93QmVhbiBiZWFuID0gZC5nZXRSb3coKS5nZXQoMCk7CiAgICAgICAgICAgICAgICBjYXRlZ29yaWVzLnNldFRleHQoYmVhbi5nZXRDYXRlZ29yaWVzKCkpOwogICAgICAgICAgICAgICAgZGF0ZXRpbWUuc2V0VGV4dChiZWFuLmdldERhdGV0aW1lKCkpOwogICAgICAgICAgICAgICAgY29uZmluZW1lbnQuc2V0VGV4dChiZWFuLmdldENvbmZpbmVtZW50KCkpOwogICAgICAgICAgICAgICAgYWxhcm1fdmFsdWUuc2V0VGV4dChiZWFuLmdldEFsYXJtX3ZhbHVlKCkpOwogICAgICAgICAgICAgICAgaW50ZWxsaWdlbnRfYW5hbHlzaXNfY29uZGl0aW9uLnNldFRleHQoYmVhbi5nZXRJbnRlbGxpZ2VudF9hbmFseXNpc19jb25kaXRpb24oKSk7CiAgICAgICAgICAgICAgICBkZXRlY3Rpb25fdmFsdWUuc2V0VGV4dChiZWFuLmdldERldGVjdGlvbl92YWx1ZSgpKTsKICAgICAgICAgICAgICAgIGZhdWx0X3BvaW50LnNldFRleHQoYmVhbi5nZXRGYXVsdF9wb2ludCgpKTsKICAgICAgICAgICAgICAgIHNvbHV0aW9uLnNldFRleHQoYmVhbi5nZXRTb2x1dGlvbigpKTsK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAxMjMuNDcxMzE1LAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFVuaXRFZmZEZXRhaWwuUm93QmVhbiBiZWFuID0gZC5nZXRSb3coKS5nZXQoMCk7CiAgICAgICAgICAgICAgICBjYXRlZ29yaWVzLnNldFRleHQoYmVhbi5nZXRDYXRlZ29yaWVzKCkpOwogICAgICAgICAgICAgICAgZGF0ZXRpbWUuc2V0VGV4dChiZWFuLmdldERhdGV0aW1lKCkpOwogICAgICAgICAgICAgICAgY29uZmluZW1lbnQuc2V0VGV4dChiZWFuLmdldENvbmZpbmVtZW50KCkpOwogICAgICAgICAgICAgICAgYWxhcm1fdmFsdWUuc2V0VGV4dChiZWFuLmdldEFsYXJtX3ZhbHVlKCkpOwogICAgICAgICAgICAgICAgaW50ZWxsaWdlbnRfYW5hbHlzaXNfY29uZGl0aW9uLnNldFRleHQoYmVhbi5nZXRJbnRlbGxpZ2VudF9hbmFseXNpc19jb25kaXRpb24oKSk7CiAgICAgICAgICAgICAgICBkZXRlY3Rpb25fdmFsdWUuc2V0VGV4dChiZWFuLmdldERldGVjdGlvbl92YWx1ZSgpKTsKICAgICAgICAgICAgICAgIGZhdWx0X3BvaW50LnNldFRleHQoYmVhbi5nZXRGYXVsdF9wb2ludCgpKTsKICAgICAgICAgICAgICAgIHNvbHV0aW9uLnNldFRleHQoYmVhbi5nZXRTb2x1dGlvbigpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZHMucHV0KCJzdWJ0eXBlIiwgIiIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZHMucHV0KCJzdWJ0eXBlIiwgc3VidHlwZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZHMucHV0KCJzdWJ0eXBlIiwgIiIpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>ddrjy</last-search>
+      <last-search>万达公寓</last-search>
       <last-offset />
-      <last-pattern>ddrjy</last-pattern>
+      <last-pattern>万达公寓</last-pattern>
       <last-replace>建议</last-replace>
       <last-substitute>异常</last-substitute>
       <last-dir>1</last-dir>
@@ -577,7 +583,6 @@
     </search>
     <history>
       <history-search>
-        <entry>已签到</entry>
         <entry>未签到</entry>
         <entry>marker</entry>
         <entry>Gone</entry>
@@ -597,6 +602,7 @@
         <entry>单区</entry>
         <entry encoding="base64">XDx1bml0ZWZmX2xhYmVsX21pZGhpZ2hcPg==</entry>
         <entry>ddrjy</entry>
+        <entry>万达公寓</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2JsYWNrL3doaXRlL2c=</entry>
