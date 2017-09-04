@@ -68,8 +68,8 @@
         <mark key="^" line="181" column="71" />
         <mark key="." line="181" column="76" />
       </file>
-      <file name="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/view/activity/UnitEffFragment.java" timestamp="1504160746419">
-        <mark key="'" line="298" column="40" />
+      <file name="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/view/activity/UnitEffFragment.java" timestamp="1504493945205">
+        <mark key="'" line="18" column="25" />
         <mark key="[" line="375" column="105" />
         <mark key="]" line="375" column="105" />
         <mark key="." line="375" column="105" />
@@ -153,8 +153,8 @@
         <mark key="." line="23" column="61" />
         <mark key="^" line="23" column="61" />
       </file>
-      <file name="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/data/pojo/EffList.java" timestamp="1504156614027">
-        <mark key="'" line="109" column="23" />
+      <file name="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/data/pojo/EffList.java" timestamp="1504494034196">
+        <mark key="'" line="110" column="23" />
         <mark key="[" line="137" column="0" />
         <mark key="]" line="137" column="0" />
         <mark key="." line="137" column="0" />
@@ -427,12 +427,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="118" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
-      <jump line="71" column="45" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/WorkOrderListFrag.java" />
-      <jump line="161" column="51" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/WorkOrderListFrag.java" />
-      <jump line="184" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/WorkOrderListFrag.java" />
-      <jump line="112" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/utils/Http.java" />
-      <jump line="128" column="14" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/utils/Http.java" />
       <jump line="364" column="45" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/WorkOrderActivity.java" />
       <jump line="172" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/WorkOrderActivity.java" />
       <jump line="217" column="16" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/SignInMapActivity.java" />
@@ -527,6 +521,12 @@
       <jump line="206" column="33" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/utils/MappingUtil.java" />
       <jump line="180" column="25" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/utils/MappingUtil.java" />
       <jump line="156" column="23" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/utils/MappingUtil.java" />
+      <jump line="362" column="37" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/view/activity/UnitEffFragment.java" />
+      <jump line="76" column="0" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/view/activity/UnitEffFragment.java" />
+      <jump line="18" column="25" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/view/activity/UnitEffFragment.java" />
+      <jump line="33" column="23" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/data/pojo/EffList.java" />
+      <jump line="78" column="19" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/data/pojo/EffList.java" />
+      <jump line="110" column="23" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/data/pojo/EffList.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -536,7 +536,7 @@
         <text>123.461074</text>
       </register>
       <register name="/" type="4">
-        <text>万达公寓</text>
+        <text encoding="base64">XDx5dW54aW5neGlhb2x2XD4=</text>
       </register>
       <register name="0" type="4">
         <text>123.471315</text>
@@ -573,9 +573,9 @@
       </register>
     </registers>
     <search>
-      <last-search>万达公寓</last-search>
+      <last-search encoding="base64">XDx5dW54aW5neGlhb2x2XD4=</last-search>
       <last-offset />
-      <last-pattern>万达公寓</last-pattern>
+      <last-pattern encoding="base64">XDx5dW54aW5neGlhb2x2XD4=</last-pattern>
       <last-replace>建议</last-replace>
       <last-substitute>异常</last-substitute>
       <last-dir>1</last-dir>
@@ -583,10 +583,6 @@
     </search>
     <history>
       <history-search>
-        <entry>未签到</entry>
-        <entry>marker</entry>
-        <entry>Gone</entry>
-        <entry>GONE</entry>
         <entry>checkin</entry>
         <entry>Http</entry>
         <entry>points</entry>
@@ -603,6 +599,10 @@
         <entry encoding="base64">XDx1bml0ZWZmX2xhYmVsX21pZGhpZ2hcPg==</entry>
         <entry>ddrjy</entry>
         <entry>万达公寓</entry>
+        <entry>htt</entry>
+        <entry encoding="base64">XDxwdW1wX2VmZmljaWVuY3lcPg==</entry>
+        <entry>yunxingxiaolv</entry>
+        <entry encoding="base64">XDx5dW54aW5neGlhb2x2XD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2JsYWNrL3doaXRlL2c=</entry>
