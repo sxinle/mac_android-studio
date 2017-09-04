@@ -68,7 +68,7 @@
         <mark key="^" line="181" column="71" />
         <mark key="." line="181" column="76" />
       </file>
-      <file name="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/view/activity/UnitEffFragment.java" timestamp="1504493945205">
+      <file name="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/view/activity/UnitEffFragment.java" timestamp="1504507534509">
         <mark key="'" line="18" column="25" />
         <mark key="[" line="375" column="105" />
         <mark key="]" line="375" column="105" />
@@ -402,7 +402,8 @@
         <mark key="." line="237" column="45" />
         <mark key="^" line="237" column="45" />
       </file>
-      <file name="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/view/activity/SuddeDetailActivity.java" timestamp="1504160510969">
+      <file name="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/view/activity/SuddeDetailActivity.java" timestamp="1504507786934">
+        <mark key="'" line="32" column="13" />
         <mark key="[" line="154" column="0" />
         <mark key="]" line="154" column="0" />
         <mark key="." line="154" column="0" />
@@ -429,7 +430,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="364" column="45" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/WorkOrderActivity.java" />
       <jump line="172" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/WorkOrderActivity.java" />
       <jump line="217" column="16" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/SignInMapActivity.java" />
       <jump line="140" column="19" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/SignInMapActivity.java" />
@@ -529,6 +529,7 @@
       <jump line="33" column="23" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/data/pojo/EffList.java" />
       <jump line="78" column="19" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/data/pojo/EffList.java" />
       <jump line="110" column="23" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/data/pojo/EffList.java" />
+      <jump line="32" column="13" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/view/activity/SuddeDetailActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -538,7 +539,7 @@
         <text>123.461074</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx5dW54aW5neGlhb2x2XD4=</text>
+        <text encoding="base64">XDxhbGFybV92YWx1ZVw+</text>
       </register>
       <register name="0" type="4">
         <text>123.471315</text>
@@ -575,9 +576,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx5dW54aW5neGlhb2x2XD4=</last-search>
+      <last-search encoding="base64">XDxhbGFybV92YWx1ZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx5dW54aW5neGlhb2x2XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxhbGFybV92YWx1ZVw+</last-pattern>
       <last-replace>建议</last-replace>
       <last-substitute>异常</last-substitute>
       <last-dir>1</last-dir>
@@ -585,7 +586,6 @@
     </search>
     <history>
       <history-search>
-        <entry>checkin</entry>
         <entry>Http</entry>
         <entry>points</entry>
         <entry encoding="base64">XDxzdGF0aW9uSW5kZXhcPg==</entry>
@@ -605,6 +605,7 @@
         <entry encoding="base64">XDxwdW1wX2VmZmljaWVuY3lcPg==</entry>
         <entry>yunxingxiaolv</entry>
         <entry encoding="base64">XDx5dW54aW5neGlhb2x2XD4=</entry>
+        <entry encoding="base64">XDxhbGFybV92YWx1ZVw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2JsYWNrL3doaXRlL2c=</entry>
