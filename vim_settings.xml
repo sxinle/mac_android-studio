@@ -122,7 +122,7 @@
         <mark key="." line="27" column="77" />
         <mark key="^" line="27" column="77" />
       </file>
-      <file name="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/view/activity/SaveCostFragment.java" timestamp="1504595436251">
+      <file name="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/view/activity/SaveCostFragment.java" timestamp="1504605351760">
         <mark key="'" line="161" column="68" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/CostOutFragment.java" timestamp="1500893360360">
@@ -348,7 +348,7 @@
         <mark key="^" line="87" column="61" />
         <mark key="." line="87" column="61" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504595157140">
+      <file name="/Dummy.txt" timestamp="1504605339869">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/res/layout/activity_leak_mng.xml" timestamp="1504510607050">
@@ -375,7 +375,7 @@
         <mark key="]" line="156" column="0" />
         <mark key="." line="156" column="0" />
       </file>
-      <file name="/a.regexp" timestamp="1504510591804">
+      <file name="/a.regexp" timestamp="1504605291718">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/res/layout/item_unit_eff.xml" timestamp="1504156748490">
@@ -453,6 +453,12 @@
         <mark key="]" line="0" column="6" />
         <mark key="^" line="0" column="6" />
         <mark key="." line="0" column="6" />
+      </file>
+      <file name="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/res/layout/save_cost.xml" timestamp="1504605312494">
+        <mark key="[" line="18" column="100" />
+        <mark key="]" line="18" column="101" />
+        <mark key="." line="18" column="101" />
+        <mark key="^" line="18" column="101" />
       </file>
     </filemarks>
     <jumps>
@@ -562,13 +568,13 @@
         <text>基本废物......</text>
       </register>
       <register name="-" type="4">
-        <text>Object</text>
+        <text>际</text>
       </register>
       <register name="/" type="4">
         <text>value6</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJvdy5lZGdsID0gYmVhbi5nZXRWYWx1ZTEoKSArIGJlYW4uZ2V0VmFsdWUyKCkgKyBiZWFuLmdldFZhbHVlMygpICsgYmVhbi5nZXRWYWx1ZTQoKTsKICAgICAgICAgICAgICAgIHJvdy5zamdsID0gYmVhbi5nZXRWYWx1ZTUoKTsK</text>
+      <register name="0" type="4">
+        <text>实际流量</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20uYmFpZHUubG9jYXRpb24uaC5qLlI7Cg==</text>
@@ -608,7 +614,7 @@
       <last-replace>_d</last-replace>
       <last-substitute>_zg</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
