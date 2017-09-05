@@ -247,7 +247,6 @@
         <mark key="^" line="61" column="34" />
         <mark key="." line="61" column="34" />
       </file>
-      <file name="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/view/activity/AlarmDetailActivity.java" timestamp="1504578769102" />
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/HisJobOtherFrag.java" timestamp="1501303045243">
         <mark key="'" line="38" column="0" />
         <mark key="[" line="142" column="20" />
@@ -262,7 +261,6 @@
         <mark key="." line="33" column="16" />
         <mark key="^" line="33" column="15" />
       </file>
-      <file name="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/data/pojo/DataSum.java" timestamp="1504576764598" />
       <file name="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/res/layout/activity_alarm_detail_v1.xml" timestamp="1504578704109">
         <mark key="'" line="35" column="30" />
         <mark key="[" line="343" column="40" />
@@ -364,8 +362,8 @@
         <mark key="." line="128" column="21" />
         <mark key="^" line="128" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/utils/Http.java" timestamp="1504509376090">
-        <mark key="'" line="158" column="50" />
+      <file name="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/utils/Http.java" timestamp="1504584927646">
+        <mark key="'" line="69" column="12" />
         <mark key="[" line="156" column="0" />
         <mark key="]" line="156" column="0" />
         <mark key="." line="156" column="0" />
@@ -450,7 +448,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="201" column="41" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/SignInMapActivity.java" />
       <jump line="235" column="49" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/SignInMapActivity.java" />
       <jump line="149" column="46" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/SignInMapActivity.java" />
       <jump line="171" column="52" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/WorkOrderActivity.java" />
@@ -550,6 +547,7 @@
       <jump line="2" column="24" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/data/pojo/EffList.java" />
       <jump line="35" column="30" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/res/layout/activity_alarm_detail_v1.xml" />
       <jump line="136" column="55" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/utils/MappingUtil.java" />
+      <jump line="69" column="12" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/utils/Http.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -559,7 +557,7 @@
         <text>gone</text>
       </register>
       <register name="/" type="4">
-        <text>scgj</text>
+        <text>unit</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhvbGRlci5saXVsaWFuZ19ub25lLnNldFRleHQoZm9ybWF0VmFsKFN0cmluZy52YWx1ZU9mKGd6ZC5nZXRNaW5MaXVMaWFuZ2UoKSkpKTsK</text>
@@ -596,9 +594,9 @@
       </register>
     </registers>
     <search>
-      <last-search>scgj</last-search>
+      <last-search>unit</last-search>
       <last-offset />
-      <last-pattern>scgj</last-pattern>
+      <last-pattern>unit</last-pattern>
       <last-replace>_d</last-replace>
       <last-substitute>_zg</last-substitute>
       <last-dir>1</last-dir>
@@ -606,7 +604,6 @@
     </search>
     <history>
       <history-search>
-        <entry>click</entry>
         <entry encoding="base64">XDxqaXp1eGlhb2x2XD4=</entry>
         <entry>单</entry>
         <entry>单区</entry>
@@ -626,6 +623,7 @@
         <entry>gone</entry>
         <entry>sheya</entry>
         <entry>scgj</entry>
+        <entry>unit</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL25vbmUvaGlnaC9n</entry>
