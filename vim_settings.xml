@@ -247,6 +247,7 @@
         <mark key="^" line="61" column="34" />
         <mark key="." line="61" column="34" />
       </file>
+      <file name="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/view/activity/AlarmDetailActivity.java" timestamp="1504577417391" />
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/HisJobOtherFrag.java" timestamp="1501303045243">
         <mark key="'" line="38" column="0" />
         <mark key="[" line="142" column="20" />
@@ -261,7 +262,7 @@
         <mark key="." line="33" column="16" />
         <mark key="^" line="33" column="15" />
       </file>
-      <file name="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/data/pojo/DataSum.java" timestamp="1504501833204" />
+      <file name="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/data/pojo/DataSum.java" timestamp="1504576764598" />
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/StationDetailActivity.java" timestamp="1501232432644">
         <mark key="'" line="33" column="21" />
         <mark key="[" line="22" column="4" />
@@ -401,7 +402,12 @@
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/HisJobOther.java" timestamp="1500184605256">
         <mark key="[" line="26" column="24" />
       </file>
-      <file name="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/view/activity/LeakMngActivity.java" timestamp="1504500837721" />
+      <file name="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/view/activity/LeakMngActivity.java" timestamp="1504577107913">
+        <mark key="[" line="299" column="0" />
+        <mark key="]" line="299" column="0" />
+        <mark key="^" line="299" column="19" />
+        <mark key="." line="299" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/EnergyChartActivity.java" timestamp="1498962867861">
         <mark key="'" line="366" column="46" />
         <mark key="[" line="237" column="45" />
@@ -429,11 +435,11 @@
         <mark key="^" line="56" column="25" />
         <mark key="." line="56" column="25" />
       </file>
-      <file name="/fragment.java" timestamp="1502950663535">
+      <file name="/fragment.java" timestamp="1504576994214">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="21" />
-        <mark key="^" line="0" column="21" />
-        <mark key="." line="0" column="21" />
+        <mark key="]" line="0" column="6" />
+        <mark key="^" line="0" column="6" />
+        <mark key="." line="0" column="6" />
       </file>
     </filemarks>
     <jumps>
@@ -549,34 +555,34 @@
         <text>format</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIERlY2ltYWxGb3JtYXQgZGYyID0gbmV3IERlY2ltYWxGb3JtYXQoIiMjIyMjIzAuMDAiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhvbGRlci5saXVsaWFuZ19ub25lLnNldFRleHQoZm9ybWF0VmFsKFN0cmluZy52YWx1ZU9mKGd6ZC5nZXRNaW5MaXVMaWFuZ2UoKSkpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5hbGFybV92YWx1ZSA9IGRmMi5mb3JtYXQoRG91YmxlLnBhcnNlRG91YmxlKGFsYXJtX3ZhbHVlKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5hbGFybV92YWx1ZSA9IGRmMi5mb3JtYXQoRG91YmxlLnBhcnNlRG91YmxlKGFsYXJtX3ZhbHVlKSk7Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJvdy55dW54aW5neGlhb2x2ID0gbWFwLmdldChzaXRlICsgIl96IikuYWxhcm1fdmFsdWUgPT0gbnVsbCA/IDAgOiBtYXAuZ2V0KHNpdGUgKyAiX3oiKS5hbGFybV92YWx1ZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJvdy55dW54aW5neGlhb2x2ID0gbWFwLmdldChzaXRlICsgIl96ZyIpLmFsYXJtX3ZhbHVlICogbWFwLmdldChzaXRlICsgIl96ZyIpLmFsYTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJvdy55dW54aW5neGlhb2x2ID0gbWFwLmdldChzaXRlICsgIl96IikuYWxhcm1fdmFsdWUgPT0gbnVsbCA/IDAgOiBtYXAuZ2V0KHNpdGUgKyAiX3oiKS5hbGFybV92YWx1ZTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJvdy55dW54aW5neGlhb2x2ID0gbWFwLmdldChzaXRlICsgIl9kIikuYWxhcm1fdmFsdWUgKiBtYXAuZ2V0KHNpdGUgKyAiX2QiKS5hbGFybV92YWx1ZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJvdy55dW54aW5neGlhb2x2ID0gbWFwLmdldChzaXRlICsgIl96ZyIpLmFsYXJtX3ZhbHVlICogbWFwLmdldChzaXRlICsgIl96ZyIpLmFsYTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIHJvdy55dW54aW5neGlhb2x2ID0gbWFwLmdldChzaXRlICsgIl96ZyIpLnB1bXBfZWZmaWNpZW5jeSAqIG1hcC5nZXQoc2l0ZSArICJfemciKS5lbGVjdHJpY2FsX2VmZmljaWVuY3k7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJvdy55dW54aW5neGlhb2x2ID0gbWFwLmdldChzaXRlICsgIl9kIikuYWxhcm1fdmFsdWUgKiBtYXAuZ2V0KHNpdGUgKyAiX2QiKS5hbGFybV92YWx1ZTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -589,7 +595,7 @@
       <last-replace>_d</last-replace>
       <last-substitute>_zg</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
