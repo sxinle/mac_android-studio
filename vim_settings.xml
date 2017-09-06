@@ -160,11 +160,12 @@
         <mark key="." line="443" column="69" />
         <mark key="^" line="443" column="69" />
       </file>
-      <file name="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/utils/MappingUtil.java" timestamp="1504579263146">
+      <file name="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/utils/MappingUtil.java" timestamp="1504664194894">
         <mark key="'" line="136" column="55" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+        <mark key="[" line="156" column="25" />
+        <mark key="]" line="156" column="26" />
+        <mark key="." line="156" column="26" />
+        <mark key="^" line="156" column="26" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_work_order_view.xml" timestamp="1501466422081">
         <mark key="'" line="362" column="0" />
@@ -568,40 +569,40 @@
         <text>基本废物......</text>
       </register>
       <register name="-" type="4">
-        <text>际</text>
+        <text>馆</text>
       </register>
       <register name="/" type="4">
         <text>value6</text>
       </register>
-      <register name="0" type="4">
-        <text>实际流量</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBjb29yZHNNYXAucHV0KCLkuIfovr7lhazppoYiLCBuZXcgU3RyaW5nW117IjEyMy40NjgwNSIsIjQxLjc0MDQ5MSJ9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20uYmFpZHUubG9jYXRpb24uaC5qLlI7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb29yZHNNYXAucHV0KCLkuIfovr7lhazlr5MiLCBuZXcgU3RyaW5nW117IjEyMy40NzQ5MzkiLCAiNDEuNzQyNjY1In0pOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb29yZHNNYXAucHV0KCLkuIfovr7lhazppoYiLCBuZXcgU3RyaW5nW117IjEyMy40NjgwNSIsIjQxLjc0MDQ5MSJ9KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBjb29yZHNNYXAucHV0KCLkuIfovr7lhazlr5MiLCBuZXcgU3RyaW5nW117IjEyMy40NzQ5MzkiLCAiNDEuNzQyNjY1In0pOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBjb29yZHNNYXAucHV0KCLkuIfovr7lhazppoYiLCBuZXcgU3RyaW5nW117IjEyMy40NjgwNSIsIjQxLjc0MDQ5MSJ9KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5hbGFybV92YWx1ZSA9IGRmMi5mb3JtYXQoRG91YmxlLnBhcnNlRG91YmxlKGFsYXJtX3ZhbHVlKSk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20uYmFpZHUubG9jYXRpb24uaC5qLlI7Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJvdy55dW54aW5neGlhb2x2ID0gbWFwLmdldChzaXRlICsgIl96IikuYWxhcm1fdmFsdWUgPT0gbnVsbCA/IDAgOiBtYXAuZ2V0KHNpdGUgKyAiX3oiKS5hbGFybV92YWx1ZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJvdy55dW54aW5neGlhb2x2ID0gbWFwLmdldChzaXRlICsgIl96ZyIpLmFsYXJtX3ZhbHVlICogbWFwLmdldChzaXRlICsgIl96ZyIpLmFsYTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5hbGFybV92YWx1ZSA9IGRmMi5mb3JtYXQoRG91YmxlLnBhcnNlRG91YmxlKGFsYXJtX3ZhbHVlKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
