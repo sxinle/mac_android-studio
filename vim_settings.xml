@@ -369,7 +369,7 @@
         <mark key="." line="128" column="21" />
         <mark key="^" line="128" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/utils/Http.java" timestamp="1504593998454">
+      <file name="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/utils/Http.java" timestamp="1504658353761">
         <mark key="'" line="181" column="0" />
         <mark key="[" line="156" column="0" />
         <mark key="]" line="156" column="0" />
@@ -462,8 +462,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="192" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
-      <jump line="607" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
       <jump line="19" column="19" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
       <jump line="382" column="45" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
@@ -556,12 +554,14 @@
       <jump line="74" column="19" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/utils/Http.java" />
       <jump line="75" column="30" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/utils/Http.java" />
       <jump line="77" column="25" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/utils/Http.java" />
-      <jump line="181" column="0" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/utils/Http.java" />
       <jump line="57" column="25" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/data/pojo/SaveCostList.java" />
       <jump line="138" column="25" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/data/pojo/SaveCostList.java" />
       <jump line="139" column="19" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/data/pojo/SaveCostList.java" />
       <jump line="142" column="37" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/data/pojo/SaveCostList.java" />
       <jump line="143" column="26" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/data/pojo/SaveCostList.java" />
+      <jump line="152" column="68" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/utils/Http.java" />
+      <jump line="23" column="0" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/utils/Http.java" />
+      <jump line="181" column="0" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/utils/Http.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
