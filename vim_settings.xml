@@ -128,8 +128,8 @@
       <file name="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/view/activity/SaveCostFragment.java" timestamp="1504605351760">
         <mark key="'" line="161" column="68" />
       </file>
-      <file name="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/view/activity/DataGatherActivity.java" timestamp="1505351473010">
-        <mark key="'" line="203" column="0" />
+      <file name="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/view/activity/DataGatherActivity.java" timestamp="1505353448218">
+        <mark key="'" line="62" column="20" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/CostOutFragment.java" timestamp="1500893360360">
         <mark key="'" line="207" column="58" />
@@ -455,7 +455,7 @@
         <mark key="^" line="56" column="25" />
         <mark key="." line="56" column="25" />
       </file>
-      <file name="/fragment.java" timestamp="1504576994214">
+      <file name="/fragment.java" timestamp="1505353500077">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="^" line="0" column="6" />
@@ -469,9 +469,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="382" column="45" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
-      <jump line="29" column="13" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/DataGatherActivity.java" />
-      <jump line="297" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/DataGatherActivity.java" />
       <jump line="63" column="41" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/DataGatherActivity.java" />
       <jump line="258" column="23" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/DataGatherActivity.java" />
       <jump line="555" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/DataGatherActivity.java" />
@@ -569,6 +566,9 @@
       <jump line="181" column="0" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/utils/Http.java" />
       <jump line="203" column="0" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/view/activity/DataGatherActivity.java" />
       <jump line="574" column="0" filename="$USER_HOME$/workspace/shuiwu/waffair/app/build/outputs/apk/a.json" />
+      <jump line="339" column="40" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/view/activity/DataGatherActivity.java" />
+      <jump line="17" column="25" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/view/activity/DataGatherActivity.java" />
+      <jump line="62" column="20" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/view/activity/DataGatherActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -578,7 +578,7 @@
         <text>馆</text>
       </register>
       <register name="/" type="4">
-        <text>value6</text>
+        <text>alarm</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjb29yZHNNYXAucHV0KCLkuIfovr7lhazppoYiLCBuZXcgU3RyaW5nW117IjEyMy40NjgwNSIsIjQxLjc0MDQ5MSJ9KTsK</text>
@@ -615,17 +615,16 @@
       </register>
     </registers>
     <search>
-      <last-search>value6</last-search>
+      <last-search>alarm</last-search>
       <last-offset />
-      <last-pattern>value6</last-pattern>
+      <last-pattern>alarm</last-pattern>
       <last-replace>_d</last-replace>
       <last-substitute>_zg</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>单区</entry>
         <entry encoding="base64">XDx1bml0ZWZmX2xhYmVsX21pZGhpZ2hcPg==</entry>
         <entry>ddrjy</entry>
         <entry>万达公寓</entry>
@@ -643,8 +642,9 @@
         <entry>sheya</entry>
         <entry>scgj</entry>
         <entry>unit</entry>
-        <entry>alarm</entry>
         <entry>value6</entry>
+        <entry>http</entry>
+        <entry>alarm</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL25vbmUvaGlnaC9n</entry>
