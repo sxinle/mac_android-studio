@@ -98,12 +98,6 @@
         <mark key="." line="57" column="72" />
         <mark key="^" line="57" column="72" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/WorkOrderListFrag.java" timestamp="1501492358388">
-        <mark key="'" line="186" column="0" />
-        <mark key="[" line="100" column="0" />
-        <mark key="]" line="100" column="0" />
-        <mark key="." line="100" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_data_gather.xml" timestamp="1498895512504">
         <mark key="'" line="3" column="20" />
         <mark key="[" line="113" column="0" />
@@ -200,12 +194,6 @@
         <mark key="]" line="319" column="47" />
         <mark key="." line="319" column="47" />
         <mark key="^" line="319" column="47" />
-      </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/WorkOrderViewActivity.java" timestamp="1501487091078">
-        <mark key="'" line="427" column="33" />
-        <mark key="[" line="157" column="0" />
-        <mark key="]" line="157" column="95" />
-        <mark key="." line="153" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/SaveCostFragment.java" timestamp="1500908515815">
         <mark key="'" line="63" column="68" />
@@ -376,10 +364,10 @@
         <mark key="." line="128" column="21" />
         <mark key="^" line="128" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/utils/Http.java" timestamp="1504658353761">
+      <file name="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/utils/Http.java" timestamp="1505359798278">
         <mark key="'" line="181" column="0" />
-        <mark key="[" line="156" column="0" />
-        <mark key="]" line="156" column="0" />
+        <mark key="[" line="53" column="56" />
+        <mark key="]" line="53" column="80" />
         <mark key="." line="156" column="0" />
       </file>
       <file name="/a.regexp" timestamp="1504605291718">
@@ -580,8 +568,8 @@
       <register name="/" type="4">
         <text>alarm</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb29yZHNNYXAucHV0KCLkuIfovr7lhazppoYiLCBuZXcgU3RyaW5nW117IjEyMy40NjgwNSIsIjQxLjc0MDQ5MSJ9KTsK</text>
+      <register name="0" type="4">
+        <text>http://218.61.69.246:3030</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBjb29yZHNNYXAucHV0KCLkuIfovr7lhazlr5MiLCBuZXcgU3RyaW5nW117IjEyMy40NzQ5MzkiLCAiNDEuNzQyNjY1In0pOwo=</text>
@@ -621,7 +609,7 @@
       <last-replace>_d</last-replace>
       <last-substitute>_zg</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
