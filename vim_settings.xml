@@ -94,6 +94,7 @@
         <mark key="." line="57" column="72" />
         <mark key="^" line="57" column="72" />
       </file>
+      <file name="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/view/activity/NwglActivity.java" timestamp="1505450365355" />
       <file name="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_data_gather.xml" timestamp="1498895512504">
         <mark key="'" line="3" column="20" />
         <mark key="[" line="113" column="0" />
@@ -156,12 +157,11 @@
         <mark key="." line="443" column="69" />
         <mark key="^" line="443" column="69" />
       </file>
-      <file name="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/utils/MappingUtil.java" timestamp="1504664194894">
+      <file name="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/utils/MappingUtil.java" timestamp="1505449947582">
         <mark key="'" line="136" column="55" />
-        <mark key="[" line="156" column="25" />
-        <mark key="]" line="156" column="26" />
-        <mark key="." line="156" column="26" />
-        <mark key="^" line="156" column="26" />
+        <mark key="[" line="155" column="0" />
+        <mark key="]" line="155" column="0" />
+        <mark key="." line="155" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_work_order_view.xml" timestamp="1501466422081">
         <mark key="'" line="362" column="0" />
@@ -378,7 +378,7 @@
         <mark key="." line="41" column="37" />
         <mark key="^" line="41" column="37" />
       </file>
-      <file name="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" timestamp="1503998381508">
+      <file name="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" timestamp="1505450345064">
         <mark key="'" line="607" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/data/pojo/DataSum.java" timestamp="1502950375899">
@@ -448,7 +448,7 @@
         <mark key="^" line="56" column="25" />
         <mark key="." line="56" column="25" />
       </file>
-      <file name="/fragment.java" timestamp="1505371418813">
+      <file name="/fragment.java" timestamp="1505450366346">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="^" line="0" column="6" />
@@ -568,40 +568,40 @@
         <text>基本废物......</text>
       </register>
       <register name="-" type="4">
-        <text>upinfo_mine</text>
+        <text>123.496573</text>
       </register>
       <register name="/" type="4">
         <text>http</text>
       </register>
       <register name="0" type="4">
-        <text>upinfo_all</text>
+        <text>41.749724</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb29yZHNNYXAucHV0KCLkuIfovr7lhazlr5MiLCBuZXcgU3RyaW5nW117IjEyMy40NzQ5MzkiLCAiNDEuNzQyNjY1In0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb29yZHNNYXAucHV0KCLkuIfovr7lhazppoYiLCBuZXcgU3RyaW5nW117IjEyMy40NjgwNSIsIjQxLjc0MDQ5MSJ9KTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb29yZHNNYXAucHV0KCLkuIfovr7lhazlr5MiLCBuZXcgU3RyaW5nW117IjEyMy40NzQ5MzkiLCAiNDEuNzQyNjY1In0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb29yZHNNYXAucHV0KCLkuIfovr7lhazppoYiLCBuZXcgU3RyaW5nW117IjEyMy40NjgwNSIsIjQxLjc0MDQ5MSJ9KTsK</text>
+        <text encoding="base64">ICAgICAgICAsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20uYmFpZHUubG9jYXRpb24uaC5qLlI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAsNDEuNzQ5NzI0Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBjb29yZHNNYXAucHV0KCLkuIfovr7lhazlr5MiLCBuZXcgU3RyaW5nW117IjEyMy40NzQ5MzkiLCAiNDEuNzQyNjY1In0pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5hbGFybV92YWx1ZSA9IGRmMi5mb3JtYXQoRG91YmxlLnBhcnNlRG91YmxlKGFsYXJtX3ZhbHVlKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb29yZHNNYXAucHV0KCLkuIfovr7lhazppoYiLCBuZXcgU3RyaW5nW117IjEyMy40NjgwNSIsIjQxLjc0MDQ5MSJ9KTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
