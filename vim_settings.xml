@@ -63,7 +63,6 @@
         <mark key="^" line="181" column="71" />
         <mark key="." line="181" column="76" />
       </file>
-      <file name="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/view/activity/WorkOrderViewActivity.java" timestamp="1505447028541" />
       <file name="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/view/activity/UnitEffFragment.java" timestamp="1504510583265">
         <mark key="'" line="18" column="25" />
         <mark key="[" line="209" column="33" />
@@ -94,7 +93,6 @@
         <mark key="." line="57" column="72" />
         <mark key="^" line="57" column="72" />
       </file>
-      <file name="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/view/activity/NwglActivity.java" timestamp="1505450365355" />
       <file name="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_data_gather.xml" timestamp="1498895512504">
         <mark key="'" line="3" column="20" />
         <mark key="[" line="113" column="0" />
@@ -369,7 +367,7 @@
         <mark key="]" line="179" column="32" />
         <mark key="." line="156" column="0" />
       </file>
-      <file name="/a.regexp" timestamp="1505446849468">
+      <file name="/a.regexp" timestamp="1505454491909">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/res/layout/item_unit_eff.xml" timestamp="1504156748490">
@@ -614,7 +612,7 @@
       <last-replace>_d</last-replace>
       <last-substitute>_zg</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
