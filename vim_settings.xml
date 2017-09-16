@@ -300,6 +300,12 @@
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/BaseActivity.java" timestamp="1501488960093">
         <mark key="'" line="45" column="32" />
       </file>
+      <file name="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/res/layout/cost_up.xml" timestamp="1505571150280">
+        <mark key="[" line="22" column="100" />
+        <mark key="]" line="22" column="100" />
+        <mark key="." line="22" column="100" />
+        <mark key="^" line="22" column="100" />
+      </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_station_detail.xml" timestamp="1501043022093">
         <mark key="[" line="136" column="45" />
         <mark key="]" line="136" column="57" />
@@ -342,6 +348,9 @@
       </file>
       <file name="/Dummy.txt" timestamp="1505450923694">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/view/activity/CostOutFragment.java" timestamp="1505571123647">
+        <mark key="'" line="64" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/res/layout/activity_leak_mng.xml" timestamp="1504510607050">
         <mark key="[" line="56" column="49" />
@@ -460,7 +469,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="259" column="68" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/DataGatherActivity.java" />
       <jump line="323" column="15" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/DataGatherActivity.java" />
       <jump line="341" column="52" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/DataGatherActivity.java" />
       <jump line="240" column="46" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/DataGatherActivity.java" />
@@ -560,13 +568,14 @@
       <jump line="142" column="51" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/view/activity/HisJobOtherFrag.java" />
       <jump line="50" column="34" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/view/activity/HisJobOtherFrag.java" />
       <jump line="20" column="25" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/view/activity/HisJobOtherFrag.java" />
+      <jump line="64" column="0" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/view/activity/CostOutFragment.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>基本废物......</text>
       </register>
       <register name="-" type="4">
-        <text>123.496573</text>
+        <text>水</text>
       </register>
       <register name="/" type="4">
         <text>http</text>
