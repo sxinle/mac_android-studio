@@ -401,7 +401,7 @@
         <mark key="." line="41" column="37" />
         <mark key="^" line="41" column="37" />
       </file>
-      <file name="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" timestamp="1505450345064">
+      <file name="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" timestamp="1505956192681">
         <mark key="'" line="607" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/data/pojo/DataSum.java" timestamp="1502950375899">
@@ -485,9 +485,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="132" column="12" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/data/pojo/EffList.java" />
-      <jump line="108" column="23" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/data/pojo/EffList.java" />
-      <jump line="270" column="23" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/view/activity/UnitEffFragment.java" />
       <jump line="271" column="17" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/view/activity/UnitEffFragment.java" />
       <jump line="307" column="15" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/view/activity/UnitEffFragment.java" />
       <jump line="323" column="15" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/view/activity/UnitEffFragment.java" />
@@ -585,6 +582,9 @@
       <jump line="12" column="29" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/res/layout/item_order_station.xml" />
       <jump line="17" column="37" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/res/layout/item_order_station.xml" />
       <jump line="49" column="0" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/res/layout/item_order_station.xml" />
+      <jump line="133" column="56" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
+      <jump line="49" column="0" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
+      <jump line="607" column="0" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -637,7 +637,7 @@
       <last-replace>_d</last-replace>
       <last-substitute>_zg</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
