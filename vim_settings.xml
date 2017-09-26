@@ -346,6 +346,13 @@
         <mark key="^" line="123" column="15" />
         <mark key="." line="137" column="47" />
       </file>
+      <file name="$USER_HOME$/workspace/ParseAndroid/app/build.gradle" timestamp="1506392351893">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="27" column="4" />
+        <mark key="]" line="27" column="44" />
+        <mark key="^" line="27" column="3" />
+        <mark key="." line="27" column="4" />
+      </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/widget/WrapContentHeightViewPager.java" timestamp="1500868640123">
         <mark key="[" line="41" column="83" />
         <mark key="]" line="41" column="84" />
@@ -499,7 +506,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="150" column="67" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/utils/MappingUtil.java" />
       <jump line="141" column="11" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/utils/MappingUtil.java" />
       <jump line="206" column="33" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/utils/MappingUtil.java" />
       <jump line="180" column="25" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/utils/MappingUtil.java" />
@@ -599,6 +605,7 @@
       <jump line="605" column="0" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
       <jump line="56" column="0" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
       <jump line="607" column="0" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/ParseAndroid/app/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
