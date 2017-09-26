@@ -301,6 +301,9 @@
         <mark key="." line="311" column="41" />
         <mark key="^" line="138" column="20" />
       </file>
+      <file name="$USER_HOME$/workspace/ParseAndroid/app/src/main/java/com/acenode/parseandroid/MainActivity.java" timestamp="1506394038237">
+        <mark key="'" line="9" column="35" />
+      </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/StationDetailActivity.java" timestamp="1501232432644">
         <mark key="'" line="33" column="21" />
         <mark key="[" line="22" column="4" />
@@ -448,6 +451,9 @@
         <mark key="." line="326" column="43" />
         <mark key="^" line="326" column="43" />
       </file>
+      <file name="$USER_HOME$/workspace/ParseAndroid/app/src/main/AndroidManifest.xml" timestamp="1506393881810">
+        <mark key="'" line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/hyphenate/chatuidemo/ui/AlarmListFragment.java" timestamp="1500997832399">
         <mark key="'" line="348" column="0" />
         <mark key="[" line="219" column="46" />
@@ -506,8 +512,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="141" column="11" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/utils/MappingUtil.java" />
-      <jump line="206" column="33" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/utils/MappingUtil.java" />
       <jump line="180" column="25" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/utils/MappingUtil.java" />
       <jump line="156" column="23" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/utils/MappingUtil.java" />
       <jump line="362" column="37" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/view/activity/UnitEffFragment.java" />
@@ -606,6 +610,8 @@
       <jump line="56" column="0" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
       <jump line="607" column="0" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/ParseAndroid/app/build.gradle" />
+      <jump line="12" column="0" filename="$USER_HOME$/workspace/ParseAndroid/app/src/main/AndroidManifest.xml" />
+      <jump line="9" column="35" filename="$USER_HOME$/workspace/ParseAndroid/app/src/main/java/com/acenode/parseandroid/MainActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
