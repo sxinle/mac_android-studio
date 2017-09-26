@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/cH_library/build.gradle" timestamp="1506424085141">
+        <mark key="^" line="8" column="7" />
+      </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/AlarmHisOwnFrag.java" timestamp="1499156142573">
         <mark key="'" line="35" column="58" />
         <mark key="[" line="153" column="50" />
@@ -66,6 +69,12 @@
       <file name="$USER_HOME$/workspace/shuiwu/waffair/app/build.gradle" timestamp="1506391944856">
         <mark key="'" line="11" column="20" />
       </file>
+      <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mbp_sdk_android/build.gradle" timestamp="1506424441708">
+        <mark key="[" line="4" column="30" />
+        <mark key="]" line="5" column="3" />
+        <mark key="." line="5" column="3" />
+        <mark key="^" line="5" column="3" />
+      </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/AlarmDetailActivity.java" timestamp="1501467103135">
         <mark key="'" line="74" column="13" />
         <mark key="[" line="181" column="76" />
@@ -115,6 +124,12 @@
         <mark key="." line="57" column="72" />
         <mark key="^" line="57" column="72" />
       </file>
+      <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mbp_sdk_android_push/build.gradle" timestamp="1506424780247">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="10" column="5" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="5" column="3" />
+      </file>
       <file name="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/view/activity/HisJobOwnFrag.java" timestamp="1505962595714">
         <mark key="[" line="68" column="63" />
         <mark key="]" line="68" column="68" />
@@ -157,10 +172,6 @@
         <mark key="]" line="392" column="53" />
         <mark key="^" line="392" column="53" />
         <mark key="." line="392" column="53" />
-      </file>
-      <file name="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/view/activity/UserCenterActivity.java" timestamp="1505960919353">
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="76" column="33" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/AlarmHisOtherFrag.java" timestamp="1499156130494">
         <mark key="'" line="66" column="10" />
@@ -374,6 +385,11 @@
         <mark key="^" line="41" column="81" />
         <mark key="." line="41" column="84" />
       </file>
+      <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/build.gradle" timestamp="1506424445920">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/SignInMapActivity.java" timestamp="1501495183745">
         <mark key="'" line="172" column="8" />
         <mark key="[" line="139" column="20" />
@@ -428,7 +444,7 @@
         <mark key="^" line="183" column="0" />
         <mark key="." line="183" column="0" />
       </file>
-      <file name="/a.regexp" timestamp="1505978881497">
+      <file name="/a.regexp" timestamp="1506423834193">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/res/layout/item_unit_eff.xml" timestamp="1504156748490">
@@ -654,35 +670,35 @@
       <register name="/" type="4">
         <text>upinfo</text>
       </register>
-      <register name="0" type="4">
-        <text>String</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGFhcHRPcHRpb25zLmNydW5jaGVyRW5hYmxlZCA9IGZhbHNlCiAgICBhYXB0T3B0aW9ucy51c2VOZXdDcnVuY2hlciA9IGZhbHNlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGFhcHRPcHRpb25zLmNydW5jaGVyRW5hYmxlZCA9IGZhbHNlCiAgICBhYXB0T3B0aW9ucy51c2VOZXdDcnVuY2hlciA9IGZhbHNlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFhcHRPcHRpb25zLmNydW5jaGVyRW5hYmxlZCA9IGZhbHNlCiAgICBhYXB0T3B0aW9ucy51c2VOZXdDcnVuY2hlciA9IGZhbHNlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgaHNvbmcgb24gMjAxNy85LzI2LgogKi8KCg==</text>
+        <text encoding="base64">ICAgIAogICAgYWFwdE9wdGlvbnMuY3J1bmNoZXJFbmFibGVkID0gZmFsc2UKICAgIGFhcHRPcHRpb25zLnVzZU5ld0NydW5jaGVyID0gZmFsc2UKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIEFwcCB7Cn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwdWJsaWMgdm9pZCBvbkZhaWx1cmUoQ2FsbDxMaXN0PFVwSW5mbz4+IGNhbGwsIFRocm93YWJsZSB0KSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIAogICAgYWFwdE9wdGlvbnMuY3J1bmNoZXJFbmFibGVkID0gZmFsc2UKICAgIGFhcHRPcHRpb25zLnVzZU5ld0NydW5jaGVyID0gZmFsc2UK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtdWx0aURleEVuYWJsZWQgdHJ1ZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGdldEFjdGl2aXR5KCkuZmluaXNoKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBtdWx0aURleEVuYWJsZWQgdHJ1ZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIChwZC5pc1Nob3dpbmcoKSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBkLmRpc21pc3MoKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
