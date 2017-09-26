@@ -116,6 +116,9 @@
         <mark key="." line="68" column="63" />
         <mark key="^" line="62" column="69" />
       </file>
+      <file name="$USER_HOME$/workspace/ddParse/MBPPortal1/import-summary.txt" timestamp="1506408797651">
+        <mark key="'" line="506" column="38" />
+      </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_data_gather.xml" timestamp="1498895512504">
         <mark key="'" line="3" column="20" />
         <mark key="[" line="113" column="0" />
@@ -530,8 +533,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="156" column="23" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/utils/MappingUtil.java" />
-      <jump line="362" column="37" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/view/activity/UnitEffFragment.java" />
       <jump line="76" column="0" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/view/activity/UnitEffFragment.java" />
       <jump line="18" column="25" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/view/activity/UnitEffFragment.java" />
       <jump line="33" column="23" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/data/pojo/EffList.java" />
@@ -630,6 +631,8 @@
       <jump line="12" column="0" filename="$USER_HOME$/workspace/ParseAndroid/app/src/main/AndroidManifest.xml" />
       <jump line="9" column="35" filename="$USER_HOME$/workspace/ParseAndroid/app/src/main/java/com/acenode/parseandroid/MainActivity.java" />
       <jump line="6" column="16" filename="$USER_HOME$/workspace/ParseAndroid/app/src/main/java/com/acenode/parseandroid/App.java" />
+      <jump line="19" column="8" filename="$USER_HOME$/workspace/ddParse/MBPPortal1/import-summary.txt" />
+      <jump line="506" column="38" filename="$USER_HOME$/workspace/ddParse/MBPPortal1/import-summary.txt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
