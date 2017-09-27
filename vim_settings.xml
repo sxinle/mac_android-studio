@@ -29,12 +29,6 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/data/pojo/JobPoints.java" timestamp="1501492198699">
-        <mark key="'" line="27" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_alarm_detail_v1.xml" timestamp="1501467081670">
-        <mark key="'" line="159" column="49" />
-      </file>
       <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mbp_sdk_android/build.gradle" timestamp="1506477015366">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -59,9 +53,6 @@
         <mark key="." line="209" column="34" />
         <mark key="^" line="375" column="98" />
       </file>
-      <file name="$USER_HOME$/workspace/shuiwu/waffair/app/build/outputs/apk/a.json" timestamp="1505352098370">
-        <mark key="'" line="673" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mbp_sdk_android_push/build.gradle" timestamp="1506425963024">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="35" />
@@ -74,18 +65,12 @@
         <mark key="." line="68" column="63" />
         <mark key="^" line="62" column="69" />
       </file>
-      <file name="$USER_HOME$/workspace/ddParse/MBPPortal1/import-summary.txt" timestamp="1506408797651">
-        <mark key="'" line="506" column="38" />
-      </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_data_gather.xml" timestamp="1498895512504">
         <mark key="'" line="3" column="20" />
         <mark key="[" line="113" column="0" />
         <mark key="]" line="119" column="59" />
         <mark key="." line="113" column="34" />
         <mark key="^" line="113" column="53" />
-      </file>
-      <file name="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/view/activity/DataGatherActivity.java" timestamp="1505959106523">
-        <mark key="'" line="62" column="20" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/AlarmHisOtherFrag.java" timestamp="1499156130494">
         <mark key="'" line="66" column="10" />
@@ -174,9 +159,6 @@
         <mark key="." line="92" column="52" />
         <mark key="^" line="92" column="52" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/BaseActivity.java" timestamp="1501488960093">
-        <mark key="'" line="45" column="32" />
-      </file>
       <file name="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/res/layout/cost_up.xml" timestamp="1505571150280">
         <mark key="[" line="22" column="100" />
         <mark key="]" line="22" column="100" />
@@ -215,9 +197,6 @@
         <mark key="]" line="382" column="53" />
         <mark key="." line="382" column="53" />
         <mark key="^" line="382" column="53" />
-      </file>
-      <file name="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/view/activity/CostOutFragment.java" timestamp="1505571123647">
-        <mark key="'" line="64" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/LoginActivity.java" timestamp="1499594978558">
         <mark key="[" line="174" column="55" />
@@ -286,9 +265,6 @@
         <mark key="." line="153" column="51" />
         <mark key="^" line="153" column="51" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/SplashActivity.java" timestamp="1501499372738">
-        <mark key="'" line="208" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mbp_sdk_android_mdm/src/main/AndroidManifest.xml" timestamp="1506476339941">
         <mark key="[" line="42" column="48" />
         <mark key="]" line="42" column="48" />
@@ -320,9 +296,6 @@
         <mark key="]" line="335" column="67" />
         <mark key="^" line="335" column="67" />
         <mark key="." line="335" column="67" />
-      </file>
-      <file name="$USER_HOME$/workspace/shuiwu/waffair/app/build.gradle" timestamp="1506391944856">
-        <mark key="'" line="11" column="20" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/AlarmDetailActivity.java" timestamp="1501467103135">
         <mark key="'" line="74" column="13" />
@@ -379,9 +352,6 @@
         <mark key="." line="27" column="77" />
         <mark key="^" line="27" column="77" />
       </file>
-      <file name="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/view/activity/SaveCostFragment.java" timestamp="1504605351760">
-        <mark key="'" line="161" column="68" />
-      </file>
       <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/ownCloudAndroidLibrary/src/main/java/com/owncloud/android/lib/resources/shares/GetRemoteSharesForFileOperation.java" timestamp="1506425793323">
         <mark key="[" line="66" column="47" />
         <mark key="]" line="66" column="47" />
@@ -436,6 +406,11 @@
         <mark key="." line="319" column="47" />
         <mark key="^" line="319" column="47" />
       </file>
+      <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/build/intermediates/exploded-aar/MBPPortalAndroid/mbp_sdk_android_push/unspecified/AndroidManifest.xml" timestamp="1506483740651">
+        <mark key="[" line="100" column="0" />
+        <mark key="]" line="100" column="0" />
+        <mark key="." line="100" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/SaveCostFragment.java" timestamp="1500908515815">
         <mark key="'" line="63" column="68" />
         <mark key="[" line="256" column="146" />
@@ -470,9 +445,6 @@
         <mark key="]" line="33" column="42" />
         <mark key="." line="33" column="16" />
         <mark key="^" line="33" column="15" />
-      </file>
-      <file name="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/res/layout/activity_nwgl.xml" timestamp="1505446868193">
-        <mark key="'" line="90" column="46" />
       </file>
       <file name="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/res/layout/activity_alarm_detail_v1.xml" timestamp="1504578704109">
         <mark key="'" line="35" column="30" />
@@ -528,7 +500,7 @@
         <mark key="^" line="87" column="61" />
         <mark key="." line="87" column="61" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506482185738">
+      <file name="/Dummy.txt" timestamp="1506484056790">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/utils/Http.java" timestamp="1501492093416">
@@ -538,6 +510,7 @@
         <mark key="." line="128" column="21" />
         <mark key="^" line="128" column="21" />
       </file>
+      <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/main/HomeActivity.java" timestamp="1506484639703" />
       <file name="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/utils/Http.java" timestamp="1505962429414">
         <mark key="'" line="142" column="0" />
         <mark key="[" line="182" column="12" />
@@ -545,7 +518,7 @@
         <mark key="^" line="183" column="0" />
         <mark key="." line="183" column="0" />
       </file>
-      <file name="/a.regexp" timestamp="1506480452070">
+      <file name="/a.regexp" timestamp="1506484721643">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/res/layout/item_unit_eff.xml" timestamp="1504156748490">
@@ -553,9 +526,6 @@
         <mark key="]" line="41" column="37" />
         <mark key="." line="41" column="37" />
         <mark key="^" line="41" column="37" />
-      </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/data/pojo/DataSum.java" timestamp="1502950375899">
-        <mark key="'" line="64" column="36" />
       </file>
       <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/AndroidManifest.xml" timestamp="1506425430270">
         <mark key="[" line="68" column="8" />
@@ -732,31 +702,31 @@
         <text encoding="base64">ICAgICAgICAgICAgaWYgKG51bGwgPT0gdG9rZW4pIHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAqCiAgICAgKiBAcGFyYW0gdXNlcklkCiAgICAgKiBAcGFyYW0gcGFzc3dvcmQK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CSAqCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQkK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAqCiAgICAgKiBAcGFyYW0gdXNlcklkCiAgICAgKiBAcGFyYW0gcGFzc3dvcmQK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CSAqCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQkK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBtdWx0aURleEVuYWJsZSB0cnVlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG11bHRpRGV4RW5hYmxlID0gdHJ1ZQo=</text>
+        <text encoding="base64">ICAgICAgICBtdWx0aURleEVuYWJsZSB0cnVlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBtdWx0aURleEVuYWJsZSA9IHRydWUK</text>
+        <text encoding="base64">ICAgIG11bHRpRGV4RW5hYmxlID0gdHJ1ZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZXhPcHRpb25zIHsKICAgIGphdmFNYXhIZWFwU2l6ZSAiNGciCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBtdWx0aURleEVuYWJsZSA9IHRydWUK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
