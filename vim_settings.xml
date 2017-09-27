@@ -159,7 +159,7 @@
         <mark key="^" line="12" column="7" />
         <mark key="." line="12" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mbp_sdk_android/src/main/java/cn/com/eightspace/mbp/sdk/MbpCloud.java" timestamp="1506495095006">
+      <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mbp_sdk_android/src/main/java/cn/com/eightspace/mbp/sdk/MbpCloud.java" timestamp="1506496430903">
         <mark key="'" line="50" column="36" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/StationDetailActivity.java" timestamp="1501232432644">
@@ -239,6 +239,7 @@
         <mark key="." line="174" column="60" />
         <mark key="^" line="174" column="60" />
       </file>
+      <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mbp_sdk_android/src/main/java/cn/com/eightspace/mbp/sdk/MbpQuery.java" timestamp="1506496274124" />
       <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mbp_sdk_android_push/src/main/java/cn/com/eightspace/mbp/sdk/MbpPushRouter.java" timestamp="1506425717969">
         <mark key="'" line="87" column="35" />
         <mark key="[" line="673" column="38" />
@@ -384,6 +385,7 @@
       <file name="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/view/activity/SaveCostFragment.java" timestamp="1504605351760">
         <mark key="'" line="161" column="68" />
       </file>
+      <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mbp_sdk_android/src/main/java/cn/com/eightspace/mbp/sdk/MbpAddOperation.java" timestamp="1506496895102" />
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/CostOutFragment.java" timestamp="1500893360360">
         <mark key="'" line="207" column="58" />
         <mark key="[" line="392" column="52" />
@@ -544,7 +546,7 @@
         <mark key="^" line="183" column="0" />
         <mark key="." line="183" column="0" />
       </file>
-      <file name="/a.regexp" timestamp="1506491661699">
+      <file name="/a.regexp" timestamp="1506496896508">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/res/layout/item_unit_eff.xml" timestamp="1504156748490">
