@@ -477,12 +477,12 @@
         <mark key="^" line="123" column="15" />
         <mark key="." line="137" column="47" />
       </file>
-      <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/build.gradle" timestamp="1506485359295">
+      <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/build.gradle" timestamp="1506487083187">
         <mark key="'" line="10" column="26" />
-        <mark key="[" line="54" column="39" />
-        <mark key="]" line="55" column="3" />
-        <mark key="." line="55" column="3" />
-        <mark key="^" line="55" column="3" />
+        <mark key="[" line="3" column="21" />
+        <mark key="]" line="3" column="23" />
+        <mark key="." line="3" column="23" />
+        <mark key="^" line="3" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/res/layout/item_cost_up.xml" timestamp="1498962582522">
         <mark key="'" line="62" column="55" />
@@ -525,12 +525,12 @@
         <mark key="." line="41" column="37" />
         <mark key="^" line="41" column="37" />
       </file>
-      <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/AndroidManifest.xml" timestamp="1506485331914">
-        <mark key="'" line="237" column="40" />
-        <mark key="[" line="8" column="34" />
-        <mark key="]" line="8" column="35" />
-        <mark key="^" line="8" column="35" />
-        <mark key="." line="8" column="35" />
+      <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/AndroidManifest.xml" timestamp="1506487093202">
+        <mark key="'" line="57" column="12" />
+        <mark key="[" line="8" column="35" />
+        <mark key="]" line="8" column="36" />
+        <mark key="^" line="7" column="31" />
+        <mark key="." line="8" column="36" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/data/pojo/UsersResp.java" timestamp="1500892627637">
         <mark key="'" line="129" column="0" />
@@ -586,7 +586,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="157" column="31" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/data/pojo/EffList.java" />
       <jump line="409" column="104" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/data/pojo/EffList.java" />
       <jump line="419" column="104" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/data/pojo/EffList.java" />
       <jump line="428" column="104" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/data/pojo/EffList.java" />
@@ -686,13 +685,14 @@
       <jump line="67" column="68" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mbp_sdk_android_push/src/main/AndroidManifest.xml" />
       <jump line="237" column="40" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/AndroidManifest.xml" />
       <jump line="10" column="26" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/build.gradle" />
+      <jump line="57" column="12" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/AndroidManifest.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>基本废物......</text>
       </register>
       <register name="-" type="4">
-        <text>7</text>
+        <text>4</text>
       </register>
       <register name="/" type="4">
         <text>Application</text>
