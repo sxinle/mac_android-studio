@@ -84,6 +84,9 @@
         <mark key="." line="113" column="34" />
         <mark key="^" line="113" column="53" />
       </file>
+      <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/personcenter/LoginActivity.java" timestamp="1506737110887">
+        <mark key="'" line="403" column="24" />
+      </file>
       <file name="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/view/activity/DataGatherActivity.java" timestamp="1505959106523">
         <mark key="'" line="62" column="20" />
       </file>
@@ -299,8 +302,8 @@
         <mark key="." line="42" column="50" />
         <mark key="^" line="73" column="56" />
       </file>
-      <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/main/LoadingActivity.java" timestamp="1506736130962">
-        <mark key="'" line="206" column="39" />
+      <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/main/LoadingActivity.java" timestamp="1506736993225">
+        <mark key="'" line="314" column="16" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/data/pojo/SuddenDetail.java" timestamp="1499134068066">
         <mark key="'" line="10" column="0" />
@@ -552,7 +555,7 @@
         <mark key="^" line="183" column="0" />
         <mark key="." line="183" column="0" />
       </file>
-      <file name="/a.regexp" timestamp="1506736219987">
+      <file name="/a.regexp" timestamp="1506737077053">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/res/layout/item_unit_eff.xml" timestamp="1504156748490">
@@ -628,15 +631,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="152" column="68" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/utils/Http.java" />
-      <jump line="23" column="0" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/utils/Http.java" />
-      <jump line="181" column="0" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/utils/Http.java" />
-      <jump line="203" column="0" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/view/activity/DataGatherActivity.java" />
-      <jump line="574" column="0" filename="$USER_HOME$/workspace/shuiwu/waffair/app/build/outputs/apk/a.json" />
-      <jump line="339" column="40" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/view/activity/DataGatherActivity.java" />
-      <jump line="17" column="25" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/view/activity/DataGatherActivity.java" />
-      <jump line="62" column="20" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/view/activity/DataGatherActivity.java" />
-      <jump line="90" column="46" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/res/layout/activity_nwgl.xml" />
       <jump line="142" column="51" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/view/activity/HisJobOtherFrag.java" />
       <jump line="50" column="34" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/view/activity/HisJobOtherFrag.java" />
       <jump line="20" column="25" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/view/activity/HisJobOtherFrag.java" />
@@ -728,6 +722,15 @@
       <jump line="206" column="39" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/main/LoadingActivity.java" />
       <jump line="79" column="13" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/chat/ChatActivity.java" />
       <jump line="243" column="31" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/chat/ChatActivity.java" />
+      <jump line="403" column="24" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/personcenter/LoginActivity.java" />
+      <jump line="49" column="44" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/main/LoadingActivity.java" />
+      <jump line="133" column="66" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/main/LoadingActivity.java" />
+      <jump line="528" column="28" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/main/LoadingActivity.java" />
+      <jump line="589" column="16" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/main/LoadingActivity.java" />
+      <jump line="657" column="24" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/main/LoadingActivity.java" />
+      <jump line="202" column="28" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/main/LoadingActivity.java" />
+      <jump line="253" column="27" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/main/LoadingActivity.java" />
+      <jump line="314" column="16" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/main/LoadingActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -737,7 +740,7 @@
         <text>公司正式服务器 － 233</text>
       </register>
       <register name="/" type="4">
-        <text>new UserBean</text>
+        <text>LoginActi</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Ly8Jc3RhdGljIFN0cmluZyBzZXJ2ZXIgPSAiaHR0cDovLzEwLjIwLjAuMjMzOjkwMDAiOyAgLy8g5YWs5Y+45q2j5byP5pyN5Yqh5ZmoIO+8jSAyMzMK</text>
@@ -774,9 +777,9 @@
       </register>
     </registers>
     <search>
-      <last-search>new UserBean</last-search>
+      <last-search>LoginActi</last-search>
       <last-offset />
-      <last-pattern>new UserBean</last-pattern>
+      <last-pattern>LoginActi</last-pattern>
       <last-replace>_d</last-replace>
       <last-substitute>_zg</last-substitute>
       <last-dir>1</last-dir>
@@ -784,9 +787,6 @@
     </search>
     <history>
       <history-search>
-        <entry>format</entry>
-        <entry>sheya</entry>
-        <entry>scgj</entry>
         <entry>unit</entry>
         <entry>value6</entry>
         <entry>alarm</entry>
@@ -804,6 +804,9 @@
         <entry>new Us</entry>
         <entry>new</entry>
         <entry>new UserBean</entry>
+        <entry encoding="base64">XDxMb2dpbkFjdGl2aXR5XD4=</entry>
+        <entry encoding="base64">bnVsbCAhPSA=</entry>
+        <entry>LoginActi</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL25vbmUvaGlnaC9n</entry>
