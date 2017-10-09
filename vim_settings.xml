@@ -327,8 +327,8 @@
         <mark key="^" line="335" column="67" />
         <mark key="." line="335" column="67" />
       </file>
-      <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mbp_sdk_android/src/main/java/cn/com/eightspace/mbp/sdk/Mbp.java" timestamp="1506739828272">
-        <mark key="'" line="49" column="0" />
+      <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mbp_sdk_android/src/main/java/cn/com/eightspace/mbp/sdk/Mbp.java" timestamp="1507521409893">
+        <mark key="'" line="1006" column="31" />
       </file>
       <file name="$USER_HOME$/workspace/shuiwu/waffair/app/build.gradle" timestamp="1506391944856">
         <mark key="'" line="11" column="20" />
@@ -634,7 +634,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="25" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/view/activity/HisJobOtherFrag.java" />
       <jump line="64" column="0" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/view/activity/CostOutFragment.java" />
       <jump line="19" column="62" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/res/layout/activity_work_order_view.xml" />
       <jump line="225" column="58" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/res/layout/activity_work_order_view.xml" />
@@ -734,6 +733,7 @@
       <jump line="314" column="16" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/main/LoadingActivity.java" />
       <jump line="61" column="4" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mbp_sdk_android/src/main/java/cn/com/eightspace/mbp/sdk/MbpCommand.java" />
       <jump line="49" column="0" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mbp_sdk_android/src/main/java/cn/com/eightspace/mbp/sdk/Mbp.java" />
+      <jump line="1006" column="31" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mbp_sdk_android/src/main/java/cn/com/eightspace/mbp/sdk/Mbp.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
