@@ -3,7 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mbp_sdk_android/src/main/java/cn/com/eightspace/mbp/sdk/MbpVersion.java" timestamp="1506742917101" />
       <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/tab/ChatContactListFragment.java" timestamp="1506487665001">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="274" column="0" />
@@ -172,9 +171,11 @@
         <mark key="." line="68" column="93" />
         <mark key="^" line="68" column="93" />
       </file>
-      <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/res/values/strings.xml" timestamp="1506495499531">
-        <mark key="[" line="9" column="27" />
-        <mark key="]" line="9" column="58" />
+      <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/res/values/strings.xml" timestamp="1507520374005">
+        <mark key="[" line="13" column="27" />
+        <mark key="]" line="13" column="59" />
+        <mark key="." line="13" column="27" />
+        <mark key="^" line="12" column="57" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/data/pojo/UpInfo.java" timestamp="1501037834040">
         <mark key="'" line="193" column="33" />
@@ -557,7 +558,7 @@
         <mark key="^" line="183" column="0" />
         <mark key="." line="183" column="0" />
       </file>
-      <file name="/a.regexp" timestamp="1506740253239">
+      <file name="/a.regexp" timestamp="1507520343816">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/res/layout/item_unit_eff.xml" timestamp="1504156748490">
@@ -569,12 +570,12 @@
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/data/pojo/DataSum.java" timestamp="1502950375899">
         <mark key="'" line="64" column="36" />
       </file>
-      <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/AndroidManifest.xml" timestamp="1506487093202">
+      <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/AndroidManifest.xml" timestamp="1507520339800">
         <mark key="'" line="57" column="12" />
-        <mark key="[" line="8" column="35" />
-        <mark key="]" line="8" column="36" />
+        <mark key="[" line="197" column="38" />
+        <mark key="]" line="197" column="70" />
         <mark key="^" line="7" column="31" />
-        <mark key="." line="8" column="36" />
+        <mark key="." line="197" column="38" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/data/pojo/UsersResp.java" timestamp="1500892627637">
         <mark key="'" line="129" column="0" />
@@ -739,7 +740,7 @@
         <text>基本废物......</text>
       </register>
       <register name="-" type="4">
-        <text>公司正式服务器 － 233</text>
+        <text>cfba26219daf7f57f20bedffc3c1374d</text>
       </register>
       <register name="/" type="4">
         <text>LoginActi</text>
@@ -785,7 +786,7 @@
       <last-replace>_d</last-replace>
       <last-substitute>_zg</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
