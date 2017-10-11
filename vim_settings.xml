@@ -3,6 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mbp_sdk_android/src/main/java/cn/com/eightspace/mbp/sdk/MbpVersion.java" timestamp="1507707706950">
+        <mark key="[" line="45" column="75" />
+        <mark key="]" line="45" column="75" />
+        <mark key="." line="45" column="75" />
+      </file>
       <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/tab/ChatContactListFragment.java" timestamp="1506487665001">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="274" column="0" />
@@ -303,8 +308,12 @@
         <mark key="." line="42" column="50" />
         <mark key="^" line="73" column="56" />
       </file>
-      <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/main/LoadingActivity.java" timestamp="1506736993225">
-        <mark key="'" line="314" column="16" />
+      <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/main/LoadingActivity.java" timestamp="1507709445029">
+        <mark key="'" line="695" column="14" />
+        <mark key="[" line="120" column="52" />
+        <mark key="]" line="120" column="59" />
+        <mark key="." line="120" column="59" />
+        <mark key="^" line="120" column="59" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/data/pojo/SuddenDetail.java" timestamp="1499134068066">
         <mark key="'" line="10" column="0" />
@@ -558,7 +567,7 @@
         <mark key="^" line="183" column="0" />
         <mark key="." line="183" column="0" />
       </file>
-      <file name="/a.regexp" timestamp="1507520343816">
+      <file name="/a.regexp" timestamp="1507707617786">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/res/layout/item_unit_eff.xml" timestamp="1504156748490">
@@ -634,7 +643,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="64" column="0" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/view/activity/CostOutFragment.java" />
       <jump line="19" column="62" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/res/layout/activity_work_order_view.xml" />
       <jump line="225" column="58" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/res/layout/activity_work_order_view.xml" />
       <jump line="250" column="54" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/res/layout/activity_work_order_view.xml" />
@@ -734,46 +742,47 @@
       <jump line="61" column="4" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mbp_sdk_android/src/main/java/cn/com/eightspace/mbp/sdk/MbpCommand.java" />
       <jump line="49" column="0" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mbp_sdk_android/src/main/java/cn/com/eightspace/mbp/sdk/Mbp.java" />
       <jump line="1006" column="31" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mbp_sdk_android/src/main/java/cn/com/eightspace/mbp/sdk/Mbp.java" />
+      <jump line="694" column="14" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/main/LoadingActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>基本废物......</text>
       </register>
       <register name="-" type="4">
-        <text>cfba26219daf7f57f20bedffc3c1374d</text>
+        <text>String token);</text>
       </register>
       <register name="/" type="4">
         <text>LoginActi</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Ly8Jc3RhdGljIFN0cmluZyBzZXJ2ZXIgPSAiaHR0cDovLzEwLjIwLjAuMjMzOjkwMDAiOyAgLy8g5YWs5Y+45q2j5byP5pyN5Yqh5ZmoIO+8jSAyMzMK</text>
+      <register name="0" type="4">
+        <text>showCheckTokenSuc(String token)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CXN0YXRpYyBTdHJpbmcgc2VydmVyID0gImh0dHA6Ly8xMC4yMC4wLjIzMzo5MDAwIjsgIC8vIOWFrOWPuOato+W8j+acjeWKoeWZqCDvvI0gMjMzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIFRPRE8gQXV0by1nZW5lcmF0ZWQgbWV0aG9kIHN0dWIKICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">Ly8JCQkJCQkJZG9DaGVja1Rva2VuKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlyZXR1cm4gbmV3IEFycmF5TGlzdDw+KCk7Cg==</text>
+        <text encoding="base64">CXN0YXRpYyBTdHJpbmcgc2VydmVyID0gImh0dHA6Ly8xMC4yMC4wLjIzMzo5MDAwIjsgIC8vIOWFrOWPuOato+W8j+acjeWKoeWZqCDvvI0gMjMzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CSAqIEByZXR1cm4K</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CSAqIEBwYXJhbSBjb250YWN0QmVhbgo=</text>
+        <text encoding="base64">CQlyZXR1cm4gbmV3IEFycmF5TGlzdDw+KCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYWRhcHRlci5zZXQK</text>
+        <text encoding="base64">CSAqIEByZXR1cm4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CSAqIEBwYXJhbSBjb250YWN0QmVhbgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqCiAgICAgKiBAcGFyYW0gdXNlcklkCiAgICAgKiBAcGFyYW0gcGFzc3dvcmQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYWRhcHRlci5zZXQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

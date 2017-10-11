@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="comment" />
       <item value="mutiple" />
       <item value="electrical efficiency" />
       <item value="pump efficiency" />
