@@ -476,8 +476,8 @@
         <mark key="." line="9" column="77" />
         <mark key="^" line="9" column="77" />
       </file>
-      <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mbp_sdk_android/src/main/java/cn/com/eightspace/mbp/sdk/MbpObject.java" timestamp="1507711128419">
-        <mark key="'" line="75" column="37" />
+      <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mbp_sdk_android/src/main/java/cn/com/eightspace/mbp/sdk/MbpObject.java" timestamp="1507714421359">
+        <mark key="'" line="58" column="44" />
         <mark key="[" line="37" column="50" />
         <mark key="]" line="37" column="53" />
         <mark key="." line="37" column="53" />
@@ -645,7 +645,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="62" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/res/layout/activity_work_order_view.xml" />
       <jump line="225" column="58" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/res/layout/activity_work_order_view.xml" />
       <jump line="250" column="54" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/res/layout/activity_work_order_view.xml" />
       <jump line="174" column="75" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/res/layout/activity_work_order_view.xml" />
@@ -745,6 +744,7 @@
       <jump line="49" column="0" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mbp_sdk_android/src/main/java/cn/com/eightspace/mbp/sdk/Mbp.java" />
       <jump line="1006" column="31" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mbp_sdk_android/src/main/java/cn/com/eightspace/mbp/sdk/Mbp.java" />
       <jump line="694" column="14" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/main/LoadingActivity.java" />
+      <jump line="58" column="44" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mbp_sdk_android/src/main/java/cn/com/eightspace/mbp/sdk/MbpObject.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
