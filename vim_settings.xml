@@ -27,7 +27,8 @@
         <mark key="." line="84" column="48" />
         <mark key="^" line="84" column="48" />
       </file>
-      <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/util/BusinessUtils.java" timestamp="1507795478185">
+      <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/util/BusinessUtils.java" timestamp="1507798242811">
+        <mark key="'" line="58" column="41" />
         <mark key="[" line="2103" column="91" />
         <mark key="]" line="2103" column="91" />
         <mark key="." line="2103" column="91" />
@@ -643,8 +644,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="8" filename="$USER_HOME$/workspace/ddParse/MBPPortal1/import-summary.txt" />
-      <jump line="506" column="38" filename="$USER_HOME$/workspace/ddParse/MBPPortal1/import-summary.txt" />
       <jump line="12" column="32" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mbp_sdk_android/src/main/AndroidManifest.xml" />
       <jump line="143" column="0" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mbp_sdk_android/src/main/AndroidManifest.xml" />
       <jump line="21" column="35" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mbp_sdk_android_mdm/build.gradle" />
@@ -743,6 +742,8 @@
       <jump line="249" column="0" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mbp_sdk_android/src/main/java/cn/com/eightspace/mbp/sdk/MbpCommand.java" />
       <jump line="241" column="54" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mbp_sdk_android/src/main/java/cn/com/eightspace/mbp/sdk/MbpCommand.java" />
       <jump line="248" column="0" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mbp_sdk_android/src/main/java/cn/com/eightspace/mbp/sdk/MbpCommand.java" />
+      <jump line="2109" column="33" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/util/BusinessUtils.java" />
+      <jump line="58" column="41" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/util/BusinessUtils.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
