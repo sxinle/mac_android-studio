@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="device Id" />
+      <item value="data" />
+      <item value="null" />
+      <item value="get Result" />
+      <item value="new" />
+      <item value="Continuation" />
+      <item value="continue With" />
+      <item value="get JSON Object" />
+      <item value="get String" />
       <item value="comment" />
       <item value="mutiple" />
       <item value="electrical efficiency" />
