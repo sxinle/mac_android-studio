@@ -72,7 +72,9 @@
       <file name="$USER_HOME$/workspace/shuiwu/waffair/app/build/outputs/apk/a.json" timestamp="1505352098370">
         <mark key="'" line="673" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/func/knowledge/FindKnowledgesListActivity.java" timestamp="1507779794568" />
+      <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/func/knowledge/FindKnowledgesListActivity.java" timestamp="1507780176903">
+        <mark key="'" line="378" column="41" />
+      </file>
       <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mbp_sdk_android_push/build.gradle" timestamp="1506425963024">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="35" />
@@ -177,8 +179,9 @@
         <mark key="^" line="12" column="7" />
         <mark key="." line="12" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mbp_sdk_android/src/main/java/cn/com/eightspace/mbp/sdk/MbpCloud.java" timestamp="1506496430903">
-        <mark key="'" line="50" column="36" />
+      <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mbp_sdk_android/src/main/java/cn/com/eightspace/mbp/sdk/MbpCloud.java" timestamp="1507780398365">
+        <mark key="'" line="48" column="36" />
+        <mark key="." line="33" column="61" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/StationDetailActivity.java" timestamp="1501232432644">
         <mark key="'" line="33" column="21" />
@@ -350,7 +353,7 @@
         <mark key="^" line="335" column="67" />
         <mark key="." line="335" column="67" />
       </file>
-      <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mbp_sdk_android/src/main/java/cn/com/eightspace/mbp/sdk/Mbp.java" timestamp="1507776506951">
+      <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mbp_sdk_android/src/main/java/cn/com/eightspace/mbp/sdk/Mbp.java" timestamp="1507780676349">
         <mark key="'" line="38" column="13" />
       </file>
       <file name="$USER_HOME$/workspace/shuiwu/waffair/app/build.gradle" timestamp="1506391944856">
@@ -442,8 +445,11 @@
         <mark key="." line="443" column="69" />
         <mark key="^" line="443" column="69" />
       </file>
-      <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mbp_sdk_android/src/main/java/cn/com/eightspace/mbp/sdk/MbpCommand.java" timestamp="1506739825279">
-        <mark key="'" line="61" column="4" />
+      <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mbp_sdk_android/src/main/java/cn/com/eightspace/mbp/sdk/MbpCommand.java" timestamp="1507780896494">
+        <mark key="'" line="259" column="61" />
+        <mark key="[" line="259" column="62" />
+        <mark key="]" line="259" column="62" />
+        <mark key="." line="259" column="62" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_work_order_view.xml" timestamp="1501466422081">
         <mark key="'" line="362" column="0" />
@@ -622,9 +628,11 @@
         <mark key="." line="326" column="43" />
         <mark key="^" line="326" column="43" />
       </file>
-      <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/func/knowledge/KnowledgesListActivity.java" timestamp="1507779828702">
-        <mark key="[" line="1137" column="47" />
-        <mark key="]" line="1137" column="60" />
+      <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/func/knowledge/KnowledgesListActivity.java" timestamp="1507780279741">
+        <mark key="[" line="1124" column="0" />
+        <mark key="]" line="1124" column="0" />
+        <mark key="^" line="1118" column="15" />
+        <mark key="." line="1124" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/view/activity/LeakMngActivity.java" timestamp="1504577107913">
         <mark key="[" line="299" column="0" />
@@ -663,8 +671,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="607" column="0" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/ParseAndroid/app/build.gradle" />
       <jump line="12" column="0" filename="$USER_HOME$/workspace/ParseAndroid/app/src/main/AndroidManifest.xml" />
       <jump line="9" column="35" filename="$USER_HOME$/workspace/ParseAndroid/app/src/main/java/com/acenode/parseandroid/MainActivity.java" />
       <jump line="6" column="16" filename="$USER_HOME$/workspace/ParseAndroid/app/src/main/java/com/acenode/parseandroid/App.java" />
@@ -763,6 +769,8 @@
       <jump line="105" column="40" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mbp_sdk_android/src/main/java/cn/com/eightspace/mbp/sdk/MbpObject.java" />
       <jump line="238" column="81" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/personcenter/MyCloudFileActivity.java" />
       <jump line="116" column="0" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mbp_sdk_android/src/main/java/cn/com/eightspace/mbp/sdk/MbpObject.java" />
+      <jump line="378" column="41" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/func/knowledge/FindKnowledgesListActivity.java" />
+      <jump line="259" column="61" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mbp_sdk_android/src/main/java/cn/com/eightspace/mbp/sdk/MbpCommand.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -772,46 +780,46 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>click</text>
+        <text>get_kn</text>
       </register>
       <register name="0" type="4">
         <text>get_knowledges</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKENvbW1vblV0aWxzLmlzRW1wdHkodG9rZW4pIHx8IENvbW1vblV0aWxzLmlzRW1wdHkodXNlcklkKSkgewogICAgICAgICAgICAgICAgLy8g5a6M5oiQ5Yqg6L295Yqo5L2cCiAgICAgICAgICAgICAgICBkb0xvYWRDb21wbGV0ZShnZXRfdHlwZSk7CiAgICAgICAgICAgICAgICBDb21tb25VdGlscy5zaG93VG9hc3RTaG9ydCh0aGlzLCB0aGlzLmdldFJlc291cmNlcygpLmdldFN0cmluZyhSLnN0cmluZy5sb2FkX2ZhaWxlZCkpOwogICAgICAgICAgICAgICAgcmV0dXJuOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDwhLS0g55SY6IKD54Of6I2J56e75Yqo6IGK5aSpIOWFrOe9kSAtLT4KICAgIDwhLS0gPHN0cmluZyBuYW1lPSJhcHBfaWQiPmRlODgyMTRiNDRmZmMwZDM5MjMwMDYzNmRhNzdlOTgwPC9zdHJpbmc+CiAgICA8c3RyaW5nIG5hbWU9ImFwcF9rZXkiPjRhNzJmYjU4ZWNiZWFlZTU0MjQ1OTVkOGZlYzJjOGVkPC9zdHJpbmc+IC0tPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDwhLS0gbWJwIOWGhee9kSAtLT4KICAgIDwhLS0gPHN0cmluZyBuYW1lPSJhcHBfaWQiPmQ5ZDMwYjI5NWFkMDcwYzFhMmY2NTQwM2YzZDAwZmMwPC9zdHJpbmc+CiAgICA8c3RyaW5nIG5hbWU9ImFwcF9rZXkiPjM5NGE3NmU4ZjNkMGFiYTZlNTVkMTI1ZTdjZmI1ODJhPC9zdHJpbmc+IC0tPgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIFRPRE8gQXV0by1nZW5lcmF0ZWQgbWV0aG9kIHN0dWIKICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vCg==</text>
+        <text encoding="base64">ICAgIDwhLS0g55SY6IKD54Of6I2J56e75Yqo6IGK5aSpIOWFrOe9kSAtLT4KICAgIDwhLS0gPHN0cmluZyBuYW1lPSJhcHBfaWQiPmRlODgyMTRiNDRmZmMwZDM5MjMwMDYzNmRhNzdlOTgwPC9zdHJpbmc+CiAgICA8c3RyaW5nIG5hbWU9ImFwcF9rZXkiPjRhNzJmYjU4ZWNiZWFlZTU0MjQ1OTVkOGZlYzJjOGVkPC9zdHJpbmc+IC0tPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8JCQkJCQkJZG9DaGVja1Rva2VuKCk7Cg==</text>
+        <text encoding="base64">ICAgIDwhLS0gbWJwIOWGhee9kSAtLT4KICAgIDwhLS0gPHN0cmluZyBuYW1lPSJhcHBfaWQiPmQ5ZDMwYjI5NWFkMDcwYzFhMmY2NTQwM2YzZDAwZmMwPC9zdHJpbmc+CiAgICA8c3RyaW5nIG5hbWU9ImFwcF9rZXkiPjM5NGE3NmU4ZjNkMGFiYTZlNTVkMTI1ZTdjZmI1ODJhPC9zdHJpbmc+IC0tPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CXN0YXRpYyBTdHJpbmcgc2VydmVyID0gImh0dHA6Ly8xMC4yMC4wLjIzMzo5MDAwIjsgIC8vIOWFrOWPuOato+W8j+acjeWKoeWZqCDvvI0gMjMzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIFRPRE8gQXV0by1nZW5lcmF0ZWQgbWV0aG9kIHN0dWIKICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">Ly8JCQkJCQkJZG9DaGVja1Rva2VuKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlyZXR1cm4gbmV3IEFycmF5TGlzdDw+KCk7Cg==</text>
+        <text encoding="base64">CXN0YXRpYyBTdHJpbmcgc2VydmVyID0gImh0dHA6Ly8xMC4yMC4wLjIzMzo5MDAwIjsgIC8vIOWFrOWPuOato+W8j+acjeWKoeWZqCDvvI0gMjMzCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>click</last-search>
+      <last-search>get_kn</last-search>
       <last-offset />
-      <last-pattern>click</last-pattern>
+      <last-pattern>get_kn</last-pattern>
       <last-replace>_d</last-replace>
       <last-substitute>_zg</last-substitute>
       <last-dir>1</last-dir>
@@ -819,7 +827,6 @@
     </search>
     <history>
       <history-search>
-        <entry>附件</entry>
         <entry>attach</entry>
         <entry>update</entry>
         <entry>upinfos</entry>
@@ -839,6 +846,7 @@
         <entry>key</entry>
         <entry>appid</entry>
         <entry>click</entry>
+        <entry>get_kn</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL25vbmUvaGlnaC9n</entry>
