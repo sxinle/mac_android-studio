@@ -445,7 +445,7 @@
         <mark key="." line="443" column="69" />
         <mark key="^" line="443" column="69" />
       </file>
-      <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mbp_sdk_android/src/main/java/cn/com/eightspace/mbp/sdk/MbpCommand.java" timestamp="1507782121318">
+      <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mbp_sdk_android/src/main/java/cn/com/eightspace/mbp/sdk/MbpCommand.java" timestamp="1507792726397">
         <mark key="'" line="248" column="0" />
         <mark key="[" line="379" column="108" />
         <mark key="]" line="379" column="108" />
@@ -672,8 +672,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="35" filename="$USER_HOME$/workspace/ParseAndroid/app/src/main/java/com/acenode/parseandroid/MainActivity.java" />
-      <jump line="6" column="16" filename="$USER_HOME$/workspace/ParseAndroid/app/src/main/java/com/acenode/parseandroid/App.java" />
       <jump line="19" column="8" filename="$USER_HOME$/workspace/ddParse/MBPPortal1/import-summary.txt" />
       <jump line="506" column="38" filename="$USER_HOME$/workspace/ddParse/MBPPortal1/import-summary.txt" />
       <jump line="12" column="32" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mbp_sdk_android/src/main/AndroidManifest.xml" />
@@ -772,6 +770,8 @@
       <jump line="378" column="41" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/func/knowledge/FindKnowledgesListActivity.java" />
       <jump line="259" column="61" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mbp_sdk_android/src/main/java/cn/com/eightspace/mbp/sdk/MbpCommand.java" />
       <jump line="249" column="0" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mbp_sdk_android/src/main/java/cn/com/eightspace/mbp/sdk/MbpCommand.java" />
+      <jump line="241" column="54" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mbp_sdk_android/src/main/java/cn/com/eightspace/mbp/sdk/MbpCommand.java" />
+      <jump line="248" column="0" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mbp_sdk_android/src/main/java/cn/com/eightspace/mbp/sdk/MbpCommand.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
