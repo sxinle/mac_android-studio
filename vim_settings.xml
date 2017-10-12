@@ -179,9 +179,9 @@
         <mark key="^" line="12" column="7" />
         <mark key="." line="12" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mbp_sdk_android/src/main/java/cn/com/eightspace/mbp/sdk/MbpCloud.java" timestamp="1507780398365">
+      <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mbp_sdk_android/src/main/java/cn/com/eightspace/mbp/sdk/MbpCloud.java" timestamp="1507781343619">
         <mark key="'" line="48" column="36" />
-        <mark key="." line="33" column="61" />
+        <mark key="." line="48" column="60" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/StationDetailActivity.java" timestamp="1501232432644">
         <mark key="'" line="33" column="21" />
@@ -445,11 +445,12 @@
         <mark key="." line="443" column="69" />
         <mark key="^" line="443" column="69" />
       </file>
-      <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mbp_sdk_android/src/main/java/cn/com/eightspace/mbp/sdk/MbpCommand.java" timestamp="1507780896494">
-        <mark key="'" line="259" column="61" />
-        <mark key="[" line="259" column="62" />
-        <mark key="]" line="259" column="62" />
-        <mark key="." line="259" column="62" />
+      <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mbp_sdk_android/src/main/java/cn/com/eightspace/mbp/sdk/MbpCommand.java" timestamp="1507781522749">
+        <mark key="'" line="248" column="0" />
+        <mark key="[" line="258" column="36" />
+        <mark key="]" line="258" column="35" />
+        <mark key="." line="217" column="76" />
+        <mark key="^" line="258" column="35" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_work_order_view.xml" timestamp="1501466422081">
         <mark key="'" line="362" column="0" />
@@ -654,11 +655,11 @@
         <mark key="." line="281" column="0" />
         <mark key="^" line="280" column="27" />
       </file>
-      <file name="/fragment.java" timestamp="1506395392013">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="6" />
+      <file name="/fragment.java" timestamp="1507781151393">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="0" column="5" />
         <mark key="^" line="0" column="6" />
-        <mark key="." line="0" column="6" />
+        <mark key="." line="0" column="5" />
       </file>
       <file name="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/res/layout/save_cost.xml" timestamp="1504605312494">
         <mark key="[" line="18" column="100" />
@@ -671,7 +672,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="0" filename="$USER_HOME$/workspace/ParseAndroid/app/src/main/AndroidManifest.xml" />
       <jump line="9" column="35" filename="$USER_HOME$/workspace/ParseAndroid/app/src/main/java/com/acenode/parseandroid/MainActivity.java" />
       <jump line="6" column="16" filename="$USER_HOME$/workspace/ParseAndroid/app/src/main/java/com/acenode/parseandroid/App.java" />
       <jump line="19" column="8" filename="$USER_HOME$/workspace/ddParse/MBPPortal1/import-summary.txt" />
@@ -771,13 +771,14 @@
       <jump line="116" column="0" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mbp_sdk_android/src/main/java/cn/com/eightspace/mbp/sdk/MbpObject.java" />
       <jump line="378" column="41" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/func/knowledge/FindKnowledgesListActivity.java" />
       <jump line="259" column="61" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mbp_sdk_android/src/main/java/cn/com/eightspace/mbp/sdk/MbpCommand.java" />
+      <jump line="249" column="0" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mbp_sdk_android/src/main/java/cn/com/eightspace/mbp/sdk/MbpCommand.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>基本废物......</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>getCause</text>
       </register>
       <register name="/" type="4">
         <text>get_kn</text>
