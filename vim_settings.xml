@@ -96,7 +96,6 @@
       <file name="$USER_HOME$/workspace/ddParse/MBPPortal1/import-summary.txt" timestamp="1506408797651">
         <mark key="'" line="506" column="38" />
       </file>
-      <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/util/CommonUtils.java" timestamp="1507883803877" />
       <file name="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_data_gather.xml" timestamp="1498895512504">
         <mark key="'" line="3" column="20" />
         <mark key="[" line="113" column="0" />
@@ -356,8 +355,8 @@
       <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mbp_sdk_android/src/main/java/cn/com/eightspace/mbp/sdk/Mbp.java" timestamp="1507780676349">
         <mark key="'" line="38" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/shuiwu/waffair/app/build.gradle" timestamp="1506391944856">
-        <mark key="'" line="11" column="20" />
+      <file name="$USER_HOME$/workspace/shuiwu/waffair/app/build.gradle" timestamp="1508118365152">
+        <mark key="'" line="89" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/AlarmDetailActivity.java" timestamp="1501467103135">
         <mark key="'" line="74" column="13" />
@@ -588,6 +587,9 @@
         <mark key="^" line="183" column="0" />
         <mark key="." line="183" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/yuntongxun/ecdemo/ui/chatting/ChattingActivity.java" timestamp="1508118361030">
+        <mark key="'" line="77" column="28" />
+      </file>
       <file name="/a.regexp" timestamp="1507882031147">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -666,10 +668,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="67" column="68" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mbp_sdk_android_push/src/main/AndroidManifest.xml" />
-      <jump line="237" column="40" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/AndroidManifest.xml" />
-      <jump line="10" column="26" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/build.gradle" />
-      <jump line="57" column="12" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/AndroidManifest.xml" />
       <jump line="43" column="13" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/tab/ChatContactListFragment.java" />
       <jump line="167" column="17" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/tab/ChatContactListFragment.java" />
       <jump line="76" column="23" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/tab/ChatContactListFragment.java" />
@@ -766,6 +764,10 @@
       <jump line="253" column="8" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mbp_sdk_android/src/main/java/cn/com/eightspace/mbp/sdk/MbpQuery.java" />
       <jump line="222" column="17" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/personcenter/LoginActivity.java" />
       <jump line="231" column="12" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/personcenter/LoginActivity.java" />
+      <jump line="9" column="0" filename="$USER_HOME$/workspace/shuiwu/waffair/app/build.gradle" />
+      <jump line="77" column="28" filename="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/yuntongxun/ecdemo/ui/chatting/ChattingActivity.java" />
+      <jump line="10" column="25" filename="$USER_HOME$/workspace/shuiwu/waffair/app/build.gradle" />
+      <jump line="89" column="0" filename="$USER_HOME$/workspace/shuiwu/waffair/app/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -818,7 +820,7 @@
       <last-replace>_d</last-replace>
       <last-substitute>_zg</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
