@@ -512,12 +512,12 @@
         <mark key="." line="37" column="54" />
         <mark key="^" line="37" column="53" />
       </file>
-      <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/friend/ContactsActivity.java" timestamp="1508121911249">
-        <mark key="'" line="116" column="25" />
-        <mark key="[" line="297" column="20" />
-        <mark key="]" line="297" column="20" />
-        <mark key="." line="297" column="20" />
-        <mark key="^" line="297" column="30" />
+      <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/friend/ContactsActivity.java" timestamp="1508124407403">
+        <mark key="'" line="297" column="0" />
+        <mark key="[" line="298" column="236" />
+        <mark key="]" line="298" column="236" />
+        <mark key="." line="298" column="236" />
+        <mark key="^" line="298" column="236" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/data/pojo/AlarmCount.java" timestamp="1499152241537">
         <mark key="'" line="23" column="18" />
@@ -667,11 +667,11 @@
         <mark key="." line="281" column="0" />
         <mark key="^" line="280" column="27" />
       </file>
-      <file name="/fragment.java" timestamp="1508121994411">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="5" />
+      <file name="/fragment.java" timestamp="1508124312083">
+        <mark key="[" line="0" column="2" />
+        <mark key="]" line="0" column="2" />
         <mark key="^" line="0" column="6" />
-        <mark key="." line="0" column="5" />
+        <mark key="." line="0" column="2" />
       </file>
       <file name="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/res/layout/save_cost.xml" timestamp="1504605312494">
         <mark key="[" line="18" column="100" />
@@ -684,7 +684,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="0" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mbp_sdk_android/src/main/java/cn/com/eightspace/mbp/sdk/MbpCloud.java" />
       <jump line="207" column="16" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mbp_sdk_android/src/main/java/cn/com/eightspace/mbp/sdk/Mbp.java" />
       <jump line="1041" column="0" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mbp_sdk_android/src/main/java/cn/com/eightspace/mbp/sdk/Mbp.java" />
       <jump line="92" column="28" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mbp_sdk_android/src/main/java/cn/com/eightspace/mbp/sdk/Mbp.java" />
@@ -784,55 +783,56 @@
       <jump line="12" column="0" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/bean/OrgBean.java" />
       <jump line="82" column="0" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/bean/OrgBean.java" />
       <jump line="160" column="0" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/bean/UserBean.java" />
+      <jump line="297" column="0" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/friend/ContactsActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>基本废物......</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">U3RyaW5nIA==</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>call</text>
+        <text>mobile</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJCWlmIChudWxsID09IG1lKSB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CSAqIEBwYXJhbSB1c2VySWQKCSAqIEBwYXJhbSBwYXNzd29yZAo=</text>
+        <text encoding="base64">ICAgICAqCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQo=</text>
+        <text encoding="base64">CSAqIEBwYXJhbSB1c2VySWQKCSAqIEBwYXJhbSBwYXNzd29yZAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJaWYgKENvbW1vblV0aWxzLmlzRW1wdHkodG9rZW4pIAoJCQkJCXx8IENvbW1vblV0aWxzLmlzRW1wdHkodXNlcklkKSAKCQkJCQl8fCBDb21tb25VdGlscy5pc0VtcHR5KHRpdGxlKQoJCQkJCXx8IENvbW1vblV0aWxzLmlzRW1wdHkoY29udGVudCkpIHsKCQkJCS8vIOWujOaIkOWKoOi9veWKqOS9nAoJCQkJZGlzbWlzUHJvZ3Jlc3NEaWFsb2coKTsKCQkJCUNvbW1vblV0aWxzLnNob3dUb2FzdFNob3J0KHRoaXMsICLlj5HluIPlpLHotKUiKTsKCQkJCXJldHVybjsKCQkJfQo=</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">CQkJaWYgKENvbW1vblV0aWxzLmlzRW1wdHkodG9rZW4pIAoJCQkJCXx8IENvbW1vblV0aWxzLmlzRW1wdHkodXNlcklkKSAKCQkJCQl8fCBDb21tb25VdGlscy5pc0VtcHR5KHRpdGxlKQoJCQkJCXx8IENvbW1vblV0aWxzLmlzRW1wdHkoY29udGVudCkpIHsKCQkJCS8vIOWujOaIkOWKoOi9veWKqOS9nAoJCQkJZGlzbWlzUHJvZ3Jlc3NEaWFsb2coKTsKCQkJCUNvbW1vblV0aWxzLnNob3dUb2FzdFNob3J0KHRoaXMsICLlj5HluIPlpLHotKUiKTsKCQkJCXJldHVybjsKCQkJfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKENvbW1vblV0aWxzLmlzRW1wdHkodG9rZW4pIHx8IENvbW1vblV0aWxzLmlzRW1wdHkodXNlcklkKSkgewogICAgICAgICAgICAgICAgLy8g5a6M5oiQ5Yqg6L295Yqo5L2cCiAgICAgICAgICAgICAgICBkb0xvYWRDb21wbGV0ZShnZXRfdHlwZSk7CiAgICAgICAgICAgICAgICBDb21tb25VdGlscy5zaG93VG9hc3RTaG9ydCh0aGlzLCB0aGlzLmdldFJlc291cmNlcygpLmdldFN0cmluZyhSLnN0cmluZy5sb2FkX2ZhaWxlZCkpOwogICAgICAgICAgICAgICAgcmV0dXJuOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKENvbW1vblV0aWxzLmlzRW1wdHkodG9rZW4pIHx8IENvbW1vblV0aWxzLmlzRW1wdHkodXNlcklkKSkgewogICAgICAgICAgICAgICAgLy8g5a6M5oiQ5Yqg6L295Yqo5L2cCiAgICAgICAgICAgICAgICBkb0xvYWRDb21wbGV0ZShnZXRfdHlwZSk7CiAgICAgICAgICAgICAgICBDb21tb25VdGlscy5zaG93VG9hc3RTaG9ydCh0aGlzLCB0aGlzLmdldFJlc291cmNlcygpLmdldFN0cmluZyhSLnN0cmluZy5sb2FkX2ZhaWxlZCkpOwogICAgICAgICAgICAgICAgcmV0dXJuOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDwhLS0g55SY6IKD54Of6I2J56e75Yqo6IGK5aSpIOWFrOe9kSAtLT4KICAgIDwhLS0gPHN0cmluZyBuYW1lPSJhcHBfaWQiPmRlODgyMTRiNDRmZmMwZDM5MjMwMDYzNmRhNzdlOTgwPC9zdHJpbmc+CiAgICA8c3RyaW5nIG5hbWU9ImFwcF9rZXkiPjRhNzJmYjU4ZWNiZWFlZTU0MjQ1OTVkOGZlYzJjOGVkPC9zdHJpbmc+IC0tPgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDwhLS0gbWJwIOWGhee9kSAtLT4KICAgIDwhLS0gPHN0cmluZyBuYW1lPSJhcHBfaWQiPmQ5ZDMwYjI5NWFkMDcwYzFhMmY2NTQwM2YzZDAwZmMwPC9zdHJpbmc+CiAgICA8c3RyaW5nIG5hbWU9ImFwcF9rZXkiPjM5NGE3NmU4ZjNkMGFiYTZlNTVkMTI1ZTdjZmI1ODJhPC9zdHJpbmc+IC0tPgo=</text>
+        <text encoding="base64">ICAgIDwhLS0g55SY6IKD54Of6I2J56e75Yqo6IGK5aSpIOWFrOe9kSAtLT4KICAgIDwhLS0gPHN0cmluZyBuYW1lPSJhcHBfaWQiPmRlODgyMTRiNDRmZmMwZDM5MjMwMDYzNmRhNzdlOTgwPC9zdHJpbmc+CiAgICA8c3RyaW5nIG5hbWU9ImFwcF9rZXkiPjRhNzJmYjU4ZWNiZWFlZTU0MjQ1OTVkOGZlYzJjOGVkPC9zdHJpbmc+IC0tPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>call</last-search>
+      <last-search>mobile</last-search>
       <last-offset />
-      <last-pattern>call</last-pattern>
+      <last-pattern>mobile</last-pattern>
       <last-replace>_d</last-replace>
       <last-substitute>_zg</last-substitute>
       <last-dir>1</last-dir>
@@ -840,7 +840,6 @@
     </search>
     <history>
       <history-search>
-        <entry>upinfo</entry>
         <entry>Application</entry>
         <entry encoding="base64">XDxhcHBsaWNhdGlvbklkXD4=</entry>
         <entry>new Us</entry>
@@ -860,6 +859,7 @@
         <entry encoding="base64">XDxkb0NoZWNrVG9rZW5cPg==</entry>
         <entry>!true</entry>
         <entry>call</entry>
+        <entry>mobile</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL25vbmUvaGlnaC9n</entry>

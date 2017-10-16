@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="literal" />
       <item value="device Id" />
       <item value="data" />
       <item value="null" />
