@@ -512,11 +512,11 @@
         <mark key="." line="37" column="54" />
         <mark key="^" line="37" column="53" />
       </file>
-      <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/friend/ContactsActivity.java" timestamp="1508124407403">
+      <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/friend/ContactsActivity.java" timestamp="1508131369586">
         <mark key="'" line="297" column="0" />
-        <mark key="[" line="298" column="236" />
-        <mark key="]" line="298" column="236" />
-        <mark key="." line="298" column="236" />
+        <mark key="[" line="301" column="29" />
+        <mark key="]" line="301" column="30" />
+        <mark key="." line="301" column="30" />
         <mark key="^" line="298" column="236" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/data/pojo/AlarmCount.java" timestamp="1499152241537">
@@ -586,7 +586,7 @@
         <mark key="^" line="87" column="61" />
         <mark key="." line="87" column="61" />
       </file>
-      <file name="/Dummy.txt" timestamp="1507880911625">
+      <file name="/Dummy.txt" timestamp="1508131494383">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/utils/Http.java" timestamp="1501492093416">
@@ -606,7 +606,7 @@
       <file name="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/yuntongxun/ecdemo/ui/chatting/ChattingActivity.java" timestamp="1508118361030">
         <mark key="'" line="77" column="28" />
       </file>
-      <file name="/a.regexp" timestamp="1508124990162">
+      <file name="/a.regexp" timestamp="1508131688538">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -617,6 +617,7 @@
         <mark key="." line="41" column="37" />
         <mark key="^" line="41" column="37" />
       </file>
+      <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/friend/ContactDetailActivity.java" timestamp="1508131750445" />
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/data/pojo/DataSum.java" timestamp="1502950375899">
         <mark key="'" line="64" column="36" />
       </file>
