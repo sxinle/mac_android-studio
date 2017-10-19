@@ -8,14 +8,13 @@
         <mark key="]" line="45" column="75" />
         <mark key="." line="45" column="75" />
       </file>
-      <file name="/a.dummy" timestamp="1500184622601">
+      <file name="/a.dummy" timestamp="1508379900455">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/MBPPortalApplication.java" timestamp="1506487203857">
-        <mark key="[" line="87" column="8" />
-        <mark key="]" line="92" column="21" />
-        <mark key="^" line="87" column="7" />
-        <mark key="." line="87" column="8" />
+      <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/MBPPortalApplication.java" timestamp="1508381549576">
+        <mark key="[" line="99" column="8" />
+        <mark key="]" line="104" column="29" />
+        <mark key="." line="98" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/res/layout/cost_up.xml" timestamp="1498902151670">
         <mark key="'" line="0" column="0" />
@@ -30,8 +29,8 @@
         <mark key="." line="84" column="48" />
         <mark key="^" line="84" column="48" />
       </file>
-      <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/util/BusinessUtils.java" timestamp="1508317333935">
-        <mark key="'" line="58" column="41" />
+      <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/util/BusinessUtils.java" timestamp="1508380683999">
+        <mark key="'" line="1283" column="25" />
         <mark key="[" line="2101" column="91" />
         <mark key="]" line="2101" column="91" />
         <mark key="." line="2099" column="79" />
@@ -97,12 +96,12 @@
         <mark key="." line="113" column="34" />
         <mark key="^" line="113" column="53" />
       </file>
-      <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/personcenter/LoginActivity.java" timestamp="1507884569728">
-        <mark key="'" line="231" column="12" />
-        <mark key="[" line="306" column="12" />
-        <mark key="]" line="306" column="12" />
-        <mark key="." line="306" column="12" />
-        <mark key="^" line="306" column="12" />
+      <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/personcenter/LoginActivity.java" timestamp="1508381818500">
+        <mark key="'" line="226" column="43" />
+        <mark key="[" line="147" column="43" />
+        <mark key="]" line="147" column="9" />
+        <mark key="." line="147" column="9" />
+        <mark key="^" line="147" column="9" />
       </file>
       <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/bean/UserBean.java" timestamp="1508119491965">
         <mark key="'" line="160" column="0" />
@@ -239,6 +238,11 @@
         <mark key="." line="680" column="43" />
         <mark key="^" line="680" column="43" />
       </file>
+      <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/func/doc/PdfViewActivity.java" timestamp="1508379696362">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="16" column="7" />
+        <mark key="]" line="16" column="21" />
+      </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/SignInMapActivity.java" timestamp="1501495183745">
         <mark key="'" line="172" column="8" />
         <mark key="[" line="139" column="20" />
@@ -285,6 +289,12 @@
         <mark key="]" line="219" column="48" />
         <mark key="." line="219" column="48" />
         <mark key="^" line="219" column="48" />
+      </file>
+      <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/ownCloudAndroidLibrary/src/main/java/com/owncloud/android/lib/resources/files/RemoteFile.java" timestamp="1508380255002">
+        <mark key="[" line="62" column="19" />
+        <mark key="]" line="62" column="21" />
+        <mark key="^" line="62" column="21" />
+        <mark key="." line="62" column="21" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/HisJobOther.java" timestamp="1500184605256">
         <mark key="[" line="26" column="24" />
@@ -347,8 +357,8 @@
         <mark key="^" line="335" column="67" />
         <mark key="." line="335" column="67" />
       </file>
-      <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mbp_sdk_android/src/main/java/cn/com/eightspace/mbp/sdk/Mbp.java" timestamp="1507780676349">
-        <mark key="'" line="38" column="13" />
+      <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mbp_sdk_android/src/main/java/cn/com/eightspace/mbp/sdk/Mbp.java" timestamp="1508381618687">
+        <mark key="'" line="50" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/shuiwu/waffair/app/build.gradle" timestamp="1508118365152">
         <mark key="'" line="89" column="0" />
@@ -372,6 +382,12 @@
         <mark key="]" line="64" column="38" />
         <mark key="." line="64" column="38" />
         <mark key="^" line="64" column="38" />
+      </file>
+      <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/func/doc/OrgCloudFileActivity.java" timestamp="1508380221199">
+        <mark key="'" line="793" column="12" />
+        <mark key="[" line="778" column="0" />
+        <mark key="]" line="778" column="0" />
+        <mark key="." line="778" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mbp_sdk_android/src/main/AndroidManifest.xml" timestamp="1506476392724">
         <mark key="'" line="143" column="0" />
@@ -553,12 +569,12 @@
         <mark key="^" line="123" column="15" />
         <mark key="." line="137" column="47" />
       </file>
-      <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/build.gradle" timestamp="1506487083187">
-        <mark key="'" line="10" column="26" />
-        <mark key="[" line="3" column="21" />
-        <mark key="]" line="3" column="23" />
-        <mark key="." line="3" column="23" />
-        <mark key="^" line="3" column="23" />
+      <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/build.gradle" timestamp="1508382154590">
+        <mark key="'" line="56" column="43" />
+        <mark key="[" line="56" column="32" />
+        <mark key="]" line="56" column="46" />
+        <mark key="." line="38" column="4" />
+        <mark key="^" line="38" column="3" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/res/layout/item_cost_up.xml" timestamp="1498962582522">
         <mark key="'" line="62" column="55" />
@@ -574,7 +590,7 @@
         <mark key="^" line="87" column="61" />
         <mark key="." line="87" column="61" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508378733159">
+      <file name="/Dummy.txt" timestamp="1508378755734">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/utils/Http.java" timestamp="1501492093416">
@@ -583,6 +599,9 @@
         <mark key="]" line="128" column="21" />
         <mark key="." line="128" column="21" />
         <mark key="^" line="128" column="21" />
+      </file>
+      <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/main/HomeActivity.java" timestamp="1508382016465">
+        <mark key="." line="71" column="32" />
       </file>
       <file name="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/utils/Http.java" timestamp="1505962429414">
         <mark key="'" line="142" column="0" />
@@ -594,7 +613,7 @@
       <file name="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/yuntongxun/ecdemo/ui/chatting/ChattingActivity.java" timestamp="1508118361030">
         <mark key="'" line="77" column="28" />
       </file>
-      <file name="/a.regexp" timestamp="1508378563173">
+      <file name="/a.regexp" timestamp="1508380321751">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -611,12 +630,12 @@
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/data/pojo/DataSum.java" timestamp="1502950375899">
         <mark key="'" line="64" column="36" />
       </file>
-      <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/AndroidManifest.xml" timestamp="1507776569406">
-        <mark key="'" line="194" column="26" />
-        <mark key="[" line="197" column="38" />
-        <mark key="]" line="197" column="70" />
+      <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/AndroidManifest.xml" timestamp="1508382215874">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="58" />
         <mark key="^" line="7" column="31" />
-        <mark key="." line="197" column="38" />
+        <mark key="." line="64" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/data/pojo/UsersResp.java" timestamp="1500892627637">
         <mark key="'" line="129" column="0" />
@@ -652,6 +671,9 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="130" column="77" />
       </file>
+      <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/util/ConstantValue.java" timestamp="1508381785772">
+        <mark key="'" line="578" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/PositionFragment.java" timestamp="1500892716278">
         <mark key="'" line="278" column="79" />
         <mark key="[" line="281" column="0" />
@@ -676,31 +698,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="679" column="19" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mbp_sdk_android/src/main/java/cn/com/eightspace/mbp/sdk/Mbp.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mbp_sdk_android/src/main/java/cn/com/eightspace/mbp/sdk/Mbp.java" />
-      <jump line="93" column="18" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mbp_sdk_android/src/main/java/cn/com/eightspace/mbp/sdk/Mbp.java" />
-      <jump line="642" column="24" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mbp_sdk_android_mdm/src/main/java/cn/com/eightspace/mbp/sdk/MbpMdmRouter.java" />
-      <jump line="72" column="30" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/main/LoadingActivity.java" />
-      <jump line="575" column="16" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mbp_sdk_android/src/main/java/cn/com/eightspace/mbp/sdk/Mbp.java" />
-      <jump line="75" column="37" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mbp_sdk_android/src/main/java/cn/com/eightspace/mbp/sdk/MbpObject.java" />
-      <jump line="63" column="0" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/main/LoadingActivity.java" />
-      <jump line="80" column="27" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/main/LoadingActivity.java" />
-      <jump line="91" column="35" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/main/LoadingActivity.java" />
-      <jump line="94" column="39" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/main/LoadingActivity.java" />
-      <jump line="100" column="40" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/main/LoadingActivity.java" />
-      <jump line="107" column="40" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/main/LoadingActivity.java" />
-      <jump line="115" column="39" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/main/LoadingActivity.java" />
-      <jump line="194" column="52" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/main/LoadingActivity.java" />
-      <jump line="206" column="39" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/main/LoadingActivity.java" />
-      <jump line="79" column="13" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/chat/ChatActivity.java" />
-      <jump line="243" column="31" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/chat/ChatActivity.java" />
-      <jump line="403" column="24" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/personcenter/LoginActivity.java" />
-      <jump line="49" column="44" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/main/LoadingActivity.java" />
-      <jump line="133" column="66" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/main/LoadingActivity.java" />
-      <jump line="528" column="28" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/main/LoadingActivity.java" />
-      <jump line="589" column="16" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/main/LoadingActivity.java" />
-      <jump line="657" column="24" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/main/LoadingActivity.java" />
-      <jump line="202" column="28" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/main/LoadingActivity.java" />
       <jump line="253" column="27" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/main/LoadingActivity.java" />
       <jump line="314" column="16" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/main/LoadingActivity.java" />
       <jump line="61" column="4" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mbp_sdk_android/src/main/java/cn/com/eightspace/mbp/sdk/MbpCommand.java" />
@@ -776,22 +773,47 @@
       <jump line="229" column="36" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/tab/ContactListFragment.java" />
       <jump line="269" column="76" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mbp_sdk_android/src/main/java/cn/com/eightspace/mbp/sdk/MbpQuery.java" />
       <jump line="162" column="35" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/friend/ContactDetailActivity.java" />
+      <jump line="30" column="54" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/AndroidManifest.xml" />
+      <jump line="42" column="54" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/AndroidManifest.xml" />
+      <jump line="62" column="54" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/AndroidManifest.xml" />
+      <jump line="70" column="16" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/AndroidManifest.xml" />
+      <jump line="40" column="16" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/func/doc/PdfViewActivity.java" />
+      <jump line="161" column="0" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/func/doc/PdfViewActivity.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/func/doc/PdfViewActivity.java" />
+      <jump line="58" column="0" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/build.gradle" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/build.gradle" />
+      <jump line="55" column="0" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/build.gradle" />
+      <jump line="793" column="12" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/func/doc/OrgCloudFileActivity.java" />
+      <jump line="1283" column="25" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/util/BusinessUtils.java" />
+      <jump line="941" column="8" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mbp_sdk_android/src/main/java/cn/com/eightspace/mbp/sdk/Mbp.java" />
+      <jump line="37" column="13" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/build.gradle" />
+      <jump line="38" column="48" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/build.gradle" />
+      <jump line="50" column="0" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mbp_sdk_android/src/main/java/cn/com/eightspace/mbp/sdk/Mbp.java" />
+      <jump line="106" column="33" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/personcenter/LoginActivity.java" />
+      <jump line="614" column="0" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/personcenter/LoginActivity.java" />
+      <jump line="163" column="31" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/util/ConstantValue.java" />
+      <jump line="23" column="61" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/util/ConstantValue.java" />
+      <jump line="578" column="0" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/util/ConstantValue.java" />
+      <jump line="226" column="43" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/personcenter/LoginActivity.java" />
+      <jump line="56" column="43" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/build.gradle" />
+      <jump line="78" column="56" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/AndroidManifest.xml" />
+      <jump line="1" column="0" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/AndroidManifest.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>基本废物......</text>
       </register>
       <register name="-" type="4">
-        <text>FIXME: 2017/10/16</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
-        <text>setOncli</text>
+        <text>application</text>
       </register>
       <register name="0" type="4">
-        <text>developer.mbp.neunn.com</text>
+        <text>crashwoodpecker</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBoc29uZwo=</text>
+        <text encoding="base64">ICAgICAqCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -800,43 +822,38 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhcmcwID0gIntcIm1zZ1wiOlwi5oiQ5YqfXCIsXCJjb2RlXCI6MCxcInJlc3BvbnNlXCI6e1widXNlckluZm9MaXN0XCI6W3tcInNvcnRLZXlcIjoxLFwidXNlcklkXCI6MSxcIm5hbWVcIjpcIuWQjeWtl1wiLFwicGVyc29uUGljVXJsXCI6XCJodHRwOi8vYmFpZHUuY29tXCIsXCJvcmdJZFwiOjEsXCJvcmdOYW1lXCI6XCLkv6Hmga/pg6jpl6hcIixcInNleFwiOjAsXCJtb2JpbGVcIjpcIjEzMjExMTExMTExXCIsXCJ0ZWxcIjoxNTg0MDU4Njk1NyxcImVtYWlsXCI6XCI5MDI2Njg3QHFxLmNvbVwiLFwib3Blbk1vYmlsZVwiOjAsXCJjb21wYW55XCI6XCLliqjnvZHnp5HmioBcIixcInNpZ25hdHVyZVwiOlwiMTIzXCJ9XSxcIm9yZ0xpc3RcIjpbe1wib3JnSWRcIjpcIjFcIixcIm5hbWVcIjpcIuS/oeaBr+mDqOmXqFwiLFwicE9yZ0lkXCI6XCIwXCIsXCJwT3JnTmFtZVwiOlwi5Lic572R56eR5oqAXCIsXCJhZGRyZXNzXCI6XCLmsojpmLNcIn1dfX0iOwo=</text>
+        <text encoding="base64">CQkJfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAqCg==</text>
+        <text encoding="base64">CQkJaWYoIU1CUFBvcnRhbEFwcGxpY2F0aW9uLmltcHJlc3NUb2tlbikgewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CSAqIEBwYXJhbSB1c2VySWQKCSAqIEBwYXJhbSBwYXNzd29yZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHVzZXJJZCA9IG51bGw7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQo=</text>
+        <text encoding="base64">CQkJU3RyaW5nIHVzZXJJZCA9IGVtYWlsLnN1YnN0cmluZygwLCBhdFBvcyk7CgkJCWRvbWFpbiA9IGVtYWlsLnN1YnN0cmluZyhhdFBvcyArIDEpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJaWYgKENvbW1vblV0aWxzLmlzRW1wdHkodG9rZW4pIAoJCQkJCXx8IENvbW1vblV0aWxzLmlzRW1wdHkodXNlcklkKSAKCQkJCQl8fCBDb21tb25VdGlscy5pc0VtcHR5KHRpdGxlKQoJCQkJCXx8IENvbW1vblV0aWxzLmlzRW1wdHkoY29udGVudCkpIHsKCQkJCS8vIOWujOaIkOWKoOi9veWKqOS9nAoJCQkJZGlzbWlzUHJvZ3Jlc3NEaWFsb2coKTsKCQkJCUNvbW1vblV0aWxzLnNob3dUb2FzdFNob3J0KHRoaXMsICLlj5HluIPlpLHotKUiKTsKCQkJCXJldHVybjsKCQkJfQo=</text>
+        <text encoding="base64">CQkJaW50IGF0UG9zID0gZW1haWwubGFzdEluZGV4T2YoJ0AnKTsKCQkJaWYgKDAgPj0gYXRQb3MgfHwgYXRQb3MgPT0gZW1haWwubGVuZ3RoKCkgLSAxKSB7CgkJCQkvLyDlrozmiJDliqDovb3liqjkvZwKCQkJCWRpc21pc1Byb2dyZXNzRGlhbG9nKCk7CgkJCQlDb21tb25VdGlscy5zaG93VG9hc3RTaG9ydCh0aGlzLCB0aGlzLmdldFJlc291cmNlcygpLmdldFN0cmluZyhSLnN0cmluZy50eHRfdXNlcmlkX2Zvcm1hdF9lcnJvcikpOwoJCQkJcmV0dXJuOwoJCQl9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>setOncli</last-search>
+      <last-search>application</last-search>
       <last-offset />
-      <last-pattern>setOncli</last-pattern>
+      <last-pattern>application</last-pattern>
       <last-replace>_d</last-replace>
       <last-substitute>_zg</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhcHBsaWNhdGlvbklkXD4=</entry>
-        <entry>new Us</entry>
-        <entry>new</entry>
-        <entry>new UserBean</entry>
-        <entry encoding="base64">XDxMb2dpbkFjdGl2aXR5XD4=</entry>
         <entry encoding="base64">bnVsbCAhPSA=</entry>
         <entry>LoginActi</entry>
         <entry>authKey</entry>
@@ -852,6 +869,11 @@
         <entry>call</entry>
         <entry>mobile</entry>
         <entry>setOncli</entry>
+        <entry encoding="base64">XDxWSUJSQVRFXD4=</entry>
+        <entry encoding="base64">XDxERVZJQ0VfUE9XRVJcPg==</entry>
+        <entry encoding="base64">XDxoYXJkd2FyZUFjY2VsZXJhdGVkXD4=</entry>
+        <entry>lstFu</entry>
+        <entry>application</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL25vbmUvaGlnaC9n</entry>
