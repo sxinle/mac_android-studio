@@ -96,12 +96,12 @@
         <mark key="." line="113" column="34" />
         <mark key="^" line="113" column="53" />
       </file>
-      <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/personcenter/LoginActivity.java" timestamp="1508381818500">
+      <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/personcenter/LoginActivity.java" timestamp="1508383616712">
         <mark key="'" line="226" column="43" />
-        <mark key="[" line="147" column="43" />
-        <mark key="]" line="147" column="9" />
-        <mark key="." line="147" column="9" />
+        <mark key="[" line="309" column="0" />
+        <mark key="]" line="309" column="0" />
         <mark key="^" line="147" column="9" />
+        <mark key="." line="309" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/bean/UserBean.java" timestamp="1508119491965">
         <mark key="'" line="160" column="0" />
@@ -813,31 +813,31 @@
         <text>crashwoodpecker</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAqCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZihNQlBQb3J0YWxBcHBsaWNhdGlvbi5pbXByZXNzVG9rZW4pIHsKICAgICAgICAgICAgSW50ZW50IGludGVudCA9IG5ldyBJbnRlbnQoTG9naW5BY3Rpdml0eS50aGlzLCBIb21lQWN0aXZpdHkuY2xhc3MpOwogICAgICAgICAgICBpbnRlbnQuc2V0RmxhZ3MoSW50ZW50LkZMQUdfQUNUSVZJVFlfQ0xFQVJfVE9QKTsKICAgICAgICAgICAgc3RhcnRBY3Rpdml0eShpbnRlbnQpOwoKICAgICAgICAgICAgLy8g57uT5p2f6Ieq5bexCiAgICAgICAgICAgIGZpbmlzaCgpOwogICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJaWYoIU1CUFBvcnRhbEFwcGxpY2F0aW9uLmltcHJlc3NUb2tlbikgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHVzZXJJZCA9IG51bGw7Cg==</text>
+        <text encoding="base64">CQkJfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJU3RyaW5nIHVzZXJJZCA9IGVtYWlsLnN1YnN0cmluZygwLCBhdFBvcyk7CgkJCWRvbWFpbiA9IGVtYWlsLnN1YnN0cmluZyhhdFBvcyArIDEpOwo=</text>
+        <text encoding="base64">CQkJaWYoIU1CUFBvcnRhbEFwcGxpY2F0aW9uLmltcHJlc3NUb2tlbikgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJaW50IGF0UG9zID0gZW1haWwubGFzdEluZGV4T2YoJ0AnKTsKCQkJaWYgKDAgPj0gYXRQb3MgfHwgYXRQb3MgPT0gZW1haWwubGVuZ3RoKCkgLSAxKSB7CgkJCQkvLyDlrozmiJDliqDovb3liqjkvZwKCQkJCWRpc21pc1Byb2dyZXNzRGlhbG9nKCk7CgkJCQlDb21tb25VdGlscy5zaG93VG9hc3RTaG9ydCh0aGlzLCB0aGlzLmdldFJlc291cmNlcygpLmdldFN0cmluZyhSLnN0cmluZy50eHRfdXNlcmlkX2Zvcm1hdF9lcnJvcikpOwoJCQkJcmV0dXJuOwoJCQl9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHVzZXJJZCA9IG51bGw7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQo=</text>
+        <text encoding="base64">CQkJU3RyaW5nIHVzZXJJZCA9IGVtYWlsLnN1YnN0cmluZygwLCBhdFBvcyk7CgkJCWRvbWFpbiA9IGVtYWlsLnN1YnN0cmluZyhhdFBvcyArIDEpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
