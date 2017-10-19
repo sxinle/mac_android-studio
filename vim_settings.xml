@@ -180,7 +180,6 @@
         <mark key="^" line="12" column="7" />
         <mark key="." line="12" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mbp_sdk_android/src/main/java/cn/com/eightspace/mbp/sdk/MbpCloud.java" timestamp="1508315366420" />
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/StationDetailActivity.java" timestamp="1501232432644">
         <mark key="'" line="33" column="21" />
         <mark key="[" line="22" column="4" />
@@ -314,7 +313,6 @@
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/SplashActivity.java" timestamp="1501499372738">
         <mark key="'" line="208" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/base/BaseActivity.java" timestamp="1508320899042" />
       <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mbp_sdk_android_mdm/src/main/AndroidManifest.xml" timestamp="1506476339941">
         <mark key="[" line="42" column="48" />
         <mark key="]" line="42" column="48" />
@@ -576,7 +574,7 @@
         <mark key="^" line="87" column="61" />
         <mark key="." line="87" column="61" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508131494383">
+      <file name="/Dummy.txt" timestamp="1508378733159">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/utils/Http.java" timestamp="1501492093416">
@@ -596,7 +594,7 @@
       <file name="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/yuntongxun/ecdemo/ui/chatting/ChattingActivity.java" timestamp="1508118361030">
         <mark key="'" line="77" column="28" />
       </file>
-      <file name="/a.regexp" timestamp="1508320691943">
+      <file name="/a.regexp" timestamp="1508378563173">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -830,7 +828,7 @@
       <last-replace>_d</last-replace>
       <last-substitute>_zg</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
