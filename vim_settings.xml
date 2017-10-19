@@ -569,8 +569,8 @@
         <mark key="^" line="123" column="15" />
         <mark key="." line="137" column="47" />
       </file>
-      <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/build.gradle" timestamp="1508382154590">
-        <mark key="'" line="56" column="43" />
+      <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/build.gradle" timestamp="1508400744467">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="56" column="32" />
         <mark key="]" line="56" column="46" />
         <mark key="." line="38" column="4" />
@@ -698,10 +698,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="13" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mbp_sdk_android/src/main/java/cn/com/eightspace/mbp/sdk/Mbp.java" />
-      <jump line="477" column="42" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/AndroidManifest.xml" />
-      <jump line="488" column="42" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/AndroidManifest.xml" />
-      <jump line="499" column="42" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/AndroidManifest.xml" />
       <jump line="509" column="42" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/AndroidManifest.xml" />
       <jump line="521" column="42" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/AndroidManifest.xml" />
       <jump line="531" column="42" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/AndroidManifest.xml" />
@@ -772,7 +768,6 @@
       <jump line="161" column="0" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/func/doc/PdfViewActivity.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/func/doc/PdfViewActivity.java" />
       <jump line="58" column="0" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/build.gradle" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/build.gradle" />
       <jump line="55" column="0" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/build.gradle" />
       <jump line="793" column="12" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/func/doc/OrgCloudFileActivity.java" />
       <jump line="1283" column="25" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/util/BusinessUtils.java" />
@@ -798,6 +793,11 @@
       <jump line="244" column="101" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mbp_sdk_android/src/main/java/cn/com/eightspace/mbp/sdk/MbpCommand.java" />
       <jump line="464" column="20" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mbp_sdk_android/src/main/java/cn/com/eightspace/mbp/sdk/MbpCommand.java" />
       <jump line="309" column="7" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/personcenter/LoginActivity.java" />
+      <jump line="43" column="44" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/build.gradle" />
+      <jump line="1" column="0" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/build.gradle" />
+      <jump line="50" column="0" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/build.gradle" />
+      <jump line="59" column="0" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/build.gradle" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
