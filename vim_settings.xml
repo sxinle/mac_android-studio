@@ -327,12 +327,12 @@
         <mark key="." line="42" column="50" />
         <mark key="^" line="73" column="56" />
       </file>
-      <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/main/LoadingActivity.java" timestamp="1507709445029">
-        <mark key="'" line="695" column="14" />
-        <mark key="[" line="120" column="52" />
-        <mark key="]" line="120" column="59" />
-        <mark key="." line="120" column="59" />
-        <mark key="^" line="120" column="59" />
+      <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/main/LoadingActivity.java" timestamp="1508490180752">
+        <mark key="'" line="697" column="14" />
+        <mark key="[" line="317" column="49" />
+        <mark key="]" line="318" column="27" />
+        <mark key="." line="318" column="27" />
+        <mark key="^" line="318" column="27" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/data/pojo/SuddenDetail.java" timestamp="1499134068066">
         <mark key="'" line="10" column="0" />
@@ -611,7 +611,7 @@
       <file name="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/yuntongxun/ecdemo/ui/chatting/ChattingActivity.java" timestamp="1508118361030">
         <mark key="'" line="77" column="28" />
       </file>
-      <file name="/a.regexp" timestamp="1508478182460">
+      <file name="/a.regexp" timestamp="1508490151654">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -808,7 +808,7 @@
         <text>HomeActivi</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSW50ZW50IGludGVudCA9IG5ldyBJbnRlbnQoTG9naW5BY3Rpdml0eS50aGlzLAogICAgICAgICAgICAgICAgICAgIEhvbWVBY3Rpdml0eS5jbGFzcyk7CiAgICAgICAgICAgIGludGVudC5zZXRGbGFncyhJbnRlbnQuRkxBR19BQ1RJVklUWV9DTEVBUl9UT1ApOwogICAgICAgICAgICBzdGFydEFjdGl2aXR5KGludGVudCk7Cg==</text>
+        <text encoding="base64">CQkJCWlmICh1cGRhdGVCZWFuLmdldEZvcmNlKCkgPT0gMCkgewo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CiAgICAgICAgLy8gSW50ZW50IGludGVudCA9IG5ldyBJbnRlbnQoTG9naW5BY3Rpdml0eS50aGlzLCBIb21lQWN0aXZpdHkuY2xhc3MpOwogICAgICAgIC8vIGludGVudC5zZXRGbGFncyhJbnRlbnQuRkxBR19BQ1RJVklUWV9DTEVBUl9UT1ApOwogICAgICAgIC8vIHN0YXJ0QWN0aXZpdHkoaW50ZW50KTsKICAgICAgICAvLyBpZiAodHJ1ZSkgewogICAgICAgIC8vICAgICByZXR1cm47CiAgICAgICAgLy8gfQo=</text>
