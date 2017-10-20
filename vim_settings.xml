@@ -48,6 +48,7 @@
       <file name="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_alarm_detail_v1.xml" timestamp="1501467081670">
         <mark key="'" line="159" column="49" />
       </file>
+      <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/func/salepipeline/HisPipelineActivity.java" timestamp="1508494697478" />
       <file name="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/view/activity/WorkOrderViewActivity.java" timestamp="1505572545295">
         <mark key="'" line="261" column="49" />
         <mark key="[" line="163" column="36" />
@@ -574,6 +575,11 @@
         <mark key="." line="38" column="4" />
         <mark key="^" line="38" column="3" />
       </file>
+      <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/func/salepipeline/PipelineActivity.java" timestamp="1508495453699">
+        <mark key="'" line="461" column="123" />
+        <mark key="[" line="420" column="53" />
+        <mark key="]" line="420" column="71" />
+      </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/res/layout/item_cost_up.xml" timestamp="1498962582522">
         <mark key="'" line="62" column="55" />
         <mark key="[" line="20" column="44" />
@@ -611,7 +617,7 @@
       <file name="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/yuntongxun/ecdemo/ui/chatting/ChattingActivity.java" timestamp="1508118361030">
         <mark key="'" line="77" column="28" />
       </file>
-      <file name="/a.regexp" timestamp="1508490151654">
+      <file name="/a.regexp" timestamp="1508495321130">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -696,9 +702,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="521" column="42" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/AndroidManifest.xml" />
-      <jump line="531" column="42" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/AndroidManifest.xml" />
-      <jump line="541" column="42" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/AndroidManifest.xml" />
       <jump line="552" column="42" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/AndroidManifest.xml" />
       <jump line="563" column="42" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/AndroidManifest.xml" />
       <jump line="72" column="83" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/AndroidManifest.xml" />
@@ -796,6 +799,9 @@
       <jump line="52" column="32" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/build.gradle" />
       <jump line="59" column="0" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/build.gradle" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/build.gradle" />
+      <jump line="497" column="96" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/func/salepipeline/PipelineActivity.java" />
+      <jump line="387" column="88" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/func/salepipeline/PipelineActivity.java" />
+      <jump line="461" column="123" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/func/salepipeline/PipelineActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -805,10 +811,10 @@
         <text>:3002</text>
       </register>
       <register name="/" type="4">
-        <text>HomeActivi</text>
+        <text encoding="base64">XDxsb2FkX2ZhaWxlZFw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQkJCWlmICh1cGRhdGVCZWFuLmdldEZvcmNlKCkgPT0gMCkgewo=</text>
+      <register name="0" type="4">
+        <text>sale_get_piplelines</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CiAgICAgICAgLy8gSW50ZW50IGludGVudCA9IG5ldyBJbnRlbnQoTG9naW5BY3Rpdml0eS50aGlzLCBIb21lQWN0aXZpdHkuY2xhc3MpOwogICAgICAgIC8vIGludGVudC5zZXRGbGFncyhJbnRlbnQuRkxBR19BQ1RJVklUWV9DTEVBUl9UT1ApOwogICAgICAgIC8vIHN0YXJ0QWN0aXZpdHkoaW50ZW50KTsKICAgICAgICAvLyBpZiAodHJ1ZSkgewogICAgICAgIC8vICAgICByZXR1cm47CiAgICAgICAgLy8gfQo=</text>
@@ -842,18 +848,16 @@
       </register>
     </registers>
     <search>
-      <last-search>HomeActivi</last-search>
+      <last-search encoding="base64">XDxsb2FkX2ZhaWxlZFw+</last-search>
       <last-offset />
-      <last-pattern>HomeActivi</last-pattern>
+      <last-pattern encoding="base64">XDxsb2FkX2ZhaWxlZFw+</last-pattern>
       <last-replace>_d</last-replace>
       <last-substitute>_zg</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>authKey</entry>
-        <entry>authkey</entry>
         <entry>client</entry>
         <entry>clientKey</entry>
         <entry>key</entry>
@@ -872,6 +876,8 @@
         <entry>application</entry>
         <entry encoding="base64">XDxvcFw+</entry>
         <entry>HomeActivi</entry>
+        <entry>网络异常</entry>
+        <entry encoding="base64">XDxsb2FkX2ZhaWxlZFw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL25vbmUvaGlnaC9n</entry>
