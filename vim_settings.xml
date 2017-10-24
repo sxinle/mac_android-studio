@@ -3,6 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mbp_sdk_android/src/main/java/cn/com/eightspace/mbp/sdk/MbpVersion.java" timestamp="1507707706950">
+        <mark key="[" line="45" column="75" />
+        <mark key="]" line="45" column="75" />
+        <mark key="." line="45" column="75" />
+      </file>
       <file name="/a.dummy" timestamp="1508379900455">
         <mark key="[" line="0" column="0" />
       </file>
@@ -75,6 +80,16 @@
       <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mbp_sdk_android/src/main/java/cn/com/eightspace/mbp/sdk/MbpQuery.java" timestamp="1508316505122">
         <mark key="'" line="269" column="76" />
       </file>
+      <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/google/zxing/decoding/DecodeHandler.java" timestamp="1508830176765">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/scan/ScanActivity.java" timestamp="1508819669234">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/base/BaseActivity.java" timestamp="1508819506433">
         <mark key="'" line="261" column="43" />
       </file>
@@ -94,16 +109,26 @@
       <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/func/doc/OrgCloudFileActivity.java" timestamp="1508819548032">
         <mark key="'" line="765" column="12" />
       </file>
+      <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/google/zxing/decoding/CaptureActivityHandler.java" timestamp="1508830180005">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/chat/ChatActivity.java" timestamp="1508819675722">
         <mark key="'" line="223" column="31" />
         <mark key="^" line="318" column="8" />
       </file>
-      <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mbp_sdk_android/src/main/java/cn/com/eightspace/mbp/sdk/MbpObject.java" timestamp="1508839235849">
-        <mark key="'" line="42" column="50" />
-        <mark key="[" line="37" column="61" />
-        <mark key="]" line="37" column="61" />
-        <mark key="." line="37" column="61" />
+      <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mbp_sdk_android/src/main/java/cn/com/eightspace/mbp/sdk/MbpObject.java" timestamp="1508841276385">
+        <mark key="'" line="79" column="26" />
+        <mark key="[" line="37" column="33" />
+        <mark key="]" line="37" column="33" />
+        <mark key="." line="37" column="33" />
         <mark key="^" line="37" column="60" />
+      </file>
+      <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/adapter/FindHistoryListAdapter.java" timestamp="1508819685556">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/res/layout/save_cost.xml" timestamp="1500895829099">
         <mark key="[" line="21" column="100" />
@@ -122,6 +147,11 @@
       </file>
       <file name="/Dummy.txt" timestamp="1508836151263">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/a.regexp" timestamp="1508841048129">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/friend/ContactDetailActivity.java" timestamp="1508819736760">
         <mark key="'" line="158" column="35" />
@@ -144,6 +174,11 @@
         <mark key="]" line="299" column="0" />
         <mark key="^" line="299" column="19" />
         <mark key="." line="299" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/personcenter/VPersionChangeText.java" timestamp="1508819617881">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1508830894536">
         <mark key="[" line="0" column="0" />
@@ -181,6 +216,11 @@
       <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/func/salepipeline/HisPipelineActivity.java" timestamp="1508830324169">
         <mark key="'" line="15" column="45" />
       </file>
+      <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/views/slideView/ListViewCompat.java" timestamp="1508819726277">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/personcenter/FunctionOpenCloseActivity.java" timestamp="1508819645676">
         <mark key="'" line="173" column="47" />
         <mark key="^" line="175" column="42" />
@@ -200,6 +240,11 @@
       <file name="$USER_HOME$/workspace/ddParse/MBPPortal1/import-summary.txt" timestamp="1506408797651">
         <mark key="'" line="506" column="38" />
       </file>
+      <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/personcenter/LoginActivity.java" timestamp="1508819633954">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/adapter/MyServicesListAdapter.java" timestamp="1508830302088">
         <mark key="'" line="46" column="23" />
       </file>
@@ -207,11 +252,27 @@
         <mark key="'" line="217" column="36" />
         <mark key="^" line="404" column="43" />
       </file>
+      <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/uuvalue/mbpportal/act/personcenter/LoginActivity.java" timestamp="1508841085434" />
+      <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/views/slideView/SlideView.java" timestamp="1508819727876">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/MBPPortalAndroid.iml" timestamp="1507776391019">
         <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/BaseActivity.java" timestamp="1501488960093">
         <mark key="'" line="45" column="32" />
+      </file>
+      <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/tab/TabFragment.java" timestamp="1508819653274">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/func/doc/PdfViewActivity.java" timestamp="1508819554471">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/view/activity/CostOutFragment.java" timestamp="1505571123647">
         <mark key="'" line="64" column="0" />
@@ -227,6 +288,16 @@
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/HisJobOther.java" timestamp="1500184605256">
         <mark key="[" line="26" column="24" />
+      </file>
+      <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/chat/ImageLoadingDialog.java" timestamp="1508819677595">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/adapter/EnptyAdapter.java" timestamp="1508819681435">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/SplashActivity.java" timestamp="1501499372738">
         <mark key="'" line="208" column="0" />
@@ -246,6 +317,18 @@
       <file name="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/view/activity/SaveCostFragment.java" timestamp="1504605351760">
         <mark key="'" line="161" column="68" />
       </file>
+      <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/tab/HomeFragment.java" timestamp="1508819647436">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mbp_sdk_android/src/main/java/cn/com/eightspace/mbp/sdk/MbpCommand.java" timestamp="1508841149790">
+        <mark key="'" line="464" column="20" />
+        <mark key="[" line="379" column="108" />
+        <mark key="]" line="379" column="108" />
+        <mark key="." line="379" column="108" />
+        <mark key="^" line="258" column="35" />
+      </file>
       <file name="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/res/layout/activity_nwgl.xml" timestamp="1505446868193">
         <mark key="'" line="90" column="46" />
       </file>
@@ -255,6 +338,11 @@
         <mark key="]" line="8" column="33" />
         <mark key="." line="8" column="33" />
         <mark key="^" line="8" column="33" />
+      </file>
+      <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/personcenter/LocalAlbumActivity.java" timestamp="1508819627634">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/func/salepipeline/PipelineActivity.java" timestamp="1508819537472">
         <mark key="'" line="433" column="70" />
@@ -286,7 +374,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="314" column="47" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/tab/ContactListFragment.java" />
       <jump line="116" column="25" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/friend/ContactsActivity.java" />
       <jump line="33" column="6" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/bean/OrgBean.java" />
       <jump line="12" column="0" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/bean/OrgBean.java" />
@@ -386,13 +473,14 @@
       <jump line="226" column="40" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/AndroidManifest.xml" />
       <jump line="276" column="48" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/AndroidManifest.xml" />
       <jump line="42" column="50" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mbp_sdk_android/src/main/java/cn/com/eightspace/mbp/sdk/MbpObject.java" />
+      <jump line="79" column="26" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mbp_sdk_android/src/main/java/cn/com/eightspace/mbp/sdk/MbpObject.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>基本废物......</text>
       </register>
       <register name="-" type="4">
-        <text>/dongdong</text>
+        <text>//http:</text>
       </register>
       <register name="/" type="4">
         <text>loading</text>
