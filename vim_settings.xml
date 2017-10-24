@@ -148,7 +148,7 @@
       <file name="/Dummy.txt" timestamp="1508841807860">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.regexp" timestamp="1508841792579">
+      <file name="/a.regexp" timestamp="1508842619605">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -264,8 +264,11 @@
         <mark key="'" line="217" column="36" />
         <mark key="^" line="404" column="43" />
       </file>
-      <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/uuvalue/mbpportal/act/personcenter/LoginActivity.java" timestamp="1508841834671">
-        <mark key="'" line="333" column="24" />
+      <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/uuvalue/mbpportal/act/personcenter/LoginActivity.java" timestamp="1508842942615">
+        <mark key="'" line="20" column="0" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/views/slideView/SlideView.java" timestamp="1508819727876">
         <mark key="[" line="2" column="0" />
@@ -373,6 +376,12 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/main/HomeActivity.java" timestamp="1508819651474">
+        <mark key="'" line="69" column="24" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/yuntongxun/ecdemo/ui/chatting/ChattingActivity.java" timestamp="1508118361030">
         <mark key="'" line="77" column="28" />
       </file>
@@ -397,7 +406,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="160" column="0" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/bean/UserBean.java" />
       <jump line="297" column="0" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/friend/ContactsActivity.java" />
       <jump line="1107" column="44" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/func/knowledge/KnowledgesListActivity.java" />
       <jump line="1619" column="0" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/func/knowledge/KnowledgesListActivity.java" />
@@ -497,6 +505,7 @@
       <jump line="333" column="24" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/uuvalue/mbpportal/act/personcenter/LoginActivity.java" />
       <jump line="121" column="34" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/res/layout/view_tab_contacts_list.xml" />
       <jump line="200" column="41" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/uuvalue/mbpportal/act/base/VSimpleWebView.java" />
+      <jump line="20" column="0" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/uuvalue/mbpportal/act/personcenter/LoginActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -512,7 +521,7 @@
         <text encoding="base64">CQkJU2hhcmVkUHJlZmVyZW5jZXMgc3AgPSBjb250ZXh0LmdldFNoYXJlZFByZWZlcmVuY2VzKENvbnN0YW50VmFsdWUuU1BfVEFCTEVfRlVOQ1RJT05fT1BFTl9PUl9DTE9TRSwgQWN0aXZpdHkuTU9ERV9BUFBFTkQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5uZXVubi5tYnBwb3J0YWwuUjsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS51dXZhbHVlLm1icHBvcnRhbC5SOwo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5uZXVubi5tYnBwb3J0YWwuUjsK</text>
@@ -530,10 +539,10 @@
         <text encoding="base64">aW1wb3J0IGNvbS5uZXVubi5tYnBwb3J0YWwuUjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlybF8xID0gKFJlbGF0aXZlTGF5b3V0KSBmaW5kVmlld0J5SWQoUi5pZC5ybF8xKTsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5uZXVubi5tYnBwb3J0YWwuUjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5uZXVubi5tYnBwb3J0YWwuUjsK</text>
+        <text encoding="base64">CQlybF8xID0gKFJlbGF0aXZlTGF5b3V0KSBmaW5kVmlld0J5SWQoUi5pZC5ybF8xKTsK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5uZXVubi5tYnBwb3J0YWwuUjsK</text>
