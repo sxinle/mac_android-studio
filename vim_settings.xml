@@ -641,12 +641,12 @@
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/data/pojo/DataSum.java" timestamp="1502950375899">
         <mark key="'" line="64" column="36" />
       </file>
-      <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/AndroidManifest.xml" timestamp="1508382215874">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="58" />
-        <mark key="^" line="7" column="31" />
-        <mark key="." line="64" column="0" />
+      <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/AndroidManifest.xml" timestamp="1508817067650">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="66" column="12" />
+        <mark key="]" line="66" column="59" />
+        <mark key="^" line="66" column="11" />
+        <mark key="." line="66" column="12" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/data/pojo/UsersResp.java" timestamp="1500892627637">
         <mark key="'" line="129" column="0" />
@@ -709,7 +709,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="323" column="42" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/AndroidManifest.xml" />
       <jump line="334" column="42" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/AndroidManifest.xml" />
       <jump line="345" column="42" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/AndroidManifest.xml" />
       <jump line="355" column="42" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/AndroidManifest.xml" />
@@ -809,16 +808,17 @@
       <jump line="1472" column="47" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/util/BusinessUtils.java" />
       <jump line="168" column="50" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/tab/ServiceListFragment.java" />
       <jump line="333" column="32" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/tab/ServiceListFragment.java" />
+      <jump line="13" column="0" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/AndroidManifest.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>基本废物......</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>neunn</text>
       </register>
       <register name="/" type="4">
-        <text>权限</text>
+        <text>appli</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJU2hhcmVkUHJlZmVyZW5jZXMgc3AgPSBjb250ZXh0LmdldFNoYXJlZFByZWZlcmVuY2VzKENvbnN0YW50VmFsdWUuU1BfVEFCTEVfRlVOQ1RJT05fT1BFTl9PUl9DTE9TRSwgQWN0aXZpdHkuTU9ERV9BUFBFTkQpOwo=</text>
@@ -855,17 +855,16 @@
       </register>
     </registers>
     <search>
-      <last-search>权限</last-search>
+      <last-search>appli</last-search>
       <last-offset />
-      <last-pattern>权限</last-pattern>
+      <last-pattern>appli</last-pattern>
       <last-replace>_d</last-replace>
       <last-substitute>_zg</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>key</entry>
         <entry>appid</entry>
         <entry>click</entry>
         <entry>get_kn</entry>
@@ -885,6 +884,7 @@
         <entry encoding="base64">XDxsb2FkX2ZhaWxlZFw+</entry>
         <entry encoding="base64">XDxnZXRTaGFyZWRQcmVmZXJlbmNlc1w+</entry>
         <entry>权限</entry>
+        <entry>appli</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL25vbmUvaGlnaC9n</entry>
