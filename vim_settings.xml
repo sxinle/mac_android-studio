@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/a.dummy" timestamp="1508379900455">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_nwgl.xml" timestamp="1501234546349">
         <mark key="[" line="78" column="0" />
         <mark key="]" line="92" column="30" />
@@ -178,6 +181,9 @@
         <mark key="^" line="62" column="21" />
         <mark key="." line="62" column="21" />
       </file>
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/HisJobOther.java" timestamp="1500184605256">
+        <mark key="[" line="26" column="24" />
+      </file>
       <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/crosswalkwebview/src/main/res/values/xwalk_resources_list.xml" timestamp="1508914203840">
         <mark key="[" line="1" column="10" />
         <mark key="]" line="1" column="90" />
@@ -272,6 +278,9 @@
         <mark key="." line="21" column="103" />
         <mark key="^" line="21" column="103" />
       </file>
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/data/pojo/LeakChat.java" timestamp="1486811675904">
+        <mark key="[" line="6" column="21" />
+      </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/res/layout/activity_station_detail.xml" timestamp="1501043022093">
         <mark key="[" line="136" column="45" />
         <mark key="]" line="136" column="57" />
@@ -284,6 +293,9 @@
         <mark key="]" line="8" column="33" />
         <mark key="." line="8" column="33" />
         <mark key="^" line="8" column="33" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1508914552136">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/yuntongxun/ecdemo/ui/chatting/ChattingActivity.java" timestamp="1508118361030">
         <mark key="'" line="77" column="28" />
