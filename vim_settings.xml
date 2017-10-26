@@ -177,8 +177,8 @@
         <mark key="." line="82" column="42" />
         <mark key="^" line="82" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/dongdong/MBPPortalAndroid/mBPPortal/build.gradle" timestamp="1508993773013">
-        <mark key="'" line="47" column="47" />
+      <file name="$USER_HOME$/workspace/dongdong/MBPPortalAndroid/mBPPortal/build.gradle" timestamp="1508996430386">
+        <mark key="'" line="56" column="0" />
         <mark key="[" line="56" column="0" />
         <mark key="]" line="56" column="0" />
         <mark key="." line="56" column="0" />
@@ -370,10 +370,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="29" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mbp_sdk_android/src/main/java/cn/com/eightspace/mbp/sdk/MbpCommand.java" />
-      <jump line="130" column="8" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mbp_sdk_android/src/main/java/cn/com/eightspace/mbp/sdk/MbpCommand.java" />
-      <jump line="144" column="29" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mbp_sdk_android/src/main/java/cn/com/eightspace/mbp/sdk/MbpCommand.java" />
-      <jump line="169" column="31" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mbp_sdk_android/src/main/java/cn/com/eightspace/mbp/sdk/MbpCommand.java" />
       <jump line="244" column="101" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mbp_sdk_android/src/main/java/cn/com/eightspace/mbp/sdk/MbpCommand.java" />
       <jump line="464" column="20" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mbp_sdk_android/src/main/java/cn/com/eightspace/mbp/sdk/MbpCommand.java" />
       <jump line="309" column="7" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/personcenter/LoginActivity.java" />
@@ -470,6 +466,10 @@
       <jump line="302" column="26" filename="$USER_HOME$/workspace/dongdong/MBPPortalAndroid/cH_sldinglibrary/src/main/java/com/jeremyfeinstein/slidingmenu/lib/CustomViewAbove.java" />
       <jump line="319" column="14" filename="$USER_HOME$/workspace/dongdong/MBPPortalAndroid/mBPPortal/src/main/java/com/uuvalue/mbpportal/receiver/PushReceiver.java" />
       <jump line="323" column="41" filename="$USER_HOME$/workspace/dongdong/MBPPortalAndroid/mBPPortal/src/main/java/com/uuvalue/mbpportal/receiver/PushReceiver.java" />
+      <jump line="40" column="39" filename="$USER_HOME$/workspace/dongdong/MBPPortalAndroid/mBPPortal/build.gradle" />
+      <jump line="27" column="32" filename="$USER_HOME$/workspace/dongdong/MBPPortalAndroid/mBPPortal/build.gradle" />
+      <jump line="23" column="21" filename="$USER_HOME$/workspace/dongdong/MBPPortalAndroid/mBPPortal/build.gradle" />
+      <jump line="56" column="0" filename="$USER_HOME$/workspace/dongdong/MBPPortalAndroid/mBPPortal/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
