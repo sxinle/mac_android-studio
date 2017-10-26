@@ -179,7 +179,7 @@
         <mark key="." line="82" column="42" />
         <mark key="^" line="82" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/dongdong/MBPPortalAndroid/mBPPortal/build.gradle" timestamp="1508988850034">
+      <file name="$USER_HOME$/workspace/dongdong/MBPPortalAndroid/mBPPortal/build.gradle" timestamp="1508989987129">
         <mark key="'" line="47" column="47" />
         <mark key="[" line="6" column="4" />
         <mark key="]" line="6" column="27" />
@@ -228,10 +228,10 @@
         <mark key="." line="21" column="103" />
         <mark key="^" line="21" column="103" />
       </file>
-      <file name="$USER_HOME$/workspace/dongdong/MBPPortalAndroid/cH_sldinglibrary/build.gradle" timestamp="1508987793187">
-        <mark key="[" line="3" column="21" />
-        <mark key="]" line="3" column="23" />
-        <mark key="." line="3" column="23" />
+      <file name="$USER_HOME$/workspace/dongdong/MBPPortalAndroid/cH_sldinglibrary/build.gradle" timestamp="1508989334051">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
         <mark key="^" line="3" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/res/layout/cost_up.xml" timestamp="1505571150280">
@@ -301,7 +301,7 @@
         <mark key="." line="41" column="37" />
         <mark key="^" line="41" column="37" />
       </file>
-      <file name="/a.regexp" timestamp="1508988394918">
+      <file name="/a.regexp" timestamp="1508989688406">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/friend/ContactDetailActivity.java" timestamp="1508819736760">
@@ -486,33 +486,33 @@
       <register name="0" type="4">
         <text>enforceUniquePackageName</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5hbmRyb2lkLnN1cHBvcnQ6c3VwcG9ydC12NDoxOC4wLjAnCg==</text>
+      </register>
+      <register name="2" type="4">
         <text>{
     }</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBleGNsdWRlIGdyb3VwOiAnY29tLmFuZHJvaWQuc3VwcG9ydCcK</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">fQo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICB7Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIC8vICAgIGNvbXBpbGUgJ2NvbS5hbmRyb2lkLnN1cHBvcnQ6c3VwcG9ydC12NDoxOC4wLjAnCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIC8vICAgIGNvbXBpbGUgZmlsZXMoJ2xpYnMvYW5kcm9pZC1zdXBwb3J0LXY0LTIuamFyJykK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGNvbXBpbGUgZmlsZXMoJ2xpYnMvZ3Nvbi0yLjIuMS5qYXInKQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmZpbmlzaCgpOwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV2ZW50VXBkYXRlVXNlckluZm8oKTsK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmZpbmlzaCgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
