@@ -184,6 +184,13 @@
         <mark key="." line="56" column="0" />
         <mark key="^" line="39" column="45" />
       </file>
+      <file name="$USER_HOME$/Desktop/MBPPortalAndroid/mBPPortal/src/main/AndroidManifest.xml" timestamp="1508998316649">
+        <mark key="'" line="56" column="3" />
+        <mark key="[" line="350" column="45" />
+        <mark key="]" line="350" column="62" />
+        <mark key="." line="350" column="62" />
+        <mark key="^" line="350" column="62" />
+      </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/res/layout/frag_item_upinfo_other.xml" timestamp="1501035826596">
         <mark key="[" line="41" column="66" />
         <mark key="]" line="41" column="77" />
@@ -370,9 +377,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="244" column="101" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mbp_sdk_android/src/main/java/cn/com/eightspace/mbp/sdk/MbpCommand.java" />
-      <jump line="464" column="20" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mbp_sdk_android/src/main/java/cn/com/eightspace/mbp/sdk/MbpCommand.java" />
-      <jump line="309" column="7" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/personcenter/LoginActivity.java" />
       <jump line="43" column="44" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/build.gradle" />
       <jump line="50" column="0" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/build.gradle" />
       <jump line="52" column="32" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/build.gradle" />
@@ -470,19 +474,22 @@
       <jump line="27" column="32" filename="$USER_HOME$/workspace/dongdong/MBPPortalAndroid/mBPPortal/build.gradle" />
       <jump line="23" column="21" filename="$USER_HOME$/workspace/dongdong/MBPPortalAndroid/mBPPortal/build.gradle" />
       <jump line="56" column="0" filename="$USER_HOME$/workspace/dongdong/MBPPortalAndroid/mBPPortal/build.gradle" />
+      <jump line="349" column="16" filename="$USER_HOME$/Desktop/MBPPortalAndroid/mBPPortal/src/main/AndroidManifest.xml" />
+      <jump line="289" column="52" filename="$USER_HOME$/Desktop/MBPPortalAndroid/mBPPortal/src/main/AndroidManifest.xml" />
+      <jump line="56" column="3" filename="$USER_HOME$/Desktop/MBPPortalAndroid/mBPPortal/src/main/AndroidManifest.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>基本废物......</text>
       </register>
       <register name="-" type="4">
-        <text>FloatMath</text>
+        <text>.act.personcenter.</text>
       </register>
       <register name="/" type="4">
-        <text>v4</text>
+        <text>cloud</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5hbmRyb2lkLnN1cHBvcnQ6c3VwcG9ydC12NDoyNC4yLjEnCg==</text>
+      <register name="0" type="4">
+        <text>MyCloudFileActivity</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGNvbXBpbGUgZmlsZXMoJ2xpYnMvdm9sbGV5LmphcicpCg==</text>
@@ -512,13 +519,13 @@
         <text encoding="base64">ICAgICAgICBub3RpZiA9IG5ldyBOb3RpZmljYXRpb24oKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action $Redo</text>
       </register>
     </registers>
     <search>
-      <last-search>v4</last-search>
+      <last-search>cloud</last-search>
       <last-offset />
-      <last-pattern>v4</last-pattern>
+      <last-pattern>cloud</last-pattern>
       <last-replace>_d</last-replace>
       <last-substitute>_zg</last-substitute>
       <last-dir>1</last-dir>
@@ -526,7 +533,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxWSUJSQVRFXD4=</entry>
         <entry encoding="base64">XDxERVZJQ0VfUE9XRVJcPg==</entry>
         <entry encoding="base64">XDxoYXJkd2FyZUFjY2VsZXJhdGVkXD4=</entry>
         <entry>lstFu</entry>
@@ -546,9 +552,9 @@
         <entry>修改密码</entry>
         <entry>activity</entry>
         <entry>v4</entry>
+        <entry>cloud</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL25vbmUvaGlnaC9n</entry>
         <entry encoding="base64">JzwsJz5zL2hpZ2gvbWlkL2c=</entry>
         <entry encoding="base64">JzwsJz5zL21pZC9sb3cvZw==</entry>
         <entry encoding="base64">JzwsJz5zL2xvdy9taWRoaWdoL2c=</entry>
@@ -568,6 +574,7 @@
         <entry encoding="base64">JzwsJz5zL196L196Zy9n</entry>
         <entry encoding="base64">JzwsJz5zL196Zy9fZC9n</entry>
         <entry>w</entry>
+        <entry>action $Redo</entry>
       </history-cmd>
       <history-expr />
       <history-input />
