@@ -36,11 +36,22 @@
       <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/func/salepipeline/ModifyCustomerActivity.java" timestamp="1508830510981">
         <mark key="'" line="21" column="47" />
       </file>
+      <file name="$USER_HOME$/workspace/dongdong/MBPPortalAndroid/crosswalkwebview/build.gradle" timestamp="1508992414836">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mbp_sdk_android/src/main/java/cn/com/eightspace/mbp/sdk/Mbp.java" timestamp="1508381618687">
         <mark key="'" line="50" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/shuiwu/waffair/app/build.gradle" timestamp="1508118365152">
         <mark key="'" line="89" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/dongdong/MBPPortalAndroid/mBPPortal/src/main/java/com/uuvalue/mbpportal/receiver/PushReceiver.java" timestamp="1508993356996">
+        <mark key="'" line="322" column="41" />
+        <mark key="[" line="314" column="0" />
+        <mark key="]" line="314" column="0" />
+        <mark key="." line="314" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mbp_sdk_android/src/main/java/cn/com/eightspace/mbp/sdk/MbpQueryAdapter.java" timestamp="1508913681143">
         <mark key="'" line="342" column="0" />
@@ -123,6 +134,7 @@
       <file name="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/view/activity/DataGatherActivity.java" timestamp="1505959106523">
         <mark key="'" line="62" column="20" />
       </file>
+      <file name="/usr/local/android-sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0-sources.jar!/android/support/v4/accessibilityservice/AccessibilityServiceInfoCompat.java" timestamp="1508992131078" />
       <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mbp_sdk_android_push/src/main/res/values/strings.xml" timestamp="1508914179319">
         <mark key="[" line="0" column="10" />
         <mark key="]" line="0" column="90" />
@@ -140,13 +152,6 @@
       </file>
       <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/bean/OrgBean.java" timestamp="1508119363198">
         <mark key="'" line="82" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mbp_sdk_android/src/main/java/cn/com/eightspace/mbp/sdk/MbpCommand.java" timestamp="1508841149790">
-        <mark key="'" line="464" column="20" />
-        <mark key="[" line="379" column="108" />
-        <mark key="]" line="379" column="108" />
-        <mark key="." line="379" column="108" />
-        <mark key="^" line="258" column="35" />
       </file>
       <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/res/layout/act_login.xml" timestamp="1508841782597">
         <mark key="[" line="56" column="46" />
@@ -166,25 +171,18 @@
         <mark key="^" line="29" column="44" />
         <mark key="." line="201" column="1" />
       </file>
-      <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/readystatesoftware/systembartint/SystemBarTintManager.java" timestamp="1508913934994">
-        <mark key="'" line="44" column="23" />
-        <mark key="[" line="85" column="18" />
-        <mark key="]" line="86" column="36" />
-        <mark key="^" line="86" column="36" />
-        <mark key="." line="86" column="36" />
-      </file>
       <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/res/layout/act_setting.xml" timestamp="1508910112564">
         <mark key="[" line="82" column="42" />
         <mark key="]" line="82" column="42" />
         <mark key="." line="82" column="42" />
         <mark key="^" line="82" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/dongdong/MBPPortalAndroid/mBPPortal/build.gradle" timestamp="1508989987129">
+      <file name="$USER_HOME$/workspace/dongdong/MBPPortalAndroid/mBPPortal/build.gradle" timestamp="1508993773013">
         <mark key="'" line="47" column="47" />
-        <mark key="[" line="6" column="4" />
-        <mark key="]" line="6" column="27" />
-        <mark key="." line="9" column="23" />
-        <mark key="^" line="9" column="23" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
+        <mark key="^" line="39" column="45" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/res/layout/frag_item_upinfo_other.xml" timestamp="1501035826596">
         <mark key="[" line="41" column="66" />
@@ -213,6 +211,13 @@
         <mark key="." line="75" column="39" />
         <mark key="^" line="40" column="50" />
       </file>
+      <file name="$USER_HOME$/workspace/dongdong/MBPPortalAndroid/cH_sldinglibrary/src/main/java/com/jeremyfeinstein/slidingmenu/lib/CustomViewAbove.java" timestamp="1508993335875">
+        <mark key="'" line="276" column="26" />
+        <mark key="[" line="289" column="23" />
+        <mark key="]" line="289" column="26" />
+        <mark key="." line="289" column="26" />
+        <mark key="^" line="289" column="26" />
+      </file>
       <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/MBPPortalAndroid.iml" timestamp="1507776391019">
         <mark key="'" line="0" column="0" />
       </file>
@@ -228,11 +233,11 @@
         <mark key="." line="21" column="103" />
         <mark key="^" line="21" column="103" />
       </file>
-      <file name="$USER_HOME$/workspace/dongdong/MBPPortalAndroid/cH_sldinglibrary/build.gradle" timestamp="1508989334051">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-        <mark key="^" line="3" column="23" />
+      <file name="$USER_HOME$/workspace/dongdong/MBPPortalAndroid/cH_sldinglibrary/build.gradle" timestamp="1508993317752">
+        <mark key="[" line="7" column="23" />
+        <mark key="]" line="7" column="24" />
+        <mark key="." line="7" column="24" />
+        <mark key="^" line="7" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/res/layout/cost_up.xml" timestamp="1505571150280">
         <mark key="[" line="22" column="100" />
@@ -258,17 +263,10 @@
         <mark key="^" line="41" column="81" />
         <mark key="." line="41" column="84" />
       </file>
-      <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/build.gradle" timestamp="1508912129898">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="8" column="27" />
-        <mark key="]" line="8" column="33" />
-        <mark key="." line="8" column="33" />
-        <mark key="^" line="8" column="33" />
-      </file>
       <file name="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/view/activity/CostOutFragment.java" timestamp="1505571123647">
         <mark key="'" line="64" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508914582039">
+      <file name="/Dummy.txt" timestamp="1508993902239">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/LoginActivity.java" timestamp="1499594978558">
@@ -301,7 +299,7 @@
         <mark key="." line="41" column="37" />
         <mark key="^" line="41" column="37" />
       </file>
-      <file name="/a.regexp" timestamp="1508989688406">
+      <file name="/a.regexp" timestamp="1508993761040">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/friend/ContactDetailActivity.java" timestamp="1508819736760">
@@ -372,9 +370,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/AndroidManifest.xml" />
-      <jump line="39" column="15" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mbp_sdk_android/src/main/java/cn/com/eightspace/mbp/sdk/MbpCommand.java" />
-      <jump line="56" column="8" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mbp_sdk_android/src/main/java/cn/com/eightspace/mbp/sdk/MbpCommand.java" />
       <jump line="71" column="29" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mbp_sdk_android/src/main/java/cn/com/eightspace/mbp/sdk/MbpCommand.java" />
       <jump line="130" column="8" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mbp_sdk_android/src/main/java/cn/com/eightspace/mbp/sdk/MbpCommand.java" />
       <jump line="144" column="29" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mbp_sdk_android/src/main/java/cn/com/eightspace/mbp/sdk/MbpCommand.java" />
@@ -472,47 +467,49 @@
       <jump line="42" column="39" filename="$USER_HOME$/workspace/dongdong/MBPPortalAndroid/mBPPortal/build.gradle" />
       <jump line="24" column="42" filename="$USER_HOME$/workspace/dongdong/MBPPortalAndroid/mBPPortal/build.gradle" />
       <jump line="47" column="47" filename="$USER_HOME$/workspace/dongdong/MBPPortalAndroid/mBPPortal/build.gradle" />
+      <jump line="302" column="26" filename="$USER_HOME$/workspace/dongdong/MBPPortalAndroid/cH_sldinglibrary/src/main/java/com/jeremyfeinstein/slidingmenu/lib/CustomViewAbove.java" />
+      <jump line="319" column="14" filename="$USER_HOME$/workspace/dongdong/MBPPortalAndroid/mBPPortal/src/main/java/com/uuvalue/mbpportal/receiver/PushReceiver.java" />
+      <jump line="323" column="41" filename="$USER_HOME$/workspace/dongdong/MBPPortalAndroid/mBPPortal/src/main/java/com/uuvalue/mbpportal/receiver/PushReceiver.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>基本废物......</text>
       </register>
       <register name="-" type="4">
-        <text>21</text>
+        <text>FloatMath</text>
       </register>
       <register name="/" type="4">
         <text>v4</text>
       </register>
-      <register name="0" type="4">
-        <text>enforceUniquePackageName</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5hbmRyb2lkLnN1cHBvcnQ6c3VwcG9ydC12NDoyNC4yLjEnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5hbmRyb2lkLnN1cHBvcnQ6c3VwcG9ydC12NDoxOC4wLjAnCg==</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgZmlsZXMoJ2xpYnMvdm9sbGV5LmphcicpCg==</text>
       </register>
-      <register name="2" type="4">
-        <text>{
-    }</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBub3RpZiA9IG5ldyBOb3RpZmljYXRpb24oKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBleGNsdWRlIGdyb3VwOiAnY29tLmFuZHJvaWQuc3VwcG9ydCcK</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5hbmRyb2lkLnN1cHBvcnQ6c3VwcG9ydC12NDoxOC4wLjAnCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5hbmRyb2lkLnN1cHBvcnQ6c3VwcG9ydC12NDoyNC4yLjEnCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB7Cg==</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5hbmRyb2lkLnN1cHBvcnQ6c3VwcG9ydC1jb21wYXQ6MTguMi4xJwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vICAgIGNvbXBpbGUgJ2NvbS5hbmRyb2lkLnN1cHBvcnQ6c3VwcG9ydC12NDoxOC4wLjAnCg==</text>
+        <text encoding="base64">ICAgICAgICBtQ29udGV4dC5nZXRzeQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vICAgIGNvbXBpbGUgZmlsZXMoJ2xpYnMvYW5kcm9pZC1zdXBwb3J0LXY0LTIuamFyJykK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgZmlsZXMoJ2xpYnMvZ3Nvbi0yLjIuMS5qYXInKQo=</text>
+        <text encoding="base64">CQlub3RpZi5zZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmZpbmlzaCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBub3RpZiA9IG5ldyBOb3RpZmljYXRpb24oKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
