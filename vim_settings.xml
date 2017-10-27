@@ -18,11 +18,11 @@
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/SplashActivity.java" timestamp="1501499372738">
         <mark key="'" line="208" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/App.java" timestamp="1509072966255">
-        <mark key="'" line="208" column="0" />
-        <mark key="[" line="44" column="11" />
-        <mark key="]" line="44" column="15" />
-        <mark key="." line="44" column="15" />
+      <file name="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/App.java" timestamp="1509093957768">
+        <mark key="'" line="108" column="14" />
+        <mark key="[" line="37" column="14" />
+        <mark key="]" line="37" column="14" />
+        <mark key="." line="37" column="14" />
         <mark key="^" line="44" column="15" />
       </file>
       <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/util/BusinessUtils.java" timestamp="1508830316368">
@@ -167,7 +167,6 @@
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/data/pojo/LeakChat.java" timestamp="1486811675904">
         <mark key="[" line="6" column="21" />
       </file>
-      <file name="/usr/local/android-sdk/extras/android/m2repository/com/android/support/appcompat-v7/25.3.1/appcompat-v7-25.3.1-sources.jar!/android/support/v7/app/AppCompatActivity.java" timestamp="1509073050753" />
       <file name="$USER_HOME$/workspace/shuiwu/waffair/app/src/main/java/com/acenode/view/activity/CostOutFragment.java" timestamp="1505571123647">
         <mark key="'" line="64" column="0" />
       </file>
@@ -185,6 +184,12 @@
       </file>
       <file name="/a.regexp" timestamp="1509001450311">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/DDian/app/src/main/AndroidManifest.xml" timestamp="1509093965568">
+        <mark key="[" line="4" column="16" />
+        <mark key="]" line="5" column="29" />
+        <mark key="." line="5" column="29" />
+        <mark key="^" line="5" column="29" />
       </file>
       <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/friend/ContactDetailActivity.java" timestamp="1508819736760">
         <mark key="'" line="158" column="35" />
@@ -214,7 +219,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="374" column="53" filename="/usr/local/android-sdk/platforms/android-21/data/res/values/themes.xml" />
       <jump line="45" column="44" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/AndroidManifest.xml" />
       <jump line="10" column="0" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mbp_sdk_android_mdm/src/main/AndroidManifest.xml" />
       <jump line="275" column="43" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/base/BaseActivity.java" />
@@ -314,13 +318,14 @@
       <jump line="208" column="0" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/App.java" />
       <jump line="23" column="47" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/tools/LogUtils.java" />
       <jump line="49" column="0" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/tools/LogUtils.java" />
+      <jump line="108" column="14" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/App.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>基本废物......</text>
       </register>
       <register name="-" type="4">
-        <text>DEBUG</text>
+        <text>abstract</text>
       </register>
       <register name="/" type="4">
         <text>call</text>
@@ -329,31 +334,31 @@
         <text>MyCloudFileActivity</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWRUZXN0Q29tcGlsZSgnY29tLmFuZHJvaWQuc3VwcG9ydC50ZXN0LmVzcHJlc3NvOmVzcHJlc3NvLWNvcmU6Mi4yLjInLCB7CiAgICAgICAgZXhjbHVkZSBncm91cDogJ2NvbS5hbmRyb2lkLnN1cHBvcnQnLCBtb2R1bGU6ICdzdXBwb3J0LWFubm90YXRpb25zJwogICAgfSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRlc3RDb21waWxlICdqdW5pdDpqdW5pdDo0LjEyJwo=</text>
+        <text encoding="base64">ICAgIGFuZHJvaWRUZXN0Q29tcGlsZSgnY29tLmFuZHJvaWQuc3VwcG9ydC50ZXN0LmVzcHJlc3NvOmVzcHJlc3NvLWNvcmU6Mi4yLjInLCB7CiAgICAgICAgZXhjbHVkZSBncm91cDogJ2NvbS5hbmRyb2lkLnN1cHBvcnQnLCBtb2R1bGU6ICdzdXBwb3J0LWFubm90YXRpb25zJwogICAgfSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LyoqCiAqIEBhdXRob3IgYmxqCiAqLwo=</text>
+        <text encoding="base64">ICAgIHRlc3RDb21waWxlICdqdW5pdDpqdW5pdDo0LjEyJwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cGFja2FnZSBjb20uYmFpbGlhbmdqaW4udXRpbHNsaWJyYXJ5LnV0aWxzOwo=</text>
+        <text encoding="base64">LyoqCiAqIEBhdXRob3IgYmxqCiAqLwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cGFja2FnZSBjb20uYWNlbm9kZS5kZGlhbi50b29sczsKCi8qKgogKiBDcmVhdGVkIGJ5IGhzb25nIG9uIDIwMTcvMTAvMjcuCiAqLwoKcHVibGljIGNsYXNzIExvZ1V0aWxzIHsKfQo=</text>
+        <text encoding="base64">cGFja2FnZSBjb20uYmFpbGlhbmdqaW4udXRpbHNsaWJyYXJ5LnV0aWxzOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cGFja2FnZSBjb20uYWNlbm9kZS5kZGlhbi50b29sczsKCi8qKgogKiBDcmVhdGVkIGJ5IGhzb25nIG9uIDIwMTcvMTAvMjcuCiAqLwoKcHVibGljIGNsYXNzIExvZ1V0aWxzIHsKfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">5L2c6ICF77yaZ2Vla2tldmluCiAgICAgICAg6ZO+5o6l77yaaHR0cDovL3d3dy5qaWFuc2h1LmNvbS9wLzQ3YWExMzE2MmUzYwogICAgICAgIOS+hua6kO+8mueugOS5pgogICAgICAgIOiRl+S9nOadg+W9kuS9nOiAheaJgOacieOAguWVhuS4mui9rOi9veivt+iBlOezu+S9nOiAheiOt+W+l+aOiOadg++8jOmdnuWVhuS4mui9rOi9veivt+azqOaYjuWHuuWkhOOAggo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICog57u05oqkQWN0aXZpdHkg55qEbGlzdAogICAgICovCg==</text>
+        <text encoding="base64">5L2c6ICF77yaZ2Vla2tldmluCiAgICAgICAg6ZO+5o6l77yaaHR0cDovL3d3dy5qaWFuc2h1LmNvbS9wLzQ3YWExMzE2MmUzYwogICAgICAgIOS+hua6kO+8mueugOS5pgogICAgICAgIOiRl+S9nOadg+W9kuS9nOiAheaJgOacieOAguWVhuS4mui9rOi9veivt+iBlOezu+S9nOiAheiOt+W+l+aOiOadg++8jOmdnuWVhuS4mui9rOi9veivt+azqOaYjuWHuuWkhOOAggo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgYmFpbGlhbmdqaW4gb24gMTYvNC8xMS4KICovCg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICog57u05oqkQWN0aXZpdHkg55qEbGlzdAogICAgICovCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
