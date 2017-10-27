@@ -162,8 +162,8 @@
         <mark key="]" line="60" column="0" />
         <mark key="." line="60" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/DDian/app/src/main/res/layout/act_login.xml" timestamp="1509097595065">
-        <mark key="'" line="131" column="0" />
+      <file name="$USER_HOME$/workspace/DDian/app/src/main/res/layout/act_login.xml" timestamp="1509097860791">
+        <mark key="'" line="157" column="0" />
         <mark key="[" line="62" column="0" />
         <mark key="]" line="62" column="0" />
         <mark key="." line="62" column="0" />
@@ -317,8 +317,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="215" column="9" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/AndroidManifest.xml" />
-      <jump line="1" column="0" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/build.gradle" />
       <jump line="71" column="35" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/res/layout/personal_center_change_text.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/res/layout/personal_center_change_text.xml" />
       <jump line="9" column="38" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/res/layout/change_pwd.xml" />
@@ -417,6 +415,8 @@
       <jump line="25" column="53" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/base/BaseActivity.java" />
       <jump line="126" column="61" filename="$USER_HOME$/workspace/dongdong/MBPPortalAndroid/mBPPortal/src/main/java/com/uuvalue/mbpportal/act/base/BaseActivity.java" />
       <jump line="48" column="0" filename="$USER_HOME$/workspace/dongdong/MBPPortalAndroid/mBPPortal/src/main/java/com/uuvalue/mbpportal/act/base/BaseActivity.java" />
+      <jump line="80" column="55" filename="$USER_HOME$/workspace/DDian/app/src/main/res/layout/act_login.xml" />
+      <jump line="157" column="0" filename="$USER_HOME$/workspace/DDian/app/src/main/res/layout/act_login.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
