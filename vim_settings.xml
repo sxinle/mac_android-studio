@@ -71,6 +71,9 @@
       <file name="$USER_HOME$/Desktop/MBPPortalAndroid/mBPPortal/src/main/java/com/uuvalue/mbpportal/act/func/knowledge/FindKnowledgesListActivity.java" timestamp="1508999131660">
         <mark key="'" line="22" column="17" />
       </file>
+      <file name="$USER_HOME$/Desktop/MBPPortalAndroid/mbp_sdk_android/src/main/java/cn/com/eightspace/mbp/sdk/MbpRelation.java" timestamp="1509071284642">
+        <mark key="'" line="87" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/func/doc/OrgCloudFileActivity.java" timestamp="1508819548032">
         <mark key="'" line="765" column="12" />
       </file>
@@ -82,6 +85,9 @@
       </file>
       <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mbp_sdk_android/src/main/AndroidManifest.xml" timestamp="1508914212560">
         <mark key="'" line="35" column="70" />
+      </file>
+      <file name="$USER_HOME$/Desktop/MBPPortalAndroid/mbp_sdk_android/src/main/java/cn/com/eightspace/mbp/sdk/MbpUser.java" timestamp="1509071291042">
+        <mark key="'" line="367" column="2" />
       </file>
       <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mbp_sdk_android/src/main/java/cn/com/eightspace/mbp/sdk/oauth/OAuth1FlowDialog.java" timestamp="1508913715266">
         <mark key="'" line="0" column="0" />
@@ -186,9 +192,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="387" column="88" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/func/salepipeline/PipelineActivity.java" />
-      <jump line="461" column="123" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/func/salepipeline/PipelineActivity.java" />
-      <jump line="433" column="70" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/func/salepipeline/PipelineActivity.java" />
       <jump line="69" column="24" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/main/HomeActivity.java" />
       <jump line="175" column="47" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/personcenter/FunctionOpenCloseActivity.java" />
       <jump line="1392" column="6" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/util/BusinessUtils.java" />
@@ -286,6 +289,9 @@
       <jump line="89" column="19" filename="$USER_HOME$/workspace/dongdong/MBPPortalAndroid/mbp_sdk_android/src/main/java/cn/com/eightspace/mbp/sdk/Task.java" />
       <jump line="167" column="32" filename="$USER_HOME$/workspace/dongdong/MBPPortalAndroid/mbp_sdk_android/src/main/java/cn/com/eightspace/mbp/sdk/MbpQuery.java" />
       <jump line="190" column="0" filename="$USER_HOME$/workspace/dongdong/MBPPortalAndroid/mBPPortal/src/main/java/com/uuvalue/mbpportal/act/personcenter/LoginActivity.java" />
+      <jump line="15" column="24" filename="$USER_HOME$/Desktop/MBPPortalAndroid/mbp_sdk_android/src/main/java/cn/com/eightspace/mbp/sdk/MbpRelation.java" />
+      <jump line="87" column="0" filename="$USER_HOME$/Desktop/MBPPortalAndroid/mbp_sdk_android/src/main/java/cn/com/eightspace/mbp/sdk/MbpRelation.java" />
+      <jump line="367" column="2" filename="$USER_HOME$/Desktop/MBPPortalAndroid/mbp_sdk_android/src/main/java/cn/com/eightspace/mbp/sdk/MbpUser.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -338,7 +344,7 @@
       <last-replace>_d</last-replace>
       <last-substitute>_zg</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
