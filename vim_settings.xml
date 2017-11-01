@@ -242,8 +242,8 @@
         <mark key="[" line="24" column="42" />
         <mark key="]" line="24" column="60" />
       </file>
-      <file name="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/base/BaseActivity.java" timestamp="1509504213908">
-        <mark key="'" line="78" column="53" />
+      <file name="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/base/BaseActivity.java" timestamp="1509506065127">
+        <mark key="'" line="24" column="0" />
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
@@ -317,7 +317,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="35" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/res/layout/personal_center_change_text.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/res/layout/personal_center_change_text.xml" />
       <jump line="9" column="38" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/res/layout/change_pwd.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/res/layout/change_pwd.xml" />
@@ -417,6 +416,7 @@
       <jump line="48" column="0" filename="$USER_HOME$/workspace/dongdong/MBPPortalAndroid/mBPPortal/src/main/java/com/uuvalue/mbpportal/act/base/BaseActivity.java" />
       <jump line="80" column="55" filename="$USER_HOME$/workspace/DDian/app/src/main/res/layout/act_login.xml" />
       <jump line="157" column="0" filename="$USER_HOME$/workspace/DDian/app/src/main/res/layout/act_login.xml" />
+      <jump line="24" column="0" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/base/BaseActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
