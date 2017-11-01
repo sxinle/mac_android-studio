@@ -38,6 +38,7 @@
         <mark key="]" line="3" column="41" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/DDian/app/src/main/res/layout/act_add_customer.xml" timestamp="1509506537219" />
       <file name="$USER_HOME$/workspace/dongdong/MBPPortalAndroid/mBPPortal/src/main/res/drawable/blue_round_btn_selector.xml" timestamp="1509095220244">
         <mark key="'" line="0" column="14" />
         <mark key="[" line="0" column="0" />
@@ -98,6 +99,9 @@
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/base/CommonUtils.java" timestamp="1509506852995">
+        <mark key="'" line="1666" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/act/func/doc/OrgCloudFileActivity.java" timestamp="1508819548032">
         <mark key="'" line="765" column="12" />
       </file>
@@ -156,11 +160,11 @@
       <file name="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/java/com/neunn/mbpportal/bean/OrgBean.java" timestamp="1508119363198">
         <mark key="'" line="82" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/LoginActivity.java" timestamp="1509097540064">
-        <mark key="'" line="114" column="0" />
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="60" column="0" />
+      <file name="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/LoginActivity.java" timestamp="1509506549388">
+        <mark key="'" line="105" column="0" />
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/DDian/app/src/main/res/layout/act_login.xml" timestamp="1509097860791">
         <mark key="'" line="157" column="0" />
@@ -317,11 +321,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/res/layout/personal_center_change_text.xml" />
-      <jump line="9" column="38" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/res/layout/change_pwd.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mBPPortal/src/main/res/layout/change_pwd.xml" />
-      <jump line="174" column="52" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mbp_sdk_android/src/main/java/cn/com/eightspace/mbp/sdk/MbpQueryAdapter.java" />
-      <jump line="18" column="22" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mbp_sdk_android/src/main/java/cn/com/eightspace/mbp/sdk/MbpQueryAdapter.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mbp_sdk_android/src/main/java/cn/com/eightspace/mbp/sdk/MbpQueryAdapter.java" />
       <jump line="342" column="0" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mbp_sdk_android/src/main/java/cn/com/eightspace/mbp/sdk/MbpQueryAdapter.java" />
       <jump line="75" column="45" filename="$USER_HOME$/workspace/ddParse/MBPPortalAndroid/mbp_sdk_android/src/main/java/cn/com/eightspace/mbp/sdk/oauth/OAuth1FlowDialog.java" />
@@ -417,6 +416,11 @@
       <jump line="80" column="55" filename="$USER_HOME$/workspace/DDian/app/src/main/res/layout/act_login.xml" />
       <jump line="157" column="0" filename="$USER_HOME$/workspace/DDian/app/src/main/res/layout/act_login.xml" />
       <jump line="24" column="0" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/base/BaseActivity.java" />
+      <jump line="158" column="24" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/base/CommonUtils.java" />
+      <jump line="1667" column="0" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/base/CommonUtils.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/base/CommonUtils.java" />
+      <jump line="1591" column="23" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/base/CommonUtils.java" />
+      <jump line="1666" column="0" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/base/CommonUtils.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -432,31 +436,31 @@
         <text>CO_SildingFinishLayout</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L0xpbmVhckxheW91dD4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8TGluZWFyTGF5b3V0IGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCI+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8RWRpdFRleHQKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvdHh0X2lkIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0ibWF0Y2hfcGFyZW50IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfY2VudGVyVmVydGljYWw9InRydWUiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9hbGlnblBhcmVudFJpZ2h0PSJ0cnVlIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfdG9SaWdodE9mPSJAK2lkL3R4dF8xIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpkcmF3YWJsZVJpZ2h0PSJAZHJhd2FibGUvaWNvbl9kZWwiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmJhY2tncm91bmQ9IkBudWxsIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpncmF2aXR5PSJjZW50ZXJfdmVydGljYWwiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmhpbnQ9IumCrueuseWQjSh4eHhAdXV2YWx1ZS5jb20pIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpwYWRkaW5nTGVmdD0iMTVkcCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6cGFkZGluZ1JpZ2h0PSI0ZHAiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOnRleHRDb2xvcj0iQGNvbG9yL2RlZmF1bHRfY29sb3IiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOnRleHRDb2xvckhpbnQ9IkBjb2xvci9kZWZhdWx0X2NvbG9yX2hpbnQiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOnRleHRTaXplPSIxNmRwIi8+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUi5kcmF3YWJsZS5pY29uX2RlbAo=</text>
+        <text encoding="base64">Ci8vICAgICAgICAgICAgRHJhd2FibGUgZHJhd2FibGUxID0gZ2V0UmVzb3VyY2VzKCkuZ2V0RHJhd2FibGUoUi5kcmF3YWJsZS5pY29uX2RlbCk7Ci8vICAgICAgICAgICAgZHJhd2FibGUxLnNldEJvdW5kcygwLCAwLCA0MCwgNDApOy8v56ys5LiAMOaYr+i3neW3pui+uei3neemu++8jOesrOS6jDDmmK/ot53kuIrovrnot53nprvvvIw0MOWIhuWIq+aYr+mVv+WuvQovLyAgICAgICAgICAgIHR4dF9pZC5zZXRDb21wb3VuZERyYXdhYmxlcyhudWxsLCBudWxsLCBkcmF3YWJsZTEsIG51bGwpOwovLyAgICAgICAgICAgIHR4dF9wYXNzLnNldENvbXBvdW5kRHJhd2FibGVzKG51bGwsIG51bGwsIGRyYXdhYmxlMSwgbnVsbCk7Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHh0X2lkLmdldENvbXBvdW5kRHJhd2FibGVzKClbMl07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L0xpbmVhckxheW91dD4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8TGluZWFyTGF5b3V0IGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCI+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGxlZnREcmF3YWJsZSAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICBsZWZ0RHJhd2FibGUuc2V0Qm91bmRzKDAsIDAsIDYwLCA2MCk7CiAgICAgICAgICAgICAgICB0eHRfaWQuc2V0Q29tcG91bmREcmF3YWJsZXMobGVmdERyYXdhYmxlLCB0eHRfaWQuZ2V0Q29tcG91bmREcmF3YWJsZXMoKVsxXSwgdHh0X2lkLmdldENvbXBvdW5kRHJhd2FibGVzKClbMl0sIHR4dF9pZC5nZXRDb21wb3VuZERyYXdhYmxlcygpWzNdKTsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRHJhd2FibGUgbGVmdERyYXdhYmxlID0gdHh0X2lkLmdldENvbXBvdW5kRHJhd2FibGVzKClbMF07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8RWRpdFRleHQKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvdHh0X2lkIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0ibWF0Y2hfcGFyZW50IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfY2VudGVyVmVydGljYWw9InRydWUiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9hbGlnblBhcmVudFJpZ2h0PSJ0cnVlIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfdG9SaWdodE9mPSJAK2lkL3R4dF8xIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpkcmF3YWJsZVJpZ2h0PSJAZHJhd2FibGUvaWNvbl9kZWwiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmJhY2tncm91bmQ9IkBudWxsIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpncmF2aXR5PSJjZW50ZXJfdmVydGljYWwiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmhpbnQ9IumCrueuseWQjSh4eHhAdXV2YWx1ZS5jb20pIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpwYWRkaW5nTGVmdD0iMTVkcCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6cGFkZGluZ1JpZ2h0PSI0ZHAiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOnRleHRDb2xvcj0iQGNvbG9yL2RlZmF1bHRfY29sb3IiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOnRleHRDb2xvckhpbnQ9IkBjb2xvci9kZWZhdWx0X2NvbG9yX2hpbnQiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOnRleHRTaXplPSIxNmRwIi8+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
