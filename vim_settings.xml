@@ -3,56 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/HomeActivity.java" timestamp="1509512280957">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/DDian/app/src/main/res/values/dimens.xml" timestamp="1509510813988">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="31" column="36" />
-        <mark key="]" line="32" column="3" />
-        <mark key="." line="32" column="3" />
-        <mark key="^" line="32" column="3" />
-      </file>
-      <file name="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/frag/fragment/MainFragment.java" timestamp="1509512050750">
-        <mark key="'" line="101" column="54" />
-        <mark key="[" line="77" column="95" />
-        <mark key="]" line="77" column="95" />
-        <mark key="." line="77" column="95" />
-        <mark key="^" line="77" column="88" />
-      </file>
-      <file name="$USER_HOME$/workspace/dongdong/MBPPortalAndroid/mBPPortal/src/main/java/com/uuvalue/mbpportal/receiver/PushReceiver.java" timestamp="1508993356996">
-        <mark key="'" line="322" column="41" />
-        <mark key="[" line="314" column="0" />
-        <mark key="]" line="314" column="0" />
-        <mark key="." line="314" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/frag/fragment/third/WechatThirdTabFragment.java" timestamp="1509511524412">
-        <mark key="'" line="49" column="4" />
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/DDian/app/src/main/res/values/strings.xml" timestamp="1509095844339">
-        <mark key="[" line="1" column="28" />
-        <mark key="]" line="1" column="29" />
-        <mark key="." line="1" column="29" />
-        <mark key="^" line="1" column="29" />
-      </file>
-      <file name="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/base/BaseMainFragment.java" timestamp="1509511447490">
-        <mark key="'" line="52" column="0" />
-        <mark key="[" line="12" column="38" />
-        <mark key="]" line="12" column="38" />
-        <mark key="." line="12" column="38" />
-      </file>
-      <file name="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/frag/MainFragment.java" timestamp="1509512267073">
-        <mark key="'" line="116" column="0" />
-        <mark key="[" line="63" column="50" />
-        <mark key="]" line="63" column="50" />
-        <mark key="." line="63" column="50" />
-        <mark key="^" line="47" column="57" />
-      </file>
       <file name="$USER_HOME$/workspace/DDian/app/src/main/res/layout/act_login.xml" timestamp="1509097860791">
         <mark key="'" line="157" column="0" />
         <mark key="[" line="62" column="0" />
@@ -60,76 +10,22 @@
         <mark key="." line="62" column="0" />
         <mark key="^" line="46" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/DDian/app/src/main/res/layout/activity_loading.xml" timestamp="1509094362479">
-        <mark key="[" line="17" column="33" />
-        <mark key="]" line="17" column="33" />
-        <mark key="." line="17" column="33" />
-        <mark key="^" line="17" column="48" />
-      </file>
-      <file name="$USER_HOME$/workspace/DDian/app/src/main/res/layout/wechat_fragment_tab_first_msg.xml" timestamp="1509511692419">
-        <mark key="[" line="41" column="26" />
-        <mark key="]" line="41" column="25" />
-        <mark key="." line="41" column="25" />
-        <mark key="^" line="41" column="25" />
-      </file>
-      <file name="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/tools/LogUtils.java" timestamp="1509072973577">
-        <mark key="'" line="49" column="0" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/base/BaseActivity.java" timestamp="1509506065127">
-        <mark key="'" line="24" column="0" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/DDian/app/src/main/res/layout/wechat_fragment_tab_second.xml" timestamp="1509511742858">
-        <mark key="[" line="17" column="43" />
-        <mark key="]" line="17" column="42" />
-        <mark key="." line="17" column="42" />
-        <mark key="^" line="17" column="42" />
-      </file>
-      <file name="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/frag/fragment/second/WechatSecondTabFragment.java" timestamp="1509511499852">
-        <mark key="'" line="2" column="7" />
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="^" line="44" column="34" />
-        <mark key="." line="53" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/dongdong/MBPPortalAndroid/mBPPortal/src/main/java/com/uuvalue/mbpportal/act/personcenter/LoginActivity.java" timestamp="1509095062358">
-        <mark key="'" line="28" column="2" />
-        <mark key="[" line="29" column="27" />
-        <mark key="]" line="29" column="27" />
-        <mark key="." line="29" column="27" />
-      </file>
-      <file name="$USER_HOME$/workspace/demo/Fragmentation/demo/build.gradle" timestamp="1509511757940">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="52" />
-      </file>
-      <file name="$USER_HOME$/workspace/DDian/app/src/main/res/drawable/btn_return_selector.xml" timestamp="1509095760457">
-        <mark key="[" line="11" column="36" />
-        <mark key="]" line="11" column="46" />
-        <mark key="." line="4" column="65" />
-        <mark key="^" line="4" column="68" />
-      </file>
-      <file name="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/frag/TabFragment.java" timestamp="1509512271714">
-        <mark key="'" line="336" column="0" />
-        <mark key="[" line="304" column="0" />
-        <mark key="]" line="304" column="0" />
-        <mark key="." line="304" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/frag/fragment/second/ViewFragment.java" timestamp="1509511915663">
-        <mark key="[" line="28" column="46" />
-        <mark key="]" line="28" column="65" />
-        <mark key="." line="9" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/demo/Fragmentation/demo/src/main/res/layout/wechat_fragment_tab_second.xml" timestamp="1509511801498">
         <mark key="[" line="16" column="72" />
         <mark key="]" line="16" column="14" />
         <mark key="^" line="16" column="14" />
         <mark key="." line="16" column="14" />
+      </file>
+      <file name="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/HomeActivity.java" timestamp="1509512280957">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/DDian/app/src/main/res/layout/activity_loading.xml" timestamp="1509094362479">
+        <mark key="[" line="17" column="33" />
+        <mark key="]" line="17" column="33" />
+        <mark key="." line="17" column="33" />
+        <mark key="^" line="17" column="48" />
       </file>
       <file name="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/LoadingActivity.java" timestamp="1509096702199">
         <mark key="'" line="29" column="0" />
@@ -145,6 +41,72 @@
         <mark key="." line="37" column="14" />
         <mark key="^" line="44" column="15" />
       </file>
+      <file name="$USER_HOME$/workspace/dongdong/MBPPortalAndroid/mBPPortal/build.gradle" timestamp="1508996430386">
+        <mark key="'" line="56" column="0" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
+        <mark key="^" line="39" column="45" />
+      </file>
+      <file name="$USER_HOME$/Desktop/MBPPortalAndroid/mBPPortal/src/main/AndroidManifest.xml" timestamp="1508998316649">
+        <mark key="'" line="56" column="3" />
+        <mark key="[" line="350" column="45" />
+        <mark key="]" line="350" column="62" />
+        <mark key="." line="350" column="62" />
+        <mark key="^" line="350" column="62" />
+      </file>
+      <file name="$USER_HOME$/workspace/DDian/app/src/main/res/values/dimens.xml" timestamp="1509510813988">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="31" column="36" />
+        <mark key="]" line="32" column="3" />
+        <mark key="." line="32" column="3" />
+        <mark key="^" line="32" column="3" />
+      </file>
+      <file name="$USER_HOME$/workspace/dongdong/MBPPortalAndroid/cH_sldinglibrary/src/main/java/com/jeremyfeinstein/slidingmenu/lib/CustomViewAbove.java" timestamp="1508993335875">
+        <mark key="'" line="276" column="26" />
+        <mark key="[" line="289" column="23" />
+        <mark key="]" line="289" column="26" />
+        <mark key="." line="289" column="26" />
+        <mark key="^" line="289" column="26" />
+      </file>
+      <file name="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/frag/fragment/MainFragment.java" timestamp="1509512050750">
+        <mark key="'" line="101" column="54" />
+        <mark key="[" line="77" column="95" />
+        <mark key="]" line="77" column="95" />
+        <mark key="." line="77" column="95" />
+        <mark key="^" line="77" column="88" />
+      </file>
+      <file name="$USER_HOME$/workspace/dongdong/MBPPortalAndroid/mBPPortal/src/main/java/com/uuvalue/mbpportal/receiver/PushReceiver.java" timestamp="1508993356996">
+        <mark key="'" line="322" column="41" />
+        <mark key="[" line="314" column="0" />
+        <mark key="]" line="314" column="0" />
+        <mark key="." line="314" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/DDian/app/src/main/res/layout/wechat_fragment_tab_first_msg.xml" timestamp="1509511692419">
+        <mark key="[" line="41" column="26" />
+        <mark key="]" line="41" column="25" />
+        <mark key="." line="41" column="25" />
+        <mark key="^" line="41" column="25" />
+      </file>
+      <file name="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/tools/LogUtils.java" timestamp="1509072973577">
+        <mark key="'" line="49" column="0" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/DDian/app/src/main/res/values/colors.xml" timestamp="1509511654788">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="133" column="4" />
+        <mark key="]" line="134" column="40" />
+        <mark key="." line="133" column="0" />
+        <mark key="^" line="132" column="3" />
+      </file>
+      <file name="$USER_HOME$/workspace/dongdong/MBPPortalAndroid/mBPPortal/src/main/java/com/uuvalue/mbpportal/act/base/BaseActivity.java" timestamp="1509097017129">
+        <mark key="'" line="48" column="0" />
+        <mark key="[" line="136" column="0" />
+        <mark key="]" line="136" column="35" />
+        <mark key="." line="686" column="7" />
+      </file>
       <file name="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/frag/fragment/first/MsgFragment.java" timestamp="1509511201483">
         <mark key="'" line="67" column="4" />
         <mark key="[" line="20" column="0" />
@@ -152,11 +114,23 @@
         <mark key="^" line="45" column="18" />
         <mark key="." line="20" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/base/BaseActivity.java" timestamp="1509506065127">
+        <mark key="'" line="24" column="0" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/DDian/app/src/main/res/drawable/blue_round_btn_selector.xml" timestamp="1509095238765">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/frag/fragment/third/WechatThirdTabFragment.java" timestamp="1509511524412">
+        <mark key="'" line="49" column="4" />
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/DDian/app/build.gradle" timestamp="1509511768585">
         <mark key="'" line="19" column="0" />
@@ -171,11 +145,30 @@
         <mark key="^" line="7" column="3" />
         <mark key="." line="7" column="3" />
       </file>
+      <file name="$USER_HOME$/workspace/DDian/app/src/main/res/values/strings.xml" timestamp="1509095844339">
+        <mark key="[" line="1" column="28" />
+        <mark key="]" line="1" column="29" />
+        <mark key="." line="1" column="29" />
+        <mark key="^" line="1" column="29" />
+      </file>
       <file name="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/frag/fragment/first/WechatFirstTabFragment.java" timestamp="1509511415126">
         <mark key="'" line="100" column="0" />
         <mark key="[" line="99" column="0" />
         <mark key="]" line="99" column="0" />
         <mark key="." line="99" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/DDian/app/src/main/res/layout/wechat_fragment_tab_second.xml" timestamp="1509511742858">
+        <mark key="[" line="17" column="43" />
+        <mark key="]" line="17" column="42" />
+        <mark key="." line="17" column="42" />
+        <mark key="^" line="17" column="42" />
+      </file>
+      <file name="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/frag/fragment/second/WechatSecondTabFragment.java" timestamp="1509511499852">
+        <mark key="'" line="2" column="7" />
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="^" line="44" column="34" />
+        <mark key="." line="53" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/DDian/app/src/main/res/layout/activity_base.xml" timestamp="1509096029342">
         <mark key="'" line="41" column="0" />
@@ -195,10 +188,68 @@
         <mark key="^" line="14" column="9" />
         <mark key="." line="14" column="68" />
       </file>
+      <file name="$USER_HOME$/workspace/dongdong/MBPPortalAndroid/mBPPortal/src/main/java/com/uuvalue/mbpportal/act/personcenter/LoginActivity.java" timestamp="1509095062358">
+        <mark key="'" line="28" column="2" />
+        <mark key="[" line="29" column="27" />
+        <mark key="]" line="29" column="27" />
+        <mark key="." line="29" column="27" />
+      </file>
       <file name="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/base/BaseHomeActivity.java" timestamp="1509507898624">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/base/BaseMainFragment.java" timestamp="1509511447490">
+        <mark key="'" line="52" column="0" />
+        <mark key="[" line="12" column="38" />
+        <mark key="]" line="12" column="38" />
+        <mark key="." line="12" column="38" />
+      </file>
+      <file name="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/widget/BottomBarTab.java" timestamp="1509511679334">
+        <mark key="'" line="78" column="40" />
+        <mark key="[" line="80" column="56" />
+        <mark key="]" line="80" column="68" />
+        <mark key="." line="63" column="68" />
+        <mark key="^" line="63" column="68" />
+      </file>
+      <file name="$USER_HOME$/workspace/demo/Fragmentation/demo/build.gradle" timestamp="1509511757940">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="52" />
+      </file>
+      <file name="$USER_HOME$/workspace/DDian/app/src/main/AndroidManifest.xml" timestamp="1509096744521">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="23" column="72" />
+        <mark key="]" line="24" column="61" />
+        <mark key="." line="24" column="61" />
+        <mark key="^" line="24" column="61" />
+      </file>
+      <file name="$USER_HOME$/workspace/DDian/app/src/main/res/drawable/btn_return_selector.xml" timestamp="1509095760457">
+        <mark key="[" line="11" column="36" />
+        <mark key="]" line="11" column="46" />
+        <mark key="." line="4" column="65" />
+        <mark key="^" line="4" column="68" />
+      </file>
+      <file name="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/frag/TabFragment.java" timestamp="1509512271714">
+        <mark key="'" line="336" column="0" />
+        <mark key="[" line="304" column="0" />
+        <mark key="]" line="304" column="0" />
+        <mark key="." line="304" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/frag/fragment/second/ViewFragment.java" timestamp="1509511915663">
+        <mark key="[" line="28" column="46" />
+        <mark key="]" line="28" column="65" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/frag/WechatFirstTabFragment.java" timestamp="1509512836452">
+        <mark key="'" line="100" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/DDian/app/src/main/res/values/styles.xml" timestamp="1509511843899">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="8" column="12" />
+        <mark key="]" line="9" column="3" />
+        <mark key="." line="9" column="3" />
+        <mark key="^" line="9" column="3" />
       </file>
       <file name="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/LoginActivity.java" timestamp="1509507039357">
         <mark key="[" line="97" column="55" />
@@ -211,60 +262,12 @@
         <mark key="]" line="13" column="68" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/dongdong/MBPPortalAndroid/mBPPortal/build.gradle" timestamp="1508996430386">
-        <mark key="'" line="56" column="0" />
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
-        <mark key="^" line="39" column="45" />
-      </file>
-      <file name="$USER_HOME$/Desktop/MBPPortalAndroid/mBPPortal/src/main/AndroidManifest.xml" timestamp="1508998316649">
-        <mark key="'" line="56" column="3" />
-        <mark key="[" line="350" column="45" />
-        <mark key="]" line="350" column="62" />
-        <mark key="." line="350" column="62" />
-        <mark key="^" line="350" column="62" />
-      </file>
-      <file name="$USER_HOME$/workspace/dongdong/MBPPortalAndroid/cH_sldinglibrary/src/main/java/com/jeremyfeinstein/slidingmenu/lib/CustomViewAbove.java" timestamp="1508993335875">
-        <mark key="'" line="276" column="26" />
-        <mark key="[" line="289" column="23" />
-        <mark key="]" line="289" column="26" />
-        <mark key="." line="289" column="26" />
-        <mark key="^" line="289" column="26" />
-      </file>
-      <file name="$USER_HOME$/workspace/DDian/app/src/main/res/values/colors.xml" timestamp="1509511654788">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="133" column="4" />
-        <mark key="]" line="134" column="40" />
-        <mark key="." line="133" column="0" />
-        <mark key="^" line="132" column="3" />
-      </file>
-      <file name="$USER_HOME$/workspace/dongdong/MBPPortalAndroid/mBPPortal/src/main/java/com/uuvalue/mbpportal/act/base/BaseActivity.java" timestamp="1509097017129">
-        <mark key="'" line="48" column="0" />
-        <mark key="[" line="136" column="0" />
-        <mark key="]" line="136" column="35" />
-        <mark key="." line="686" column="7" />
-      </file>
-      <file name="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/widget/BottomBarTab.java" timestamp="1509511679334">
-        <mark key="'" line="78" column="40" />
-        <mark key="[" line="80" column="56" />
-        <mark key="]" line="80" column="68" />
-        <mark key="." line="63" column="68" />
-        <mark key="^" line="63" column="68" />
-      </file>
-      <file name="$USER_HOME$/workspace/DDian/app/src/main/AndroidManifest.xml" timestamp="1509096744521">
-        <mark key="'" line="22" column="0" />
-        <mark key="[" line="23" column="72" />
-        <mark key="]" line="24" column="61" />
-        <mark key="." line="24" column="61" />
-        <mark key="^" line="24" column="61" />
-      </file>
-      <file name="$USER_HOME$/workspace/DDian/app/src/main/res/values/styles.xml" timestamp="1509511843899">
-        <mark key="'" line="4" column="0" />
-        <mark key="[" line="8" column="12" />
-        <mark key="]" line="9" column="3" />
-        <mark key="." line="9" column="3" />
-        <mark key="^" line="9" column="3" />
+      <file name="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/frag/MainFragment.java" timestamp="1509512267073">
+        <mark key="'" line="116" column="0" />
+        <mark key="[" line="63" column="50" />
+        <mark key="]" line="63" column="50" />
+        <mark key="." line="63" column="50" />
+        <mark key="^" line="47" column="57" />
       </file>
       <file name="/fragment.java" timestamp="1509512185149">
         <mark key="[" line="0" column="28" />
@@ -273,8 +276,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="50" filename="$USER_HOME$/workspace/dongdong/MBPPortalAndroid/mBPPortal/src/main/res/values/dimens.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/dongdong/MBPPortalAndroid/mBPPortal/src/main/res/values/dimens.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/DDian/app/src/main/res/values/dimens.xml" />
       <jump line="32" column="0" filename="$USER_HOME$/workspace/DDian/app/src/main/res/values/dimens.xml" />
       <jump line="29" column="0" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/LoadingActivity.java" />
@@ -373,6 +374,8 @@
       <jump line="116" column="0" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/frag/MainFragment.java" />
       <jump line="46" column="0" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/frag/TabFragment.java" />
       <jump line="336" column="0" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/frag/TabFragment.java" />
+      <jump line="30" column="34" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/frag/WechatFirstTabFragment.java" />
+      <jump line="100" column="0" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/frag/WechatFirstTabFragment.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
