@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="avatar" />
+      <item value="头像" />
+      <item value="avendar" />
+      <item value="image Loader" />
       <item value="need" />
       <item value="descendant" />
       <item value="Command Delegate" />
