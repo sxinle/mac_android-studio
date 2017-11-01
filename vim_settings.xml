@@ -242,7 +242,7 @@
         <mark key="[" line="24" column="42" />
         <mark key="]" line="24" column="60" />
       </file>
-      <file name="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/base/BaseActivity.java" timestamp="1509097143298">
+      <file name="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/base/BaseActivity.java" timestamp="1509504213908">
         <mark key="'" line="78" column="53" />
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -469,7 +469,7 @@
       <last-replace>_d</last-replace>
       <last-substitute>_zg</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
