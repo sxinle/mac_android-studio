@@ -184,11 +184,11 @@
       <file name="$USER_HOME$/workspace/DDian/build.gradle" timestamp="1509522817032">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/LoginActivity.java" timestamp="1509536117545">
+      <file name="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/LoginActivity.java" timestamp="1509590503339">
         <mark key="'" line="68" column="53" />
-        <mark key="[" line="60" column="8" />
-        <mark key="]" line="63" column="17" />
-        <mark key="." line="59" column="0" />
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="." line="68" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/base/BaseBackFragment.java" timestamp="1509511022916">
         <mark key="[" line="13" column="45" />
@@ -517,55 +517,53 @@
         <text>scores</text>
       </register>
       <register name="/" type="4">
-        <text>= null</text>
+        <text>time</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIG9yZ0JlYW4ucHV0KCJvcmdJZCIsIG1lLmdldFN0cmluZygib3JnSWQiKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zCg==</text>
+        <text encoding="base64">ICAgICAgICBQYXJzZUNvbmZpZy5nZXQoKS4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgUGFyc2VPYmplY3Qgb3JnSW5mbzsK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgUGFyc2VPYmplY3Qgb3JnSW5mbzsK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoIWZyb21Mb2NhbCkgewogICAgICAgICAgICAgICAgCiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzdWx0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYoIWZyb21Mb2NhbCkgewogICAgICAgICAgICAgICAgCiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzdWx0Owo=</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBQYXJzZU9iamVjdCByZXN1bHQgPSBudWxsOwo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">LmZpbmQobmV3IEZpbmRDYWxsYmFjazxQYXJzZU9iamVjdD4oKSB7CiAgICAgICAgICAgIHB1YmxpYyB2b2lkIGRvbmUoTGlzdDxQYXJzZU9iamVjdD4gc2NvcmVMaXN0LCBQYXJzZUV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICBpZiAoc2NvcmVMaXN0ICE9IG51bGwgJiYgIXNjb3JlTGlzdC5pc0VtcHR5KCkpIHsKICAgICAgICAgICAgICAgICAgICByZXN1bHQgPSBzY29yZUxpc3QuZ2V0KDApOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfSk7</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>= null</last-search>
+      <last-search>time</last-search>
       <last-offset />
-      <last-pattern>= null</last-pattern>
+      <last-pattern>time</last-pattern>
       <last-replace />
       <last-substitute>= null</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>activity</entry>
-        <entry>v4</entry>
         <entry>cloud</entry>
         <entry encoding="base64">XDxQYXJzZUNsb3VkXD4=</entry>
         <entry>call</entry>
@@ -584,6 +582,8 @@
         <entry>company</entry>
         <entry encoding="base64">XDxybF9vcmdfcm9vdFw+</entry>
         <entry>= null</entry>
+        <entry>timeout</entry>
+        <entry>time</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL21pZC9sb3cvZw==</entry>
