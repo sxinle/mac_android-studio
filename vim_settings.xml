@@ -10,8 +10,8 @@
         <mark key="." line="6" column="3" />
         <mark key="^" line="6" column="3" />
       </file>
-      <file name="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/LoadingActivity.java" timestamp="1509616831202">
-        <mark key="'" line="30" column="0" />
+      <file name="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/LoadingActivity.java" timestamp="1509618063753">
+        <mark key="'" line="47" column="49" />
         <mark key="[" line="48" column="113" />
         <mark key="]" line="48" column="125" />
         <mark key="^" line="48" column="125" />
@@ -71,7 +71,7 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/me.yokeyword/fragmentation/1.1.7/fc584bec6b133c7b7810e7354d04744bfaf6e58f/fragmentation-1.1.7-sources.jar!/me/yokeyword/fragmentation/SupportActivity.java" timestamp="1509518414350">
         <mark key="'" line="119" column="16" />
       </file>
-      <file name="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/ContactsActivity.java" timestamp="1509617958674">
+      <file name="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/ContactsActivity.java" timestamp="1509618055630">
         <mark key="'" line="111" column="18" />
         <mark key="[" line="61" column="0" />
         <mark key="]" line="61" column="0" />
@@ -280,7 +280,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/DDian/app/src/main/res/layout/view_tab_contacts_list.xml" />
       <jump line="35" column="45" filename="$USER_HOME$/workspace/DDian/app/src/main/res/layout/contacts_fragment.xml" />
       <jump line="1" column="0" filename="$USER_HOME$/workspace/DDian/app/src/main/res/layout/contacts_fragment.xml" />
       <jump line="38" column="51" filename="$USER_HOME$/workspace/DDian/app/src/main/res/layout/view_person_center_new.xml" />
@@ -380,6 +379,7 @@
       <jump line="38" column="24" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/frag/ContactsFragment.java" />
       <jump line="103" column="18" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/ContactsActivity.java" />
       <jump line="17" column="21" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/base/BaseActivity.java" />
+      <jump line="47" column="49" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/LoadingActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
