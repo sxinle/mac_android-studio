@@ -58,8 +58,8 @@
         <mark key="[" line="234" column="0" />
         <mark key="]" line="235" column="62" />
       </file>
-      <file name="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/ContactsActivity.java" timestamp="1509592808404">
-        <mark key="'" line="193" column="67" />
+      <file name="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/ContactsActivity.java" timestamp="1509601933407">
+        <mark key="'" line="217" column="35" />
         <mark key="[" line="61" column="0" />
         <mark key="]" line="61" column="0" />
         <mark key="^" line="38" column="18" />
@@ -480,7 +480,6 @@
       <jump line="63" column="0" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/ContactsActivity.java" />
       <jump line="37" column="12" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/ContactsActivity.java" />
       <jump line="39" column="14" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/ContactsActivity.java" />
-      <jump line="217" column="51" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/ContactsActivity.java" />
       <jump line="38" column="59" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/ContactsActivity.java" />
       <jump line="106" column="24" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/frag/ContactsFragment.java" />
       <jump line="67" column="18" filename="$USER_HOME$/workspace/DDian/app/src/main/res/values/strings.xml" />
@@ -489,6 +488,7 @@
       <jump line="79" column="19" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/LoginActivity.java" />
       <jump line="55" column="23" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/LoginActivity.java" />
       <jump line="267" column="36" filename="$USER_HOME$/workspace/dongdong/MBPPortalAndroid/mBPPortal/src/main/java/com/uuvalue/mbpportal/act/tab/ContactListFragment.java" />
+      <jump line="217" column="35" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/ContactsActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
