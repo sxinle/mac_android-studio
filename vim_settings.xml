@@ -8,6 +8,9 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="/a.dummy" timestamp="1509519375699">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/DDian/app/src/main/res/values/dimens.xml" timestamp="1509510813988">
         <mark key="'" line="3" column="0" />
         <mark key="[" line="31" column="36" />
@@ -357,6 +360,9 @@
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1509536186224">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/widget/BottomBarTab.java" timestamp="1509528325078">
         <mark key="'" line="75" column="40" />
