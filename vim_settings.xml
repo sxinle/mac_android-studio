@@ -52,21 +52,11 @@
         <mark key="." line="32" column="3" />
         <mark key="^" line="32" column="3" />
       </file>
-      <file name="$USER_HOME$/workspace/DDian/app/src/main/res/layout/view_tab_contacts_list.xml" timestamp="1509519332734">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="257" column="16" />
-      </file>
       <file name="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/base/BusinessUtils.java" timestamp="1509526164492">
         <mark key="'" line="858" column="68" />
         <mark key="[" line="29" column="38" />
         <mark key="]" line="29" column="50" />
         <mark key="." line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/dongdong/MBPPortalAndroid/mBPPortal/src/main/java/com/uuvalue/mbpportal/act/base/BaseFragment.java" timestamp="1509529010579">
-        <mark key="'" line="54" column="25" />
-        <mark key="[" line="234" column="0" />
-        <mark key="]" line="235" column="62" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/me.yokeyword/fragmentation/1.1.7/fc584bec6b133c7b7810e7354d04744bfaf6e58f/fragmentation-1.1.7-sources.jar!/me/yokeyword/fragmentation/SupportActivity.java" timestamp="1509518414350">
         <mark key="'" line="119" column="16" />
@@ -98,11 +88,6 @@
         <mark key="]" line="77" column="95" />
         <mark key="." line="77" column="95" />
         <mark key="^" line="77" column="88" />
-      </file>
-      <file name="$USER_HOME$/workspace/DDian/app/src/main/res/layout/view_person_center_new.xml" timestamp="1509519391936">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="317" column="14" />
       </file>
       <file name="$USER_HOME$/workspace/DDian/app/src/main/res/values/colors.xml" timestamp="1509511654788">
         <mark key="'" line="0" column="0" />
@@ -267,11 +252,6 @@
         <mark key="]" line="63" column="0" />
         <mark key="^" line="70" column="32" />
         <mark key="." line="63" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/dongdong/MBPPortalAndroid/mBPPortal/src/main/java/com/uuvalue/mbpportal/act/tab/ContactListFragment.java" timestamp="1509592631431">
-        <mark key="'" line="267" column="36" />
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="126" column="67" />
       </file>
       <file name="/fragment.java" timestamp="1509611562016">
         <mark key="[" line="0" column="0" />
