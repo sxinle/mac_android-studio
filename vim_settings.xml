@@ -193,6 +193,12 @@
         <mark key="." line="176" column="8" />
         <mark key="^" line="176" column="8" />
       </file>
+      <file name="$USER_HOME$/workspace/demo/vidyorebuild/app/build.gradle" timestamp="1509619433771">
+        <mark key="[" line="25" column="44" />
+        <mark key="]" line="25" column="45" />
+        <mark key="." line="25" column="45" />
+        <mark key="^" line="25" column="45" />
+      </file>
       <file name="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/frag/ChatContactListFragment.java" timestamp="1509517230387">
         <mark key="'" line="293" column="4" />
       </file>
@@ -366,7 +372,7 @@
         <text>基本废物......</text>
       </register>
       <register name="-" type="4">
-        <text>!</text>
+        <text>8</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0aXRsZVw+</text>
@@ -412,7 +418,7 @@
       <last-replace />
       <last-substitute>= null</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
