@@ -136,12 +136,12 @@
         <mark key="." line="27" column="40" />
         <mark key="^" line="27" column="48" />
       </file>
-      <file name="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/adapter/ContactListViewAdapter.java" timestamp="1509617652180">
+      <file name="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/adapter/ContactListViewAdapter.java" timestamp="1509691391692">
         <mark key="'" line="143" column="16" />
-        <mark key="[" line="86" column="22" />
-        <mark key="]" line="86" column="27" />
-        <mark key="^" line="86" column="27" />
-        <mark key="." line="86" column="27" />
+        <mark key="[" line="119" column="58" />
+        <mark key="]" line="119" column="58" />
+        <mark key="^" line="119" column="58" />
+        <mark key="." line="119" column="58" />
       </file>
       <file name="$USER_HOME$/workspace/DDian/app/build.gradle" timestamp="1509526051646">
         <mark key="'" line="23" column="52" />
@@ -270,9 +270,11 @@
         <mark key="]" line="0" column="28" />
         <mark key="." line="0" column="27" />
       </file>
+      <file name="$USER_HOME$/workspace/dongdong/MBPPortalAndroid/mBPPortal/src/main/java/com/uuvalue/mbpportal/act/tab/ContactListFragment.java" timestamp="1509691305090">
+        <mark key="'" line="222" column="12" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="14" filename="$USER_HOME$/workspace/DDian/app/src/main/res/layout/user_fragment.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/DDian/app/src/main/res/layout/user_fragment.xml" />
       <jump line="26" column="21" filename="$USER_HOME$/workspace/DDian/app/src/main/res/layout/view_tab_services_list.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/DDian/app/src/main/res/layout/view_tab_services_list.xml" />
@@ -372,16 +374,17 @@
       <jump line="50" column="12" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/frag/ContactsFragment.java" />
       <jump line="1" column="0" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/frag/ContactsFragment.java" />
       <jump line="149" column="0" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/frag/ContactsFragment.java" />
+      <jump line="222" column="12" filename="$USER_HOME$/workspace/dongdong/MBPPortalAndroid/mBPPortal/src/main/java/com/uuvalue/mbpportal/act/tab/ContactListFragment.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>基本废物......</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>.split(&quot;@&quot;)[0]);</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0aXRsZVw+</text>
+        <text>replace</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICJjb25kaXRpb25zIjogWwogICAgICAgICAgICB7CiAgICAgICAgICAgICAgInR5cGUiOiAiZnJvbnRtb3N0X2FwcGxpY2F0aW9uX2lmIiwKICAgICAgICAgICAgICAiYnVuZGxlX2lkZW50aWZpZXJzIjogWwogICAgICAgICAgICAgICAgImNvbS5qZXRicmFpbnMuaW50ZWxsaWoiLAogICAgICAgICAgICAgICAgImNvbS5nb29nbGUuYW5kcm9pZC5zdHVkaW8iLAogICAgICAgICAgICAgICAgImNvbS5qZXRicmFpbnMuV2ViU3Rvcm0iCiAgICAgICAgICAgICAgXQogICAgICAgICAgICB9CiAgICAgICAgICBdCg==</text>
@@ -418,17 +421,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0aXRsZVw+</last-search>
+      <last-search>replace</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0aXRsZVw+</last-pattern>
+      <last-pattern>replace</last-pattern>
       <last-replace />
       <last-substitute>= null</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxFdmVudEJ1c0FjdGl2aXR5U2NvcGVcPg==</entry>
         <entry>title</entry>
         <entry>left</entry>
         <entry encoding="base64">XDxGdW5jdGlvbkJlYW5cPg==</entry>
@@ -448,6 +450,7 @@
         <entry>click</entry>
         <entry encoding="base64">XDxvcmdJbmZvXD4=</entry>
         <entry encoding="base64">XDx0aXRsZVw+</entry>
+        <entry>replace</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL21pZC9sb3cvZw==</entry>
