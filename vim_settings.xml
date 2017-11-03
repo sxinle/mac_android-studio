@@ -24,12 +24,12 @@
         <mark key="." line="902" column="0" />
         <mark key="^" line="902" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/App.java" timestamp="1509688017002">
+      <file name="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/App.java" timestamp="1509693002810">
         <mark key="'" line="240" column="0" />
-        <mark key="[" line="31" column="40" />
-        <mark key="]" line="31" column="41" />
-        <mark key="." line="31" column="41" />
-        <mark key="^" line="31" column="41" />
+        <mark key="[" line="31" column="43" />
+        <mark key="]" line="31" column="45" />
+        <mark key="." line="31" column="45" />
+        <mark key="^" line="31" column="45" />
       </file>
       <file name="$USER_HOME$/workspace/dongdong/MBPPortalAndroid/mBPPortal/build.gradle" timestamp="1508996430386">
         <mark key="'" line="56" column="0" />
@@ -60,6 +60,9 @@
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/me.yokeyword/fragmentation/1.1.7/fc584bec6b133c7b7810e7354d04744bfaf6e58f/fragmentation-1.1.7-sources.jar!/me/yokeyword/fragmentation/SupportActivity.java" timestamp="1509518414350">
         <mark key="'" line="119" column="16" />
+      </file>
+      <file name="$USER_HOME$/workspace/dongdong/MBPPortalAndroid/mBPPortal/src/main/java/com/uuvalue/mbpportal/act/friend/ContactDetailActivity.java" timestamp="1509693551702">
+        <mark key="'" line="141" column="54" />
       </file>
       <file name="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/ContactsActivity.java" timestamp="1509618055630">
         <mark key="'" line="111" column="18" />
@@ -171,7 +174,7 @@
         <mark key="^" line="44" column="34" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509618001750">
+      <file name="/Dummy.txt" timestamp="1509693533583">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/DDian/app/src/main/res/layout/activity_base.xml" timestamp="1509096029342">
@@ -188,12 +191,8 @@
         <mark key="." line="19" column="23" />
         <mark key="^" line="52" column="52" />
       </file>
-      <file name="$USER_HOME$/workspace/dongdong/MBPPortalAndroid/mBPPortal/src/main/AndroidManifest.xml" timestamp="1509609846994">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="57" column="65" />
-      </file>
-      <file name="$USER_HOME$/workspace/dongdong/MBPPortalAndroid/mBPPortal/src/main/java/com/uuvalue/mbpportal/adapter/ContactListViewAdapter.java" timestamp="1509612892766">
-        <mark key="'" line="73" column="24" />
+      <file name="$USER_HOME$/workspace/dongdong/MBPPortalAndroid/mBPPortal/src/main/java/com/uuvalue/mbpportal/adapter/ContactListViewAdapter.java" timestamp="1509693328337">
+        <mark key="'" line="8" column="27" />
         <mark key="[" line="176" column="0" />
         <mark key="]" line="176" column="80" />
         <mark key="." line="176" column="8" />
@@ -275,21 +274,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/DDian/app/src/main/res/layout/user_fragment.xml" />
-      <jump line="26" column="21" filename="$USER_HOME$/workspace/DDian/app/src/main/res/layout/view_tab_services_list.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/DDian/app/src/main/res/layout/view_tab_services_list.xml" />
-      <jump line="14" column="14" filename="$USER_HOME$/workspace/DDian/app/src/main/res/layout/services_fragment.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/DDian/app/src/main/res/layout/services_fragment.xml" />
-      <jump line="14" column="13" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/App.java" />
-      <jump line="232" column="0" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/App.java" />
-      <jump line="76" column="16" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/widget/BottomBar.java" />
-      <jump line="51" column="16" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/base/CommonUtils.java" />
-      <jump line="26" column="23" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/frag/RootFragment.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/DDian/build.gradle" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/DDian/app/build.gradle" />
-      <jump line="1" column="0" filename="$USER_HOME$/workspace/DDian/app/src/main/res/values/strings.xml" />
-      <jump line="85" column="56" filename="$USER_HOME$/workspace/DDian/app/src/main/res/values/strings.xml" />
-      <jump line="5" column="0" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/tools/T.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/tools/T.java" />
       <jump line="5" column="0" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/tools/SPUtil.java" />
       <jump line="2" column="0" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/tools/SPUtil.java" />
@@ -375,16 +359,31 @@
       <jump line="1" column="0" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/frag/ContactsFragment.java" />
       <jump line="149" column="0" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/frag/ContactsFragment.java" />
       <jump line="222" column="12" filename="$USER_HOME$/workspace/dongdong/MBPPortalAndroid/mBPPortal/src/main/java/com/uuvalue/mbpportal/act/tab/ContactListFragment.java" />
+      <jump line="176" column="47" filename="$USER_HOME$/workspace/dongdong/MBPPortalAndroid/mBPPortal/src/main/java/com/uuvalue/mbpportal/adapter/ContactListViewAdapter.java" />
+      <jump line="57" column="11" filename="$USER_HOME$/workspace/dongdong/MBPPortalAndroid/mBPPortal/src/main/java/com/uuvalue/mbpportal/adapter/ContactListViewAdapter.java" />
+      <jump line="38" column="0" filename="$USER_HOME$/workspace/dongdong/MBPPortalAndroid/mBPPortal/src/main/java/com/uuvalue/mbpportal/adapter/ContactListViewAdapter.java" />
+      <jump line="99" column="0" filename="$USER_HOME$/workspace/dongdong/MBPPortalAndroid/mBPPortal/src/main/java/com/uuvalue/mbpportal/adapter/ContactListViewAdapter.java" />
+      <jump line="75" column="38" filename="$USER_HOME$/workspace/dongdong/MBPPortalAndroid/mBPPortal/src/main/java/com/uuvalue/mbpportal/adapter/ContactListViewAdapter.java" />
+      <jump line="283" column="48" filename="$USER_HOME$/workspace/dongdong/MBPPortalAndroid/mBPPortal/src/main/java/com/uuvalue/mbpportal/adapter/ContactListViewAdapter.java" />
+      <jump line="286" column="34" filename="$USER_HOME$/workspace/dongdong/MBPPortalAndroid/mBPPortal/src/main/java/com/uuvalue/mbpportal/adapter/ContactListViewAdapter.java" />
+      <jump line="293" column="52" filename="$USER_HOME$/workspace/dongdong/MBPPortalAndroid/mBPPortal/src/main/java/com/uuvalue/mbpportal/adapter/ContactListViewAdapter.java" />
+      <jump line="296" column="34" filename="$USER_HOME$/workspace/dongdong/MBPPortalAndroid/mBPPortal/src/main/java/com/uuvalue/mbpportal/adapter/ContactListViewAdapter.java" />
+      <jump line="314" column="36" filename="$USER_HOME$/workspace/dongdong/MBPPortalAndroid/mBPPortal/src/main/java/com/uuvalue/mbpportal/adapter/ContactListViewAdapter.java" />
+      <jump line="318" column="60" filename="$USER_HOME$/workspace/dongdong/MBPPortalAndroid/mBPPortal/src/main/java/com/uuvalue/mbpportal/adapter/ContactListViewAdapter.java" />
+      <jump line="346" column="69" filename="$USER_HOME$/workspace/dongdong/MBPPortalAndroid/mBPPortal/src/main/java/com/uuvalue/mbpportal/adapter/ContactListViewAdapter.java" />
+      <jump line="347" column="49" filename="$USER_HOME$/workspace/dongdong/MBPPortalAndroid/mBPPortal/src/main/java/com/uuvalue/mbpportal/adapter/ContactListViewAdapter.java" />
+      <jump line="8" column="27" filename="$USER_HOME$/workspace/dongdong/MBPPortalAndroid/mBPPortal/src/main/java/com/uuvalue/mbpportal/adapter/ContactListViewAdapter.java" />
+      <jump line="141" column="54" filename="$USER_HOME$/workspace/dongdong/MBPPortalAndroid/mBPPortal/src/main/java/com/uuvalue/mbpportal/act/friend/ContactDetailActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>基本废物......</text>
       </register>
       <register name="-" type="4">
-        <text>.split(&quot;@&quot;)[0]);</text>
+        <text>104</text>
       </register>
       <register name="/" type="4">
-        <text>replace</text>
+        <text>Click</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICJjb25kaXRpb25zIjogWwogICAgICAgICAgICB7CiAgICAgICAgICAgICAgInR5cGUiOiAiZnJvbnRtb3N0X2FwcGxpY2F0aW9uX2lmIiwKICAgICAgICAgICAgICAiYnVuZGxlX2lkZW50aWZpZXJzIjogWwogICAgICAgICAgICAgICAgImNvbS5qZXRicmFpbnMuaW50ZWxsaWoiLAogICAgICAgICAgICAgICAgImNvbS5nb29nbGUuYW5kcm9pZC5zdHVkaW8iLAogICAgICAgICAgICAgICAgImNvbS5qZXRicmFpbnMuV2ViU3Rvcm0iCiAgICAgICAgICAgICAgXQogICAgICAgICAgICB9CiAgICAgICAgICBdCg==</text>
@@ -421,9 +420,9 @@
       </register>
     </registers>
     <search>
-      <last-search>replace</last-search>
+      <last-search>Click</last-search>
       <last-offset />
-      <last-pattern>replace</last-pattern>
+      <last-pattern>Click</last-pattern>
       <last-replace />
       <last-substitute>= null</last-substitute>
       <last-dir>1</last-dir>
@@ -431,8 +430,6 @@
     </search>
     <history>
       <history-search>
-        <entry>title</entry>
-        <entry>left</entry>
         <entry encoding="base64">XDxGdW5jdGlvbkJlYW5cPg==</entry>
         <entry encoding="base64">XDxyaWdodEJ0blw+</entry>
         <entry encoding="base64">XDxsbF90aXRsZV9iYXJfcmlnaHRfY29udGVudFw+</entry>
@@ -451,6 +448,8 @@
         <entry encoding="base64">XDxvcmdJbmZvXD4=</entry>
         <entry encoding="base64">XDx0aXRsZVw+</entry>
         <entry>replace</entry>
+        <entry>onclick</entry>
+        <entry>Click</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL21pZC9sb3cvZw==</entry>
