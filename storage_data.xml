@@ -1,9 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="signature" />
+      <item value="签名" />
+      <item value="signator" />
+      <item value="signatore" />
+      <item value="avatar" />
       <item value="Consider" />
       <item value="bundle" />
-      <item value="avatar" />
       <item value="头像" />
       <item value="avendar" />
       <item value="image Loader" />
