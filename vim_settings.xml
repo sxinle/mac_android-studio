@@ -282,8 +282,8 @@
         <mark key="^" line="119" column="58" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/FunctionOpenCloseActivity.java" timestamp="1509951218447">
-        <mark key="'" line="141" column="0" />
+      <file name="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/FunctionOpenCloseActivity.java" timestamp="1509951361090">
+        <mark key="'" line="35" column="23" />
         <mark key="[" line="101" column="68" />
         <mark key="]" line="101" column="72" />
         <mark key="^" line="101" column="72" />
@@ -305,7 +305,7 @@
         <mark key="^" line="44" column="34" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509950732854">
+      <file name="/Dummy.txt" timestamp="1509951269970">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/DDian/app/src/main/res/layout/act_me_info.xml" timestamp="1509939054767">
@@ -328,8 +328,8 @@
         <mark key="." line="176" column="8" />
         <mark key="^" line="176" column="8" />
       </file>
-      <file name="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/FunctionActivity.java" timestamp="1509950731154">
-        <mark key="'" line="51" column="45" />
+      <file name="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/FunctionActivity.java" timestamp="1509951366890">
+        <mark key="'" line="177" column="39" />
         <mark key="[" line="167" column="41" />
         <mark key="]" line="167" column="68" />
         <mark key="^" line="178" column="51" />
@@ -391,8 +391,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="30" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/tools/Util.java" />
-      <jump line="38" column="27" filename="$USER_HOME$/workspace/dongdong/MBPPortalAndroid/mBPPortal/src/main/java/com/uuvalue/mbpportal/act/friend/ContactDetailActivity.java" />
       <jump line="82" column="0" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/base/BaseActivity.java" />
       <jump line="50" column="2" filename="$USER_HOME$/workspace/DDian/app/src/main/res/values/strings.xml" />
       <jump line="39" column="0" filename="$USER_HOME$/workspace/DDian/app/src/main/res/values/strings.xml" />
@@ -491,6 +489,8 @@
       <jump line="73" column="0" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/tools/ConstantValue.java" />
       <jump line="201" column="0" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/tools/ConstantValue.java" />
       <jump line="10" column="0" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/tools/ConstantValue.java" />
+      <jump line="35" column="23" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/FunctionOpenCloseActivity.java" />
+      <jump line="177" column="39" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/FunctionActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
