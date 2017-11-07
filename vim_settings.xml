@@ -219,7 +219,9 @@
         <mark key="^" line="68" column="64" />
         <mark key="." line="68" column="64" />
       </file>
-      <file name="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/tools/ParseProxyObject.java" timestamp="1510047211843" />
+      <file name="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/tools/ParseProxyObject.java" timestamp="1510049892793">
+        <mark key="'" line="15" column="4" />
+      </file>
       <file name="$USER_HOME$/workspace/DDian/app/src/main/res/layout/change_pwd.xml" timestamp="1509944945032">
         <mark key="[" line="70" column="51" />
         <mark key="]" line="70" column="51" />
@@ -239,7 +241,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="152" column="12" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/adapter/MyServicesListAdapter.java" />
       <jump line="153" column="12" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/adapter/MyServicesListAdapter.java" />
       <jump line="155" column="12" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/adapter/MyServicesListAdapter.java" />
       <jump line="156" column="12" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/adapter/MyServicesListAdapter.java" />
@@ -339,6 +340,7 @@
       <jump line="295" column="0" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/PipelineActivity.java" />
       <jump line="31" column="42" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/AddProjectActivity.java" />
       <jump line="74" column="51" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/AddProjectActivity.java" />
+      <jump line="15" column="4" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/tools/ParseProxyObject.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
