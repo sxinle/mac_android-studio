@@ -164,7 +164,7 @@
       <file name="$USER_HOME$/workspace/dongdong/MBPPortalAndroid/mBPPortal/src/main/java/com/uuvalue/mbpportal/bean/ServiceNumCategoryBean.java" timestamp="1509948360527">
         <mark key="'" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/LoginActivity.java" timestamp="1509962309661">
+      <file name="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/LoginActivity.java" timestamp="1510020885950">
         <mark key="'" line="95" column="0" />
         <mark key="[" line="75" column="0" />
         <mark key="]" line="77" column="45" />
@@ -391,7 +391,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="112" column="73" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/adapter/ContactListViewAdapter.java" />
       <jump line="5" column="0" filename="$USER_HOME$/workspace/DDian/app/src/main/AndroidManifest.xml" />
       <jump line="60" column="46" filename="$USER_HOME$/workspace/DDian/app/src/main/res/layout/activity_contact_info.xml" />
       <jump line="11" column="33" filename="$USER_HOME$/workspace/DDian/app/src/main/res/drawable/btn_tel_selector.xml" />
@@ -490,6 +489,7 @@
       <jump line="177" column="39" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/FunctionActivity.java" />
       <jump line="35" column="61" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/LoginActivity.java" />
       <jump line="32" column="47" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/LoginActivity.java" />
+      <jump line="31" column="0" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/LoginActivity.java" />
       <jump line="95" column="0" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/LoginActivity.java" />
     </jumps>
     <registers>
@@ -543,7 +543,7 @@
       <last-replace />
       <last-substitute>^$</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
