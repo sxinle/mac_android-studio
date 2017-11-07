@@ -413,8 +413,8 @@
         <mark key="^" line="111" column="61" />
         <mark key="." line="141" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/PipelineActivity.java" timestamp="1510042091016">
-        <mark key="'" line="193" column="8" />
+      <file name="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/PipelineActivity.java" timestamp="1510045072785">
+        <mark key="'" line="167" column="45" />
         <mark key="[" line="147" column="0" />
         <mark key="]" line="147" column="0" />
         <mark key="." line="147" column="0" />
@@ -572,7 +572,6 @@
       <jump line="210" column="15" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/PipelineActivity.java" />
       <jump line="209" column="27" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/PipelineActivity.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/PipelineActivity.java" />
-      <jump line="167" column="20" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/PipelineActivity.java" />
       <jump line="42" column="32" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/PipelineActivity.java" />
       <jump line="161" column="48" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/PipelineActivity.java" />
       <jump line="212" column="16" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/PipelineActivity.java" />
@@ -600,6 +599,7 @@
       <jump line="1705" column="36" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/PipelineDetailActivity.java" />
       <jump line="1762" column="8" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/PipelineDetailActivity.java" />
       <jump line="1042" column="12" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/PipelineDetailActivity.java" />
+      <jump line="167" column="45" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/PipelineActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
