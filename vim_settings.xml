@@ -34,9 +34,9 @@
         <mark key="." line="1" column="42" />
         <mark key="^" line="1" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/ContactsActivity.java" timestamp="1510112759943">
-        <mark key="[" line="96" column="0" />
-        <mark key="]" line="96" column="0" />
+      <file name="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/ContactsActivity.java" timestamp="1510112884107">
+        <mark key="[" line="93" column="0" />
+        <mark key="]" line="97" column="41" />
         <mark key="." line="96" column="0" />
         <mark key="^" line="95" column="46" />
       </file>
@@ -193,7 +193,7 @@
         <mark key="." line="48" column="64" />
         <mark key="^" line="48" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510112499513">
+      <file name="/Dummy.txt" timestamp="1510112829115">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/dongdong/MBPPortalAndroid/mBPPortal/src/main/java/com/uuvalue/mbpportal/adapter/PipelineListAdapter.java" timestamp="1510041251307">
@@ -360,8 +360,8 @@
       <register name="/" type="4">
         <text>detail</text>
       </register>
-      <register name="0" type="4">
-        <text>PipelineDetailActivity</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBJbnRlbnQgaW50ZW50ID0gbmV3IEludGVudChDb250YWN0c0FjdGl2aXR5LnRoaXMsIENvbnRhY3RzQWN0aXZpdHkuY2xhc3MpOwogICAgICAgICAgICAgICAgICAgIEJ1bmRsZSBiID0gbmV3IEJ1bmRsZSgpOwogICAgICAgICAgICAgICAgICAgIGIucHV0UGFyY2VsYWJsZSgib3JnIiwgYmVhbik7CiAgICAgICAgICAgICAgICAgICAgaW50ZW50LnB1dEV4dHJhcyhiKTsKICAgICAgICAgICAgICAgICAgICBzdGFydEFjdGl2aXR5KGludGVudCk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGIucHV0U2VyaWFsaXphYmxlKCJvcmciLCBuZXcgUGFyc2VQcm94eU9iamVjdChvcmdJbmZvKSk7Cg==</text>
