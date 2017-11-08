@@ -53,12 +53,11 @@
       <file name="$USER_HOME$/workspace/DDian/app/src/main/res/drawable/red_round_btn_selector.xml" timestamp="1509939070085">
         <mark key="'" line="25" column="9" />
       </file>
-      <file name="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/AddProjectActivity.java" timestamp="1510117716941">
+      <file name="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/AddProjectActivity.java" timestamp="1510124878633">
         <mark key="'" line="76" column="36" />
-        <mark key="[" line="76" column="34" />
-        <mark key="]" line="76" column="34" />
-        <mark key="." line="76" column="34" />
-        <mark key="^" line="76" column="36" />
+        <mark key="[" line="90" column="0" />
+        <mark key="]" line="90" column="0" />
+        <mark key="." line="90" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/dongdong/MBPPortalAndroid/mBPPortal/src/main/java/com/uuvalue/mbpportal/act/func/salepipeline/AddProjectActivity.java" timestamp="1510037249710">
         <mark key="'" line="51" column="23" />
@@ -252,11 +251,12 @@
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
       </file>
-      <file name="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/AddCustomerActivity.java" timestamp="1510121943473">
-        <mark key="'" line="325" column="0" />
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="73" column="0" />
-        <mark key="." line="73" column="0" />
+      <file name="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/AddCustomerActivity.java" timestamp="1510124623268">
+        <mark key="'" line="32" column="27" />
+        <mark key="[" line="192" column="0" />
+        <mark key="]" line="192" column="0" />
+        <mark key="." line="192" column="0" />
+        <mark key="^" line="191" column="50" />
       </file>
       <file name="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/widget/CleanableEditText.java" timestamp="1510037490115">
         <mark key="[" line="16" column="39" />
@@ -266,10 +266,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="70" column="37" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/AddProjectActivity.java" />
-      <jump line="72" column="0" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/AddProjectActivity.java" />
-      <jump line="86" column="23" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/AddProjectActivity.java" />
-      <jump line="112" column="0" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/AddProjectActivity.java" />
       <jump line="471" column="16" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/PipelineActivity.java" />
       <jump line="91" column="8" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/PipelineActivity.java" />
       <jump line="84" column="22" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/PipelineActivity.java" />
@@ -366,55 +362,59 @@
       <jump line="1141" column="15" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/PipelineDetailActivity.java" />
       <jump line="8" column="18" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/PipelineDetailActivity.java" />
       <jump line="223" column="28" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/PipelineDetailActivity.java" />
+      <jump line="183" column="13" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/AddCustomerActivity.java" />
+      <jump line="2" column="0" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/AddCustomerActivity.java" />
+      <jump line="39" column="0" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/AddCustomerActivity.java" />
+      <jump line="29" column="27" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/AddCustomerActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>基本废物......</text>
       </register>
       <register name="-" type="4">
-        <text>currentUser</text>
+        <text>put</text>
       </register>
       <register name="/" type="4">
-        <text>AddCus</text>
+        <text encoding="base64">XDxwaXBlbGluZUJlYW5cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFBhcnNlVXNlciB1c2VyID0gUGFyc2VVc2VyLmdldEN1cnJlbnRVc2VyKCk7CiAgICAgICAgICAgICAgICB1c2VyLnNldFBhc3N3b3JkKCIxMjMiKTsKICAgICAgICAgICAgICAgIHVzZXIuc2F2ZUluQmFja2dyb3VuZChuZXcgU2F2ZUNhbGxiYWNrKCkgewogICAgICAgICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgICAgICAgIHB1YmxpYyB2b2lkIGRvbmUoUGFyc2VFeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgICAgICAgICAvLyAuLi4uLi4KICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICBQYXJzZVVzZXIgdXNlciA9IFBhcnNlVXNlci5nZXRDdXJyZW50VXNlcigpOwogICAgICAgIHVzZXIuc2V0UGFzc3dvcmQoIm5ld1Bhc3N3b3JkIik7CiAgICAgICAgdXNlci5zYXZlSW5CYWNrZ3JvdW5kKG5ldyBTYXZlQ2FsbGJhY2soKSB7CiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgdm9pZCBkb25lKFBhcnNlRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgIFBhcnNlVXNlci5sb2dPdXQoKTsKICAgICAgICAgICAgICAgIC8vIHN0YXJ0QWN0aXZpdHkoTG9naW5BY3Rpdml0eSkKICAgICAgICAgICAgfQogICAgICAgIH0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXRlbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50ZW50LnB1dEV4dHJhKCJQaXBlbGluZUJlYW4iLCBwaXBlbGluZUJlYW4pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkaWFsb2cuZGlzbWlzcygpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9CiAgICAgICAgaWYgKG51bGwgPT0gcGlwZWxpbmVCZWFuKSB7CiAgICAgICAgICAgIENvbW1vblV0aWxzLnNob3dUb2FzdFNob3J0KHRoaXMsICJwaXBlbGluZeS/oeaBr+S4ouWkse+8jOaXoOazlea3u+WKoCIpOwogICAgICAgICAgICBmaW5pc2goKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGlwZWxpbmVCZWFuLmFkZEFsbFVuaXF1ZSgiY3VzdG9tZXJzIiwgY3VzdG9tZXJzKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZ2V0SW50ZW50KCkuaGFzRXh0cmEoIlBpcGVsaW5lQmVhbiIpKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdl9jb24gPSAoU2Nyb2xsVmlldykgZmluZFZpZXdCeUlkKFIuaWQuc3ZfY29uKTsKICAgICAgICBjb250YWluZXIgPSAoTGluZWFyTGF5b3V0KSBmaW5kVmlld0J5SWQoUi5pZC5jb250YWluZXIpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFBhcnNlVXNlciB1c2VyID0gUGFyc2VVc2VyLmdldEN1cnJlbnRVc2VyKCk7CiAgICAgICAgICAgICAgICB1c2VyLnNldFBhc3N3b3JkKCIxMjMiKTsKICAgICAgICAgICAgICAgIHVzZXIuc2F2ZUluQmFja2dyb3VuZChuZXcgU2F2ZUNhbGxiYWNrKCkgewogICAgICAgICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgICAgICAgIHB1YmxpYyB2b2lkIGRvbmUoUGFyc2VFeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgICAgICAgICAvLyAuLi4uLi4KICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9KTsKICAgICAgICAgICAgICAgIFBhcnNlVXNlci5nZXRDdXJyZW50VXNlcigpLnNldFBhc3N3b3JkKCIxMjMiKTsKICAgICAgICAgICAgICAgIFBhcnNlVXNlci5nZXRDdXJyZW50VXNlcigpLnNhdmVJbkJhY2tncm91bmQoLi4uKTsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU2Nyb2xsVmlldyAgICAgc3ZfY29uOwogICAgcHJpdmF0ZSBMaW5lYXJMYXlvdXQgICBjb250YWluZXI7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFBhcnNlVXNlci4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8JCQlkaXNtaXNQcm9ncmVzc0RpYWxvZygpOwo=</text>
+        <text encoding="base64">CgogICAgICAgIE1hcDxTdHJpbmcsIE9iamVjdD4gcGFyYW1zID0gbmV3IEhhc2hNYXA8PigpOwogICAgICAgIHBhcmFtcy5wdXQoInJlcXVlc3QiLCByZXF1ZXN0UGFyYW0pOwogICAgICAgIHBhcmFtcy5wdXQoImNpZCIsICIzMTUiKTsKLy8JCQlNYnBDbG91ZC5jYWxsRnVuY3Rpb25JbkJhY2tncm91bmQoImFwaS8xL3NhbGVfYWRkX3BpcGVsaW5lX2N1c3RvbWVyIiwgcGFyYW1zLCBuZXcgRnVuY3Rpb25DYWxsYmFjaygpIHsKLy8JCQkJQE92ZXJyaWRlCi8vCQkJCXB1YmxpYyB2b2lkIGRvbmUoT2JqZWN0IGFyZzAsIE1icEV4Y2VwdGlvbiBhcmcxKSB7Ci8vCQkJCQlpZihudWxsID09IGFyZzEpewovLwkJCQkJCWlmKG51bGwgIT0gYXJnMCl7Ci8vCQkJCQkJCVN0cmluZyBzID0gYXJnMC50b1N0cmluZygpOwovLwkJCQkJCQlKU09OT2JqZWN0IGpzb24gPSBudWxsOwovLwkJCQkJCQl0cnkgewovLwkJCQkJCQkJanNvbiA9IG5ldyBKU09OT2JqZWN0KHMpOwovLwkJCQkJCQkJLy8g5LiL6Z2i5piv5pyJ5Y+v6IO95pyJc3VjY2Vzc+eahOWkhOeQhgovLwkJCQkJCQkJaWYgKGpzb24uaGFzKCJzdWNjZXNzIikpIHsKLy8JCQkJCQkJCQlPYmplY3Qgb2JqU3VjY2VzcyA9IGpzb24ub3B0KCJzdWNjZXNzIik7Ci8vCQkJCQkJCQkJanNvbiA9IG5ldyBKU09OT2JqZWN0KG9ialN1Y2Nlc3MudG9TdHJpbmcoKSk7Ci8vCQkJCQkJCQl9Ci8vCQkJCQkJCQlpbnQgY29kZSA9IGpzb24ub3B0SW50KCJjb2RlIik7Ci8vCQkJCQkJCQlTdHJpbmcgbXNnID0ganNvbi5vcHRTdHJpbmcoIm1zZyIpOwovLwkJCQkJCQkJaWYoY29kZSA9PSAwKXsKLy8JCQkJCQkJCQkvL+i/lOWbnue7k+aenAovLwkJCQkJCQkJCUpTT05PYmplY3Qgb2JqZWN0ID0ganNvbi5vcHRKU09OT2JqZWN0KCJyZXNwb25zZSIpOwovLwkJCQkJCQkJCVN0cmluZyBjb250ZW50ID0gb2JqZWN0LmdldCgiY3VzdG9tZXIiKS50b1N0cmluZygpOwovLwkJCQkJCQkJCSAvLyDlsIZkYXRh5pWw5o2u5Lit55qE4oCddXNlcuKAnGtleeWvueW6lOeahOaVsOaNrui9rOaIkFVzZXJiZWFuCi8vCQkJCQkJCQkJQ3VzdG9tZXJCZWFuIHJldEJlYW4gPSBKU09OVXRpbF9uZXcuZnJvbUpzb24oCi8vCQkJCQkJCQkJCQlDdXN0b21lckJlYW4uY2xhc3MsIGNvbnRlbnQpOwovLwkJCQkJCQkJCS8vIOWPkemAgeW5v+aSrQovLwkJCQkJCQkJCUludGVudCBpbiA9IG5ldyBJbnRlbnQoQ29uc3RhbnRWYWx1ZS5CUk9BRENBU1RfQUNUSU9OX0FERF9DVVNUT01FUik7Ci8vCQkJCQkJCQkJaW4ucHV0RXh0cmEoIkN1c3RvbWVyQmVhbiIsIHJldEJlYW4pOwovLwkJCQkJCQkJCXNlbmRCcm9hZGNhc3QoaW4pOwovLwovLwkJCQkJCQkJCS8vIOWFs+mXreiHquW3sQovLwkJCQkJCQkJCWZpbmlzaCgpOwovLwkJCQkJCQkJfSBlbHNlIGlmIChjb2RlID09IENvbnN0YW50VmFsdWUuRVJST1JfQ09ERV9UT0tFTl9JTlZBTElEIHx8IGNvZGUgPT0gQ29uc3RhbnRWYWx1ZS5FUlJPUl9DT0RFX0FVVEhfRkFJTEQpIHsKLy8JCQkJCQkJCQkvLyDlvLnlh7rmj5DnpLrmoYbvvIznoa7lrprlm57liLDnmbvlvZXpobUKLy8JCQkJCQkJCQlCdXNpbmVzc1V0aWxzLnNob3dIaW50Rm9yQ2xvc2VBbGxBY3Rpdml0eVRvTG9naW4obUNvbnRleHQsIG1zZyk7Ci8vCQkJCQkJCQkJcmV0dXJuOwovLwkJCQkJCQkJfSBlbHNlIHsKLy8JCQkJCQkJCQlDb21tb25VdGlscy5zaG93VG9hc3RTaG9ydChtQ29udGV4dCwgbXNnKTsKLy8JCQkJCQkJCX0KLy8JCQkJCQkJfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKLy8JCQkJCQkJCS8vIOmakOiXj+i/m+W6puWciAovLwkJCQkJCQkJZGlzbWlzUHJvZ3Jlc3NEaWFsb2coKTsKLy8JCQkJCQkJCWUucHJpbnRTdGFja1RyYWNlKCk7Ci8vCQkJCQkJCQlDb21tb25VdGlscy5zaG93VG9hc3RTaG9ydChtQ29udGV4dCwgZ2V0UmVzb3VyY2VzKCkuZ2V0U3RyaW5nKFIuc3RyaW5nLmFkZF9mYWlsZWQpKTsKLy8JCQkJCQkJfQovLwkJCQkJCX1lbHNlewovLwkJCQkJCQlDb21tb25VdGlscy5zaG93VG9hc3RTaG9ydChtQ29udGV4dCwgZ2V0UmVzb3VyY2VzKCkuZ2V0U3RyaW5nKFIuc3RyaW5nLmFkZF9mYWlsZWQpKTsKLy8JCQkJCQl9Ci8vCQkJCQl9ZWxzZXsKLy8JCQkJCQlDb21tb25VdGlscy5zaG93VG9hc3RTaG9ydChtQ29udGV4dCwgZ2V0UmVzb3VyY2VzKCkuZ2V0U3RyaW5nKFIuc3RyaW5nLmFkZF9mYWlsZWQpKTsKLy8JCQkJCX0KLy8KLy8JCQkJCS8vIOmakOiXj+i/m+W6puWciAovLwkJCQkJZGlzbWlzUHJvZ3Jlc3NEaWFsb2coKTsKLy8JCQkJfQovLwkJCX0pOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpbml0UmlnaHRTY3JvbGwoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3VzdG9tZXJzLnB1dChjdXN0b21lcnMubGVuZ3RoKCkgLSAxKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>AddCus</last-search>
+      <last-search encoding="base64">XDxwaXBlbGluZUJlYW5cPg==</last-search>
       <last-offset />
-      <last-pattern>AddCus</last-pattern>
+      <last-pattern encoding="base64">XDxwaXBlbGluZUJlYW5cPg==</last-pattern>
       <last-replace>pipelineBean</last-replace>
       <last-substitute>paramSave</last-substitute>
       <last-dir>1</last-dir>
@@ -422,7 +422,6 @@
     </search>
     <history>
       <history-search>
-        <entry>gone</entry>
         <entry encoding="base64">XDxkb0dldFBpcGVsaW5lTGlzdFw+</entry>
         <entry encoding="base64">XDxzdl9jb25cPg==</entry>
         <entry encoding="base64">XDxhZGFwdGVyXD4=</entry>
@@ -433,7 +432,6 @@
         <entry>Adapter</entry>
         <entry encoding="base64">XDxzaG93UGlwZWxpbmVEZXRhaWxcPg==</entry>
         <entry encoding="base64">XDxybF94bWpkXD4=</entry>
-        <entry encoding="base64">XDxwaXBlbGluZUJlYW5cPg==</entry>
         <entry>detail</entry>
         <entry encoding="base64">XDxpc0VkaXRcPg==</entry>
         <entry encoding="base64">XDxpYl8zXD4=</entry>
@@ -442,6 +440,8 @@
         <entry encoding="base64">XDxtTGlzdFZpZXdDdXN0b21lclw+</entry>
         <entry>Bundle</entry>
         <entry>AddCus</entry>
+        <entry>JsonOb</entry>
+        <entry encoding="base64">XDxwaXBlbGluZUJlYW5cPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0FsYXJtSW5mby9IaXNBbGFybUluZm8vZw==</entry>
@@ -460,9 +460,9 @@
         <entry encoding="base64">JzwsJz5zL0Nsb3NlL09wZW4vZw==</entry>
         <entry encoding="base64">JzwsJz5zL14kLy9n</entry>
         <entry encoding="base64">JzwsJz5nL14kL2Q=</entry>
-        <entry>action $Redo</entry>
         <entry>action AceAction</entry>
         <entry encoding="base64">JzwsJz5zL3BhcmFtU2F2ZS9waXBlbGluZUJlYW4vZw==</entry>
+        <entry>action $Redo</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
