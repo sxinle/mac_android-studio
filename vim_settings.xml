@@ -59,18 +59,15 @@
         <mark key="." line="96" column="0" />
         <mark key="^" line="95" column="46" />
       </file>
-      <file name="$USER_HOME$/workspace/DDian/app/src/main/res/layout/slide_view_merge_myservice.xml" timestamp="1510026082238">
-        <mark key="'" line="77" column="0" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/AddProjectActivity.java" timestamp="1510125473986">
         <mark key="'" line="77" column="36" />
         <mark key="[" line="96" column="80" />
         <mark key="]" line="97" column="57" />
         <mark key="." line="97" column="57" />
         <mark key="^" line="97" column="57" />
+      </file>
+      <file name="$USER_HOME$/workspace/dongdong/DDian/app/src/main/java/com/acenode/ddian/view/activity/FunctionOpenCloseActivity.java" timestamp="1510645727273">
+        <mark key="'" line="86" column="36" />
       </file>
       <file name="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/frag/ServicesFragment.java" timestamp="1510028731705">
         <mark key="'" line="83" column="0" />
@@ -139,6 +136,7 @@
       <file name="/Dummy.txt" timestamp="1510134522736">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/dongdong/DDian/app/src/main/java/com/acenode/ddian/tools/Util.java" timestamp="1510645567606" />
       <file name="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/widget/MyServiceAdapter.java" timestamp="1510027026788">
         <mark key="[" line="17" column="13" />
         <mark key="]" line="17" column="28" />
@@ -168,17 +166,12 @@
         <mark key="^" line="1350" column="13" />
         <mark key="." line="1662" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/DDian/app/src/main/AndroidManifest.xml" timestamp="1510121219275">
-        <mark key="'" line="52" column="18" />
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="69" column="111" />
-        <mark key="." line="69" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/widget/VChangeOption.java" timestamp="1510120199972">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/dongdong/DDian/app/src/main/java/com/acenode/ddian/tools/SPUtil.java" timestamp="1510645644135" />
       <file name="$USER_HOME$/workspace/DDian/app/src/main/res/drawable/btn_jiantou_selector.xml" timestamp="1509937521454">
         <mark key="[" line="4" column="56" />
         <mark key="]" line="4" column="56" />
@@ -195,12 +188,6 @@
       <file name="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/tools/ParseProxyObject.java" timestamp="1510112638537">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/widget/PullRefreshAndSlideListView.java" timestamp="1510033864396">
-        <mark key="'" line="962" column="34" />
-        <mark key="[" line="516" column="0" />
-        <mark key="]" line="516" column="0" />
-        <mark key="." line="516" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/frag/ContactsFragment.java" timestamp="1510112797423">
         <mark key="'" line="129" column="0" />
         <mark key="[" line="102" column="0" />
@@ -208,7 +195,6 @@
         <mark key="." line="102" column="0" />
         <mark key="^" line="101" column="45" />
       </file>
-      <file name="$USER_HOME$/DDian/app/src/main/java/com/acenode/ddian/view/adapter/CustomerListAdapter.java" timestamp="1510291467517" />
       <file name="$USER_HOME$/DDian/app/src/main/res/layout/act_pipeline_detail.xml" timestamp="1510285473292">
         <mark key="[" line="94" column="28" />
         <mark key="]" line="94" column="34" />
@@ -247,7 +233,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="225" column="20" filename="$USER_HOME$/workspace/dongdong/MBPPortalAndroid/mBPPortal/src/main/java/com/uuvalue/mbpportal/act/func/salepipeline/PipelineActivity.java" />
       <jump line="53" column="27" filename="$USER_HOME$/workspace/dongdong/MBPPortalAndroid/mBPPortal/src/main/java/com/uuvalue/mbpportal/act/func/salepipeline/PipelineActivity.java" />
       <jump line="58" column="24" filename="$USER_HOME$/workspace/dongdong/MBPPortalAndroid/mBPPortal/src/main/java/com/uuvalue/mbpportal/act/func/salepipeline/PipelineActivity.java" />
       <jump line="280" column="36" filename="$USER_HOME$/workspace/dongdong/MBPPortalAndroid/mBPPortal/src/main/java/com/uuvalue/mbpportal/act/func/salepipeline/PipelineActivity.java" />
@@ -347,6 +332,7 @@
       <jump line="1424" column="8" filename="$USER_HOME$/DDian/app/src/main/java/com/acenode/ddian/view/activity/PipelineDetailActivity.java" />
       <jump line="510" column="52" filename="$USER_HOME$/DDian/app/src/main/java/com/acenode/ddian/view/activity/PipelineDetailActivity.java" />
       <jump line="1660" column="0" filename="$USER_HOME$/DDian/app/src/main/java/com/acenode/ddian/view/activity/PipelineDetailActivity.java" />
+      <jump line="86" column="36" filename="$USER_HOME$/workspace/dongdong/DDian/app/src/main/java/com/acenode/ddian/view/activity/FunctionOpenCloseActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -399,7 +385,7 @@
       <last-replace>pipelineBean</last-replace>
       <last-substitute>paramSave</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
