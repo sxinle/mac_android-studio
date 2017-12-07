@@ -133,10 +133,9 @@
         <mark key="." line="48" column="64" />
         <mark key="^" line="48" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510134522736">
+      <file name="/Dummy.txt" timestamp="1512635420265">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/dongdong/DDian/app/src/main/java/com/acenode/ddian/tools/Util.java" timestamp="1510645567606" />
       <file name="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/widget/MyServiceAdapter.java" timestamp="1510027026788">
         <mark key="[" line="17" column="13" />
         <mark key="]" line="17" column="28" />
@@ -156,6 +155,11 @@
         <mark key="." line="146" column="33" />
         <mark key="^" line="146" column="33" />
       </file>
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/utils/Http.java" timestamp="1512636089910">
+        <mark key="'" line="153" column="0" />
+        <mark key="[" line="123" column="21" />
+        <mark key="]" line="123" column="57" />
+      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.parse/parse-android/1.15.8/7265dc1631fc4f2acd92f7e10a253f579bc78513/parse-android-1.15.8-sources.jar!/com/parse/ParseEncoder.java" timestamp="1510131281498">
         <mark key="'" line="27" column="30" />
       </file>
@@ -171,7 +175,6 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/dongdong/DDian/app/src/main/java/com/acenode/ddian/tools/SPUtil.java" timestamp="1510645644135" />
       <file name="$USER_HOME$/workspace/DDian/app/src/main/res/drawable/btn_jiantou_selector.xml" timestamp="1509937521454">
         <mark key="[" line="4" column="56" />
         <mark key="]" line="4" column="56" />
@@ -233,8 +236,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="27" filename="$USER_HOME$/workspace/dongdong/MBPPortalAndroid/mBPPortal/src/main/java/com/uuvalue/mbpportal/act/func/salepipeline/PipelineActivity.java" />
-      <jump line="58" column="24" filename="$USER_HOME$/workspace/dongdong/MBPPortalAndroid/mBPPortal/src/main/java/com/uuvalue/mbpportal/act/func/salepipeline/PipelineActivity.java" />
       <jump line="280" column="36" filename="$USER_HOME$/workspace/dongdong/MBPPortalAndroid/mBPPortal/src/main/java/com/uuvalue/mbpportal/act/func/salepipeline/PipelineActivity.java" />
       <jump line="273" column="33" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/PipelineDetailActivity.java" />
       <jump line="277" column="4" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/PipelineDetailActivity.java" />
@@ -333,6 +334,8 @@
       <jump line="510" column="52" filename="$USER_HOME$/DDian/app/src/main/java/com/acenode/ddian/view/activity/PipelineDetailActivity.java" />
       <jump line="1660" column="0" filename="$USER_HOME$/DDian/app/src/main/java/com/acenode/ddian/view/activity/PipelineDetailActivity.java" />
       <jump line="86" column="36" filename="$USER_HOME$/workspace/dongdong/DDian/app/src/main/java/com/acenode/ddian/view/activity/FunctionOpenCloseActivity.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/utils/Http.java" />
+      <jump line="153" column="0" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/utils/Http.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -342,10 +345,10 @@
         <text>}</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzaG93Q3VzdG9tZXJcPg==</text>
+        <text>multi</text>
       </register>
       <register name="0" type="4">
-        <text>Util.getParseStr(bean, &quot;phone&quot;)</text>
+        <text encoding="base64">QFBhcnQgTGlzdDxNdWx0aXBhcnRCb2R5LlBhcnQ+IGZpbGVzLA==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -379,17 +382,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzaG93Q3VzdG9tZXJcPg==</last-search>
+      <last-search>multi</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzaG93Q3VzdG9tZXJcPg==</last-pattern>
+      <last-pattern>multi</last-pattern>
       <last-replace>pipelineBean</last-replace>
       <last-substitute>paramSave</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtTGlzdFZpZXdcPg==</entry>
         <entry>dialog</entry>
         <entry>adapter</entry>
         <entry>Adapter</entry>
@@ -409,6 +411,7 @@
         <entry encoding="base64">XDx2aWV3Mlw+</entry>
         <entry encoding="base64">XDxhZGFwdGVyXD4=</entry>
         <entry encoding="base64">XDxzaG93Q3VzdG9tZXJcPg==</entry>
+        <entry>multi</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0FsYXJtSW5mby9IaXNBbGFybUluZm8vZw==</entry>
