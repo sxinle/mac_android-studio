@@ -21,6 +21,7 @@
         <mark key="^" line="47" column="86" />
         <mark key="." line="49" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/photoupload/activity/GalleryActivity.java" timestamp="1514178716916" />
       <file name="/a.dummy" timestamp="1510133439612">
         <mark key="[" line="0" column="0" />
       </file>
@@ -138,7 +139,7 @@
         <mark key="." line="48" column="64" />
         <mark key="^" line="48" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513939700300">
+      <file name="/Dummy.txt" timestamp="1514179149522">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/widget/MyServiceAdapter.java" timestamp="1510027026788">
@@ -180,8 +181,8 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/WorkOrderActivity.java" timestamp="1512637874232">
-        <mark key="'" line="58" column="14" />
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/WorkOrderActivity.java" timestamp="1514178425299">
+        <mark key="'" line="295" column="12" />
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
@@ -234,7 +235,7 @@
         <mark key="." line="21" column="64" />
         <mark key="^" line="21" column="64" />
       </file>
-      <file name="/fragment.java" timestamp="1510133592027">
+      <file name="/fragment.java" timestamp="1514178421334">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
@@ -252,21 +253,11 @@
         <mark key="." line="16" column="38" />
         <mark key="^" line="16" column="38" />
       </file>
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/AddAttachActivity.java" timestamp="1514179224395">
+        <mark key="'" line="146" column="30" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="163" column="76" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/PipelineActivity.java" />
-      <jump line="148" column="74" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/PipelineActivity.java" />
-      <jump line="1158" column="20" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/PipelineDetailActivity.java" />
-      <jump line="1030" column="12" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/PipelineDetailActivity.java" />
-      <jump line="145" column="82" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/PipelineActivity.java" />
-      <jump line="295" column="0" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/PipelineActivity.java" />
-      <jump line="31" column="42" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/AddProjectActivity.java" />
-      <jump line="74" column="51" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/AddProjectActivity.java" />
-      <jump line="15" column="4" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/tools/ParseProxyObject.java" />
-      <jump line="977" column="8" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/PipelineDetailActivity.java" />
-      <jump line="1" column="0" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/PipelineDetailActivity.java" />
-      <jump line="2283" column="0" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/PipelineDetailActivity.java" />
-      <jump line="55" column="20" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/PipelineDetailActivity.java" />
       <jump line="7" column="0" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/tools/ParseProxyObject.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/tools/ParseProxyObject.java" />
       <jump line="27" column="39" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/frag/ContactsFragment.java" />
@@ -354,6 +345,19 @@
       <jump line="85" column="19" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
       <jump line="86" column="13" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" />
       <jump line="75" column="36" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/utils/Http.java" />
+      <jump line="45" column="13" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/WorkOrderActivity.java" />
+      <jump line="480" column="29" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/WorkOrderActivity.java" />
+      <jump line="506" column="20" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/WorkOrderActivity.java" />
+      <jump line="107" column="34" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/WorkOrderActivity.java" />
+      <jump line="293" column="24" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/WorkOrderActivity.java" />
+      <jump line="295" column="12" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/WorkOrderActivity.java" />
+      <jump line="133" column="13" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/AddAttachActivity.java" />
+      <jump line="134" column="34" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/AddAttachActivity.java" />
+      <jump line="141" column="27" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/AddAttachActivity.java" />
+      <jump line="143" column="49" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/AddAttachActivity.java" />
+      <jump line="144" column="30" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/AddAttachActivity.java" />
+      <jump line="145" column="30" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/AddAttachActivity.java" />
+      <jump line="146" column="30" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/AddAttachActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -363,7 +367,7 @@
         <text>}</text>
       </register>
       <register name="/" type="4">
-        <text>count</text>
+        <text encoding="base64">XDx2aWV3XD4=</text>
       </register>
       <register name="0" type="4">
         <text>alarm_count</text>
@@ -400,9 +404,9 @@
       </register>
     </registers>
     <search>
-      <last-search>count</last-search>
+      <last-search encoding="base64">XDx2aWV3XD4=</last-search>
       <last-offset />
-      <last-pattern>count</last-pattern>
+      <last-pattern encoding="base64">XDx2aWV3XD4=</last-pattern>
       <last-replace>pipelineBean</last-replace>
       <last-substitute>paramSave</last-substitute>
       <last-dir>1</last-dir>
@@ -410,8 +414,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzaG93UGlwZWxpbmVEZXRhaWxcPg==</entry>
-        <entry encoding="base64">XDxybF94bWpkXD4=</entry>
         <entry>detail</entry>
         <entry encoding="base64">XDxpc0VkaXRcPg==</entry>
         <entry encoding="base64">XDxpYl8zXD4=</entry>
@@ -430,6 +432,8 @@
         <entry encoding="base64">XDxwcmVwYXJlRmlsZVBhcnRcPg==</entry>
         <entry encoding="base64">XDx0dl9hbGFybV9oaXN0b3J5XD4=</entry>
         <entry>count</entry>
+        <entry encoding="base64">XDxpbWdzXD4=</entry>
+        <entry encoding="base64">XDx2aWV3XD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0FsYXJtSW5mby9IaXNBbGFybUluZm8vZw==</entry>
