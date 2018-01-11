@@ -21,7 +21,6 @@
         <mark key="^" line="47" column="86" />
         <mark key="." line="49" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/photoupload/activity/GalleryActivity.java" timestamp="1514178716916" />
       <file name="/a.dummy" timestamp="1510133439612">
         <mark key="[" line="0" column="0" />
       </file>
@@ -187,6 +186,11 @@
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/micro-service/front/RNsales/node_modules/react-native-baidu-map/android/build.gradle" timestamp="1515665438902">
+        <mark key="[" line="8" column="54" />
+        <mark key="]" line="8" column="55" />
+        <mark key="." line="8" column="55" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/WorkOrderActivity.java" timestamp="1514182721577">
         <mark key="'" line="483" column="8" />
@@ -421,7 +425,7 @@
       <last-replace>pipelineBean</last-replace>
       <last-substitute>paramSave</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
