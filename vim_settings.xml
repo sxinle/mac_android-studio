@@ -192,6 +192,9 @@
         <mark key="]" line="8" column="55" />
         <mark key="." line="8" column="55" />
       </file>
+      <file name="$USER_HOME$/workspace/dongdong/DDian/app/src/main/AndroidManifest.xml" timestamp="1515733765463">
+        <mark key="'" line="69" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/WorkOrderActivity.java" timestamp="1514182721577">
         <mark key="'" line="483" column="8" />
         <mark key="[" line="21" column="0" />
@@ -273,7 +276,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="39" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/frag/ContactsFragment.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/frag/ContactsFragment.java" />
       <jump line="129" column="0" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/frag/ContactsFragment.java" />
       <jump line="76" column="36" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/AddProjectActivity.java" />
@@ -373,6 +375,7 @@
       <jump line="146" column="30" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/AddAttachActivity.java" />
       <jump line="483" column="8" filename="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/WorkOrderActivity.java" />
       <jump line="93" column="4" filename="/usr/local/android-sdk/sources/android-25/android/webkit/MimeTypeMap.java" />
+      <jump line="69" column="0" filename="$USER_HOME$/workspace/dongdong/DDian/app/src/main/AndroidManifest.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
