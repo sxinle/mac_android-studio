@@ -57,11 +57,11 @@
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="57" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/MqttClientAndroid/app/src/main/java/com/lichfaker/mqttclientandroid/ui/MainActivity.java" timestamp="1516788372404">
-        <mark key="[" line="19" column="31" />
-        <mark key="]" line="19" column="34" />
-        <mark key="." line="19" column="34" />
-        <mark key="^" line="19" column="34" />
+      <file name="$USER_HOME$/workspace/demo/MqttClientAndroid/app/src/main/java/com/lichfaker/mqttclientandroid/ui/MainActivity.java" timestamp="1516790829152">
+        <mark key="[" line="51" column="59" />
+        <mark key="]" line="51" column="72" />
+        <mark key="." line="51" column="72" />
+        <mark key="^" line="51" column="72" />
       </file>
       <file name="$USER_HOME$/DDian/app/src/main/java/com/acenode/ddian/App.java" timestamp="1510284993809">
         <mark key="[" line="31" column="43" />
@@ -172,8 +172,8 @@
         <mark key="." line="290" column="40" />
         <mark key="^" line="290" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/MqttClientAndroid/app/src/main/java/com/lichfaker/mqttclientandroid/mqtt/MqttManager.java" timestamp="1516787482383">
-        <mark key="'" line="27" column="31" />
+      <file name="$USER_HOME$/workspace/demo/MqttClientAndroid/app/src/main/java/com/lichfaker/mqttclientandroid/mqtt/MqttManager.java" timestamp="1516790848145">
+        <mark key="'" line="121" column="6" />
         <mark key="[" line="73" column="53" />
         <mark key="]" line="73" column="72" />
         <mark key="^" line="73" column="72" />
@@ -292,7 +292,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="334" column="21" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/PipelineDetailActivity.java" />
       <jump line="357" column="21" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/PipelineDetailActivity.java" />
       <jump line="386" column="21" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/PipelineDetailActivity.java" />
       <jump line="486" column="21" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/PipelineDetailActivity.java" />
@@ -392,13 +391,14 @@
       <jump line="82" column="47" filename="$USER_HOME$/workspace/demo/MqttClientAndroid/app/src/main/java/com/lichfaker/mqttclientandroid/mqtt/MqttManager.java" />
       <jump line="83" column="12" filename="$USER_HOME$/workspace/demo/MqttClientAndroid/app/src/main/java/com/lichfaker/mqttclientandroid/mqtt/MqttManager.java" />
       <jump line="27" column="31" filename="$USER_HOME$/workspace/demo/MqttClientAndroid/app/src/main/java/com/lichfaker/mqttclientandroid/mqtt/MqttManager.java" />
+      <jump line="121" column="6" filename="$USER_HOME$/workspace/demo/MqttClientAndroid/app/src/main/java/com/lichfaker/mqttclientandroid/mqtt/MqttManager.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>基本废物......</text>
       </register>
       <register name="-" type="4">
-        <text>users</text>
+        <text>test</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb25PcHRcPg==</text>
