@@ -3,9 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/demo/MqttClientAndroid/app/build.gradle" timestamp="1516789917543" />
       <file name="/a.dummy" timestamp="1510133439612">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/base/BusinessUtils.java" timestamp="1510121569605">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/AddProjectActivity.java" timestamp="1510125473986">
         <mark key="'" line="77" column="36" />
@@ -27,6 +31,20 @@
         <mark key="." line="63" column="92" />
         <mark key="^" line="63" column="92" />
       </file>
+      <file name="$USER_HOME$/workspace/demo/MqttClientAndroid/app/src/main/java/com/lichfaker/mqttclientandroid/mqtt/MqttManager.java" timestamp="1516794138799">
+        <mark key="'" line="121" column="6" />
+        <mark key="[" line="73" column="53" />
+        <mark key="]" line="73" column="72" />
+        <mark key="^" line="73" column="72" />
+        <mark key="." line="73" column="72" />
+      </file>
+      <file name="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/frag/ServicesFragment.java" timestamp="1510028731705">
+        <mark key="'" line="83" column="0" />
+        <mark key="[" line="55" column="20" />
+        <mark key="]" line="55" column="20" />
+        <mark key="." line="55" column="20" />
+        <mark key="^" line="23" column="19" />
+      </file>
       <file name="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/tools/Util.java" timestamp="1510118965840">
         <mark key="'" line="91" column="60" />
         <mark key="[" line="114" column="0" />
@@ -34,12 +52,42 @@
         <mark key="." line="114" column="0" />
         <mark key="^" line="113" column="24" />
       </file>
+      <file name="/usr/local/android-sdk/sources/android-25/android/webkit/MimeTypeMap.java" timestamp="1514182611833">
+        <mark key="'" line="93" column="4" />
+      </file>
+      <file name="$USER_HOME$/workspace/waffair/build.gradle" timestamp="1512638570613">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/DDian/app/build.gradle" timestamp="1510032818504">
         <mark key="'" line="23" column="52" />
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
         <mark key="^" line="27" column="43" />
+      </file>
+      <file name="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/tools/ConstantValue.java" timestamp="1510134471764">
+        <mark key="'" line="140" column="0" />
+        <mark key="[" line="8" column="45" />
+        <mark key="]" line="8" column="45" />
+        <mark key="." line="8" column="45" />
+        <mark key="^" line="8" column="45" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1518530372676">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/PipelineActivity.java" timestamp="1510118878395">
+        <mark key="'" line="292" column="30" />
+        <mark key="[" line="145" column="54" />
+        <mark key="]" line="146" column="33" />
+        <mark key="." line="146" column="33" />
+        <mark key="^" line="146" column="33" />
+      </file>
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/utils/Http.java" timestamp="1513940224211">
+        <mark key="'" line="75" column="36" />
+        <mark key="[" line="65" column="15" />
+        <mark key="]" line="65" column="25" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.parse/parse-android/1.15.8/7265dc1631fc4f2acd92f7e10a253f579bc78513/parse-android-1.15.8-sources.jar!/com/parse/ParseEncoder.java" timestamp="1510131281498">
         <mark key="'" line="27" column="30" />
@@ -56,71 +104,6 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" timestamp="1513939837518">
-        <mark key="'" line="86" column="13" />
-        <mark key="[" line="604" column="0" />
-        <mark key="]" line="604" column="0" />
-        <mark key="^" line="603" column="34" />
-        <mark key="." line="604" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/frag/ContactsFragment.java" timestamp="1510112797423">
-        <mark key="'" line="129" column="0" />
-        <mark key="[" line="102" column="0" />
-        <mark key="]" line="102" column="0" />
-        <mark key="." line="102" column="0" />
-        <mark key="^" line="101" column="45" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.paho/org.eclipse.paho.client.mqttv3/1.0.2/ddbdeb2951e6dd60443763e6555f3bd2903943fc/org.eclipse.paho.client.mqttv3-1.0.2-sources.jar!/org/eclipse/paho/client/mqttv3/MqttClient.java" timestamp="1516794147397" />
-      <file name="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/base/BusinessUtils.java" timestamp="1510121569605">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/demo/MqttClientAndroid/app/src/main/java/com/lichfaker/mqttclientandroid/mqtt/MqttManager.java" timestamp="1516794138799">
-        <mark key="'" line="121" column="6" />
-        <mark key="[" line="73" column="53" />
-        <mark key="]" line="73" column="72" />
-        <mark key="^" line="73" column="72" />
-        <mark key="." line="73" column="72" />
-      </file>
-      <file name="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/frag/ServicesFragment.java" timestamp="1510028731705">
-        <mark key="'" line="83" column="0" />
-        <mark key="[" line="55" column="20" />
-        <mark key="]" line="55" column="20" />
-        <mark key="." line="55" column="20" />
-        <mark key="^" line="23" column="19" />
-      </file>
-      <file name="/usr/local/android-sdk/sources/android-25/android/webkit/MimeTypeMap.java" timestamp="1514182611833">
-        <mark key="'" line="93" column="4" />
-      </file>
-      <file name="$USER_HOME$/workspace/waffair/build.gradle" timestamp="1512638570613">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/tools/ConstantValue.java" timestamp="1510134471764">
-        <mark key="'" line="140" column="0" />
-        <mark key="[" line="8" column="45" />
-        <mark key="]" line="8" column="45" />
-        <mark key="." line="8" column="45" />
-        <mark key="^" line="8" column="45" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1514179149522">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/PipelineActivity.java" timestamp="1510118878395">
-        <mark key="'" line="292" column="30" />
-        <mark key="[" line="145" column="54" />
-        <mark key="]" line="146" column="33" />
-        <mark key="." line="146" column="33" />
-        <mark key="^" line="146" column="33" />
-      </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/utils/Http.java" timestamp="1513940224211">
-        <mark key="'" line="75" column="36" />
-        <mark key="[" line="65" column="15" />
-        <mark key="]" line="65" column="25" />
-      </file>
-      <file name="$USER_HOME$/workspace/demo/MqttClientAndroid/app/src/main/java/com/lichfaker/mqttclientandroid/mqtt/MqttCallbackBus.java" timestamp="1516793998759" />
       <file name="$USER_HOME$/workspace/micro-service/front/RNsales/node_modules/react-native-baidu-map/android/build.gradle" timestamp="1515665438902">
         <mark key="[" line="8" column="54" />
         <mark key="]" line="8" column="55" />
@@ -135,7 +118,13 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.paho/org.eclipse.paho.client.mqttv3/1.0.2/ddbdeb2951e6dd60443763e6555f3bd2903943fc/org.eclipse.paho.client.mqttv3-1.0.2-sources.jar!/org/eclipse/paho/client/mqttv3/MqttAsyncClient.java" timestamp="1516786692390" />
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" timestamp="1513939837518">
+        <mark key="'" line="86" column="13" />
+        <mark key="[" line="604" column="0" />
+        <mark key="]" line="604" column="0" />
+        <mark key="^" line="603" column="34" />
+        <mark key="." line="604" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/DDian/app/src/main/res/layout/item_service.xml" timestamp="1510026728146">
         <mark key="'" line="53" column="0" />
         <mark key="[" line="41" column="29" />
@@ -145,6 +134,13 @@
       </file>
       <file name="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/tools/ParseProxyObject.java" timestamp="1510112638537">
         <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/frag/ContactsFragment.java" timestamp="1510112797423">
+        <mark key="'" line="129" column="0" />
+        <mark key="[" line="102" column="0" />
+        <mark key="]" line="102" column="0" />
+        <mark key="." line="102" column="0" />
+        <mark key="^" line="101" column="45" />
       </file>
       <file name="/fragment.java" timestamp="1516787445548">
         <mark key="[" line="0" column="0" />
@@ -319,7 +315,7 @@
       <last-replace>pipelineBean</last-replace>
       <last-substitute>paramSave</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
