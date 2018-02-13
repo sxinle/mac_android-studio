@@ -11,6 +11,7 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
+      <file name="$USER_HOME$/a/FakeGps/app/src/main/java/name/caiyao/fakegps/hook/MainHook.java" timestamp="1518531768881" />
       <file name="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/AddProjectActivity.java" timestamp="1510125473986">
         <mark key="'" line="77" column="36" />
         <mark key="[" line="96" column="80" />
@@ -45,6 +46,10 @@
         <mark key="." line="55" column="20" />
         <mark key="^" line="23" column="19" />
       </file>
+      <file name="$USER_HOME$/a/FakeGps/app/src/main/java/name/caiyao/fakegps/ui/activity/MainActivity.java" timestamp="1518531673190">
+        <mark key="[" line="48" column="7" />
+        <mark key="]" line="48" column="25" />
+      </file>
       <file name="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/tools/Util.java" timestamp="1510118965840">
         <mark key="'" line="91" column="60" />
         <mark key="[" line="114" column="0" />
@@ -73,6 +78,11 @@
         <mark key="]" line="8" column="45" />
         <mark key="." line="8" column="45" />
         <mark key="^" line="8" column="45" />
+      </file>
+      <file name="$USER_HOME$/a/FakeGps/app/src/main/AndroidManifest.xml" timestamp="1518531649091">
+        <mark key="[" line="2" column="13" />
+        <mark key="]" line="2" column="38" />
+        <mark key="." line="2" column="13" />
       </file>
       <file name="/Dummy.txt" timestamp="1518530372676">
         <mark key="[" line="0" column="0" />
@@ -269,13 +279,13 @@
         <text>基本废物......</text>
       </register>
       <register name="-" type="4">
-        <text>test</text>
+        <text>name.caiyao.fakegps</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb25PcHRcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQkJRmlsZSBmID0gbmV3IEZpbGUoU0RQQVRILCBwaWNOYW1lICsgIi5KUEVHIik7Cg==</text>
+      <register name="0" type="4">
+        <text>name.caiyao.fakegps</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTXF0dE1hbmFnZXIuZ2V0SW5zdGFuY2UoKS5zdWJzY3JpYmUoInRlc3QiLCAyKTsKICAgICAgICAgICAgICAgICAgICB9Cg==</text>
