@@ -30,6 +30,13 @@
         <mark key="^" line="9" column="11" />
         <mark key="." line="9" column="11" />
       </file>
+      <file name="$USER_HOME$/workspace/micro-service/front/RNsales/node_modules/react-native-image-crop-picker/android/src/main/java/com/reactnative/ivpusic/imagepicker/PickerModule.java" timestamp="1531724766822">
+        <mark key="'" line="739" column="0" />
+        <mark key="[" line="301" column="0" />
+        <mark key="]" line="303" column="17" />
+        <mark key="." line="301" column="0" />
+        <mark key="^" line="49" column="3" />
+      </file>
       <file name="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/AddProjectActivity.java" timestamp="1510125473986">
         <mark key="'" line="77" column="36" />
         <mark key="[" line="96" column="80" />
@@ -147,10 +154,11 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/RNsales/android/app/build.gradle" timestamp="1531707441329">
-        <mark key="[" line="165" column="0" />
-        <mark key="]" line="165" column="0" />
-        <mark key="." line="165" column="0" />
+      <file name="$USER_HOME$/workspace/micro-service/front/RNsales/android/app/build.gradle" timestamp="1531724560343">
+        <mark key="'" line="162" column="34" />
+        <mark key="[" line="97" column="28" />
+        <mark key="]" line="97" column="29" />
+        <mark key="." line="97" column="29" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" timestamp="1513939837518">
         <mark key="'" line="86" column="13" />
@@ -195,25 +203,15 @@
         <mark key="." line="344" column="69" />
         <mark key="^" line="344" column="68" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/RNsales/android/app/src/main/AndroidManifest.xml" timestamp="1531708104791">
-        <mark key="'" line="22" column="54" />
-        <mark key="[" line="50" column="26" />
-        <mark key="]" line="50" column="60" />
-        <mark key="^" line="50" column="60" />
-        <mark key="." line="40" column="17" />
+      <file name="$USER_HOME$/workspace/micro-service/front/RNsales/android/app/src/main/AndroidManifest.xml" timestamp="1531724509310">
+        <mark key="'" line="8" column="54" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="49" column="60" />
+        <mark key="." line="15" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="33" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/tools/Util.java" />
-      <jump line="68" column="27" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/PipelineDetailActivity.java" />
-      <jump line="810" column="53" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/PipelineDetailActivity.java" />
-      <jump line="848" column="12" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/PipelineDetailActivity.java" />
-      <jump line="292" column="30" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/PipelineActivity.java" />
-      <jump line="91" column="60" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/tools/Util.java" />
-      <jump line="1518" column="8" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/PipelineDetailActivity.java" />
-      <jump line="1506" column="43" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/PipelineDetailActivity.java" />
-      <jump line="1080" column="79" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/PipelineDetailActivity.java" />
-      <jump line="1083" column="30" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/PipelineDetailActivity.java" />
       <jump line="149" column="40" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/PipelineDetailActivity.java" />
       <jump line="348" column="29" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/PipelineDetailActivity.java" />
       <jump line="959" column="8" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/PipelineDetailActivity.java" />
@@ -304,6 +302,16 @@
       <jump line="26" column="54" filename="$USER_HOME$/workspace/micro-service/front/RNsales/android/app/src/main/AndroidManifest.xml" />
       <jump line="22" column="54" filename="$USER_HOME$/workspace/micro-service/front/RNsales/android/app/src/main/AndroidManifest.xml" />
       <jump line="112" column="48" filename="$USER_HOME$/workspace/micro-service/front/RNsales/android/app/src/main/java/com/rnsales/upgrade/DownloadService.java" />
+      <jump line="46" column="54" filename="$USER_HOME$/workspace/micro-service/front/RNsales/android/app/src/main/AndroidManifest.xml" />
+      <jump line="6" column="54" filename="$USER_HOME$/workspace/micro-service/front/RNsales/android/app/src/main/AndroidManifest.xml" />
+      <jump line="15" column="54" filename="$USER_HOME$/workspace/micro-service/front/RNsales/android/app/src/main/AndroidManifest.xml" />
+      <jump line="8" column="54" filename="$USER_HOME$/workspace/micro-service/front/RNsales/android/app/src/main/AndroidManifest.xml" />
+      <jump line="162" column="34" filename="$USER_HOME$/workspace/micro-service/front/RNsales/android/app/build.gradle" />
+      <jump line="60" column="66" filename="$USER_HOME$/workspace/micro-service/front/RNsales/node_modules/react-native-image-crop-picker/android/src/main/java/com/reactnative/ivpusic/imagepicker/PickerModule.java" />
+      <jump line="304" column="0" filename="$USER_HOME$/workspace/micro-service/front/RNsales/node_modules/react-native-image-crop-picker/android/src/main/java/com/reactnative/ivpusic/imagepicker/PickerModule.java" />
+      <jump line="50" column="16" filename="$USER_HOME$/workspace/micro-service/front/RNsales/node_modules/react-native-image-crop-picker/android/src/main/java/com/reactnative/ivpusic/imagepicker/PickerModule.java" />
+      <jump line="63" column="59" filename="$USER_HOME$/workspace/micro-service/front/RNsales/node_modules/react-native-image-crop-picker/android/src/main/java/com/reactnative/ivpusic/imagepicker/PickerModule.java" />
+      <jump line="739" column="0" filename="$USER_HOME$/workspace/micro-service/front/RNsales/node_modules/react-native-image-crop-picker/android/src/main/java/com/reactnative/ivpusic/imagepicker/PickerModule.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -313,46 +321,46 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxXUklURV9TRVRUSU5HU1w+</text>
+        <text>setFileProviderAuthorities</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZihCdWlsZC5WRVJTSU9OLlNES19JTlQgPj0gQnVpbGQuVkVSU0lPTl9DT0RFUy5OKSB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1DYW1lcmFDYXB0dXJlVVJJID0gRmlsZVByb3ZpZGVyLmdldFVyaUZvckZpbGUoYWN0aXZpdHksCiAgICAgICAgICAgICAgICAgICAgICAgIGFjdGl2aXR5LmdldEFwcGxpY2F0aW9uQ29udGV4dCgpLmdldFBhY2thZ2VOYW1lKCkgKyAiLnByb3ZpZGVyIiwKICAgICAgICAgICAgICAgICAgICAgICAgaW1hZ2VGaWxlKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uQUNDRVNTX0ZJTkVfTE9DQVRJT04iLz4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3IFVwZ3JhZGVQYWNrYWdlKCk7Cg==</text>
+        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uQUNDRVNTX0ZJTkVfTE9DQVRJT04iLz4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5jbG91ZGJ1c2luZXNzLlI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uV1JJVEVfRVhURVJOQUxfU1RPUkFHRSIvPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3IFVwZ3JhZGVQYWNrYWdlKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uSU5URVJORVQiLz4K</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5jbG91ZGJ1c2luZXNzLlI7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5hbGxlbmxpdS52ZXJzaW9uY2hlY2tsaWI6bGlicmFyeToyLjAuNScK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLi4uCg==</text>
+        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uV1JJVEVfRVhURVJOQUxfU1RPUkFHRSIvPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxXUklURV9TRVRUSU5HU1w+</last-search>
+      <last-search>setFileProviderAuthorities</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxXUklURV9TRVRUSU5HU1w+</last-pattern>
+      <last-pattern>setFileProviderAuthorities</last-pattern>
       <last-replace>pipelineBean</last-replace>
       <last-substitute>paramSave</last-substitute>
       <last-dir>1</last-dir>
@@ -360,9 +368,6 @@
     </search>
     <history>
       <history-search>
-        <entry>AddCus</entry>
-        <entry>JsonOb</entry>
-        <entry encoding="base64">XDxwaXBlbGluZUJlYW5cPg==</entry>
         <entry encoding="base64">XDxsc3RDdXN0b21lckJlYW5cPg==</entry>
         <entry encoding="base64">XDxtTGlzdFZpZXdDdXN0b21lclw+</entry>
         <entry encoding="base64">XDx2aWV3Mlw+</entry>
@@ -380,6 +385,9 @@
         <entry encoding="base64">XDxXUklURV9FWFRFUk5BTF9TVE9SQUdFXD4=</entry>
         <entry encoding="base64">XDxSRUFEX0VYVEVSTkFMX1NUT1JBR0VcPg==</entry>
         <entry encoding="base64">XDxXUklURV9TRVRUSU5HU1w+</entry>
+        <entry encoding="base64">XDxBQ0NFU1NfQ09BUlNFX0xPQ0FUSU9OXD4=</entry>
+        <entry encoding="base64">XDxBQ0NFU1NfRklORV9MT0NBVElPTlw+</entry>
+        <entry>setFileProviderAuthorities</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0FsYXJtSW5mby9IaXNBbGFybUluZm8vZw==</entry>
