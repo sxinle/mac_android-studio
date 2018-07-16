@@ -154,8 +154,8 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/RNsales/android/app/build.gradle" timestamp="1531724560343">
-        <mark key="'" line="162" column="34" />
+      <file name="$USER_HOME$/workspace/micro-service/front/RNsales/android/app/build.gradle" timestamp="1531731358973">
+        <mark key="'" line="97" column="29" />
         <mark key="[" line="97" column="28" />
         <mark key="]" line="97" column="29" />
         <mark key="." line="97" column="29" />
@@ -212,7 +212,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="149" column="40" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/PipelineDetailActivity.java" />
       <jump line="348" column="29" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/PipelineDetailActivity.java" />
       <jump line="959" column="8" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/PipelineDetailActivity.java" />
       <jump line="960" column="8" filename="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/PipelineDetailActivity.java" />
@@ -312,6 +311,7 @@
       <jump line="50" column="16" filename="$USER_HOME$/workspace/micro-service/front/RNsales/node_modules/react-native-image-crop-picker/android/src/main/java/com/reactnative/ivpusic/imagepicker/PickerModule.java" />
       <jump line="63" column="59" filename="$USER_HOME$/workspace/micro-service/front/RNsales/node_modules/react-native-image-crop-picker/android/src/main/java/com/reactnative/ivpusic/imagepicker/PickerModule.java" />
       <jump line="739" column="0" filename="$USER_HOME$/workspace/micro-service/front/RNsales/node_modules/react-native-image-crop-picker/android/src/main/java/com/reactnative/ivpusic/imagepicker/PickerModule.java" />
+      <jump line="97" column="29" filename="$USER_HOME$/workspace/micro-service/front/RNsales/android/app/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
