@@ -83,10 +83,10 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="27" column="43" />
       </file>
-      <file name="$USER_HOME$/workspace/Vna/app/src/main/java/ro/yo3ggx/btvna/main.java" timestamp="1535362084401">
-        <mark key="'" line="4607" column="52" />
-        <mark key="[" line="29" column="44" />
-        <mark key="]" line="29" column="54" />
+      <file name="$USER_HOME$/workspace/Vna/app/src/main/java/ro/yo3ggx/btvna/main.java" timestamp="1535364105419">
+        <mark key="'" line="8727" column="69" />
+        <mark key="[" line="29" column="7" />
+        <mark key="]" line="29" column="42" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/Vna/app/src/main/java/com/hoho/android/usbserial/driver/ProlificSerialDriver.java" timestamp="1535358807675">
@@ -238,12 +238,12 @@
       <file name="/Dummy.txt" timestamp="1535358642415">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/agraham/dialogs/InputDialog.java" timestamp="1535362281427">
-        <mark key="'" line="55" column="49" />
-        <mark key="[" line="55" column="39" />
-        <mark key="]" line="55" column="39" />
-        <mark key="." line="55" column="39" />
-        <mark key="^" line="60" column="69" />
+      <file name="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/agraham/dialogs/InputDialog.java" timestamp="1535364074237">
+        <mark key="'" line="631" column="48" />
+        <mark key="[" line="969" column="32" />
+        <mark key="]" line="969" column="52" />
+        <mark key="." line="969" column="52" />
+        <mark key="^" line="969" column="52" />
       </file>
       <file name="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/PipelineActivity.java" timestamp="1510118878395">
         <mark key="'" line="292" column="30" />
@@ -317,27 +317,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="31" filename="$USER_HOME$/workspace/demo/MqttClientAndroid/app/src/main/java/com/lichfaker/mqttclientandroid/mqtt/MqttManager.java" />
-      <jump line="121" column="6" filename="$USER_HOME$/workspace/demo/MqttClientAndroid/app/src/main/java/com/lichfaker/mqttclientandroid/mqtt/MqttManager.java" />
-      <jump line="64" column="12" filename="$USER_HOME$/workspace/micro-service/front/RNsales/android/app/src/main/java/com/rnsales/MainApplication.java" />
-      <jump line="25" column="54" filename="$USER_HOME$/workspace/micro-service/front/RNsales/android/app/src/main/AndroidManifest.xml" />
-      <jump line="20" column="54" filename="$USER_HOME$/workspace/micro-service/front/RNsales/android/app/src/main/AndroidManifest.xml" />
-      <jump line="26" column="54" filename="$USER_HOME$/workspace/micro-service/front/RNsales/android/app/src/main/AndroidManifest.xml" />
-      <jump line="22" column="54" filename="$USER_HOME$/workspace/micro-service/front/RNsales/android/app/src/main/AndroidManifest.xml" />
-      <jump line="112" column="48" filename="$USER_HOME$/workspace/micro-service/front/RNsales/android/app/src/main/java/com/rnsales/upgrade/DownloadService.java" />
-      <jump line="46" column="54" filename="$USER_HOME$/workspace/micro-service/front/RNsales/android/app/src/main/AndroidManifest.xml" />
-      <jump line="6" column="54" filename="$USER_HOME$/workspace/micro-service/front/RNsales/android/app/src/main/AndroidManifest.xml" />
-      <jump line="15" column="54" filename="$USER_HOME$/workspace/micro-service/front/RNsales/android/app/src/main/AndroidManifest.xml" />
-      <jump line="8" column="54" filename="$USER_HOME$/workspace/micro-service/front/RNsales/android/app/src/main/AndroidManifest.xml" />
-      <jump line="162" column="34" filename="$USER_HOME$/workspace/micro-service/front/RNsales/android/app/build.gradle" />
-      <jump line="60" column="66" filename="$USER_HOME$/workspace/micro-service/front/RNsales/node_modules/react-native-image-crop-picker/android/src/main/java/com/reactnative/ivpusic/imagepicker/PickerModule.java" />
-      <jump line="304" column="0" filename="$USER_HOME$/workspace/micro-service/front/RNsales/node_modules/react-native-image-crop-picker/android/src/main/java/com/reactnative/ivpusic/imagepicker/PickerModule.java" />
-      <jump line="50" column="16" filename="$USER_HOME$/workspace/micro-service/front/RNsales/node_modules/react-native-image-crop-picker/android/src/main/java/com/reactnative/ivpusic/imagepicker/PickerModule.java" />
-      <jump line="63" column="59" filename="$USER_HOME$/workspace/micro-service/front/RNsales/node_modules/react-native-image-crop-picker/android/src/main/java/com/reactnative/ivpusic/imagepicker/PickerModule.java" />
-      <jump line="739" column="0" filename="$USER_HOME$/workspace/micro-service/front/RNsales/node_modules/react-native-image-crop-picker/android/src/main/java/com/reactnative/ivpusic/imagepicker/PickerModule.java" />
-      <jump line="97" column="29" filename="$USER_HOME$/workspace/micro-service/front/RNsales/android/app/build.gradle" />
-      <jump line="76" column="0" filename="$USER_HOME$/workspace/micro-service/front/RNsales/android/app/build.gradle" />
-      <jump line="2" column="29" filename="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/AbsObjectWrapper.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/AbsObjectWrapper.java" />
       <jump line="13" column="0" filename="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/AbsObjectWrapper.java" />
       <jump line="138" column="0" filename="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/AbsObjectWrapper.java" />
@@ -417,19 +396,40 @@
       <jump line="4394" column="41" filename="$USER_HOME$/workspace/Vna/app/src/main/java/ro/yo3ggx/btvna/main.java" />
       <jump line="4599" column="52" filename="$USER_HOME$/workspace/Vna/app/src/main/java/ro/yo3ggx/btvna/main.java" />
       <jump line="4607" column="52" filename="$USER_HOME$/workspace/Vna/app/src/main/java/ro/yo3ggx/btvna/main.java" />
+      <jump line="182" column="0" filename="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/agraham/dialogs/InputDialog.java" />
+      <jump line="183" column="81" filename="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/agraham/dialogs/InputDialog.java" />
+      <jump line="184" column="130" filename="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/agraham/dialogs/InputDialog.java" />
+      <jump line="152" column="4" filename="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/agraham/dialogs/InputDialog.java" />
+      <jump line="1432" column="0" filename="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/agraham/dialogs/InputDialog.java" />
+      <jump line="227" column="72" filename="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/agraham/dialogs/InputDialog.java" />
+      <jump line="228" column="177" filename="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/agraham/dialogs/InputDialog.java" />
+      <jump line="559" column="45" filename="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/agraham/dialogs/InputDialog.java" />
+      <jump line="620" column="98" filename="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/agraham/dialogs/InputDialog.java" />
+      <jump line="621" column="136" filename="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/agraham/dialogs/InputDialog.java" />
+      <jump line="622" column="24" filename="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/agraham/dialogs/InputDialog.java" />
+      <jump line="623" column="22" filename="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/agraham/dialogs/InputDialog.java" />
+      <jump line="624" column="53" filename="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/agraham/dialogs/InputDialog.java" />
+      <jump line="625" column="16" filename="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/agraham/dialogs/InputDialog.java" />
+      <jump line="626" column="51" filename="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/agraham/dialogs/InputDialog.java" />
+      <jump line="627" column="12" filename="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/agraham/dialogs/InputDialog.java" />
+      <jump line="628" column="43" filename="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/agraham/dialogs/InputDialog.java" />
+      <jump line="629" column="38" filename="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/agraham/dialogs/InputDialog.java" />
+      <jump line="630" column="89" filename="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/agraham/dialogs/InputDialog.java" />
+      <jump line="631" column="48" filename="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/agraham/dialogs/InputDialog.java" />
+      <jump line="8727" column="69" filename="$USER_HOME$/workspace/Vna/app/src/main/java/ro/yo3ggx/btvna/main.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>基本废物......</text>
       </register>
       <register name="-" type="4">
-        <text>AlertDialog$</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>FREQ</text>
+        <text>$</text>
       </register>
       <register name="0" type="4">
-        <text>InputDialog</text>
+        <text>anywheresoftware.b4a.agraham.dialogs</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -463,9 +463,9 @@
       </register>
     </registers>
     <search>
-      <last-search>FREQ</last-search>
+      <last-search>$</last-search>
       <last-offset />
-      <last-pattern>FREQ</last-pattern>
+      <last-pattern>$</last-pattern>
       <last-replace>pipelineBean</last-replace>
       <last-substitute>paramSave</last-substitute>
       <last-dir>1</last-dir>
@@ -473,8 +473,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjbGllbnRcPg==</entry>
-        <entry encoding="base64">XDxjb25PcHRcPg==</entry>
         <entry encoding="base64">XDxSRVFVRVNUX0lOU1RBTExfUEFDS0FHRVNcPg==</entry>
         <entry encoding="base64">XDxXUklURV9FWFRFUk5BTF9TVE9SQUdFXD4=</entry>
         <entry encoding="base64">XDxSRUFEX0VYVEVSTkFMX1NUT1JBR0VcPg==</entry>
@@ -493,6 +491,8 @@
         <entry encoding="base64">XDxUaHJlYWRpbmdcPg==</entry>
         <entry encoding="base64">XDxfbGJsZGIxX2xvbmdjbGlja1w+</entry>
         <entry>FREQ</entry>
+        <entry>\\$</entry>
+        <entry>$</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0FsYXJtSW5mby9IaXNBbGFybUluZm8vZw==</entry>
