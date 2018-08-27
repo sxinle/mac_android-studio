@@ -83,10 +83,10 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="27" column="43" />
       </file>
-      <file name="$USER_HOME$/workspace/Vna/app/src/main/java/ro/yo3ggx/btvna/main.java" timestamp="1535364105419">
-        <mark key="'" line="8727" column="69" />
-        <mark key="[" line="29" column="7" />
-        <mark key="]" line="29" column="42" />
+      <file name="$USER_HOME$/workspace/Vna/app/src/main/java/ro/yo3ggx/btvna/main.java" timestamp="1535366448788">
+        <mark key="'" line="405" column="18" />
+        <mark key="[" line="33" column="28" />
+        <mark key="]" line="33" column="55" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/Vna/app/src/main/java/com/hoho/android/usbserial/driver/ProlificSerialDriver.java" timestamp="1535358807675">
@@ -116,6 +116,13 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/agraham/reflection/Reflection.java" timestamp="1535366577239">
+        <mark key="'" line="653" column="0" />
+        <mark key="[" line="19" column="41" />
+        <mark key="]" line="19" column="46" />
+        <mark key="." line="19" column="46" />
+        <mark key="^" line="19" column="46" />
       </file>
       <file name="$USER_HOME$/workspace/Vna/app/src/main/java/ro/yo3ggx/btvna/webactivity.java" timestamp="1535357360168">
         <mark key="'" line="407" column="0" />
@@ -207,8 +214,8 @@
         <mark key="." line="55" column="20" />
         <mark key="^" line="23" column="19" />
       </file>
-      <file name="$USER_HOME$/workspace/Vna/app/src/main/java/com/rootsoft/imageprocessing/RSImageProcessing.java" timestamp="1535357093871">
-        <mark key="'" line="165" column="0" />
+      <file name="$USER_HOME$/workspace/Vna/app/src/main/java/com/rootsoft/imageprocessing/RSImageProcessing.java" timestamp="1535366431796">
+        <mark key="'" line="149" column="17" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -296,7 +303,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1535360167341">
+      <file name="/fragment.java" timestamp="1535366521306">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
@@ -317,11 +324,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/AbsObjectWrapper.java" />
-      <jump line="13" column="0" filename="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/AbsObjectWrapper.java" />
-      <jump line="138" column="0" filename="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/AbsObjectWrapper.java" />
-      <jump line="0" column="26" filename="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/agraham/byteconverter/ByteConverter.java" />
-      <jump line="1519" column="0" filename="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/agraham/dialogs/InputDialog.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/agraham/dialogs/InputDialog.java" />
       <jump line="20" column="30" filename="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/agraham/dialogs/InputDialog.java" />
       <jump line="0" column="15" filename="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/BA.java" />
@@ -378,10 +380,8 @@
       <jump line="239" column="23" filename="$USER_HOME$/workspace/Vna/app/src/main/java/ro/yo3ggx/btvna/main.java" />
       <jump line="18" column="7" filename="$USER_HOME$/workspace/Vna/app/src/main/java/ro/yo3ggx/btvna/main.java" />
       <jump line="491" column="19" filename="$USER_HOME$/workspace/Vna/app/src/main/java/ro/yo3ggx/btvna/main.java" />
-      <jump line="405" column="23" filename="$USER_HOME$/workspace/Vna/app/src/main/java/ro/yo3ggx/btvna/main.java" />
       <jump line="22" column="44" filename="$USER_HOME$/workspace/Vna/app/src/main/java/ro/yo3ggx/btvna/main.java" />
       <jump line="32" column="65" filename="$USER_HOME$/workspace/Vna/app/src/main/java/ro/yo3ggx/btvna/main.java" />
-      <jump line="423" column="18" filename="$USER_HOME$/workspace/Vna/app/src/main/java/ro/yo3ggx/btvna/main.java" />
       <jump line="7537" column="48" filename="$USER_HOME$/workspace/Vna/app/src/main/java/ro/yo3ggx/btvna/main.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/Vna/app/src/main/java/ro/yo3ggx/btvna/main.java" />
       <jump line="4" column="0" filename="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/objects/UsbSerial.java" />
@@ -417,19 +417,26 @@
       <jump line="630" column="89" filename="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/agraham/dialogs/InputDialog.java" />
       <jump line="631" column="48" filename="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/agraham/dialogs/InputDialog.java" />
       <jump line="8727" column="69" filename="$USER_HOME$/workspace/Vna/app/src/main/java/ro/yo3ggx/btvna/main.java" />
+      <jump line="423" column="18" filename="$USER_HOME$/workspace/Vna/app/src/main/java/ro/yo3ggx/btvna/main.java" />
+      <jump line="149" column="17" filename="$USER_HOME$/workspace/Vna/app/src/main/java/com/rootsoft/imageprocessing/RSImageProcessing.java" />
+      <jump line="6651" column="41" filename="$USER_HOME$/workspace/Vna/app/src/main/java/ro/yo3ggx/btvna/main.java" />
+      <jump line="405" column="18" filename="$USER_HOME$/workspace/Vna/app/src/main/java/ro/yo3ggx/btvna/main.java" />
+      <jump line="684" column="0" filename="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/agraham/reflection/Reflection.java" />
+      <jump line="34" column="36" filename="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/agraham/reflection/Reflection.java" />
+      <jump line="653" column="0" filename="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/agraham/reflection/Reflection.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>基本废物......</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>?</text>
       </register>
       <register name="/" type="4">
         <text>$</text>
       </register>
       <register name="0" type="4">
-        <text>anywheresoftware.b4a.agraham.dialogs</text>
+        <text>agraham.threading.Threading;</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
