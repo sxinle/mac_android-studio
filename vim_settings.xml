@@ -83,8 +83,8 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="27" column="43" />
       </file>
-      <file name="$USER_HOME$/workspace/Vna/app/src/main/java/ro/yo3ggx/btvna/main.java" timestamp="1535360164474">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/workspace/Vna/app/src/main/java/ro/yo3ggx/btvna/main.java" timestamp="1535362084401">
+        <mark key="'" line="4607" column="52" />
         <mark key="[" line="29" column="44" />
         <mark key="]" line="29" column="54" />
         <mark key="." line="0" column="0" />
@@ -238,12 +238,12 @@
       <file name="/Dummy.txt" timestamp="1535358642415">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/agraham/dialogs/InputDialog.java" timestamp="1535360192612">
-        <mark key="'" line="48" column="49" />
-        <mark key="[" line="53" column="69" />
-        <mark key="]" line="53" column="69" />
-        <mark key="." line="53" column="69" />
-        <mark key="^" line="53" column="69" />
+      <file name="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/agraham/dialogs/InputDialog.java" timestamp="1535362281427">
+        <mark key="'" line="55" column="49" />
+        <mark key="[" line="55" column="39" />
+        <mark key="]" line="55" column="39" />
+        <mark key="." line="55" column="39" />
+        <mark key="^" line="60" column="69" />
       </file>
       <file name="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/PipelineActivity.java" timestamp="1510118878395">
         <mark key="'" line="292" column="30" />
@@ -317,10 +317,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="24" filename="$USER_HOME$/workspace/demo/MqttClientAndroid/app/src/main/java/com/lichfaker/mqttclientandroid/mqtt/MqttManager.java" />
-      <jump line="26" column="23" filename="$USER_HOME$/workspace/demo/MqttClientAndroid/app/src/main/java/com/lichfaker/mqttclientandroid/mqtt/MqttManager.java" />
-      <jump line="82" column="47" filename="$USER_HOME$/workspace/demo/MqttClientAndroid/app/src/main/java/com/lichfaker/mqttclientandroid/mqtt/MqttManager.java" />
-      <jump line="83" column="12" filename="$USER_HOME$/workspace/demo/MqttClientAndroid/app/src/main/java/com/lichfaker/mqttclientandroid/mqtt/MqttManager.java" />
       <jump line="27" column="31" filename="$USER_HOME$/workspace/demo/MqttClientAndroid/app/src/main/java/com/lichfaker/mqttclientandroid/mqtt/MqttManager.java" />
       <jump line="121" column="6" filename="$USER_HOME$/workspace/demo/MqttClientAndroid/app/src/main/java/com/lichfaker/mqttclientandroid/mqtt/MqttManager.java" />
       <jump line="64" column="12" filename="$USER_HOME$/workspace/micro-service/front/RNsales/android/app/src/main/java/com/rnsales/MainApplication.java" />
@@ -417,16 +413,20 @@
       <jump line="208" column="0" filename="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/agraham/byteconverter/ByteConverter.java" />
       <jump line="1424" column="0" filename="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/agraham/dialogs/InputDialog.java" />
       <jump line="48" column="49" filename="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/agraham/dialogs/InputDialog.java" />
+      <jump line="5765" column="25" filename="$USER_HOME$/workspace/Vna/app/src/main/java/ro/yo3ggx/btvna/main.java" />
+      <jump line="4394" column="41" filename="$USER_HOME$/workspace/Vna/app/src/main/java/ro/yo3ggx/btvna/main.java" />
+      <jump line="4599" column="52" filename="$USER_HOME$/workspace/Vna/app/src/main/java/ro/yo3ggx/btvna/main.java" />
+      <jump line="4607" column="52" filename="$USER_HOME$/workspace/Vna/app/src/main/java/ro/yo3ggx/btvna/main.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>基本废物......</text>
       </register>
       <register name="-" type="4">
-        <text>$</text>
+        <text>AlertDialog$</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxUaHJlYWRpbmdcPg==</text>
+        <text>FREQ</text>
       </register>
       <register name="0" type="4">
         <text>InputDialog</text>
@@ -463,9 +463,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxUaHJlYWRpbmdcPg==</last-search>
+      <last-search>FREQ</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxUaHJlYWRpbmdcPg==</last-pattern>
+      <last-pattern>FREQ</last-pattern>
       <last-replace>pipelineBean</last-replace>
       <last-substitute>paramSave</last-substitute>
       <last-dir>1</last-dir>
@@ -473,8 +473,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpbWdzXD4=</entry>
-        <entry encoding="base64">XDx2aWV3XD4=</entry>
         <entry encoding="base64">XDxjbGllbnRcPg==</entry>
         <entry encoding="base64">XDxjb25PcHRcPg==</entry>
         <entry encoding="base64">XDxSRVFVRVNUX0lOU1RBTExfUEFDS0FHRVNcPg==</entry>
@@ -493,6 +491,8 @@
         <entry>Rucg</entry>
         <entry>Rich</entry>
         <entry encoding="base64">XDxUaHJlYWRpbmdcPg==</entry>
+        <entry encoding="base64">XDxfbGJsZGIxX2xvbmdjbGlja1w+</entry>
+        <entry>FREQ</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0FsYXJtSW5mby9IaXNBbGFybUluZm8vZw==</entry>
