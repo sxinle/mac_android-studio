@@ -318,8 +318,10 @@
         <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/signup/SignUpActivity.kt" timestamp="1538644833870" />
-      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/repository/user/UserRepository.kt" timestamp="1538651663433">
+      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/repository/user/UserRepository.kt" timestamp="1538653054071">
         <mark key="'" line="40" column="37" />
+        <mark key="[" line="14" column="14" />
+        <mark key="]" line="14" column="20" />
       </file>
       <file name="$USER_HOME$/workspace/Vna/app/src/main/java/com/rootsoft/imageprocessing/RSImageBlend.java" timestamp="1535357045705">
         <mark key="'" line="935" column="34" />
@@ -460,7 +462,7 @@
         <text>send</text>
       </register>
       <register name="0" type="4">
-        <text>smsCheck</text>
+        <text>account</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
