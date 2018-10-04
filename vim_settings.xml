@@ -63,7 +63,7 @@
       <file name="$USER_HOME$/workspace/dongdong/DDian/app/src/main/java/com/acenode/ddian/view/activity/FunctionOpenCloseActivity.java" timestamp="1510645727273">
         <mark key="'" line="86" column="36" />
       </file>
-      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/api/user/UserAPI.kt" timestamp="1538658371735">
+      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/api/user/UserAPI.kt" timestamp="1538660560202">
         <mark key="'" line="41" column="0" />
         <mark key="[" line="91" column="94" />
         <mark key="]" line="91" column="100" />
@@ -294,6 +294,10 @@
         <mark key="." line="179" column="0" />
         <mark key="^" line="590" column="36" />
       </file>
+      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/changepwd/ChangePwdViewModel.kt" timestamp="1538660643880">
+        <mark key="[" line="31" column="32" />
+        <mark key="]" line="31" column="43" />
+      </file>
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/signup/phonenumverfication/PhoneNumVerficationViewModel.kt" timestamp="1538651656569">
         <mark key="[" line="207" column="32" />
         <mark key="]" line="207" column="40" />
@@ -462,7 +466,7 @@
         <text>login</text>
       </register>
       <register name="0" type="4">
-        <text>pwdType</text>
+        <text>新密码不能与原始密码一致</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
