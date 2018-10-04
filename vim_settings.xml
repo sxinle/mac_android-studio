@@ -15,9 +15,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1535353623416">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/Vna/app/src/main/java/com/hoho/android/usbserial/driver/UsbId.java" timestamp="1535356748507">
         <mark key="'" line="39" column="0" />
         <mark key="[" line="0" column="0" />
@@ -50,9 +47,6 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/objects/UsbSerial.java" timestamp="1535360032612">
-        <mark key="'" line="6" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/AddProjectActivity.java" timestamp="1510125473986">
         <mark key="'" line="77" column="36" />
         <mark key="[" line="96" column="80" />
@@ -60,10 +54,7 @@
         <mark key="." line="97" column="57" />
         <mark key="^" line="97" column="57" />
       </file>
-      <file name="$USER_HOME$/workspace/dongdong/DDian/app/src/main/java/com/acenode/ddian/view/activity/FunctionOpenCloseActivity.java" timestamp="1510645727273">
-        <mark key="'" line="86" column="36" />
-      </file>
-      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/api/user/UserAPI.kt" timestamp="1538660560202">
+      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/api/user/UserAPI.kt" timestamp="1538662929509">
         <mark key="'" line="41" column="0" />
         <mark key="[" line="91" column="94" />
         <mark key="]" line="91" column="100" />
@@ -107,9 +98,6 @@
         <mark key="[" line="178" column="0" />
         <mark key="]" line="178" column="0" />
         <mark key="." line="178" column="0" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.parse/parse-android/1.15.8/7265dc1631fc4f2acd92f7e10a253f579bc78513/parse-android-1.15.8-sources.jar!/com/parse/ParseEncoder.java" timestamp="1510131281498">
-        <mark key="'" line="27" column="30" />
       </file>
       <file name="$USER_HOME$/DDian/app/src/main/java/com/acenode/ddian/view/activity/PipelineDetailActivity.java" timestamp="1510291868791">
         <mark key="'" line="1660" column="0" />
@@ -181,6 +169,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/res/layout/activity_change_pwd.xml" timestamp="1538662462172" />
       <file name="$USER_HOME$/workspace/Vna/app/src/main/java/com/hoho/android/usbserial/driver/FtdiSerialDriver.java" timestamp="1535358696928">
         <mark key="'" line="269" column="41" />
         <mark key="[" line="332" column="0" />
@@ -196,6 +185,10 @@
         <mark key="." line="45" column="51" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/signup/courier/CourierInfoInputFragment.kt" timestamp="1538644845111" />
+      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/res/values/colors.xml" timestamp="1538662546453">
+        <mark key="[" line="3" column="25" />
+        <mark key="]" line="3" column="31" />
+      </file>
       <file name="$USER_HOME$/workspace/Vna/app/src/main/java/derez/libs/WheelView.java" timestamp="1535357178959">
         <mark key="'" line="338" column="0" />
         <mark key="[" line="0" column="0" />
@@ -236,9 +229,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/usr/local/android-sdk/sources/android-25/android/webkit/MimeTypeMap.java" timestamp="1514182611833">
-        <mark key="'" line="93" column="4" />
-      </file>
       <file name="$USER_HOME$/workspace/Vna/app/src/main/java/com/hoho/android/usbserial/driver/CommonUsbSerialDriver.java" timestamp="1535358528850">
         <mark key="'" line="82" column="0" />
         <mark key="[" line="62" column="0" />
@@ -258,9 +248,7 @@
         <mark key="." line="8" column="45" />
         <mark key="^" line="8" column="45" />
       </file>
-      <file name="/Dummy.txt" timestamp="1535358642415">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/res/values/styles.xml" timestamp="1538662493780" />
       <file name="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/agraham/dialogs/InputDialog.java" timestamp="1535364074237">
         <mark key="'" line="631" column="48" />
         <mark key="[" line="969" column="32" />
@@ -268,6 +256,7 @@
         <mark key="." line="969" column="52" />
         <mark key="^" line="969" column="52" />
       </file>
+      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/res/layout/fragment_home.xml" timestamp="1538662532661" />
       <file name="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/PipelineActivity.java" timestamp="1510118878395">
         <mark key="'" line="292" column="30" />
         <mark key="[" line="145" column="54" />
@@ -302,9 +291,7 @@
         <mark key="[" line="207" column="32" />
         <mark key="]" line="207" column="40" />
       </file>
-      <file name="$USER_HOME$/workspace/dongdong/DDian/app/src/main/AndroidManifest.xml" timestamp="1515733765463">
-        <mark key="'" line="69" column="0" />
-      </file>
+      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/changepwd/ChangePwdActivity.kt" timestamp="1538662451412" />
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/WorkOrderActivity.java" timestamp="1514182721577">
         <mark key="'" line="483" column="8" />
         <mark key="[" line="21" column="0" />
@@ -318,11 +305,8 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="15" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/tools/ParseProxyObject.java" timestamp="1510112638537">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/signup/SignUpActivity.kt" timestamp="1538644833870" />
-      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/repository/user/UserRepository.kt" timestamp="1538653054071">
+      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/repository/user/UserRepository.kt" timestamp="1538662879339">
         <mark key="'" line="40" column="37" />
         <mark key="[" line="14" column="14" />
         <mark key="]" line="14" column="20" />
@@ -466,7 +450,7 @@
         <text>login</text>
       </register>
       <register name="0" type="4">
-        <text>新密码不能与原始密码一致</text>
+        <text>#e43737</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
