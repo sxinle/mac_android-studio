@@ -63,10 +63,10 @@
       <file name="$USER_HOME$/workspace/dongdong/DDian/app/src/main/java/com/acenode/ddian/view/activity/FunctionOpenCloseActivity.java" timestamp="1510645727273">
         <mark key="'" line="86" column="36" />
       </file>
-      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/api/user/UserAPI.kt" timestamp="1538650114364">
+      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/api/user/UserAPI.kt" timestamp="1538652033798">
         <mark key="'" line="102" column="8" />
-        <mark key="[" line="101" column="11" />
-        <mark key="]" line="101" column="18" />
+        <mark key="[" line="115" column="16" />
+        <mark key="]" line="115" column="23" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/api/trade/TradeAPI.kt" timestamp="1538645137138">
         <mark key="[" line="6" column="7" />
@@ -294,6 +294,10 @@
         <mark key="." line="179" column="0" />
         <mark key="^" line="590" column="36" />
       </file>
+      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/signup/phonenumverfication/PhoneNumVerficationViewModel.kt" timestamp="1538651656569">
+        <mark key="[" line="207" column="32" />
+        <mark key="]" line="207" column="40" />
+      </file>
       <file name="$USER_HOME$/workspace/dongdong/DDian/app/src/main/AndroidManifest.xml" timestamp="1515733765463">
         <mark key="'" line="69" column="0" />
       </file>
@@ -314,7 +318,7 @@
         <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/signup/SignUpActivity.kt" timestamp="1538644833870" />
-      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/repository/user/UserRepository.kt" timestamp="1538648795786">
+      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/repository/user/UserRepository.kt" timestamp="1538651663433">
         <mark key="'" line="40" column="37" />
       </file>
       <file name="$USER_HOME$/workspace/Vna/app/src/main/java/com/rootsoft/imageprocessing/RSImageBlend.java" timestamp="1535357045705">
@@ -456,7 +460,7 @@
         <text>send</text>
       </register>
       <register name="0" type="4">
-        <text>user/sms</text>
+        <text>smsCheck</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
