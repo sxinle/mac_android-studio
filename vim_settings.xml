@@ -63,6 +63,15 @@
       <file name="$USER_HOME$/workspace/dongdong/DDian/app/src/main/java/com/acenode/ddian/view/activity/FunctionOpenCloseActivity.java" timestamp="1510645727273">
         <mark key="'" line="86" column="36" />
       </file>
+      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/api/user/UserAPI.kt" timestamp="1538645231318">
+        <mark key="'" line="102" column="8" />
+        <mark key="[" line="101" column="11" />
+        <mark key="]" line="101" column="18" />
+      </file>
+      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/api/trade/TradeAPI.kt" timestamp="1538645137138">
+        <mark key="[" line="6" column="7" />
+        <mark key="]" line="6" column="15" />
+      </file>
       <file name="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/tools/Util.java" timestamp="1510118965840">
         <mark key="'" line="91" column="60" />
         <mark key="[" line="114" column="0" />
@@ -88,6 +97,10 @@
         <mark key="[" line="33" column="28" />
         <mark key="]" line="33" column="55" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/di/APIModuel.kt" timestamp="1538645207660">
+        <mark key="[" line="53" column="26" />
+        <mark key="]" line="53" column="52" />
       </file>
       <file name="$USER_HOME$/workspace/Vna/app/src/main/java/com/hoho/android/usbserial/driver/ProlificSerialDriver.java" timestamp="1535358807675">
         <mark key="'" line="600" column="0" />
@@ -174,6 +187,7 @@
         <mark key="]" line="358" column="5" />
         <mark key="." line="332" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/signup/phonenumverfication/PhoneNumVerficationModule.kt" timestamp="1538643988719" />
       <file name="$USER_HOME$/workspace/micro-service/front/RNsales/android/app/src/main/AndroidManifest.xml" timestamp="1531731947201">
         <mark key="'" line="8" column="54" />
         <mark key="[" line="44" column="22" />
@@ -181,6 +195,7 @@
         <mark key="^" line="45" column="51" />
         <mark key="." line="45" column="51" />
       </file>
+      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/signup/courier/CourierInfoInputFragment.kt" timestamp="1538644845111" />
       <file name="$USER_HOME$/workspace/Vna/app/src/main/java/derez/libs/WheelView.java" timestamp="1535357178959">
         <mark key="'" line="338" column="0" />
         <mark key="[" line="0" column="0" />
@@ -297,6 +312,10 @@
       <file name="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/tools/ParseProxyObject.java" timestamp="1510112638537">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/signup/SignUpActivity.kt" timestamp="1538644833870" />
+      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/repository/user/UserRepository.kt" timestamp="1538644606695">
+        <mark key="'" line="40" column="37" />
+      </file>
       <file name="$USER_HOME$/workspace/Vna/app/src/main/java/com/rootsoft/imageprocessing/RSImageBlend.java" timestamp="1535357045705">
         <mark key="'" line="935" column="34" />
         <mark key="[" line="0" column="0" />
@@ -324,9 +343,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/agraham/dialogs/InputDialog.java" />
-      <jump line="20" column="30" filename="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/agraham/dialogs/InputDialog.java" />
-      <jump line="0" column="15" filename="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/BA.java" />
       <jump line="0" column="21" filename="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/gestures/Gestures.java" />
       <jump line="2" column="23" filename="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/agraham/reflection/Reflection.java" />
       <jump line="126" column="0" filename="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/agraham/dialogs/InputDialog.java" />
@@ -424,6 +440,9 @@
       <jump line="684" column="0" filename="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/agraham/reflection/Reflection.java" />
       <jump line="34" column="36" filename="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/agraham/reflection/Reflection.java" />
       <jump line="653" column="0" filename="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/agraham/reflection/Reflection.java" />
+      <jump line="40" column="37" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/repository/user/UserRepository.kt" />
+      <jump line="197" column="29" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/api/user/UserAPI.kt" />
+      <jump line="102" column="8" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/api/user/UserAPI.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -433,10 +452,10 @@
         <text>?</text>
       </register>
       <register name="/" type="4">
-        <text>$</text>
+        <text>send</text>
       </register>
       <register name="0" type="4">
-        <text>agraham.threading.Threading;</text>
+        <text>user/sms</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -470,9 +489,9 @@
       </register>
     </registers>
     <search>
-      <last-search>$</last-search>
+      <last-search>send</last-search>
       <last-offset />
-      <last-pattern>$</last-pattern>
+      <last-pattern>send</last-pattern>
       <last-replace>pipelineBean</last-replace>
       <last-substitute>paramSave</last-substitute>
       <last-dir>1</last-dir>
@@ -480,8 +499,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxSRVFVRVNUX0lOU1RBTExfUEFDS0FHRVNcPg==</entry>
-        <entry encoding="base64">XDxXUklURV9FWFRFUk5BTF9TVE9SQUdFXD4=</entry>
         <entry encoding="base64">XDxSRUFEX0VYVEVSTkFMX1NUT1JBR0VcPg==</entry>
         <entry encoding="base64">XDxXUklURV9TRVRUSU5HU1w+</entry>
         <entry encoding="base64">XDxBQ0NFU1NfQ09BUlNFX0xPQ0FUSU9OXD4=</entry>
@@ -500,6 +517,8 @@
         <entry>FREQ</entry>
         <entry>\\$</entry>
         <entry>$</entry>
+        <entry>sendSms</entry>
+        <entry>send</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0FsYXJtSW5mby9IaXNBbGFybUluZm8vZw==</entry>
