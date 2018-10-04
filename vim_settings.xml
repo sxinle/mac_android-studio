@@ -63,10 +63,10 @@
       <file name="$USER_HOME$/workspace/dongdong/DDian/app/src/main/java/com/acenode/ddian/view/activity/FunctionOpenCloseActivity.java" timestamp="1510645727273">
         <mark key="'" line="86" column="36" />
       </file>
-      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/api/user/UserAPI.kt" timestamp="1538652033798">
-        <mark key="'" line="102" column="8" />
-        <mark key="[" line="115" column="16" />
-        <mark key="]" line="115" column="23" />
+      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/api/user/UserAPI.kt" timestamp="1538656753905">
+        <mark key="'" line="41" column="0" />
+        <mark key="[" line="48" column="61" />
+        <mark key="]" line="48" column="68" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/api/trade/TradeAPI.kt" timestamp="1538645137138">
         <mark key="[" line="6" column="7" />
@@ -350,10 +350,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="21" filename="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/gestures/Gestures.java" />
-      <jump line="2" column="23" filename="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/agraham/reflection/Reflection.java" />
-      <jump line="126" column="0" filename="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/agraham/dialogs/InputDialog.java" />
-      <jump line="2" column="0" filename="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/Msgbox.java" />
       <jump line="166" column="0" filename="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/Msgbox.java" />
       <jump line="1" column="0" filename="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/keywords/B4AApplication.java" />
       <jump line="2" column="16" filename="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/keywords/Bit.java" />
@@ -450,6 +446,10 @@
       <jump line="40" column="37" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/repository/user/UserRepository.kt" />
       <jump line="197" column="29" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/api/user/UserAPI.kt" />
       <jump line="102" column="8" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/api/user/UserAPI.kt" />
+      <jump line="105" column="25" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/api/user/UserAPI.kt" />
+      <jump line="38" column="7" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/api/user/UserAPI.kt" />
+      <jump line="40" column="0" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/api/user/UserAPI.kt" />
+      <jump line="41" column="0" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/api/user/UserAPI.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -459,10 +459,10 @@
         <text>?</text>
       </register>
       <register name="/" type="4">
-        <text>send</text>
+        <text>login</text>
       </register>
       <register name="0" type="4">
-        <text>account</text>
+        <text>loginPwd</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -496,9 +496,9 @@
       </register>
     </registers>
     <search>
-      <last-search>send</last-search>
+      <last-search>login</last-search>
       <last-offset />
-      <last-pattern>send</last-pattern>
+      <last-pattern>login</last-pattern>
       <last-replace>pipelineBean</last-replace>
       <last-substitute>paramSave</last-substitute>
       <last-dir>1</last-dir>
@@ -506,7 +506,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxSRUFEX0VYVEVSTkFMX1NUT1JBR0VcPg==</entry>
         <entry encoding="base64">XDxXUklURV9TRVRUSU5HU1w+</entry>
         <entry encoding="base64">XDxBQ0NFU1NfQ09BUlNFX0xPQ0FUSU9OXD4=</entry>
         <entry encoding="base64">XDxBQ0NFU1NfRklORV9MT0NBVElPTlw+</entry>
@@ -526,6 +525,7 @@
         <entry>$</entry>
         <entry>sendSms</entry>
         <entry>send</entry>
+        <entry>login</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0FsYXJtSW5mby9IaXNBbGFybUluZm8vZw==</entry>
