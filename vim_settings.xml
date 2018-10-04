@@ -63,10 +63,10 @@
       <file name="$USER_HOME$/workspace/dongdong/DDian/app/src/main/java/com/acenode/ddian/view/activity/FunctionOpenCloseActivity.java" timestamp="1510645727273">
         <mark key="'" line="86" column="36" />
       </file>
-      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/api/user/UserAPI.kt" timestamp="1538656753905">
+      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/api/user/UserAPI.kt" timestamp="1538658371735">
         <mark key="'" line="41" column="0" />
-        <mark key="[" line="48" column="61" />
-        <mark key="]" line="48" column="68" />
+        <mark key="[" line="91" column="94" />
+        <mark key="]" line="91" column="100" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/api/trade/TradeAPI.kt" timestamp="1538645137138">
         <mark key="[" line="6" column="7" />
@@ -462,7 +462,7 @@
         <text>login</text>
       </register>
       <register name="0" type="4">
-        <text>loginPwd</text>
+        <text>pwdType</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
