@@ -54,10 +54,10 @@
         <mark key="." line="97" column="57" />
         <mark key="^" line="97" column="57" />
       </file>
-      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/api/user/UserAPI.kt" timestamp="1538722035922">
+      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/api/user/UserAPI.kt" timestamp="1538731266423">
         <mark key="'" line="89" column="12" />
-        <mark key="[" line="105" column="37" />
-        <mark key="]" line="105" column="54" />
+        <mark key="[" line="122" column="16" />
+        <mark key="]" line="122" column="23" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/api/trade/TradeAPI.kt" timestamp="1538645137138">
         <mark key="[" line="6" column="7" />
@@ -237,6 +237,10 @@
         <mark key="[" line="62" column="0" />
         <mark key="]" line="78" column="5" />
         <mark key="." line="62" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/signup/courier/CourierInfoInputViewModel.kt" timestamp="1538731086686">
+        <mark key="[" line="157" column="32" />
+        <mark key="]" line="157" column="36" />
       </file>
       <file name="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/agraham/byteconverter/ByteConverter.java" timestamp="1535360140414">
         <mark key="'" line="208" column="0" />
@@ -449,7 +453,7 @@
         <text>version</text>
       </register>
       <register name="0" type="4">
-        <text>sys/jd/bigAreaList</text>
+        <text>register</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
