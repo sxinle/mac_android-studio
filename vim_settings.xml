@@ -54,10 +54,10 @@
         <mark key="." line="97" column="57" />
         <mark key="^" line="97" column="57" />
       </file>
-      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/api/user/UserAPI.kt" timestamp="1538717790387">
+      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/api/user/UserAPI.kt" timestamp="1538722035922">
         <mark key="'" line="89" column="12" />
-        <mark key="[" line="130" column="76" />
-        <mark key="]" line="130" column="86" />
+        <mark key="[" line="105" column="37" />
+        <mark key="]" line="105" column="54" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/api/trade/TradeAPI.kt" timestamp="1538645137138">
         <mark key="[" line="6" column="7" />
@@ -449,7 +449,7 @@
         <text>version</text>
       </register>
       <register name="0" type="4">
-        <text>eparchyCode</text>
+        <text>sys/jd/bigAreaList</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
