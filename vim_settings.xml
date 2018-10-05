@@ -3,24 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/Vna/app/src/main/java/com/rootsoft/imageprocessing/RSImageEffects.java" timestamp="1535357064358">
-        <mark key="'" line="622" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/AbsObjectWrapper.java" timestamp="1535354214834">
-        <mark key="'" line="138" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/Vna/app/src/main/java/com/hoho/android/usbserial/driver/UsbId.java" timestamp="1535356748507">
-        <mark key="'" line="39" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/micro-service/front/RNsales/android/app/src/main/java/com/rnsales/MainApplication.java" timestamp="1533280691818">
         <mark key="'" line="65" column="12" />
         <mark key="[" line="69" column="0" />
@@ -34,18 +16,6 @@
         <mark key="]" line="303" column="17" />
         <mark key="." line="301" column="0" />
         <mark key="^" line="49" column="3" />
-      </file>
-      <file name="$USER_HOME$/workspace/Vna/app/src/main/java/flm/b4a/cache/b.java" timestamp="1535357245601">
-        <mark key="'" line="167" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/Msgbox.java" timestamp="1535355263354">
-        <mark key="'" line="166" column="0" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/AddProjectActivity.java" timestamp="1510125473986">
         <mark key="'" line="77" column="36" />
@@ -70,12 +40,6 @@
         <mark key="." line="114" column="0" />
         <mark key="^" line="113" column="24" />
       </file>
-      <file name="$USER_HOME$/workspace/Vna/app/src/main/java/com/hoho/android/usbserial/driver/UsbSerialDriver.java" timestamp="1535356763556">
-        <mark key="'" line="52" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/DDian/app/build.gradle" timestamp="1510032818504">
         <mark key="'" line="23" column="52" />
         <mark key="[" line="19" column="0" />
@@ -83,21 +47,9 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="27" column="43" />
       </file>
-      <file name="$USER_HOME$/workspace/Vna/app/src/main/java/ro/yo3ggx/btvna/main.java" timestamp="1535366448788">
-        <mark key="'" line="405" column="18" />
-        <mark key="[" line="33" column="28" />
-        <mark key="]" line="33" column="55" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/di/APIModuel.kt" timestamp="1538645207660">
         <mark key="[" line="53" column="26" />
         <mark key="]" line="53" column="52" />
-      </file>
-      <file name="$USER_HOME$/workspace/Vna/app/src/main/java/com/hoho/android/usbserial/driver/ProlificSerialDriver.java" timestamp="1535358807675">
-        <mark key="'" line="600" column="0" />
-        <mark key="[" line="178" column="0" />
-        <mark key="]" line="178" column="0" />
-        <mark key="." line="178" column="0" />
       </file>
       <file name="$USER_HOME$/DDian/app/src/main/java/com/acenode/ddian/view/activity/PipelineDetailActivity.java" timestamp="1510291868791">
         <mark key="'" line="1660" column="0" />
@@ -106,20 +58,8 @@
         <mark key="^" line="1350" column="13" />
         <mark key="." line="1662" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/RNsales/android/app/src/main/java/com/rnsales/upgrade/DownloadService.java" timestamp="1531708047535">
-        <mark key="'" line="112" column="48" />
-        <mark key="[" line="124" column="56" />
-        <mark key="]" line="124" column="57" />
-        <mark key="." line="124" column="57" />
-      </file>
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/AndroidManifest.xml" timestamp="1538702037012">
         <mark key="'" line="0" column="6" />
-      </file>
-      <file name="$USER_HOME$/workspace/Vna/app/src/main/java/com/hoho/android/usbserial/driver/UsbSerialRuntimeException.java" timestamp="1535356789960">
-        <mark key="'" line="18" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/agraham/reflection/Reflection.java" timestamp="1535366577239">
         <mark key="'" line="653" column="0" />
@@ -127,18 +67,6 @@
         <mark key="]" line="19" column="46" />
         <mark key="." line="19" column="46" />
         <mark key="^" line="19" column="46" />
-      </file>
-      <file name="$USER_HOME$/workspace/Vna/app/src/main/java/ro/yo3ggx/btvna/webactivity.java" timestamp="1535357360168">
-        <mark key="'" line="407" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/Vna/app/src/main/java/com/hoho/android/usbserial/driver/UsbSerialProber.java" timestamp="1535356776256">
-        <mark key="'" line="178" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" timestamp="1513939837518">
         <mark key="'" line="86" column="13" />
@@ -154,30 +82,6 @@
         <mark key="." line="102" column="0" />
         <mark key="^" line="101" column="45" />
       </file>
-      <file name="$USER_HOME$/workspace/Vna/app/src/main/java/flm/b4a/cache/c.java" timestamp="1535357260769">
-        <mark key="'" line="19" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/Vna/app/src/main/java/com/hoho/android/usbserial/driver/Cp2102SerialDriver.java" timestamp="1535358618055">
-        <mark key="'" line="17" column="38" />
-        <mark key="[" line="155" column="0" />
-        <mark key="]" line="169" column="4" />
-        <mark key="." line="155" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/Vna/app/src/main/java/com/rootsoft/imageprocessing/ConvolutionMatrix.java" timestamp="1535357009354">
-        <mark key="'" line="99" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/Vna/app/src/main/java/com/hoho/android/usbserial/driver/FtdiSerialDriver.java" timestamp="1535358696928">
-        <mark key="'" line="269" column="41" />
-        <mark key="[" line="332" column="0" />
-        <mark key="]" line="358" column="5" />
-        <mark key="." line="332" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/micro-service/front/RNsales/android/app/src/main/AndroidManifest.xml" timestamp="1531731947201">
         <mark key="'" line="8" column="54" />
         <mark key="[" line="44" column="22" />
@@ -188,12 +92,6 @@
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/res/values/colors.xml" timestamp="1538662546453">
         <mark key="[" line="3" column="25" />
         <mark key="]" line="3" column="31" />
-      </file>
-      <file name="$USER_HOME$/workspace/Vna/app/src/main/java/derez/libs/WheelView.java" timestamp="1535357178959">
-        <mark key="'" line="338" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/Vna/app/src/main/java/com/hoho/android/usbserial/driver/CdcAcmSerialDriver.java" timestamp="1535358499540">
         <mark key="'" line="163" column="20" />
@@ -209,12 +107,6 @@
         <mark key="^" line="73" column="72" />
         <mark key="." line="73" column="72" />
       </file>
-      <file name="$USER_HOME$/workspace/Vna/app/src/main/java/com/stevel05/audiotrack/AudioTracker.java" timestamp="1535357136180">
-        <mark key="'" line="217" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/forgetpwd/ForgetPwdViewModel.kt" timestamp="1538703121180">
         <mark key="[" line="100" column="32" />
         <mark key="]" line="100" column="41" />
@@ -226,27 +118,9 @@
         <mark key="." line="55" column="20" />
         <mark key="^" line="23" column="19" />
       </file>
-      <file name="$USER_HOME$/workspace/Vna/app/src/main/java/com/rootsoft/imageprocessing/RSImageProcessing.java" timestamp="1535366431796">
-        <mark key="'" line="149" column="17" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/Vna/app/src/main/java/com/hoho/android/usbserial/driver/CommonUsbSerialDriver.java" timestamp="1535358528850">
-        <mark key="'" line="82" column="0" />
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="78" column="5" />
-        <mark key="." line="62" column="0" />
-      </file>
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/signup/courier/CourierInfoInputViewModel.kt" timestamp="1538731086686">
         <mark key="[" line="157" column="32" />
         <mark key="]" line="157" column="36" />
-      </file>
-      <file name="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/agraham/byteconverter/ByteConverter.java" timestamp="1535360140414">
-        <mark key="'" line="208" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="438" column="1" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/tools/ConstantValue.java" timestamp="1510134471764">
         <mark key="'" line="140" column="0" />
@@ -262,24 +136,16 @@
         <mark key="." line="969" column="52" />
         <mark key="^" line="969" column="52" />
       </file>
+      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/api/statistics/StatisticsAPI.kt" timestamp="1538733433313">
+        <mark key="[" line="15" column="10" />
+        <mark key="]" line="15" column="32" />
+      </file>
       <file name="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/PipelineActivity.java" timestamp="1510118878395">
         <mark key="'" line="292" column="30" />
         <mark key="[" line="145" column="54" />
         <mark key="]" line="146" column="33" />
         <mark key="." line="146" column="33" />
         <mark key="^" line="146" column="33" />
-      </file>
-      <file name="$USER_HOME$/workspace/Vna/app/src/main/java/flm/b4a/cache/Cache.java" timestamp="1535357278193">
-        <mark key="'" line="422" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/Vna/app/src/main/java/com/rootsoft/imageprocessing/RSImageFilters.java" timestamp="1535357078942">
-        <mark key="'" line="214" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/Vna/app/src/main/java/flm/b4a/cache/a.java" timestamp="1535358309704">
         <mark key="'" line="120" column="38" />
@@ -296,12 +162,6 @@
         <mark key="[" line="207" column="32" />
         <mark key="]" line="207" column="40" />
       </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/WorkOrderActivity.java" timestamp="1514182721577">
-        <mark key="'" line="483" column="8" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/DDian/app/src/main/res/layout/item_service.xml" timestamp="1510026728146">
         <mark key="'" line="53" column="0" />
         <mark key="[" line="41" column="29" />
@@ -313,12 +173,6 @@
         <mark key="'" line="40" column="37" />
         <mark key="[" line="14" column="14" />
         <mark key="]" line="14" column="20" />
-      </file>
-      <file name="$USER_HOME$/workspace/Vna/app/src/main/java/com/rootsoft/imageprocessing/RSImageBlend.java" timestamp="1535357045705">
-        <mark key="'" line="935" column="34" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1535366521306">
         <mark key="[" line="0" column="0" />
@@ -453,7 +307,7 @@
         <text>version</text>
       </register>
       <register name="0" type="4">
-        <text>register</text>
+        <text>trade/getHomeTradeCount</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
