@@ -54,10 +54,10 @@
         <mark key="." line="97" column="57" />
         <mark key="^" line="97" column="57" />
       </file>
-      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/api/user/UserAPI.kt" timestamp="1538701494181">
+      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/api/user/UserAPI.kt" timestamp="1538703574812">
         <mark key="'" line="89" column="12" />
-        <mark key="[" line="91" column="94" />
-        <mark key="]" line="91" column="100" />
+        <mark key="[" line="216" column="20" />
+        <mark key="]" line="216" column="29" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/api/trade/TradeAPI.kt" timestamp="1538645137138">
         <mark key="[" line="6" column="7" />
@@ -111,6 +111,9 @@
         <mark key="[" line="124" column="56" />
         <mark key="]" line="124" column="57" />
         <mark key="." line="124" column="57" />
+      </file>
+      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/AndroidManifest.xml" timestamp="1538702037012">
+        <mark key="'" line="0" column="6" />
       </file>
       <file name="$USER_HOME$/workspace/Vna/app/src/main/java/com/hoho/android/usbserial/driver/UsbSerialRuntimeException.java" timestamp="1535356789960">
         <mark key="'" line="18" column="0" />
@@ -169,14 +172,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/res/layout/activity_change_pwd.xml" timestamp="1538662462172" />
       <file name="$USER_HOME$/workspace/Vna/app/src/main/java/com/hoho/android/usbserial/driver/FtdiSerialDriver.java" timestamp="1535358696928">
         <mark key="'" line="269" column="41" />
         <mark key="[" line="332" column="0" />
         <mark key="]" line="358" column="5" />
         <mark key="." line="332" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/signup/phonenumverfication/PhoneNumVerficationModule.kt" timestamp="1538643988719" />
       <file name="$USER_HOME$/workspace/micro-service/front/RNsales/android/app/src/main/AndroidManifest.xml" timestamp="1531731947201">
         <mark key="'" line="8" column="54" />
         <mark key="[" line="44" column="22" />
@@ -184,7 +185,6 @@
         <mark key="^" line="45" column="51" />
         <mark key="." line="45" column="51" />
       </file>
-      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/signup/courier/CourierInfoInputFragment.kt" timestamp="1538644845111" />
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/res/values/colors.xml" timestamp="1538662546453">
         <mark key="[" line="3" column="25" />
         <mark key="]" line="3" column="31" />
@@ -215,7 +215,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/forgetpwd/ForgetPwdViewModel.kt" timestamp="1538648556271" />
+      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/forgetpwd/ForgetPwdViewModel.kt" timestamp="1538703121180">
+        <mark key="[" line="100" column="32" />
+        <mark key="]" line="100" column="41" />
+      </file>
       <file name="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/frag/ServicesFragment.java" timestamp="1510028731705">
         <mark key="'" line="83" column="0" />
         <mark key="[" line="55" column="20" />
@@ -248,7 +251,6 @@
         <mark key="." line="8" column="45" />
         <mark key="^" line="8" column="45" />
       </file>
-      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/res/values/styles.xml" timestamp="1538662493780" />
       <file name="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/agraham/dialogs/InputDialog.java" timestamp="1535364074237">
         <mark key="'" line="631" column="48" />
         <mark key="[" line="969" column="32" />
@@ -256,7 +258,6 @@
         <mark key="." line="969" column="52" />
         <mark key="^" line="969" column="52" />
       </file>
-      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/res/layout/fragment_home.xml" timestamp="1538662532661" />
       <file name="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/PipelineActivity.java" timestamp="1510118878395">
         <mark key="'" line="292" column="30" />
         <mark key="[" line="145" column="54" />
@@ -291,7 +292,6 @@
         <mark key="[" line="207" column="32" />
         <mark key="]" line="207" column="40" />
       </file>
-      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/changepwd/ChangePwdActivity.kt" timestamp="1538662451412" />
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/WorkOrderActivity.java" timestamp="1514182721577">
         <mark key="'" line="483" column="8" />
         <mark key="[" line="21" column="0" />
@@ -305,7 +305,6 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="15" column="27" />
       </file>
-      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/signup/SignUpActivity.kt" timestamp="1538644833870" />
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/repository/user/UserRepository.kt" timestamp="1538662879339">
         <mark key="'" line="40" column="37" />
         <mark key="[" line="14" column="14" />
@@ -338,8 +337,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/keywords/B4AApplication.java" />
-      <jump line="2" column="16" filename="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/keywords/Bit.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/keywords/Bit.java" />
       <jump line="1" column="0" filename="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/keywords/Common.java" />
       <jump line="2" column="22" filename="$USER_HOME$/workspace/Vna/app/src/main/java/com/hoho/android/usbserial/BuildInfo.java" />
@@ -438,6 +435,8 @@
       <jump line="40" column="0" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/api/user/UserAPI.kt" />
       <jump line="41" column="0" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/api/user/UserAPI.kt" />
       <jump line="89" column="12" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/api/user/UserAPI.kt" />
+      <jump line="6" column="64" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/AndroidManifest.xml" />
+      <jump line="0" column="6" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/AndroidManifest.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -447,10 +446,10 @@
         <text>?</text>
       </register>
       <register name="/" type="4">
-        <text>login</text>
+        <text>version</text>
       </register>
       <register name="0" type="4">
-        <text>#e43737</text>
+        <text>smsCaptcha</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -484,9 +483,9 @@
       </register>
     </registers>
     <search>
-      <last-search>login</last-search>
+      <last-search>version</last-search>
       <last-offset />
-      <last-pattern>login</last-pattern>
+      <last-pattern>version</last-pattern>
       <last-replace>pipelineBean</last-replace>
       <last-substitute>paramSave</last-substitute>
       <last-dir>1</last-dir>
@@ -494,7 +493,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxXUklURV9TRVRUSU5HU1w+</entry>
         <entry encoding="base64">XDxBQ0NFU1NfQ09BUlNFX0xPQ0FUSU9OXD4=</entry>
         <entry encoding="base64">XDxBQ0NFU1NfRklORV9MT0NBVElPTlw+</entry>
         <entry>setFileProviderAuthorities</entry>
@@ -514,6 +512,7 @@
         <entry>sendSms</entry>
         <entry>send</entry>
         <entry>login</entry>
+        <entry>version</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0FsYXJtSW5mby9IaXNBbGFybUluZm8vZw==</entry>
