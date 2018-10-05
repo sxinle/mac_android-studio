@@ -54,8 +54,8 @@
         <mark key="." line="97" column="57" />
         <mark key="^" line="97" column="57" />
       </file>
-      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/api/user/UserAPI.kt" timestamp="1538662929509">
-        <mark key="'" line="41" column="0" />
+      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/api/user/UserAPI.kt" timestamp="1538701494181">
+        <mark key="'" line="89" column="12" />
         <mark key="[" line="91" column="94" />
         <mark key="]" line="91" column="100" />
       </file>
@@ -338,7 +338,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="166" column="0" filename="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/Msgbox.java" />
       <jump line="1" column="0" filename="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/keywords/B4AApplication.java" />
       <jump line="2" column="16" filename="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/keywords/Bit.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/keywords/Bit.java" />
@@ -438,6 +437,7 @@
       <jump line="38" column="7" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/api/user/UserAPI.kt" />
       <jump line="40" column="0" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/api/user/UserAPI.kt" />
       <jump line="41" column="0" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/api/user/UserAPI.kt" />
+      <jump line="89" column="12" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/api/user/UserAPI.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
