@@ -10,6 +10,17 @@
         <mark key="^" line="49" column="39" />
         <mark key="." line="69" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/res/values/colors.xml" timestamp="1538662546453">
+        <mark key="[" line="3" column="25" />
+        <mark key="]" line="3" column="31" />
+      </file>
+      <file name="$USER_HOME$/workspace/Vna/app/src/main/java/com/hoho/android/usbserial/driver/CdcAcmSerialDriver.java" timestamp="1535358499540">
+        <mark key="'" line="163" column="20" />
+        <mark key="[" line="186" column="0" />
+        <mark key="]" line="210" column="5" />
+        <mark key="." line="186" column="0" />
+        <mark key="^" line="121" column="12" />
+      </file>
       <file name="$USER_HOME$/workspace/micro-service/front/RNsales/node_modules/react-native-image-crop-picker/android/src/main/java/com/reactnative/ivpusic/imagepicker/PickerModule.java" timestamp="1531724766822">
         <mark key="'" line="739" column="0" />
         <mark key="[" line="301" column="0" />
@@ -29,83 +40,16 @@
         <mark key="[" line="122" column="16" />
         <mark key="]" line="122" column="23" />
       </file>
-      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/api/trade/TradeAPI.kt" timestamp="1538645137138">
-        <mark key="[" line="6" column="7" />
-        <mark key="]" line="6" column="15" />
-      </file>
-      <file name="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/tools/Util.java" timestamp="1510118965840">
-        <mark key="'" line="91" column="60" />
-        <mark key="[" line="114" column="0" />
-        <mark key="]" line="114" column="0" />
-        <mark key="." line="114" column="0" />
-        <mark key="^" line="113" column="24" />
-      </file>
-      <file name="$USER_HOME$/workspace/DDian/app/build.gradle" timestamp="1510032818504">
-        <mark key="'" line="23" column="52" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="27" column="43" />
-      </file>
-      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/di/APIModuel.kt" timestamp="1538645207660">
-        <mark key="[" line="53" column="26" />
-        <mark key="]" line="53" column="52" />
-      </file>
-      <file name="$USER_HOME$/DDian/app/src/main/java/com/acenode/ddian/view/activity/PipelineDetailActivity.java" timestamp="1510291868791">
-        <mark key="'" line="1660" column="0" />
-        <mark key="[" line="1662" column="0" />
-        <mark key="]" line="1662" column="0" />
-        <mark key="^" line="1350" column="13" />
-        <mark key="." line="1662" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/AndroidManifest.xml" timestamp="1538702037012">
-        <mark key="'" line="0" column="6" />
-      </file>
-      <file name="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/agraham/reflection/Reflection.java" timestamp="1535366577239">
-        <mark key="'" line="653" column="0" />
-        <mark key="[" line="19" column="41" />
-        <mark key="]" line="19" column="46" />
-        <mark key="." line="19" column="46" />
-        <mark key="^" line="19" column="46" />
-      </file>
-      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" timestamp="1513939837518">
-        <mark key="'" line="86" column="13" />
-        <mark key="[" line="604" column="0" />
-        <mark key="]" line="604" column="0" />
-        <mark key="^" line="603" column="34" />
-        <mark key="." line="604" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/frag/ContactsFragment.java" timestamp="1510112797423">
-        <mark key="'" line="129" column="0" />
-        <mark key="[" line="102" column="0" />
-        <mark key="]" line="102" column="0" />
-        <mark key="." line="102" column="0" />
-        <mark key="^" line="101" column="45" />
-      </file>
-      <file name="$USER_HOME$/workspace/micro-service/front/RNsales/android/app/src/main/AndroidManifest.xml" timestamp="1531731947201">
-        <mark key="'" line="8" column="54" />
-        <mark key="[" line="44" column="22" />
-        <mark key="]" line="45" column="51" />
-        <mark key="^" line="45" column="51" />
-        <mark key="." line="45" column="51" />
-      </file>
-      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/res/values/colors.xml" timestamp="1538662546453">
-        <mark key="[" line="3" column="25" />
-        <mark key="]" line="3" column="31" />
-      </file>
-      <file name="$USER_HOME$/workspace/Vna/app/src/main/java/com/hoho/android/usbserial/driver/CdcAcmSerialDriver.java" timestamp="1535358499540">
-        <mark key="'" line="163" column="20" />
-        <mark key="[" line="186" column="0" />
-        <mark key="]" line="210" column="5" />
-        <mark key="." line="186" column="0" />
-        <mark key="^" line="121" column="12" />
-      </file>
       <file name="$USER_HOME$/workspace/demo/MqttClientAndroid/app/src/main/java/com/lichfaker/mqttclientandroid/mqtt/MqttManager.java" timestamp="1516794138799">
         <mark key="'" line="121" column="6" />
         <mark key="[" line="73" column="53" />
         <mark key="]" line="73" column="72" />
         <mark key="^" line="73" column="72" />
         <mark key="." line="73" column="72" />
+      </file>
+      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/api/trade/TradeAPI.kt" timestamp="1538808672744">
+        <mark key="[" line="42" column="88" />
+        <mark key="]" line="42" column="96" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/forgetpwd/ForgetPwdViewModel.kt" timestamp="1538703121180">
         <mark key="[" line="100" column="32" />
@@ -118,9 +62,23 @@
         <mark key="." line="55" column="20" />
         <mark key="^" line="23" column="19" />
       </file>
+      <file name="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/tools/Util.java" timestamp="1510118965840">
+        <mark key="'" line="91" column="60" />
+        <mark key="[" line="114" column="0" />
+        <mark key="]" line="114" column="0" />
+        <mark key="." line="114" column="0" />
+        <mark key="^" line="113" column="24" />
+      </file>
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/signup/courier/CourierInfoInputViewModel.kt" timestamp="1538731086686">
         <mark key="[" line="157" column="32" />
         <mark key="]" line="157" column="36" />
+      </file>
+      <file name="$USER_HOME$/workspace/DDian/app/build.gradle" timestamp="1510032818504">
+        <mark key="'" line="23" column="52" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="27" column="43" />
       </file>
       <file name="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/tools/ConstantValue.java" timestamp="1510134471764">
         <mark key="'" line="140" column="0" />
@@ -136,6 +94,10 @@
         <mark key="." line="969" column="52" />
         <mark key="^" line="969" column="52" />
       </file>
+      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/di/APIModuel.kt" timestamp="1538645207660">
+        <mark key="[" line="53" column="26" />
+        <mark key="]" line="53" column="52" />
+      </file>
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/api/statistics/StatisticsAPI.kt" timestamp="1538733433313">
         <mark key="[" line="15" column="10" />
         <mark key="]" line="15" column="32" />
@@ -146,6 +108,13 @@
         <mark key="]" line="146" column="33" />
         <mark key="." line="146" column="33" />
         <mark key="^" line="146" column="33" />
+      </file>
+      <file name="$USER_HOME$/DDian/app/src/main/java/com/acenode/ddian/view/activity/PipelineDetailActivity.java" timestamp="1510291868791">
+        <mark key="'" line="1660" column="0" />
+        <mark key="[" line="1662" column="0" />
+        <mark key="]" line="1662" column="0" />
+        <mark key="^" line="1350" column="13" />
+        <mark key="." line="1662" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/Vna/app/src/main/java/flm/b4a/cache/a.java" timestamp="1535358309704">
         <mark key="'" line="120" column="38" />
@@ -158,9 +127,26 @@
         <mark key="[" line="31" column="32" />
         <mark key="]" line="31" column="43" />
       </file>
+      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/AndroidManifest.xml" timestamp="1538702037012">
+        <mark key="'" line="0" column="6" />
+      </file>
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/signup/phonenumverfication/PhoneNumVerficationViewModel.kt" timestamp="1538651656569">
         <mark key="[" line="207" column="32" />
         <mark key="]" line="207" column="40" />
+      </file>
+      <file name="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/agraham/reflection/Reflection.java" timestamp="1535366577239">
+        <mark key="'" line="653" column="0" />
+        <mark key="[" line="19" column="41" />
+        <mark key="]" line="19" column="46" />
+        <mark key="." line="19" column="46" />
+        <mark key="^" line="19" column="46" />
+      </file>
+      <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/IndexActivity.java" timestamp="1513939837518">
+        <mark key="'" line="86" column="13" />
+        <mark key="[" line="604" column="0" />
+        <mark key="]" line="604" column="0" />
+        <mark key="^" line="603" column="34" />
+        <mark key="." line="604" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/DDian/app/src/main/res/layout/item_service.xml" timestamp="1510026728146">
         <mark key="'" line="53" column="0" />
@@ -168,6 +154,13 @@
         <mark key="]" line="41" column="39" />
         <mark key="." line="21" column="0" />
         <mark key="^" line="15" column="27" />
+      </file>
+      <file name="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/frag/ContactsFragment.java" timestamp="1510112797423">
+        <mark key="'" line="129" column="0" />
+        <mark key="[" line="102" column="0" />
+        <mark key="]" line="102" column="0" />
+        <mark key="." line="102" column="0" />
+        <mark key="^" line="101" column="45" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/repository/user/UserRepository.kt" timestamp="1538662879339">
         <mark key="'" line="40" column="37" />
@@ -185,6 +178,13 @@
         <mark key="]" line="176" column="74" />
         <mark key="." line="176" column="74" />
         <mark key="^" line="176" column="74" />
+      </file>
+      <file name="$USER_HOME$/workspace/micro-service/front/RNsales/android/app/src/main/AndroidManifest.xml" timestamp="1531731947201">
+        <mark key="'" line="8" column="54" />
+        <mark key="[" line="44" column="22" />
+        <mark key="]" line="45" column="51" />
+        <mark key="^" line="45" column="51" />
+        <mark key="." line="45" column="51" />
       </file>
       <file name="$USER_HOME$/workspace/waffair/app/src/main/java/com/acenode/view/activity/AddAttachActivity.java" timestamp="1514182739797">
         <mark key="'" line="146" column="30" />
@@ -307,7 +307,7 @@
         <text>version</text>
       </register>
       <register name="0" type="4">
-        <text>trade/getHomeTradeCount</text>
+        <text>CUST_NAME</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -345,7 +345,7 @@
       <last-offset />
       <last-pattern>version</last-pattern>
       <last-replace>pipelineBean</last-replace>
-      <last-substitute>paramSave</last-substitute>
+      <last-substitute>version</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
