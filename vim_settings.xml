@@ -47,9 +47,9 @@
         <mark key="^" line="73" column="72" />
         <mark key="." line="73" column="72" />
       </file>
-      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/api/trade/TradeAPI.kt" timestamp="1538808672744">
-        <mark key="[" line="42" column="88" />
-        <mark key="]" line="42" column="96" />
+      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/api/trade/TradeAPI.kt" timestamp="1538809822965">
+        <mark key="[" line="42" column="254" />
+        <mark key="]" line="42" column="263" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/forgetpwd/ForgetPwdViewModel.kt" timestamp="1538703121180">
         <mark key="[" line="100" column="32" />
@@ -307,7 +307,7 @@
         <text>version</text>
       </register>
       <register name="0" type="4">
-        <text>CUST_NAME</text>
+        <text>GOODS_NAME</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
