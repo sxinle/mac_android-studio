@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/res/layout/activity_activated_trades.xml" timestamp="1538986661235" />
       <file name="$USER_HOME$/workspace/micro-service/front/RNsales/android/app/src/main/java/com/rnsales/MainApplication.java" timestamp="1533280691818">
         <mark key="'" line="65" column="12" />
         <mark key="[" line="69" column="0" />
@@ -57,9 +58,9 @@
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/build.gradle" timestamp="1538976339682">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/api/trade/TradeAPI.kt" timestamp="1538809822965">
-        <mark key="[" line="42" column="254" />
-        <mark key="]" line="42" column="263" />
+      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/api/trade/TradeAPI.kt" timestamp="1538987087476">
+        <mark key="[" line="49" column="10" />
+        <mark key="]" line="49" column="27" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/forgetpwd/ForgetPwdViewModel.kt" timestamp="1538703121180">
         <mark key="[" line="100" column="32" />
@@ -330,7 +331,7 @@
         <text>version</text>
       </register>
       <register name="0" type="4">
-        <text>#999</text>
+        <text>trade/activeTrades</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
