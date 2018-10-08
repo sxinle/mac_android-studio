@@ -94,6 +94,9 @@
         <mark key="." line="969" column="52" />
         <mark key="^" line="969" column="52" />
       </file>
+      <file name="/Dummy.txt" timestamp="1538965981437">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/di/APIModuel.kt" timestamp="1538645207660">
         <mark key="[" line="53" column="26" />
         <mark key="]" line="53" column="52" />
@@ -347,7 +350,7 @@
       <last-replace>pipelineBean</last-replace>
       <last-substitute>version</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
