@@ -28,6 +28,12 @@
         <mark key="." line="301" column="0" />
         <mark key="^" line="49" column="3" />
       </file>
+      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/tinker-support.gradle" timestamp="1538967896866">
+        <mark key="[" line="60" column="14" />
+        <mark key="]" line="60" column="18" />
+        <mark key="." line="60" column="18" />
+        <mark key="^" line="60" column="18" />
+      </file>
       <file name="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/AddProjectActivity.java" timestamp="1510125473986">
         <mark key="'" line="77" column="36" />
         <mark key="[" line="96" column="80" />
@@ -158,12 +164,18 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="15" column="27" />
       </file>
+      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/gradle.properties" timestamp="1538967970659">
+        <mark key="'" line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/frag/ContactsFragment.java" timestamp="1510112797423">
         <mark key="'" line="129" column="0" />
         <mark key="[" line="102" column="0" />
         <mark key="]" line="102" column="0" />
         <mark key="." line="102" column="0" />
         <mark key="^" line="101" column="45" />
+      </file>
+      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/build.gradle" timestamp="1538967838038">
+        <mark key="'" line="65" column="68" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/repository/user/UserRepository.kt" timestamp="1538662879339">
         <mark key="'" line="40" column="37" />
@@ -198,9 +210,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/keywords/Bit.java" />
-      <jump line="1" column="0" filename="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/keywords/Common.java" />
-      <jump line="2" column="22" filename="$USER_HOME$/workspace/Vna/app/src/main/java/com/hoho/android/usbserial/BuildInfo.java" />
       <jump line="2" column="20" filename="$USER_HOME$/workspace/Vna/app/src/main/java/com/hoho/android/usbserial/util/HexDump.java" />
       <jump line="2" column="37" filename="$USER_HOME$/workspace/Vna/app/src/main/java/com/hoho/android/usbserial/util/SerialInputOutputManager.java" />
       <jump line="183" column="0" filename="$USER_HOME$/workspace/Vna/app/src/main/java/com/hoho/android/usbserial/driver/CdcAcmSerialDriver.java" />
@@ -298,13 +307,16 @@
       <jump line="89" column="12" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/api/user/UserAPI.kt" />
       <jump line="6" column="64" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/AndroidManifest.xml" />
       <jump line="0" column="6" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/AndroidManifest.xml" />
+      <jump line="25" column="4" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/build.gradle" />
+      <jump line="65" column="68" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/build.gradle" />
+      <jump line="1" column="0" filename="$USER_HOME$/Desktop/jd/jingdong_communication/gradle.properties" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>基本废物......</text>
       </register>
       <register name="-" type="4">
-        <text>?</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>version</text>
@@ -350,7 +362,7 @@
       <last-replace>pipelineBean</last-replace>
       <last-substitute>version</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
