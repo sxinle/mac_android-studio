@@ -101,8 +101,8 @@
         <mark key="[" line="53" column="26" />
         <mark key="]" line="53" column="52" />
       </file>
-      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/api/statistics/StatisticsAPI.kt" timestamp="1538733433313">
-        <mark key="[" line="15" column="10" />
+      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/api/statistics/StatisticsAPI.kt" timestamp="1538966280407">
+        <mark key="[" line="15" column="16" />
         <mark key="]" line="15" column="32" />
       </file>
       <file name="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/PipelineActivity.java" timestamp="1510118878395">
@@ -310,7 +310,7 @@
         <text>version</text>
       </register>
       <register name="0" type="4">
-        <text>GOODS_NAME</text>
+        <text>getHomeTradeCount</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
