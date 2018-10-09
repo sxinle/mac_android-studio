@@ -14,6 +14,10 @@
         <mark key="[" line="21" column="0" />
         <mark key="]" line="28" column="8" />
       </file>
+      <file name="/ActivatedTradeListActivity.kt" timestamp="1539057401189">
+        <mark key="[" line="9" column="7" />
+        <mark key="]" line="9" column="38" />
+      </file>
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/res/values/colors.xml" timestamp="1538988229309">
         <mark key="[" line="18" column="28" />
         <mark key="]" line="18" column="36" />
@@ -341,7 +345,7 @@
         <text>version</text>
       </register>
       <register name="0" type="4">
-        <text>BjADthJQ</text>
+        <text>com.jaeger.library.StatusBarUtil</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
