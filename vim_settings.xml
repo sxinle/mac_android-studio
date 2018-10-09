@@ -199,9 +199,9 @@
         <mark key="." line="25" column="26" />
         <mark key="^" line="25" column="26" />
       </file>
-      <file name="$USER_HOME$/Desktop/jd/ApiSafes/app/src/main/java/com/thinkerjet/apisafes/MainActivity.java" timestamp="1539052852400">
-        <mark key="[" line="69" column="11" />
-        <mark key="]" line="69" column="19" />
+      <file name="$USER_HOME$/Desktop/jd/ApiSafes/app/src/main/java/com/thinkerjet/apisafes/MainActivity.java" timestamp="1539054677657">
+        <mark key="[" line="103" column="20" />
+        <mark key="]" line="103" column="27" />
         <mark key="^" line="104" column="6" />
         <mark key="." line="100" column="7" />
       </file>
@@ -344,8 +344,8 @@
       <register name="/" type="4">
         <text>version</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgY2hhcnMgPSAiQUJDREVGR0hKS01OUFFSU1RXWFlaYWJjZGVmaGlqa21ucHJzdHd4eXoyMzQ1Njc4IjsKICAgICAgICAvKioqKum7mOiupOWOu+aOieS6huWuueaYk+a3t+a3hueahOWtl+espm9PTGwsOWdxLFZ2LFV1LEkxKioqKi8KICAgICAgICBpbnQgbWF4UG9zID0gY2hhcnMubGVuZ3RoKCk7CiAgICAgICAgU3RyaW5nIHN0cmluZyA9ICIiOwogICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgbGVuZ3RoOyBpKyspIHsKICAgICAgICAgICAgUmFuZG9tIHJhbmRvbSA9IG5ldyBSYW5kb20oKTsKICAgICAgICAgICAgc3RyaW5nICs9IGNoYXJzLmNoYXJBdChyYW5kb20ubmV4dEludChtYXhQb3MpKTsKICAgICAgICB9Cg==</text>
+      <register name="0" type="4">
+        <text>BjADthJQ</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
