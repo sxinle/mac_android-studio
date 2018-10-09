@@ -3,7 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/res/layout/activity_activated_trades.xml" timestamp="1538986661235" />
       <file name="$USER_HOME$/workspace/micro-service/front/RNsales/android/app/src/main/java/com/rnsales/MainApplication.java" timestamp="1533280691818">
         <mark key="'" line="65" column="12" />
         <mark key="[" line="69" column="0" />
@@ -148,6 +147,12 @@
         <mark key="[" line="207" column="32" />
         <mark key="]" line="207" column="40" />
       </file>
+      <file name="$USER_HOME$/Desktop/jd/ApiSafes/apisafe/src/main/jni/ApiSafe.cpp" timestamp="1539050981109">
+        <mark key="[" line="219" column="4" />
+        <mark key="]" line="219" column="5" />
+        <mark key="^" line="219" column="5" />
+        <mark key="." line="219" column="5" />
+      </file>
       <file name="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/agraham/reflection/Reflection.java" timestamp="1535366577239">
         <mark key="'" line="653" column="0" />
         <mark key="[" line="19" column="41" />
@@ -190,15 +195,16 @@
         <mark key="." line="25" column="26" />
         <mark key="^" line="25" column="26" />
       </file>
+      <file name="$USER_HOME$/Desktop/jd/ApiSafes/app/src/main/java/com/thinkerjet/apisafes/MainActivity.java" timestamp="1539051871711">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="42" />
+        <mark key="^" line="104" column="6" />
+        <mark key="." line="100" column="7" />
+      </file>
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/repository/user/UserRepository.kt" timestamp="1538662879339">
         <mark key="'" line="40" column="37" />
         <mark key="[" line="14" column="14" />
         <mark key="]" line="14" column="20" />
-      </file>
-      <file name="/fragment.java" timestamp="1535366521306">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="6" />
-        <mark key="." line="0" column="6" />
       </file>
       <file name="$USER_HOME$/workspace/DDian/app/src/main/java/com/acenode/ddian/view/activity/AddCustomerActivity.java" timestamp="1510133469608">
         <mark key="'" line="30" column="27" />
@@ -329,13 +335,13 @@
         <text>基本废物......</text>
       </register>
       <register name="-" type="4">
-        <text>6</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>version</text>
       </register>
-      <register name="0" type="4">
-        <text>9a9a9a</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgcyA9IGsxICsgIiYiICsgdCArICImIiArIGsyOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -375,7 +381,7 @@
       <last-replace>pipelineBean</last-replace>
       <last-substitute>version</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
