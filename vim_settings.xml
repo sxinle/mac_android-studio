@@ -161,6 +161,10 @@
         <mark key="^" line="219" column="5" />
         <mark key="." line="219" column="5" />
       </file>
+      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/api/ObserveOnMainCallAdapterFactory.kt" timestamp="1539077976632">
+        <mark key="[" line="50" column="45" />
+        <mark key="]" line="50" column="65" />
+      </file>
       <file name="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/agraham/reflection/Reflection.java" timestamp="1535366577239">
         <mark key="'" line="653" column="0" />
         <mark key="[" line="19" column="41" />
@@ -345,7 +349,7 @@
         <text>version</text>
       </register>
       <register name="0" type="4">
-        <text>com.jaeger.library.StatusBarUtil</text>
+        <text>登录状态已失效，为确保账户安全请重新登录！</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
