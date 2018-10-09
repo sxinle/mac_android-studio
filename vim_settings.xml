@@ -18,9 +18,9 @@
         <mark key="[" line="9" column="7" />
         <mark key="]" line="9" column="38" />
       </file>
-      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/res/values/colors.xml" timestamp="1538988229309">
-        <mark key="[" line="18" column="28" />
-        <mark key="]" line="18" column="36" />
+      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/res/values/colors.xml" timestamp="1539083665668">
+        <mark key="[" line="14" column="34" />
+        <mark key="]" line="14" column="40" />
       </file>
       <file name="$USER_HOME$/workspace/Vna/app/src/main/java/com/hoho/android/usbserial/driver/CdcAcmSerialDriver.java" timestamp="1535358499540">
         <mark key="'" line="163" column="20" />
@@ -349,7 +349,7 @@
         <text>version</text>
       </register>
       <register name="0" type="4">
-        <text>登录状态已失效，为确保账户安全请重新登录！</text>
+        <text>#fafafa</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
