@@ -55,6 +55,9 @@
         <mark key="[" line="122" column="16" />
         <mark key="]" line="122" column="23" />
       </file>
+      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/trade/detial/TradeDetialViewModel.kt" timestamp="1539163028780">
+        <mark key="'" line="17" column="8" />
+      </file>
       <file name="$USER_HOME$/workspace/demo/MqttClientAndroid/app/src/main/java/com/lichfaker/mqttclientandroid/mqtt/MqttManager.java" timestamp="1516794138799">
         <mark key="'" line="121" column="6" />
         <mark key="[" line="73" column="53" />
@@ -237,7 +240,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="104" column="0" filename="$USER_HOME$/workspace/Vna/app/src/main/java/com/rootsoft/imageprocessing/ConvolutionMatrix.java" />
       <jump line="940" column="34" filename="$USER_HOME$/workspace/Vna/app/src/main/java/com/rootsoft/imageprocessing/RSImageBlend.java" />
       <jump line="627" column="0" filename="$USER_HOME$/workspace/Vna/app/src/main/java/com/rootsoft/imageprocessing/RSImageEffects.java" />
       <jump line="219" column="0" filename="$USER_HOME$/workspace/Vna/app/src/main/java/com/rootsoft/imageprocessing/RSImageFilters.java" />
@@ -337,6 +339,7 @@
       <jump line="60" column="17" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/tinker-support.gradle" />
       <jump line="73" column="57" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/build.gradle" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/build.gradle" />
+      <jump line="17" column="8" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/trade/detial/TradeDetialViewModel.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -346,7 +349,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>version</text>
+        <text encoding="base64">XDxhY3Rpb25SZXF1ZXN0WGlhb0JhaVw+</text>
       </register>
       <register name="0" type="4">
         <text>#fafafa</text>
@@ -383,17 +386,16 @@
       </register>
     </registers>
     <search>
-      <last-search>version</last-search>
+      <last-search encoding="base64">XDxhY3Rpb25SZXF1ZXN0WGlhb0JhaVw+</last-search>
       <last-offset />
-      <last-pattern>version</last-pattern>
+      <last-pattern encoding="base64">XDxhY3Rpb25SZXF1ZXN0WGlhb0JhaVw+</last-pattern>
       <last-replace>pipelineBean</last-replace>
       <last-substitute>version</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>setFileProviderAuthorities</entry>
         <entry>unexe</entry>
         <entry>unexpect</entry>
         <entry>read</entry>
@@ -413,6 +415,7 @@
         <entry>tinker</entry>
         <entry encoding="base64">XDxzaWduaW5nQ29uZmlnc1w+</entry>
         <entry>version</entry>
+        <entry encoding="base64">XDxhY3Rpb25SZXF1ZXN0WGlhb0JhaVw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0FsYXJtSW5mby9IaXNBbGFybUluZm8vZw==</entry>
