@@ -69,9 +69,9 @@
         <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/trade/detial/TradeDetialFragment.kt" timestamp="1539220280214" />
-      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/api/trade/TradeAPI.kt" timestamp="1538987087476">
-        <mark key="[" line="49" column="10" />
-        <mark key="]" line="49" column="27" />
+      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/api/trade/TradeAPI.kt" timestamp="1539247021031">
+        <mark key="[" line="64" column="17" />
+        <mark key="]" line="64" column="29" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/forgetpwd/ForgetPwdViewModel.kt" timestamp="1538703121180">
         <mark key="[" line="100" column="32" />
@@ -353,7 +353,7 @@
         <text encoding="base64">XDxhY3Rpb25SZXF1ZXN0WGlhb0JhaVw+</text>
       </register>
       <register name="0" type="4">
-        <text>#fafafa</text>
+        <text>confirmActive</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
