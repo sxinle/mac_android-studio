@@ -18,6 +18,9 @@
         <mark key="[" line="14" column="34" />
         <mark key="]" line="14" column="40" />
       </file>
+      <file name="$USER_HOME$/workspace/demo/jdtx/android/build.gradle" timestamp="1539330919747">
+        <mark key="'" line="21" column="19" />
+      </file>
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/tinker-support.gradle" timestamp="1539309463781">
         <mark key="'" line="60" column="17" />
         <mark key="[" line="60" column="14" />
@@ -109,7 +112,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="222" column="0" filename="$USER_HOME$/workspace/Vna/app/src/main/java/com/stevel05/audiotrack/AudioTracker.java" />
       <jump line="343" column="0" filename="$USER_HOME$/workspace/Vna/app/src/main/java/derez/libs/WheelView.java" />
       <jump line="2" column="14" filename="$USER_HOME$/workspace/Vna/app/src/main/java/flm/b4a/cache/a.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/Vna/app/src/main/java/flm/b4a/cache/a.java" />
@@ -209,6 +211,7 @@
       <jump line="37" column="32" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/build/generated/data_binding_base_class_source_out/debug/dataBindingGenBaseClassesDebug/out/com/thinkerjet/jdcommunication/databinding/ItemTradeListBinding.java" />
       <jump line="27" column="42" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/trade/trades/TradeListAdapter.kt" />
       <jump line="10" column="4" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/build.gradle" />
+      <jump line="21" column="19" filename="$USER_HOME$/workspace/demo/jdtx/android/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
