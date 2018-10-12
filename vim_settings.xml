@@ -47,7 +47,7 @@
         <mark key="[" line="157" column="32" />
         <mark key="]" line="157" column="36" />
       </file>
-      <file name="/Dummy.txt" timestamp="1538965981437">
+      <file name="/Dummy.txt" timestamp="1539313181371">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/di/APIModuel.kt" timestamp="1538645207660">
@@ -211,7 +211,7 @@
         <text>false</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzaWduaW5nQ29uZmlnc1w+</text>
+        <text>首页</text>
       </register>
       <register name="0" type="4">
         <text>jdsdk!1234</text>
@@ -248,9 +248,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzaWduaW5nQ29uZmlnc1w+</last-search>
+      <last-search>首页</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzaWduaW5nQ29uZmlnc1w+</last-pattern>
+      <last-pattern>首页</last-pattern>
       <last-replace>pipelineBean</last-replace>
       <last-substitute>version</last-substitute>
       <last-dir>1</last-dir>
@@ -258,7 +258,6 @@
     </search>
     <history>
       <history-search>
-        <entry>read</entry>
         <entry>could</entry>
         <entry encoding="base64">XDxDb3VsZG5cPg==</entry>
         <entry>Byte</entry>
@@ -278,6 +277,7 @@
         <entry encoding="base64">XDxtT25DbGlja1w+</entry>
         <entry encoding="base64">XDxUcmFkZURldGlhbERhdGFcPg==</entry>
         <entry encoding="base64">XDxzaWduaW5nQ29uZmlnc1w+</entry>
+        <entry>首页</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0FsYXJtSW5mby9IaXNBbGFybUluZm8vZw==</entry>
