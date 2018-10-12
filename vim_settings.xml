@@ -18,8 +18,8 @@
         <mark key="[" line="14" column="34" />
         <mark key="]" line="14" column="40" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/jdtx/android/build.gradle" timestamp="1539330919747">
-        <mark key="'" line="21" column="19" />
+      <file name="$USER_HOME$/workspace/demo/jdtx/android/build.gradle" timestamp="1539333853092">
+        <mark key="'" line="23" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/tinker-support.gradle" timestamp="1539309463781">
         <mark key="'" line="60" column="17" />
@@ -46,11 +46,17 @@
         <mark key="[" line="100" column="32" />
         <mark key="]" line="100" column="41" />
       </file>
+      <file name="$USER_HOME$/workspace/demo/jdtx/android/app/build.gradle" timestamp="1539333868412">
+        <mark key="'" line="100" column="12" />
+        <mark key="[" line="86" column="23" />
+        <mark key="]" line="86" column="24" />
+        <mark key="." line="86" column="24" />
+      </file>
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/signup/courier/CourierInfoInputViewModel.kt" timestamp="1538731086686">
         <mark key="[" line="157" column="32" />
         <mark key="]" line="157" column="36" />
       </file>
-      <file name="/Dummy.txt" timestamp="1539313181371">
+      <file name="/Dummy.txt" timestamp="1539334329545">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/di/APIModuel.kt" timestamp="1538645207660">
@@ -112,9 +118,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="343" column="0" filename="$USER_HOME$/workspace/Vna/app/src/main/java/derez/libs/WheelView.java" />
-      <jump line="2" column="14" filename="$USER_HOME$/workspace/Vna/app/src/main/java/flm/b4a/cache/a.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/Vna/app/src/main/java/flm/b4a/cache/a.java" />
       <jump line="172" column="0" filename="$USER_HOME$/workspace/Vna/app/src/main/java/flm/b4a/cache/b.java" />
       <jump line="23" column="0" filename="$USER_HOME$/workspace/Vna/app/src/main/java/flm/b4a/cache/c.java" />
       <jump line="427" column="0" filename="$USER_HOME$/workspace/Vna/app/src/main/java/flm/b4a/cache/Cache.java" />
@@ -212,6 +215,9 @@
       <jump line="27" column="42" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/trade/trades/TradeListAdapter.kt" />
       <jump line="10" column="4" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/build.gradle" />
       <jump line="21" column="19" filename="$USER_HOME$/workspace/demo/jdtx/android/build.gradle" />
+      <jump line="17" column="0" filename="$USER_HOME$/workspace/demo/jdtx/android/build.gradle" />
+      <jump line="32" column="0" filename="$USER_HOME$/workspace/demo/jdtx/android/build.gradle" />
+      <jump line="100" column="12" filename="$USER_HOME$/workspace/demo/jdtx/android/app/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -264,7 +270,7 @@
       <last-replace>pipelineBean</last-replace>
       <last-substitute>version</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
