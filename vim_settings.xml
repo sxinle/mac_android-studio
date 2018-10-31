@@ -3,9 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/demo/res/values/colors.xml" timestamp="1540968081467">
-        <mark key="[" line="15" column="31" />
-        <mark key="]" line="15" column="37" />
+      <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/demo/res/values/colors.xml" timestamp="1540976350047">
+        <mark key="[" line="20" column="35" />
+        <mark key="]" line="20" column="41" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/ln178/bld/build.gradle" timestamp="1540956617539">
         <mark key="[" line="46" column="17" />
@@ -249,7 +249,7 @@
         <text>AAPT</text>
       </register>
       <register name="0" type="4">
-        <text>#FF37373A</text>
+        <text>#333333</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
