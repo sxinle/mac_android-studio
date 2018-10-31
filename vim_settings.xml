@@ -3,6 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/demo/res/values/colors.xml" timestamp="1540968081467">
+        <mark key="[" line="15" column="31" />
+        <mark key="]" line="15" column="37" />
+      </file>
       <file name="$USER_HOME$/Desktop/jd/ln178/bld/build.gradle" timestamp="1540956617539">
         <mark key="[" line="46" column="17" />
         <mark key="]" line="46" column="17" />
@@ -62,7 +66,7 @@
         <mark key="[" line="157" column="32" />
         <mark key="]" line="157" column="36" />
       </file>
-      <file name="/Dummy.txt" timestamp="1539334329545">
+      <file name="/Dummy.txt" timestamp="1540967825072">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/di/APIModuel.kt" timestamp="1538645207660">
@@ -231,7 +235,7 @@
         <text>AAPT</text>
       </register>
       <register name="0" type="4">
-        <text>activeTrades</text>
+        <text>#ff9800</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
