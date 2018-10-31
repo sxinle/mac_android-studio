@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Desktop/jd/ln178/bld/build.gradle" timestamp="1540955164993">
+        <mark key="[" line="46" column="17" />
+        <mark key="]" line="46" column="17" />
+        <mark key="^" line="46" column="36" />
+        <mark key="." line="46" column="17" />
+      </file>
       <file name="$USER_HOME$/Desktop/jd/ApiSafes/apisafe/src/main/java/com/thinkerjet/apisafe/ApiSafe.java" timestamp="1539053156076">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="28" column="8" />
@@ -52,7 +58,6 @@
         <mark key="]" line="86" column="24" />
         <mark key="." line="86" column="24" />
       </file>
-      <file name="/TradeAPI.kt" timestamp="1540535538575" />
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/signup/courier/CourierInfoInputViewModel.kt" timestamp="1538731086686">
         <mark key="[" line="157" column="32" />
         <mark key="]" line="157" column="36" />
@@ -219,7 +224,7 @@
         <text>基本废物......</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text encoding="base64">ImFybWVhYmktdjdhIiwg</text>
       </register>
       <register name="/" type="4">
         <text>AAPT</text>
