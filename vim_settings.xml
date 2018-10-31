@@ -70,6 +70,10 @@
         <mark key="[" line="157" column="32" />
         <mark key="]" line="157" column="36" />
       </file>
+      <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/res/values/styles.xml" timestamp="1540978679566">
+        <mark key="[" line="59" column="42" />
+        <mark key="]" line="59" column="47" />
+      </file>
       <file name="/Dummy.txt" timestamp="1540967825072">
         <mark key="[" line="0" column="0" />
       </file>
@@ -249,7 +253,7 @@
         <text>AAPT</text>
       </register>
       <register name="0" type="4">
-        <text>#333333</text>
+        <text>4A4A4A</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
