@@ -71,11 +71,15 @@
         <mark key="[" line="157" column="32" />
         <mark key="]" line="157" column="36" />
       </file>
+      <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/res/layout/fragment_jd_index.xml" timestamp="1541037717320">
+        <mark key="[" line="51" column="25" />
+        <mark key="]" line="51" column="31" />
+      </file>
       <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/res/values/styles.xml" timestamp="1540978679566">
         <mark key="[" line="59" column="42" />
         <mark key="]" line="59" column="47" />
       </file>
-      <file name="/Dummy.txt" timestamp="1540967825072">
+      <file name="/Dummy.txt" timestamp="1541037512954">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/di/APIModuel.kt" timestamp="1538645207660">
@@ -255,7 +259,7 @@
         <text>AAPT</text>
       </register>
       <register name="0" type="4">
-        <text>4A4A4A</text>
+        <text>#ff4a4a</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
