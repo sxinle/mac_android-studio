@@ -38,6 +38,10 @@
         <mark key="." line="60" column="17" />
         <mark key="^" line="60" column="17" />
       </file>
+      <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/demo/res/values/strings.xml" timestamp="1541063331149">
+        <mark key="[" line="9" column="28" />
+        <mark key="]" line="9" column="57" />
+      </file>
       <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/res/layout/fragment_jd_me.xml" timestamp="1540975263112">
         <mark key="[" line="16" column="26" />
         <mark key="]" line="16" column="34" />
@@ -114,6 +118,10 @@
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/signup/phonenumverfication/PhoneNumVerficationViewModel.kt" timestamp="1538651656569">
         <mark key="[" line="207" column="32" />
         <mark key="]" line="207" column="40" />
+      </file>
+      <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/network/service/user/UserService.java" timestamp="1541063361839">
+        <mark key="[" line="44" column="11" />
+        <mark key="]" line="44" column="17" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/ApiSafes/apisafe/src/main/jni/ApiSafe.cpp" timestamp="1539050981109">
         <mark key="[" line="219" column="4" />
@@ -259,7 +267,7 @@
         <text>AAPT</text>
       </register>
       <register name="0" type="4">
-        <text>home_light_gray</text>
+        <text>doLogin</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
