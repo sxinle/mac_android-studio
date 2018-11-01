@@ -119,9 +119,9 @@
         <mark key="[" line="207" column="32" />
         <mark key="]" line="207" column="40" />
       </file>
-      <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/network/service/user/UserService.java" timestamp="1541063361839">
-        <mark key="[" line="44" column="11" />
-        <mark key="]" line="44" column="17" />
+      <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/network/service/user/UserService.java" timestamp="1541066229774">
+        <mark key="[" line="35" column="11" />
+        <mark key="]" line="35" column="16" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/ApiSafes/apisafe/src/main/jni/ApiSafe.cpp" timestamp="1539050981109">
         <mark key="[" line="219" column="4" />
@@ -267,7 +267,7 @@
         <text>AAPT</text>
       </register>
       <register name="0" type="4">
-        <text>doLogin</text>
+        <text>logout</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
