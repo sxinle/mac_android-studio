@@ -32,13 +32,6 @@
         <mark key="'" line="23" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/res/layout/activity_jd_open_card.xml" timestamp="1541149619671" />
-      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/tinker-support.gradle" timestamp="1539309463781">
-        <mark key="'" line="60" column="17" />
-        <mark key="[" line="60" column="14" />
-        <mark key="]" line="60" column="17" />
-        <mark key="." line="60" column="17" />
-        <mark key="^" line="60" column="17" />
-      </file>
       <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/demo/res/values/strings.xml" timestamp="1541063331149">
         <mark key="[" line="9" column="28" />
         <mark key="]" line="9" column="57" />
@@ -78,6 +71,10 @@
       <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/res/layout/fragment_jd_index.xml" timestamp="1541037717320">
         <mark key="[" line="51" column="25" />
         <mark key="]" line="51" column="31" />
+      </file>
+      <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/FlavorConfig.java" timestamp="1541150437483">
+        <mark key="[" line="12" column="45" />
+        <mark key="]" line="12" column="51" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/res/values/styles.xml" timestamp="1540978679566">
         <mark key="[" line="59" column="42" />
@@ -268,7 +265,7 @@
         <text encoding="base64">XDxiU2VsZWN0UHJvZHVjdFw+</text>
       </register>
       <register name="0" type="4">
-        <text>logout</text>
+        <text>TELECOM</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
