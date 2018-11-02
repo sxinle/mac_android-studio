@@ -31,6 +31,7 @@
       <file name="$USER_HOME$/workspace/demo/jdtx/android/build.gradle" timestamp="1539333853092">
         <mark key="'" line="23" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/res/layout/activity_jd_open_card.xml" timestamp="1541149619671" />
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/tinker-support.gradle" timestamp="1539309463781">
         <mark key="'" line="60" column="17" />
         <mark key="[" line="60" column="14" />
@@ -64,7 +65,6 @@
         <mark key="[" line="100" column="32" />
         <mark key="]" line="100" column="41" />
       </file>
-      <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/fragment/jd/JdIndexFragment.java" timestamp="1540988451837" />
       <file name="$USER_HOME$/workspace/demo/jdtx/android/app/build.gradle" timestamp="1539333868412">
         <mark key="'" line="100" column="12" />
         <mark key="[" line="86" column="23" />
@@ -103,7 +103,6 @@
         <mark key="[" line="15" column="16" />
         <mark key="]" line="15" column="32" />
       </file>
-      <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/res/layout/header_me.xml" timestamp="1540979965425" />
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/changepwd/ChangePwdViewModel.kt" timestamp="1538660643880">
         <mark key="[" line="31" column="32" />
         <mark key="]" line="31" column="43" />
@@ -129,6 +128,9 @@
         <mark key="^" line="219" column="5" />
         <mark key="." line="219" column="5" />
       </file>
+      <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/activity/jd/JDOpenCardActivity.java" timestamp="1541149625588">
+        <mark key="'" line="37" column="40" />
+      </file>
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/main/mine/MineViewModel.kt" timestamp="1539307871772">
         <mark key="'" line="35" column="9" />
       </file>
@@ -145,7 +147,6 @@
         <mark key="^" line="104" column="6" />
         <mark key="." line="100" column="7" />
       </file>
-      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/build.gradle" timestamp="1540957511197" />
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/res/layout/activity_sign_up.xml" timestamp="1539328655497">
         <mark key="a" line="0" column="0" />
         <mark key="[" line="0" column="1" />
@@ -155,7 +156,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="172" column="0" filename="$USER_HOME$/workspace/Vna/app/src/main/java/flm/b4a/cache/b.java" />
       <jump line="23" column="0" filename="$USER_HOME$/workspace/Vna/app/src/main/java/flm/b4a/cache/c.java" />
       <jump line="427" column="0" filename="$USER_HOME$/workspace/Vna/app/src/main/java/flm/b4a/cache/Cache.java" />
       <jump line="15793" column="0" filename="$USER_HOME$/workspace/Vna/app/src/main/java/ro/yo3ggx/btvna/main.java" />
@@ -255,6 +255,7 @@
       <jump line="17" column="0" filename="$USER_HOME$/workspace/demo/jdtx/android/build.gradle" />
       <jump line="32" column="0" filename="$USER_HOME$/workspace/demo/jdtx/android/build.gradle" />
       <jump line="100" column="12" filename="$USER_HOME$/workspace/demo/jdtx/android/app/build.gradle" />
+      <jump line="37" column="40" filename="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/activity/jd/JDOpenCardActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -264,7 +265,7 @@
         <text encoding="base64">ImFybWVhYmktdjdhIiwg</text>
       </register>
       <register name="/" type="4">
-        <text>AAPT</text>
+        <text encoding="base64">XDxiU2VsZWN0UHJvZHVjdFw+</text>
       </register>
       <register name="0" type="4">
         <text>logout</text>
@@ -301,17 +302,16 @@
       </register>
     </registers>
     <search>
-      <last-search>AAPT</last-search>
+      <last-search encoding="base64">XDxiU2VsZWN0UHJvZHVjdFw+</last-search>
       <last-offset />
-      <last-pattern>AAPT</last-pattern>
+      <last-pattern encoding="base64">XDxiU2VsZWN0UHJvZHVjdFw+</last-pattern>
       <last-replace>pipelineBean</last-replace>
       <last-substitute>version</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxDb3VsZG5cPg==</entry>
         <entry>Byte</entry>
         <entry>Rucg</entry>
         <entry>Rich</entry>
@@ -331,6 +331,7 @@
         <entry encoding="base64">XDxzaWduaW5nQ29uZmlnc1w+</entry>
         <entry>首页</entry>
         <entry>AAPT</entry>
+        <entry encoding="base64">XDxiU2VsZWN0UHJvZHVjdFw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0FsYXJtSW5mby9IaXNBbGFybUluZm8vZw==</entry>
