@@ -3,9 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/demo/res/values/colors.xml" timestamp="1541042929735">
-        <mark key="[" line="19" column="17" />
-        <mark key="]" line="19" column="31" />
+      <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/demo/res/values/colors.xml" timestamp="1541161421172">
+        <mark key="[" line="20" column="17" />
+        <mark key="]" line="20" column="32" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/ln178/bld/build.gradle" timestamp="1540956617539">
         <mark key="[" line="46" column="17" />
@@ -265,7 +265,7 @@
         <text encoding="base64">XDxiU2VsZWN0UHJvZHVjdFw+</text>
       </register>
       <register name="0" type="4">
-        <text>TELECOM</text>
+        <text>home_light_black</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
