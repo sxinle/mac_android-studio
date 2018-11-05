@@ -59,6 +59,9 @@
         <mark key="[" line="100" column="32" />
         <mark key="]" line="100" column="41" />
       </file>
+      <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/fragment/jd/JdIndexFragment.java" timestamp="1541391411977">
+        <mark key="'" line="171" column="13" />
+      </file>
       <file name="$USER_HOME$/workspace/demo/jdtx/android/app/build.gradle" timestamp="1539333868412">
         <mark key="'" line="100" column="12" />
         <mark key="[" line="86" column="23" />
@@ -153,10 +156,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="38" filename="$USER_HOME$/workspace/Vna/app/src/main/java/com/hoho/android/usbserial/driver/Cp2102SerialDriver.java" />
-      <jump line="257" column="16" filename="$USER_HOME$/workspace/Vna/app/src/main/java/com/hoho/android/usbserial/driver/FtdiSerialDriver.java" />
-      <jump line="318" column="16" filename="$USER_HOME$/workspace/Vna/app/src/main/java/com/hoho/android/usbserial/driver/FtdiSerialDriver.java" />
-      <jump line="269" column="41" filename="$USER_HOME$/workspace/Vna/app/src/main/java/com/hoho/android/usbserial/driver/FtdiSerialDriver.java" />
       <jump line="81" column="42" filename="$USER_HOME$/workspace/Vna/app/src/main/java/com/hoho/android/usbserial/driver/ProlificSerialDriver.java" />
       <jump line="598" column="0" filename="$USER_HOME$/workspace/Vna/app/src/main/java/com/hoho/android/usbserial/driver/ProlificSerialDriver.java" />
       <jump line="177" column="28" filename="$USER_HOME$/workspace/Vna/app/src/main/java/ro/yo3ggx/btvna/main.java" />
@@ -253,6 +252,10 @@
       <jump line="222" column="29" filename="$USER_HOME$/Desktop/jd/ln178/bld/build.gradle" />
       <jump line="18" column="2" filename="$USER_HOME$/Desktop/jd/ln178/bld/build.gradle" />
       <jump line="24" column="10" filename="$USER_HOME$/Desktop/jd/ln178/bld/build.gradle" />
+      <jump line="163" column="26" filename="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/fragment/jd/JdIndexFragment.java" />
+      <jump line="164" column="4" filename="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/fragment/jd/JdIndexFragment.java" />
+      <jump line="165" column="4" filename="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/fragment/jd/JdIndexFragment.java" />
+      <jump line="171" column="13" filename="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/fragment/jd/JdIndexFragment.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -262,7 +265,7 @@
         <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>sign</text>
+        <text encoding="base64">XDxiZWFuM1w+</text>
       </register>
       <register name="0" type="4">
         <text>0185cf</text>
@@ -299,9 +302,9 @@
       </register>
     </registers>
     <search>
-      <last-search>sign</last-search>
+      <last-search encoding="base64">XDxiZWFuM1w+</last-search>
       <last-offset />
-      <last-pattern>sign</last-pattern>
+      <last-pattern encoding="base64">XDxiZWFuM1w+</last-pattern>
       <last-replace>pipelineBean</last-replace>
       <last-substitute>version</last-substitute>
       <last-dir>1</last-dir>
@@ -309,7 +312,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Rich</entry>
         <entry encoding="base64">XDxUaHJlYWRpbmdcPg==</entry>
         <entry encoding="base64">XDxfbGJsZGIxX2xvbmdjbGlja1w+</entry>
         <entry>FREQ</entry>
@@ -329,6 +331,7 @@
         <entry encoding="base64">XDxiU2VsZWN0UHJvZHVjdFw+</entry>
         <entry encoding="base64">XDxiU3VibWl0XD4=</entry>
         <entry>sign</entry>
+        <entry encoding="base64">XDxiZWFuM1w+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0FsYXJtSW5mby9IaXNBbGFybUluZm8vZw==</entry>
