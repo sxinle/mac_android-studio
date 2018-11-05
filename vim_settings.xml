@@ -22,9 +22,15 @@
         <mark key="[" line="9" column="7" />
         <mark key="]" line="9" column="38" />
       </file>
+      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/build/generated/data_binding_base_class_source_out/debug/dataBindingGenBaseClassesDebug/out/com/thinkerjet/jdcommunication/databinding/ItemTradeListBinding.java" timestamp="1539308447837">
+        <mark key="'" line="37" column="32" />
+      </file>
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/res/values/colors.xml" timestamp="1539083665668">
         <mark key="[" line="14" column="34" />
         <mark key="]" line="14" column="40" />
+      </file>
+      <file name="$USER_HOME$/workspace/demo/jdtx/android/build.gradle" timestamp="1539333853092">
+        <mark key="'" line="23" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/res/layout/activity_jd_open_card.xml" timestamp="1541381745361" />
       <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/ServApi.java" timestamp="1541394342453">
@@ -38,6 +44,12 @@
       <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/res/layout/fragment_jd_me.xml" timestamp="1540975263112">
         <mark key="[" line="16" column="26" />
         <mark key="]" line="16" column="34" />
+      </file>
+      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/trade/detial/TradeDetialViewModel.kt" timestamp="1539163028780">
+        <mark key="'" line="17" column="8" />
+      </file>
+      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/build.gradle" timestamp="1538976339682">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/trade/detial/TradeDetialFragment.kt" timestamp="1539257263998">
         <mark key="[" line="26" column="95" />
@@ -86,11 +98,8 @@
         <mark key="[" line="53" column="26" />
         <mark key="]" line="53" column="52" />
       </file>
-      <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/res/drawable/selector_tab_wallet.xml" timestamp="1540975164999">
-        <mark key="[" line="5" column="91" />
-        <mark key="]" line="5" column="3" />
-        <mark key="^" line="5" column="3" />
-        <mark key="." line="5" column="3" />
+      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/trade/trades/TradeListAdapter.kt" timestamp="1539308477246">
+        <mark key="'" line="27" column="42" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/api/statistics/StatisticsAPI.kt" timestamp="1538966280407">
         <mark key="[" line="15" column="16" />
@@ -104,6 +113,12 @@
         <mark key="[" line="20" column="17" />
         <mark key="]" line="20" column="32" />
       </file>
+      <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/widget/JdSearchView.java" timestamp="1541402925048">
+        <mark key="'" line="27" column="27" />
+      </file>
+      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/AndroidManifest.xml" timestamp="1538977517716">
+        <mark key="'" line="0" column="6" />
+      </file>
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/signup/phonenumverfication/PhoneNumVerficationViewModel.kt" timestamp="1538651656569">
         <mark key="[" line="207" column="32" />
         <mark key="]" line="207" column="40" />
@@ -112,25 +127,18 @@
         <mark key="[" line="35" column="11" />
         <mark key="]" line="35" column="16" />
       </file>
-      <file name="$USER_HOME$/Desktop/jd/ApiSafes/apisafe/src/main/jni/ApiSafe.cpp" timestamp="1539050981109">
-        <mark key="[" line="219" column="4" />
-        <mark key="]" line="219" column="5" />
-        <mark key="^" line="219" column="5" />
-        <mark key="." line="219" column="5" />
+      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/main/mine/MineViewModel.kt" timestamp="1539307871772">
+        <mark key="'" line="35" column="9" />
+      </file>
+      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/gradle.properties" timestamp="1538975292232">
+        <mark key="'" line="11" column="18" />
       </file>
       <file name="/usr/local/android-sdk/platforms/android-28/data/res/values/colors.xml" timestamp="1538988264142">
         <mark key="[" line="116" column="43" />
         <mark key="]" line="116" column="48" />
       </file>
-      <file name="$USER_HOME$/Desktop/jd/ApiSafes/app/src/main/java/com/thinkerjet/apisafes/MainActivity.java" timestamp="1539054677657">
-        <mark key="[" line="103" column="20" />
-        <mark key="]" line="103" column="27" />
-        <mark key="^" line="104" column="6" />
-        <mark key="." line="100" column="7" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="81" column="42" filename="$USER_HOME$/workspace/Vna/app/src/main/java/com/hoho/android/usbserial/driver/ProlificSerialDriver.java" />
       <jump line="598" column="0" filename="$USER_HOME$/workspace/Vna/app/src/main/java/com/hoho/android/usbserial/driver/ProlificSerialDriver.java" />
       <jump line="177" column="28" filename="$USER_HOME$/workspace/Vna/app/src/main/java/ro/yo3ggx/btvna/main.java" />
       <jump line="239" column="23" filename="$USER_HOME$/workspace/Vna/app/src/main/java/ro/yo3ggx/btvna/main.java" />
@@ -230,6 +238,7 @@
       <jump line="164" column="4" filename="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/fragment/jd/JdIndexFragment.java" />
       <jump line="165" column="4" filename="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/fragment/jd/JdIndexFragment.java" />
       <jump line="171" column="13" filename="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/fragment/jd/JdIndexFragment.java" />
+      <jump line="27" column="27" filename="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/widget/JdSearchView.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -239,7 +248,7 @@
         <text>1</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxiZWFuM1w+</text>
+        <text encoding="base64">XDxzZWFyY2hMaXN0ZW50ZXJcPg==</text>
       </register>
       <register name="0" type="4">
         <text>https://nj.jd.com/console/p/partner/index?relate=J7RuMahZCRjCKeIEpyK%2FrGeaHpe9uD6Fq%2FFsswnQuzF9xk9F8fJ3%2FiVx2X33zBkPipwYkmkDS%2BLpdIa1ni6hOQ%3D%3D</text>
@@ -276,9 +285,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxiZWFuM1w+</last-search>
+      <last-search encoding="base64">XDxzZWFyY2hMaXN0ZW50ZXJcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxiZWFuM1w+</last-pattern>
+      <last-pattern encoding="base64">XDxzZWFyY2hMaXN0ZW50ZXJcPg==</last-pattern>
       <last-replace>pipelineBean</last-replace>
       <last-substitute>version</last-substitute>
       <last-dir>1</last-dir>
@@ -286,7 +295,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxUaHJlYWRpbmdcPg==</entry>
         <entry encoding="base64">XDxfbGJsZGIxX2xvbmdjbGlja1w+</entry>
         <entry>FREQ</entry>
         <entry>\\$</entry>
@@ -306,6 +314,7 @@
         <entry encoding="base64">XDxiU3VibWl0XD4=</entry>
         <entry>sign</entry>
         <entry encoding="base64">XDxiZWFuM1w+</entry>
+        <entry encoding="base64">XDxzZWFyY2hMaXN0ZW50ZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0FsYXJtSW5mby9IaXNBbGFybUluZm8vZw==</entry>
