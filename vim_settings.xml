@@ -7,7 +7,8 @@
         <mark key="[" line="20" column="17" />
         <mark key="]" line="20" column="32" />
       </file>
-      <file name="$USER_HOME$/Desktop/jd/ln178/bld/build.gradle" timestamp="1540956617539">
+      <file name="$USER_HOME$/Desktop/jd/ln178/bld/build.gradle" timestamp="1541382707579">
+        <mark key="'" line="24" column="10" />
         <mark key="[" line="46" column="17" />
         <mark key="]" line="46" column="17" />
         <mark key="^" line="46" column="36" />
@@ -134,9 +135,6 @@
         <mark key="^" line="219" column="5" />
         <mark key="." line="219" column="5" />
       </file>
-      <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/activity/jd/JDOpenCardActivity.java" timestamp="1541380911116">
-        <mark key="'" line="58" column="70" />
-      </file>
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/main/mine/MineViewModel.kt" timestamp="1539307871772">
         <mark key="'" line="35" column="9" />
       </file>
@@ -155,12 +153,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="120" column="38" filename="$USER_HOME$/workspace/Vna/app/src/main/java/flm/b4a/cache/a.java" />
-      <jump line="206" column="0" filename="$USER_HOME$/workspace/Vna/app/src/main/java/com/hoho/android/usbserial/driver/Cp2102SerialDriver.java" />
-      <jump line="156" column="0" filename="$USER_HOME$/workspace/Vna/app/src/main/java/com/hoho/android/usbserial/driver/Cp2102SerialDriver.java" />
-      <jump line="33" column="25" filename="$USER_HOME$/workspace/Vna/app/src/main/java/com/hoho/android/usbserial/driver/Cp2102SerialDriver.java" />
-      <jump line="123" column="30" filename="$USER_HOME$/workspace/Vna/app/src/main/java/com/hoho/android/usbserial/driver/Cp2102SerialDriver.java" />
-      <jump line="155" column="15" filename="$USER_HOME$/workspace/Vna/app/src/main/java/com/hoho/android/usbserial/driver/Cp2102SerialDriver.java" />
       <jump line="17" column="38" filename="$USER_HOME$/workspace/Vna/app/src/main/java/com/hoho/android/usbserial/driver/Cp2102SerialDriver.java" />
       <jump line="257" column="16" filename="$USER_HOME$/workspace/Vna/app/src/main/java/com/hoho/android/usbserial/driver/FtdiSerialDriver.java" />
       <jump line="318" column="16" filename="$USER_HOME$/workspace/Vna/app/src/main/java/com/hoho/android/usbserial/driver/FtdiSerialDriver.java" />
@@ -255,6 +247,12 @@
       <jump line="135" column="10" filename="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/activity/jd/JDOpenCardActivity.java" />
       <jump line="41" column="33" filename="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/activity/jd/JDOpenCardActivity.java" />
       <jump line="58" column="70" filename="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/activity/jd/JDOpenCardActivity.java" />
+      <jump line="183" column="0" filename="$USER_HOME$/Desktop/jd/ln178/bld/build.gradle" />
+      <jump line="68" column="5" filename="$USER_HOME$/Desktop/jd/ln178/bld/build.gradle" />
+      <jump line="74" column="5" filename="$USER_HOME$/Desktop/jd/ln178/bld/build.gradle" />
+      <jump line="222" column="29" filename="$USER_HOME$/Desktop/jd/ln178/bld/build.gradle" />
+      <jump line="18" column="2" filename="$USER_HOME$/Desktop/jd/ln178/bld/build.gradle" />
+      <jump line="24" column="10" filename="$USER_HOME$/Desktop/jd/ln178/bld/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -264,7 +262,7 @@
         <text>1</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxiU3VibWl0XD4=</text>
+        <text>sign</text>
       </register>
       <register name="0" type="4">
         <text>#F5F5F5</text>
@@ -301,9 +299,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxiU3VibWl0XD4=</last-search>
+      <last-search>sign</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxiU3VibWl0XD4=</last-pattern>
+      <last-pattern>sign</last-pattern>
       <last-replace>pipelineBean</last-replace>
       <last-substitute>version</last-substitute>
       <last-dir>1</last-dir>
@@ -311,7 +309,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Rucg</entry>
         <entry>Rich</entry>
         <entry encoding="base64">XDxUaHJlYWRpbmdcPg==</entry>
         <entry encoding="base64">XDxfbGJsZGIxX2xvbmdjbGlja1w+</entry>
@@ -331,6 +328,7 @@
         <entry>AAPT</entry>
         <entry encoding="base64">XDxiU2VsZWN0UHJvZHVjdFw+</entry>
         <entry encoding="base64">XDxiU3VibWl0XD4=</entry>
+        <entry>sign</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0FsYXJtSW5mby9IaXNBbGFybUluZm8vZw==</entry>
