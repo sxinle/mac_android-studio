@@ -31,6 +31,7 @@
       <file name="$USER_HOME$/workspace/demo/jdtx/android/build.gradle" timestamp="1539333853092">
         <mark key="'" line="23" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/res/layout/activity_jd_open_card.xml" timestamp="1541381745361" />
       <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/demo/res/values/strings.xml" timestamp="1541063331149">
         <mark key="[" line="9" column="28" />
         <mark key="]" line="9" column="57" />
@@ -133,8 +134,8 @@
         <mark key="^" line="219" column="5" />
         <mark key="." line="219" column="5" />
       </file>
-      <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/activity/jd/JDOpenCardActivity.java" timestamp="1541149625588">
-        <mark key="'" line="37" column="40" />
+      <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/activity/jd/JDOpenCardActivity.java" timestamp="1541380911116">
+        <mark key="'" line="58" column="70" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/main/mine/MineViewModel.kt" timestamp="1539307871772">
         <mark key="'" line="35" column="9" />
@@ -154,10 +155,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="0" filename="$USER_HOME$/workspace/Vna/app/src/main/java/flm/b4a/cache/c.java" />
-      <jump line="427" column="0" filename="$USER_HOME$/workspace/Vna/app/src/main/java/flm/b4a/cache/Cache.java" />
-      <jump line="15793" column="0" filename="$USER_HOME$/workspace/Vna/app/src/main/java/ro/yo3ggx/btvna/main.java" />
-      <jump line="412" column="0" filename="$USER_HOME$/workspace/Vna/app/src/main/java/ro/yo3ggx/btvna/webactivity.java" />
       <jump line="120" column="38" filename="$USER_HOME$/workspace/Vna/app/src/main/java/flm/b4a/cache/a.java" />
       <jump line="206" column="0" filename="$USER_HOME$/workspace/Vna/app/src/main/java/com/hoho/android/usbserial/driver/Cp2102SerialDriver.java" />
       <jump line="156" column="0" filename="$USER_HOME$/workspace/Vna/app/src/main/java/com/hoho/android/usbserial/driver/Cp2102SerialDriver.java" />
@@ -254,6 +251,10 @@
       <jump line="32" column="0" filename="$USER_HOME$/workspace/demo/jdtx/android/build.gradle" />
       <jump line="100" column="12" filename="$USER_HOME$/workspace/demo/jdtx/android/app/build.gradle" />
       <jump line="37" column="40" filename="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/activity/jd/JDOpenCardActivity.java" />
+      <jump line="85" column="16" filename="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/activity/jd/JDOpenCardActivity.java" />
+      <jump line="135" column="10" filename="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/activity/jd/JDOpenCardActivity.java" />
+      <jump line="41" column="33" filename="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/activity/jd/JDOpenCardActivity.java" />
+      <jump line="58" column="70" filename="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/activity/jd/JDOpenCardActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -263,7 +264,7 @@
         <text>1</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxiU2VsZWN0UHJvZHVjdFw+</text>
+        <text encoding="base64">XDxiU3VibWl0XD4=</text>
       </register>
       <register name="0" type="4">
         <text>#F5F5F5</text>
@@ -300,17 +301,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxiU2VsZWN0UHJvZHVjdFw+</last-search>
+      <last-search encoding="base64">XDxiU3VibWl0XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxiU2VsZWN0UHJvZHVjdFw+</last-pattern>
+      <last-pattern encoding="base64">XDxiU3VibWl0XD4=</last-pattern>
       <last-replace>pipelineBean</last-replace>
       <last-substitute>version</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Byte</entry>
         <entry>Rucg</entry>
         <entry>Rich</entry>
         <entry encoding="base64">XDxUaHJlYWRpbmdcPg==</entry>
@@ -330,6 +330,7 @@
         <entry>首页</entry>
         <entry>AAPT</entry>
         <entry encoding="base64">XDxiU2VsZWN0UHJvZHVjdFw+</entry>
+        <entry encoding="base64">XDxiU3VibWl0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0FsYXJtSW5mby9IaXNBbGFybUluZm8vZw==</entry>
