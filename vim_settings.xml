@@ -55,9 +55,9 @@
         <mark key="[" line="26" column="95" />
         <mark key="]" line="26" column="104" />
       </file>
-      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/api/trade/TradeAPI.kt" timestamp="1539490312551">
-        <mark key="[" line="49" column="16" />
-        <mark key="]" line="49" column="27" />
+      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/api/trade/TradeAPI.kt" timestamp="1541407217173">
+        <mark key="[" line="57" column="10" />
+        <mark key="]" line="57" column="24" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/forgetpwd/ForgetPwdViewModel.kt" timestamp="1538703121180">
         <mark key="[" line="100" column="32" />
@@ -251,7 +251,7 @@
         <text encoding="base64">XDxzZWFyY2hMaXN0ZW50ZXJcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>https://nj.jd.com/console/p/partner/index?relate=J7RuMahZCRjCKeIEpyK%2FrGeaHpe9uD6Fq%2FFsswnQuzF9xk9F8fJ3%2FiVx2X33zBkPipwYkmkDS%2BLpdIa1ni6hOQ%3D%3D</text>
+        <text>trade/{tradeNo}</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
