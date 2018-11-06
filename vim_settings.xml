@@ -7,8 +7,8 @@
         <mark key="[" line="17" column="49" />
         <mark key="]" line="17" column="54" />
       </file>
-      <file name="$USER_HOME$/Desktop/jd/ln178/bld/build.gradle" timestamp="1541482848635">
-        <mark key="'" line="83" column="10" />
+      <file name="$USER_HOME$/Desktop/jd/ln178/bld/build.gradle" timestamp="1541490620502">
+        <mark key="'" line="129" column="11" />
         <mark key="[" line="46" column="17" />
         <mark key="]" line="46" column="17" />
         <mark key="^" line="46" column="36" />
@@ -108,6 +108,11 @@
         <mark key="[" line="15" column="16" />
         <mark key="]" line="15" column="32" />
       </file>
+      <file name="$USER_HOME$/Desktop/jd/ln178/build.gradle" timestamp="1541490892694">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/changepwd/ChangePwdViewModel.kt" timestamp="1538660643880">
         <mark key="[" line="31" column="32" />
         <mark key="]" line="31" column="43" />
@@ -142,8 +147,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7537" column="48" filename="$USER_HOME$/workspace/Vna/app/src/main/java/ro/yo3ggx/btvna/main.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/Vna/app/src/main/java/ro/yo3ggx/btvna/main.java" />
       <jump line="4" column="0" filename="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/objects/UsbSerial.java" />
       <jump line="455" column="0" filename="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/objects/UsbSerial.java" />
       <jump line="6" column="0" filename="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/objects/UsbSerial.java" />
@@ -237,11 +240,13 @@
       <jump line="27" column="27" filename="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/widget/JdSearchView.java" />
       <jump line="221" column="45" filename="$USER_HOME$/Desktop/jd/ln178/bld/build.gradle" />
       <jump line="197" column="35" filename="$USER_HOME$/Desktop/jd/ln178/bld/build.gradle" />
+      <jump line="148" column="40" filename="$USER_HOME$/Desktop/jd/ln178/bld/build.gradle" />
+      <jump line="298" column="0" filename="$USER_HOME$/Desktop/jd/ln178/bld/build.gradle" />
+      <jump line="144" column="11" filename="$USER_HOME$/Desktop/jd/ln178/bld/build.gradle" />
+      <jump line="83" column="10" filename="$USER_HOME$/Desktop/jd/ln178/bld/build.gradle" />
       <jump line="99" column="26" filename="$USER_HOME$/Desktop/jd/ln178/bld/build.gradle" />
       <jump line="115" column="11" filename="$USER_HOME$/Desktop/jd/ln178/bld/build.gradle" />
       <jump line="129" column="11" filename="$USER_HOME$/Desktop/jd/ln178/bld/build.gradle" />
-      <jump line="144" column="11" filename="$USER_HOME$/Desktop/jd/ln178/bld/build.gradle" />
-      <jump line="83" column="10" filename="$USER_HOME$/Desktop/jd/ln178/bld/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -257,31 +262,31 @@
         <text>http://jdtx.bld365.com/app/</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YWxscHJvamVjdHMgewogICAgcmVwb3NpdG9yaWVzIHsKICAgIH0KfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgSU9FeGNlcHRpb24oU3RyaW5nLmZvcm1hdCgiSW52YWxpZCBDVFMgLyBEU1IgLyBDRCAvIFJJIHN0YXR1cyBidWZmZXIgcmVjZWl2ZWQsIGV4cGVjdGVkICVkIGJ5dGVzLCBidXQgcmVjZWl2ZWQgJWQiLCAxMCwgYnVsa1RyYW5zZmVyKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWF2ZW5DZW50cmFsKCkgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBpbnQgd3JpdGUoYnl0ZVtdIHBhcmFtMSwgaW50IHBhcmFtMikgdGhyb3dzIElPRXhjZXB0aW9uIHsKICAgICAgICAvLyAkRkY6IENvdWxkbid0IGJlIGRlY29tcGlsZWQKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBpbnQgcmVhZChieXRlW10gcGFyYW0xLCBpbnQgcGFyYW0yKSB0aHJvd3MgSU9FeGNlcHRpb24gewogICAgICAgIC8vICRGRjogQ291bGRuJ3QgYmUgZGVjb21waWxlZAogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgSU9FeGNlcHRpb24oU3RyaW5nLmZvcm1hdCgiSW52YWxpZCBDVFMgLyBEU1IgLyBDRCAvIFJJIHN0YXR1cyBidWZmZXIgcmVjZWl2ZWQsIGV4cGVjdGVkICVkIGJ5dGVzLCBidXQgcmVjZWl2ZWQgJWQiLCAxMCwgYnVsa1RyYW5zZmVyKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBpbnQgcmVhZChieXRlW10gcGFyYW0xLCBpbnQgcGFyYW0yKSB0aHJvd3MgSU9FeGNlcHRpb24gewogICAgICAgIC8vICRGRjogQ291bGRuJ3QgYmUgZGVjb21waWxlZAogICAgfQo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBpbnQgd3JpdGUoYnl0ZVtdIHBhcmFtMSwgaW50IHBhcmFtMikgdGhyb3dzIElPRXhjZXB0aW9uIHsKICAgICAgICAvLyAkRkY6IENvdWxkbid0IGJlIGRlY29tcGlsZWQKICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBpbnQgd3JpdGUoYnl0ZVtdIHBhcmFtMSwgaW50IHBhcmFtMikgdGhyb3dzIElPRXhjZXB0aW9uIHsKICAgICAgICAvLyAkRkY6IENvdWxkbid0IGJlIGRlY29tcGlsZWQKICAgIH0K</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBpbnQgcmVhZChieXRlW10gcGFyYW0xLCBpbnQgcGFyYW0yKSB0aHJvd3MgSU9FeGNlcHRpb24gewogICAgICAgIC8vICRGRjogQ291bGRuJ3QgYmUgZGVjb21waWxlZAogICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIG9wZW4oKSB0aHJvd3MgSU9FeGNlcHRpb24gewogICAgICAgIC8vICRGRjogQ291bGRuJ3QgYmUgZGVjb21waWxlZAogICAgfQo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBpbnQgcmVhZChieXRlW10gcGFyYW0xLCBpbnQgcGFyYW0yKSB0aHJvd3MgSU9FeGNlcHRpb24gewogICAgICAgIC8vICRGRjogQ291bGRuJ3QgYmUgZGVjb21waWxlZAogICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmaW5hbCB2b2lkIHNldFJlYWRCdWZmZXJTaXplKGludCBwYXJhbTEpIHsKICAgICAgICAvLyAkRkY6IENvdWxkbid0IGJlIGRlY29tcGlsZWQKICAgIH0KCiAgICBwdWJsaWMgZmluYWwgdm9pZCBzZXRXcml0ZUJ1ZmZlclNpemUoaW50IHBhcmFtMSkgewogICAgICAgIC8vICRGRjogQ291bGRuJ3QgYmUgZGVjb21waWxlZAogICAgfQo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBpbnQgd3JpdGUoYnl0ZVtdIHBhcmFtMSwgaW50IHBhcmFtMikgdGhyb3dzIElPRXhjZXB0aW9uIHsKICAgICAgICAvLyAkRkY6IENvdWxkbid0IGJlIGRlY29tcGlsZWQKICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBpbnQgd3JpdGUoYnl0ZVtdIHBhcmFtMSwgaW50IHBhcmFtMikgdGhyb3dzIElPRXhjZXB0aW9uIHsKICAgICAgICAvLyAkRkY6IENvdWxkbid0IGJlIGRlY29tcGlsZWQKICAgIH0K</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIG9wZW4oKSB0aHJvd3MgSU9FeGNlcHRpb24gewogICAgICAgIC8vICRGRjogQ291bGRuJ3QgYmUgZGVjb21waWxlZAogICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
