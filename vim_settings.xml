@@ -36,9 +36,9 @@
         <mark key="[" line="9" column="28" />
         <mark key="]" line="9" column="54" />
       </file>
-      <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/ServApi.java" timestamp="1541394342453">
-        <mark key="[" line="309" column="42" />
-        <mark key="]" line="309" column="190" />
+      <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/ServApi.java" timestamp="1541493953364">
+        <mark key="[" line="7" column="55" />
+        <mark key="]" line="7" column="83" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/demo/res/values/strings.xml" timestamp="1541063331149">
         <mark key="[" line="9" column="28" />
@@ -254,7 +254,7 @@
         <text>umeng</text>
       </register>
       <register name="0" type="4">
-        <text>http://jdtx.bld365.com/app/</text>
+        <text>phonenumber/getJFKSimCardList</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIG1hdmVuQ2VudHJhbCgpCg==</text>
@@ -294,7 +294,7 @@
       <last-replace>pipelineBean</last-replace>
       <last-substitute>version</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
