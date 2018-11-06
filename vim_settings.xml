@@ -7,8 +7,8 @@
         <mark key="[" line="17" column="49" />
         <mark key="]" line="17" column="54" />
       </file>
-      <file name="$USER_HOME$/Desktop/jd/ln178/bld/build.gradle" timestamp="1541382707579">
-        <mark key="'" line="24" column="10" />
+      <file name="$USER_HOME$/Desktop/jd/ln178/bld/build.gradle" timestamp="1541482848635">
+        <mark key="'" line="83" column="10" />
         <mark key="[" line="46" column="17" />
         <mark key="]" line="46" column="17" />
         <mark key="^" line="46" column="36" />
@@ -32,7 +32,10 @@
       <file name="$USER_HOME$/workspace/demo/jdtx/android/build.gradle" timestamp="1539333853092">
         <mark key="'" line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/res/layout/activity_jd_open_card.xml" timestamp="1541381745361" />
+      <file name="/strings.xml" timestamp="1541482926764">
+        <mark key="[" line="9" column="28" />
+        <mark key="]" line="9" column="54" />
+      </file>
       <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/ServApi.java" timestamp="1541394342453">
         <mark key="[" line="309" column="42" />
         <mark key="]" line="309" column="190" />
@@ -139,13 +142,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="598" column="0" filename="$USER_HOME$/workspace/Vna/app/src/main/java/com/hoho/android/usbserial/driver/ProlificSerialDriver.java" />
-      <jump line="177" column="28" filename="$USER_HOME$/workspace/Vna/app/src/main/java/ro/yo3ggx/btvna/main.java" />
-      <jump line="239" column="23" filename="$USER_HOME$/workspace/Vna/app/src/main/java/ro/yo3ggx/btvna/main.java" />
-      <jump line="18" column="7" filename="$USER_HOME$/workspace/Vna/app/src/main/java/ro/yo3ggx/btvna/main.java" />
-      <jump line="491" column="19" filename="$USER_HOME$/workspace/Vna/app/src/main/java/ro/yo3ggx/btvna/main.java" />
-      <jump line="22" column="44" filename="$USER_HOME$/workspace/Vna/app/src/main/java/ro/yo3ggx/btvna/main.java" />
-      <jump line="32" column="65" filename="$USER_HOME$/workspace/Vna/app/src/main/java/ro/yo3ggx/btvna/main.java" />
       <jump line="7537" column="48" filename="$USER_HOME$/workspace/Vna/app/src/main/java/ro/yo3ggx/btvna/main.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/Vna/app/src/main/java/ro/yo3ggx/btvna/main.java" />
       <jump line="4" column="0" filename="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/objects/UsbSerial.java" />
@@ -239,6 +235,13 @@
       <jump line="165" column="4" filename="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/fragment/jd/JdIndexFragment.java" />
       <jump line="171" column="13" filename="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/fragment/jd/JdIndexFragment.java" />
       <jump line="27" column="27" filename="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/widget/JdSearchView.java" />
+      <jump line="221" column="45" filename="$USER_HOME$/Desktop/jd/ln178/bld/build.gradle" />
+      <jump line="197" column="35" filename="$USER_HOME$/Desktop/jd/ln178/bld/build.gradle" />
+      <jump line="99" column="26" filename="$USER_HOME$/Desktop/jd/ln178/bld/build.gradle" />
+      <jump line="115" column="11" filename="$USER_HOME$/Desktop/jd/ln178/bld/build.gradle" />
+      <jump line="129" column="11" filename="$USER_HOME$/Desktop/jd/ln178/bld/build.gradle" />
+      <jump line="144" column="11" filename="$USER_HOME$/Desktop/jd/ln178/bld/build.gradle" />
+      <jump line="83" column="10" filename="$USER_HOME$/Desktop/jd/ln178/bld/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -248,10 +251,10 @@
         <text>1</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZWFyY2hMaXN0ZW50ZXJcPg==</text>
+        <text>umeng</text>
       </register>
       <register name="0" type="4">
-        <text>trade/{tradeNo}</text>
+        <text>http://jdtx.bld365.com/app/</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -285,9 +288,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZWFyY2hMaXN0ZW50ZXJcPg==</last-search>
+      <last-search>umeng</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZWFyY2hMaXN0ZW50ZXJcPg==</last-pattern>
+      <last-pattern>umeng</last-pattern>
       <last-replace>pipelineBean</last-replace>
       <last-substitute>version</last-substitute>
       <last-dir>1</last-dir>
@@ -295,7 +298,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfbGJsZGIxX2xvbmdjbGlja1w+</entry>
         <entry>FREQ</entry>
         <entry>\\$</entry>
         <entry>$</entry>
@@ -315,6 +317,7 @@
         <entry>sign</entry>
         <entry encoding="base64">XDxiZWFuM1w+</entry>
         <entry encoding="base64">XDxzZWFyY2hMaXN0ZW50ZXJcPg==</entry>
+        <entry>umeng</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0FsYXJtSW5mby9IaXNBbGFybUluZm8vZw==</entry>
