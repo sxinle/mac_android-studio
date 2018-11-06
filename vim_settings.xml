@@ -134,6 +134,9 @@
         <mark key="[" line="35" column="11" />
         <mark key="]" line="35" column="16" />
       </file>
+      <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/activity/jd/JDOpenCardActivity.java" timestamp="1541498663308">
+        <mark key="'" line="42" column="39" />
+      </file>
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/main/mine/MineViewModel.kt" timestamp="1539307871772">
         <mark key="'" line="35" column="9" />
       </file>
@@ -146,7 +149,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="455" column="0" filename="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/objects/UsbSerial.java" />
       <jump line="6" column="0" filename="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/objects/UsbSerial.java" />
       <jump line="209" column="0" filename="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/agraham/byteconverter/ByteConverter.java" />
       <jump line="11" column="0" filename="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/agraham/byteconverter/ByteConverter.java" />
@@ -246,6 +248,7 @@
       <jump line="115" column="11" filename="$USER_HOME$/Desktop/jd/ln178/bld/build.gradle" />
       <jump line="129" column="11" filename="$USER_HOME$/Desktop/jd/ln178/bld/build.gradle" />
       <jump line="285" column="40" filename="$USER_HOME$/Desktop/jd/ln178/bld/build.gradle" />
+      <jump line="42" column="39" filename="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/activity/jd/JDOpenCardActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -255,7 +258,7 @@
         <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>umeng</text>
+        <text encoding="base64">XDxiU2VsZWN0TnVtYmVyXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaW50ZW50LnB1dEV4dHJhKCJjYXJkIixkYXRhKTsKICAgICAgICAgICAgaW50ZW50LnB1dEV4dHJhKCJ0cmFkZU5vIix0cmFkZU5vKTsKICAgICAgICAgICAgaW50ZW50LnB1dEV4dHJhKCJwaG9uZSIsbVNlcmlhbE51bWJlcik7CiAgICAgICAgICAgIGludGVudC5wdXRFeHRyYSgiY29udGludWUiLCJjb250aW51ZSIpOwo=</text>
@@ -292,17 +295,16 @@
       </register>
     </registers>
     <search>
-      <last-search>umeng</last-search>
+      <last-search encoding="base64">XDxiU2VsZWN0TnVtYmVyXD4=</last-search>
       <last-offset />
-      <last-pattern>umeng</last-pattern>
+      <last-pattern encoding="base64">XDxiU2VsZWN0TnVtYmVyXD4=</last-pattern>
       <last-replace>pipelineBean</last-replace>
       <last-substitute>version</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>FREQ</entry>
         <entry>\\$</entry>
         <entry>$</entry>
         <entry>sendSms</entry>
@@ -322,6 +324,7 @@
         <entry encoding="base64">XDxiZWFuM1w+</entry>
         <entry encoding="base64">XDxzZWFyY2hMaXN0ZW50ZXJcPg==</entry>
         <entry>umeng</entry>
+        <entry encoding="base64">XDxiU2VsZWN0TnVtYmVyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0FsYXJtSW5mby9IaXNBbGFybUluZm8vZw==</entry>
