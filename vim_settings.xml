@@ -74,6 +74,10 @@
         <mark key="]" line="26" column="25" />
         <mark key="." line="26" column="25" />
       </file>
+      <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/dialogfragment/JDOpenDialog.java" timestamp="1541496273513">
+        <mark key="[" line="128" column="0" />
+        <mark key="]" line="131" column="50" />
+      </file>
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/signup/courier/CourierInfoInputViewModel.kt" timestamp="1538731086686">
         <mark key="[" line="157" column="32" />
         <mark key="]" line="157" column="36" />
@@ -253,8 +257,8 @@
       <register name="/" type="4">
         <text>umeng</text>
       </register>
-      <register name="0" type="4">
-        <text>phonenumber/getJFKSimCardList</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaW50ZW50LnB1dEV4dHJhKCJjYXJkIixkYXRhKTsKICAgICAgICAgICAgaW50ZW50LnB1dEV4dHJhKCJ0cmFkZU5vIix0cmFkZU5vKTsKICAgICAgICAgICAgaW50ZW50LnB1dEV4dHJhKCJwaG9uZSIsbVNlcmlhbE51bWJlcik7CiAgICAgICAgICAgIGludGVudC5wdXRFeHRyYSgiY29udGludWUiLCJjb250aW51ZSIpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIG1hdmVuQ2VudHJhbCgpCg==</text>
