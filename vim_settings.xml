@@ -90,6 +90,10 @@
         <mark key="[" line="12" column="45" />
         <mark key="]" line="12" column="51" />
       </file>
+      <file name="/colors.xml" timestamp="1541583525237">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="31" column="43" />
+      </file>
       <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/bl/JdBl.java" timestamp="1541562078737">
         <mark key="[" line="255" column="30" />
         <mark key="]" line="255" column="38" />
@@ -268,8 +272,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxiU3VibWl0XD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>simCardNo</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgPGNvbG9yIG5hbWU9InR2ODQ4NDg0Ij4jODQ4NDg0PC9jb2xvcj4KICAgIDxjb2xvciBuYW1lPSJ0dmY0ZjRmNCI+I2Y0ZjRmNDwvY29sb3I+CiAgICA8Y29sb3IgbmFtZT0idHYzMzMzMzMiPiNmZjMzMzMzMzwvY29sb3I+Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIG1hdmVuQ2VudHJhbCgpCg==</text>
