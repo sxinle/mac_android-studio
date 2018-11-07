@@ -112,7 +112,10 @@
         <mark key="[" line="15" column="16" />
         <mark key="]" line="15" column="32" />
       </file>
-      <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/activity/jd/JDSelectSimCardActivity.java" timestamp="1541499547581" />
+      <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/activity/jd/JDSelectSimCardActivity.java" timestamp="1541556702914">
+        <mark key="[" line="56" column="66" />
+        <mark key="]" line="56" column="76" />
+      </file>
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/changepwd/ChangePwdViewModel.kt" timestamp="1538660643880">
         <mark key="[" line="31" column="32" />
         <mark key="]" line="31" column="43" />
@@ -261,8 +264,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxiU2VsZWN0TnVtYmVyXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50ZW50LnB1dEV4dHJhKCJjYXJkIixkYXRhKTsKICAgICAgICAgICAgaW50ZW50LnB1dEV4dHJhKCJ0cmFkZU5vIix0cmFkZU5vKTsKICAgICAgICAgICAgaW50ZW50LnB1dEV4dHJhKCJwaG9uZSIsbVNlcmlhbE51bWJlcik7CiAgICAgICAgICAgIGludGVudC5wdXRFeHRyYSgiY29udGludWUiLCJjb250aW51ZSIpOwo=</text>
+      <register name="0" type="4">
+        <text>SIM_CARD_NO</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIG1hdmVuQ2VudHJhbCgpCg==</text>
