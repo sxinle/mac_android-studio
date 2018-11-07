@@ -36,9 +36,9 @@
         <mark key="[" line="9" column="28" />
         <mark key="]" line="9" column="54" />
       </file>
-      <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/ServApi.java" timestamp="1541493953364">
-        <mark key="[" line="7" column="55" />
-        <mark key="]" line="7" column="83" />
+      <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/ServApi.java" timestamp="1541561125404">
+        <mark key="[" line="9" column="53" />
+        <mark key="]" line="9" column="80" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/demo/res/values/strings.xml" timestamp="1541063331149">
         <mark key="[" line="9" column="28" />
@@ -138,8 +138,8 @@
         <mark key="[" line="35" column="11" />
         <mark key="]" line="35" column="16" />
       </file>
-      <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/activity/jd/JDOpenCardActivity.java" timestamp="1541498663308">
-        <mark key="'" line="42" column="39" />
+      <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/activity/jd/JDOpenCardActivity.java" timestamp="1541560941687">
+        <mark key="'" line="65" column="70" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/main/mine/MineViewModel.kt" timestamp="1539307871772">
         <mark key="'" line="35" column="9" />
@@ -153,9 +153,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="0" filename="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/objects/UsbSerial.java" />
-      <jump line="209" column="0" filename="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/agraham/byteconverter/ByteConverter.java" />
-      <jump line="11" column="0" filename="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/agraham/byteconverter/ByteConverter.java" />
       <jump line="208" column="0" filename="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/agraham/byteconverter/ByteConverter.java" />
       <jump line="1424" column="0" filename="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/agraham/dialogs/InputDialog.java" />
       <jump line="48" column="49" filename="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/agraham/dialogs/InputDialog.java" />
@@ -253,6 +250,9 @@
       <jump line="129" column="11" filename="$USER_HOME$/Desktop/jd/ln178/bld/build.gradle" />
       <jump line="285" column="40" filename="$USER_HOME$/Desktop/jd/ln178/bld/build.gradle" />
       <jump line="42" column="39" filename="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/activity/jd/JDOpenCardActivity.java" />
+      <jump line="165" column="10" filename="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/activity/jd/JDOpenCardActivity.java" />
+      <jump line="45" column="33" filename="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/activity/jd/JDOpenCardActivity.java" />
+      <jump line="65" column="70" filename="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/activity/jd/JDOpenCardActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -262,10 +262,10 @@
         <text>1</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxiU2VsZWN0TnVtYmVyXD4=</text>
+        <text encoding="base64">XDxiU3VibWl0XD4=</text>
       </register>
       <register name="0" type="4">
-        <text>SIM_CARD_NO</text>
+        <text>phonenumber/submitJFKExpress</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIG1hdmVuQ2VudHJhbCgpCg==</text>
@@ -299,9 +299,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxiU2VsZWN0TnVtYmVyXD4=</last-search>
+      <last-search encoding="base64">XDxiU3VibWl0XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxiU2VsZWN0TnVtYmVyXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxiU3VibWl0XD4=</last-pattern>
       <last-replace>pipelineBean</last-replace>
       <last-substitute>version</last-substitute>
       <last-dir>1</last-dir>
@@ -323,12 +323,12 @@
         <entry>首页</entry>
         <entry>AAPT</entry>
         <entry encoding="base64">XDxiU2VsZWN0UHJvZHVjdFw+</entry>
-        <entry encoding="base64">XDxiU3VibWl0XD4=</entry>
         <entry>sign</entry>
         <entry encoding="base64">XDxiZWFuM1w+</entry>
         <entry encoding="base64">XDxzZWFyY2hMaXN0ZW50ZXJcPg==</entry>
         <entry>umeng</entry>
         <entry encoding="base64">XDxiU2VsZWN0TnVtYmVyXD4=</entry>
+        <entry encoding="base64">XDxiU3VibWl0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0FsYXJtSW5mby9IaXNBbGFybUluZm8vZw==</entry>
