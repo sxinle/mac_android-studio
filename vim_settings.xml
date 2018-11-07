@@ -7,12 +7,12 @@
         <mark key="[" line="17" column="49" />
         <mark key="]" line="17" column="54" />
       </file>
-      <file name="$USER_HOME$/Desktop/jd/ln178/bld/build.gradle" timestamp="1541491880061">
+      <file name="$USER_HOME$/Desktop/jd/ln178/bld/build.gradle" timestamp="1541586443223">
         <mark key="'" line="285" column="40" />
-        <mark key="[" line="46" column="17" />
-        <mark key="]" line="46" column="17" />
-        <mark key="^" line="46" column="36" />
-        <mark key="." line="46" column="17" />
+        <mark key="[" line="44" column="18" />
+        <mark key="]" line="44" column="18" />
+        <mark key="^" line="44" column="18" />
+        <mark key="." line="44" column="18" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/ApiSafes/apisafe/src/main/java/com/thinkerjet/apisafe/ApiSafe.java" timestamp="1539053156076">
         <mark key="[" line="21" column="0" />
@@ -115,6 +115,10 @@
       </file>
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/trade/trades/TradeListAdapter.kt" timestamp="1539308477246">
         <mark key="'" line="27" column="42" />
+      </file>
+      <file name="/JDSelectNumberActivity.java" timestamp="1541586260755">
+        <mark key="[" line="52" column="23" />
+        <mark key="]" line="52" column="29" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/api/statistics/StatisticsAPI.kt" timestamp="1538966280407">
         <mark key="[" line="15" column="16" />
@@ -272,8 +276,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxiU3VibWl0XD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgPGNvbG9yIG5hbWU9InR2ODQ4NDg0Ij4jODQ4NDg0PC9jb2xvcj4KICAgIDxjb2xvciBuYW1lPSJ0dmY0ZjRmNCI+I2Y0ZjRmNDwvY29sb3I+CiAgICA8Y29sb3IgbmFtZT0idHYzMzMzMzMiPiNmZjMzMzMzMzwvY29sb3I+Cg==</text>
+      <register name="0" type="4">
+        <text>无法选择此号码</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIG1hdmVuQ2VudHJhbCgpCg==</text>
