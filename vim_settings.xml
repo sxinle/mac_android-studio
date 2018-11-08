@@ -32,6 +32,10 @@
       <file name="$USER_HOME$/workspace/demo/jdtx/android/build.gradle" timestamp="1539333853092">
         <mark key="'" line="23" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/fragment/me/trade/TradeInfoFragment.java" timestamp="1541655990358">
+        <mark key="[" line="435" column="35" />
+        <mark key="]" line="435" column="39" />
+      </file>
       <file name="/strings.xml" timestamp="1541482926764">
         <mark key="[" line="9" column="28" />
         <mark key="]" line="9" column="54" />
@@ -43,6 +47,10 @@
       <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/demo/res/values/strings.xml" timestamp="1541063331149">
         <mark key="[" line="9" column="28" />
         <mark key="]" line="9" column="57" />
+      </file>
+      <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/bean/home/common/ProductBean.java" timestamp="1541655999274">
+        <mark key="[" line="203" column="15" />
+        <mark key="]" line="203" column="26" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/res/layout/fragment_jd_me.xml" timestamp="1540975263112">
         <mark key="[" line="16" column="26" />
@@ -128,6 +136,10 @@
       <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/activity/jd/JDSelectSimCardActivity.java" timestamp="1541556702914">
         <mark key="[" line="56" column="66" />
         <mark key="]" line="56" column="76" />
+      </file>
+      <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/bean/me/trade/TradeInfoBean.java" timestamp="1541655018826">
+        <mark key="[" line="396" column="19" />
+        <mark key="]" line="396" column="31" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/changepwd/ChangePwdViewModel.kt" timestamp="1538660643880">
         <mark key="[" line="31" column="32" />
@@ -277,8 +289,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDx0b29sQmFyXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDB4ZjE2MzY0LAogICAgICAgICAgICAgICAgMHhmNTg1NTksCiAgICAgICAgICAgICAgICAweGY5YTQzZSwKICAgICAgICAgICAgICAgIDB4ZTRjNjJlLAogICAgICAgICAgICAgICAgMHg2N2JmNzQsCiAgICAgICAgICAgICAgICAweDU5YTJiZSwKICAgICAgICAgICAgICAgIDB4MjA5M2NkLAogICAgICAgICAgICAgICAgMHhhZDYyYTcsCiAgICAgICAgICAgICAgICAweDgwNTc4MQo=</text>
+      <register name="0" type="4">
+        <text>SALE_FEE_STR</text>
       </register>
       <register name="1" type="8">
         <text>ff
