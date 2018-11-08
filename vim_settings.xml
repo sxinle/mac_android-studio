@@ -48,6 +48,9 @@
         <mark key="[" line="9" column="28" />
         <mark key="]" line="9" column="57" />
       </file>
+      <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/activity/z/res/UserallocActivity.java" timestamp="1541663320948">
+        <mark key="'" line="42" column="27" />
+      </file>
       <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/bean/home/common/ProductBean.java" timestamp="1541655999274">
         <mark key="[" line="203" column="15" />
         <mark key="]" line="203" column="26" />
@@ -111,7 +114,7 @@
       <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/activity/me/TradeInfoActivity.java" timestamp="1541647606701">
         <mark key="'" line="64" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1541499694216">
+      <file name="/Dummy.txt" timestamp="1541663396027">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/ln178/jnlibs/src/main/res/values/colors.xml" timestamp="1541319378997">
@@ -140,6 +143,9 @@
       <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/bean/me/trade/TradeInfoBean.java" timestamp="1541655018826">
         <mark key="[" line="396" column="19" />
         <mark key="]" line="396" column="31" />
+      </file>
+      <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/fragment/z/useralloc/ItemShopFragment.java" timestamp="1541663355273">
+        <mark key="'" line="46" column="28" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/changepwd/ChangePwdViewModel.kt" timestamp="1538660643880">
         <mark key="[" line="31" column="32" />
@@ -178,8 +184,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1424" column="0" filename="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/agraham/dialogs/InputDialog.java" />
-      <jump line="48" column="49" filename="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/agraham/dialogs/InputDialog.java" />
       <jump line="5765" column="25" filename="$USER_HOME$/workspace/Vna/app/src/main/java/ro/yo3ggx/btvna/main.java" />
       <jump line="4394" column="41" filename="$USER_HOME$/workspace/Vna/app/src/main/java/ro/yo3ggx/btvna/main.java" />
       <jump line="4599" column="52" filename="$USER_HOME$/workspace/Vna/app/src/main/java/ro/yo3ggx/btvna/main.java" />
@@ -278,6 +282,8 @@
       <jump line="45" column="33" filename="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/activity/jd/JDOpenCardActivity.java" />
       <jump line="65" column="70" filename="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/activity/jd/JDOpenCardActivity.java" />
       <jump line="64" column="12" filename="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/activity/me/TradeInfoActivity.java" />
+      <jump line="42" column="27" filename="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/activity/z/res/UserallocActivity.java" />
+      <jump line="46" column="28" filename="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/fragment/z/useralloc/ItemShopFragment.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -287,7 +293,7 @@
         <text>1</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0b29sQmFyXD4=</text>
+        <text encoding="base64">XDxpdGVtU2hvcEFkYXB0ZXJcPg==</text>
       </register>
       <register name="0" type="4">
         <text>SALE_FEE_STR</text>
@@ -356,9 +362,9 @@ ff</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0b29sQmFyXD4=</last-search>
+      <last-search encoding="base64">XDxpdGVtU2hvcEFkYXB0ZXJcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0b29sQmFyXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxpdGVtU2hvcEFkYXB0ZXJcPg==</last-pattern>
       <last-replace>pipelineBean</last-replace>
       <last-substitute>version</last-substitute>
       <last-dir>1</last-dir>
@@ -366,8 +372,6 @@ ff</text>
     </search>
     <history>
       <history-search>
-        <entry>$</entry>
-        <entry>sendSms</entry>
         <entry>send</entry>
         <entry>login</entry>
         <entry>tinker</entry>
@@ -386,6 +390,8 @@ ff</text>
         <entry encoding="base64">XDxiU2VsZWN0TnVtYmVyXD4=</entry>
         <entry encoding="base64">XDxiU3VibWl0XD4=</entry>
         <entry encoding="base64">XDx0b29sQmFyXD4=</entry>
+        <entry encoding="base64">XDxmcmFnbWVudExpc3RcPg==</entry>
+        <entry encoding="base64">XDxpdGVtU2hvcEFkYXB0ZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0FsYXJtSW5mby9IaXNBbGFybUluZm8vZw==</entry>
