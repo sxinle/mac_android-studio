@@ -299,7 +299,7 @@
         <text>1</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1c2VyQWxsb2NBZGFwdGVyXD4=</text>
+        <text>卡号</text>
       </register>
       <register name="0" type="4">
         <text>SALE_FEE_STR</text>
@@ -368,9 +368,9 @@ ff</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1c2VyQWxsb2NBZGFwdGVyXD4=</last-search>
+      <last-search>卡号</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1c2VyQWxsb2NBZGFwdGVyXD4=</last-pattern>
+      <last-pattern>卡号</last-pattern>
       <last-replace>pipelineBean</last-replace>
       <last-substitute>version</last-substitute>
       <last-dir>1</last-dir>
@@ -378,7 +378,6 @@ ff</text>
     </search>
     <history>
       <history-search>
-        <entry>version</entry>
         <entry encoding="base64">XDxhY3Rpb25SZXF1ZXN0WGlhb0JhaVw+</entry>
         <entry encoding="base64">XDxtT25DbGlja1w+</entry>
         <entry encoding="base64">XDxUcmFkZURldGlhbERhdGFcPg==</entry>
@@ -398,6 +397,7 @@ ff</text>
         <entry>click</entry>
         <entry>listener</entry>
         <entry encoding="base64">XDx1c2VyQWxsb2NBZGFwdGVyXD4=</entry>
+        <entry>卡号</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0FsYXJtSW5mby9IaXNBbGFybUluZm8vZw==</entry>
