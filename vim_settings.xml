@@ -3,6 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/res/layout/fragment_card_manager.xml" timestamp="1541675430711">
+        <mark key="[" line="21" column="81" />
+        <mark key="]" line="21" column="96" />
+      </file>
       <file name="$USER_HOME$/workspace/demo/jdtx/android/build.gradle" timestamp="1539333853092">
         <mark key="'" line="23" column="0" />
       </file>
@@ -302,7 +306,7 @@
         <text>卡号</text>
       </register>
       <register name="0" type="4">
-        <text>SALE_FEE_STR</text>
+        <text>AppCompatSpinner</text>
       </register>
       <register name="1" type="8">
         <text>ff
