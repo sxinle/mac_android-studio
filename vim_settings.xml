@@ -69,10 +69,10 @@
       <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/fragment/jd/JdIndexFragment.java" timestamp="1541394037089">
         <mark key="'" line="171" column="13" />
       </file>
-      <file name="$USER_HOME$/Desktop/jd/ln178/libraries/TextDrawable/src/main/java/com/amulyakhare/textdrawable/util/ColorGenerator.java" timestamp="1541319276466">
-        <mark key="[" line="26" column="25" />
-        <mark key="]" line="26" column="25" />
-        <mark key="." line="26" column="25" />
+      <file name="$USER_HOME$/Desktop/jd/ln178/libraries/TextDrawable/src/main/java/com/amulyakhare/textdrawable/util/ColorGenerator.java" timestamp="1541647981947">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="26" column="23" />
+        <mark key="." line="29" column="18" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/dialogfragment/JDOpenDialog.java" timestamp="1541496273513">
         <mark key="[" line="128" column="0" />
@@ -101,6 +101,9 @@
       <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/res/values/styles.xml" timestamp="1540978679566">
         <mark key="[" line="59" column="42" />
         <mark key="]" line="59" column="47" />
+      </file>
+      <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/activity/me/TradeInfoActivity.java" timestamp="1541647606701">
+        <mark key="'" line="64" column="12" />
       </file>
       <file name="/Dummy.txt" timestamp="1541499694216">
         <mark key="[" line="0" column="0" />
@@ -165,7 +168,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="208" column="0" filename="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/agraham/byteconverter/ByteConverter.java" />
       <jump line="1424" column="0" filename="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/agraham/dialogs/InputDialog.java" />
       <jump line="48" column="49" filename="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/agraham/dialogs/InputDialog.java" />
       <jump line="5765" column="25" filename="$USER_HOME$/workspace/Vna/app/src/main/java/ro/yo3ggx/btvna/main.java" />
@@ -265,6 +267,7 @@
       <jump line="165" column="10" filename="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/activity/jd/JDOpenCardActivity.java" />
       <jump line="45" column="33" filename="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/activity/jd/JDOpenCardActivity.java" />
       <jump line="65" column="70" filename="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/activity/jd/JDOpenCardActivity.java" />
+      <jump line="64" column="12" filename="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/activity/me/TradeInfoActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -274,34 +277,66 @@
         <text>1</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxiU3VibWl0XD4=</text>
+        <text encoding="base64">XDx0b29sQmFyXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>无法选择此号码</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDB4ZjE2MzY0LAogICAgICAgICAgICAgICAgMHhmNTg1NTksCiAgICAgICAgICAgICAgICAweGY5YTQzZSwKICAgICAgICAgICAgICAgIDB4ZTRjNjJlLAogICAgICAgICAgICAgICAgMHg2N2JmNzQsCiAgICAgICAgICAgICAgICAweDU5YTJiZSwKICAgICAgICAgICAgICAgIDB4MjA5M2NkLAogICAgICAgICAgICAgICAgMHhhZDYyYTcsCiAgICAgICAgICAgICAgICAweDgwNTc4MQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIG1hdmVuQ2VudHJhbCgpCg==</text>
+      <register name="1" type="8">
+        <text>ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">YWxscHJvamVjdHMgewogICAgcmVwb3NpdG9yaWVzIHsKICAgIH0KfQo=</text>
+      <register name="2" type="8">
+        <text>ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWF2ZW5DZW50cmFsKCkgICAgIAo=</text>
+      <register name="3" type="8">
+        <text>ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG1hdmVuQ2VudHJhbCgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgSU9FeGNlcHRpb24oU3RyaW5nLmZvcm1hdCgiSW52YWxpZCBDVFMgLyBEU1IgLyBDRCAvIFJJIHN0YXR1cyBidWZmZXIgcmVjZWl2ZWQsIGV4cGVjdGVkICVkIGJ5dGVzLCBidXQgcmVjZWl2ZWQgJWQiLCAxMCwgYnVsa1RyYW5zZmVyKSk7Cg==</text>
+        <text encoding="base64">YWxscHJvamVjdHMgewogICAgcmVwb3NpdG9yaWVzIHsKICAgIH0KfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBpbnQgd3JpdGUoYnl0ZVtdIHBhcmFtMSwgaW50IHBhcmFtMikgdGhyb3dzIElPRXhjZXB0aW9uIHsKICAgICAgICAvLyAkRkY6IENvdWxkbid0IGJlIGRlY29tcGlsZWQKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWF2ZW5DZW50cmFsKCkgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBpbnQgcmVhZChieXRlW10gcGFyYW0xLCBpbnQgcGFyYW0yKSB0aHJvd3MgSU9FeGNlcHRpb24gewogICAgICAgIC8vICRGRjogQ291bGRuJ3QgYmUgZGVjb21waWxlZAogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBpbnQgcmVhZChieXRlW10gcGFyYW0xLCBpbnQgcGFyYW0yKSB0aHJvd3MgSU9FeGNlcHRpb24gewogICAgICAgIC8vICRGRjogQ291bGRuJ3QgYmUgZGVjb21waWxlZAogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgSU9FeGNlcHRpb24oU3RyaW5nLmZvcm1hdCgiSW52YWxpZCBDVFMgLyBEU1IgLyBDRCAvIFJJIHN0YXR1cyBidWZmZXIgcmVjZWl2ZWQsIGV4cGVjdGVkICVkIGJ5dGVzLCBidXQgcmVjZWl2ZWQgJWQiLCAxMCwgYnVsa1RyYW5zZmVyKSk7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBpbnQgd3JpdGUoYnl0ZVtdIHBhcmFtMSwgaW50IHBhcmFtMikgdGhyb3dzIElPRXhjZXB0aW9uIHsKICAgICAgICAvLyAkRkY6IENvdWxkbid0IGJlIGRlY29tcGlsZWQKICAgIH0K</text>
@@ -311,9 +346,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxiU3VibWl0XD4=</last-search>
+      <last-search encoding="base64">XDx0b29sQmFyXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxiU3VibWl0XD4=</last-pattern>
+      <last-pattern encoding="base64">XDx0b29sQmFyXD4=</last-pattern>
       <last-replace>pipelineBean</last-replace>
       <last-substitute>version</last-substitute>
       <last-dir>1</last-dir>
@@ -321,7 +356,6 @@
     </search>
     <history>
       <history-search>
-        <entry>\\$</entry>
         <entry>$</entry>
         <entry>sendSms</entry>
         <entry>send</entry>
@@ -341,6 +375,7 @@
         <entry>umeng</entry>
         <entry encoding="base64">XDxiU2VsZWN0TnVtYmVyXD4=</entry>
         <entry encoding="base64">XDxiU3VibWl0XD4=</entry>
+        <entry encoding="base64">XDx0b29sQmFyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0FsYXJtSW5mby9IaXNBbGFybUluZm8vZw==</entry>
