@@ -33,6 +33,10 @@
         <mark key="[" line="57" column="10" />
         <mark key="]" line="57" column="24" />
       </file>
+      <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/fragment/z/store/CardManagerFragment.java" timestamp="1541732416109">
+        <mark key="[" line="136" column="43" />
+        <mark key="]" line="136" column="49" />
+      </file>
       <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/fragment/jd/JdIndexFragment.java" timestamp="1541394037089">
         <mark key="'" line="171" column="13" />
       </file>
@@ -306,7 +310,7 @@
         <text>卡号</text>
       </register>
       <register name="0" type="4">
-        <text>AppCompatSpinner</text>
+        <text>VIRTUAL</text>
       </register>
       <register name="1" type="8">
         <text>ff
