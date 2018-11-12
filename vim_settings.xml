@@ -90,8 +90,8 @@
         <mark key="[" line="17" column="49" />
         <mark key="]" line="17" column="54" />
       </file>
-      <file name="$USER_HOME$/Desktop/jd/ln178/bld/build.gradle" timestamp="1541986045888">
-        <mark key="'" line="285" column="40" />
+      <file name="$USER_HOME$/Desktop/jd/ln178/bld/build.gradle" timestamp="1541986647098">
+        <mark key="'" line="216" column="41" />
         <mark key="[" line="44" column="18" />
         <mark key="]" line="44" column="18" />
         <mark key="^" line="44" column="18" />
@@ -198,7 +198,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="620" column="98" filename="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/agraham/dialogs/InputDialog.java" />
       <jump line="621" column="136" filename="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/agraham/dialogs/InputDialog.java" />
       <jump line="622" column="24" filename="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/agraham/dialogs/InputDialog.java" />
       <jump line="623" column="22" filename="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/agraham/dialogs/InputDialog.java" />
@@ -298,6 +297,7 @@
       <jump line="109" column="48" filename="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/adapter/useralloc/ApplyListAdapter.java" />
       <jump line="120" column="117" filename="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/adapter/useralloc/ApplyListAdapter.java" />
       <jump line="46" column="29" filename="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/activity/z/res/AlloctionDetialActivity.java" />
+      <jump line="216" column="41" filename="$USER_HOME$/Desktop/jd/ln178/bld/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
