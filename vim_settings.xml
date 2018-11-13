@@ -86,6 +86,9 @@
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/main/mine/MineViewModel.kt" timestamp="1539307871772">
         <mark key="'" line="35" column="9" />
       </file>
+      <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/LaunchActivity.java" timestamp="1542077136550">
+        <mark key="'" line="25" column="11" />
+      </file>
       <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/demo/res/values/colors.xml" timestamp="1541383658104">
         <mark key="[" line="17" column="49" />
         <mark key="]" line="17" column="54" />
@@ -160,7 +163,7 @@
         <mark key="[" line="59" column="42" />
         <mark key="]" line="59" column="47" />
       </file>
-      <file name="/Dummy.txt" timestamp="1541663396027">
+      <file name="/Dummy.txt" timestamp="1542077166398">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/api/statistics/StatisticsAPI.kt" timestamp="1538966280407">
@@ -198,7 +201,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="621" column="136" filename="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/agraham/dialogs/InputDialog.java" />
       <jump line="622" column="24" filename="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/agraham/dialogs/InputDialog.java" />
       <jump line="623" column="22" filename="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/agraham/dialogs/InputDialog.java" />
       <jump line="624" column="53" filename="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/agraham/dialogs/InputDialog.java" />
@@ -298,6 +300,7 @@
       <jump line="120" column="117" filename="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/adapter/useralloc/ApplyListAdapter.java" />
       <jump line="46" column="29" filename="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/activity/z/res/AlloctionDetialActivity.java" />
       <jump line="216" column="41" filename="$USER_HOME$/Desktop/jd/ln178/bld/build.gradle" />
+      <jump line="25" column="11" filename="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/LaunchActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -307,7 +310,7 @@
         <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>卡号</text>
+        <text encoding="base64">XDxpbnRlbnRcPg==</text>
       </register>
       <register name="0" type="4">
         <text>VIRTUAL</text>
@@ -376,17 +379,16 @@ ff</text>
       </register>
     </registers>
     <search>
-      <last-search>卡号</last-search>
+      <last-search encoding="base64">XDxpbnRlbnRcPg==</last-search>
       <last-offset />
-      <last-pattern>卡号</last-pattern>
+      <last-pattern encoding="base64">XDxpbnRlbnRcPg==</last-pattern>
       <last-replace>pipelineBean</last-replace>
       <last-substitute>version</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhY3Rpb25SZXF1ZXN0WGlhb0JhaVw+</entry>
         <entry encoding="base64">XDxtT25DbGlja1w+</entry>
         <entry encoding="base64">XDxUcmFkZURldGlhbERhdGFcPg==</entry>
         <entry encoding="base64">XDxzaWduaW5nQ29uZmlnc1w+</entry>
@@ -406,6 +408,7 @@ ff</text>
         <entry>listener</entry>
         <entry encoding="base64">XDx1c2VyQWxsb2NBZGFwdGVyXD4=</entry>
         <entry>卡号</entry>
+        <entry encoding="base64">XDxpbnRlbnRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0FsYXJtSW5mby9IaXNBbGFybUluZm8vZw==</entry>
