@@ -93,12 +93,11 @@
         <mark key="[" line="17" column="49" />
         <mark key="]" line="17" column="54" />
       </file>
-      <file name="$USER_HOME$/Desktop/jd/ln178/bld/build.gradle" timestamp="1541986647098">
-        <mark key="'" line="216" column="41" />
-        <mark key="[" line="44" column="18" />
-        <mark key="]" line="44" column="18" />
-        <mark key="^" line="44" column="18" />
-        <mark key="." line="44" column="18" />
+      <file name="$USER_HOME$/Desktop/jd/ln178/bld/build.gradle" timestamp="1542179112534">
+        <mark key="'" line="212" column="41" />
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="." line="80" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/ApiSafes/apisafe/src/main/java/com/thinkerjet/apisafe/ApiSafe.java" timestamp="1539053156076">
         <mark key="[" line="21" column="0" />
@@ -315,27 +314,19 @@
       <register name="0" type="4">
         <text>VIRTUAL</text>
       </register>
-      <register name="1" type="8">
-        <text>ff
-ff
-ff
-ff
-ff
-ff
-ff
-ff
-ff
-ff
-ff
-ff
-ff
-ff
-ff
-ff
-ff</text>
+      <register name="1" type="2">
+        <text encoding="base64">Ly8gICAgICBzaWduaW5nQ29uZmlnIHNpZ25pbmdDb25maWdzLmJsZAo=</text>
       </register>
       <register name="2" type="8">
         <text>ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
 ff
 ff
 ff
@@ -356,23 +347,31 @@ ff
 ff
 ff</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIG1hdmVuQ2VudHJhbCgpCg==</text>
+      <register name="4" type="8">
+        <text>ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff
+ff</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YWxscHJvamVjdHMgewogICAgcmVwb3NpdG9yaWVzIHsKICAgIH0KfQo=</text>
+        <text encoding="base64">ICAgIG1hdmVuQ2VudHJhbCgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWF2ZW5DZW50cmFsKCkgICAgIAo=</text>
+        <text encoding="base64">YWxscHJvamVjdHMgewogICAgcmVwb3NpdG9yaWVzIHsKICAgIH0KfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWF2ZW5DZW50cmFsKCkgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgSU9FeGNlcHRpb24oU3RyaW5nLmZvcm1hdCgiSW52YWxpZCBDVFMgLyBEU1IgLyBDRCAvIFJJIHN0YXR1cyBidWZmZXIgcmVjZWl2ZWQsIGV4cGVjdGVkICVkIGJ5dGVzLCBidXQgcmVjZWl2ZWQgJWQiLCAxMCwgYnVsa1RyYW5zZmVyKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBpbnQgd3JpdGUoYnl0ZVtdIHBhcmFtMSwgaW50IHBhcmFtMikgdGhyb3dzIElPRXhjZXB0aW9uIHsKICAgICAgICAvLyAkRkY6IENvdWxkbid0IGJlIGRlY29tcGlsZWQKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgSU9FeGNlcHRpb24oU3RyaW5nLmZvcm1hdCgiSW52YWxpZCBDVFMgLyBEU1IgLyBDRCAvIFJJIHN0YXR1cyBidWZmZXIgcmVjZWl2ZWQsIGV4cGVjdGVkICVkIGJ5dGVzLCBidXQgcmVjZWl2ZWQgJWQiLCAxMCwgYnVsa1RyYW5zZmVyKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -385,7 +384,7 @@ ff</text>
       <last-replace>pipelineBean</last-replace>
       <last-substitute>version</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
