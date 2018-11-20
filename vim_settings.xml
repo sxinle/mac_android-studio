@@ -41,8 +41,12 @@
         <mark key="[" line="136" column="43" />
         <mark key="]" line="136" column="49" />
       </file>
-      <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/fragment/jd/JdIndexFragment.java" timestamp="1541394037089">
+      <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/fragment/jd/JdIndexFragment.java" timestamp="1542711854033">
         <mark key="'" line="171" column="13" />
+        <mark key="[" line="166" column="55" />
+        <mark key="]" line="166" column="67" />
+        <mark key="^" line="158" column="65" />
+        <mark key="." line="158" column="65" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/res/layout/fragment_jd_index.xml" timestamp="1541037717320">
         <mark key="[" line="51" column="25" />
@@ -319,7 +323,7 @@
         <text encoding="base64">XDx0dlRvcGljXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>http://file.bld365.com/image/getImage?imageId=</text>
+        <text>您的金融理财和资产管理专家</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Ly8gICAgICBzaWduaW5nQ29uZmlnIHNpZ25pbmdDb25maWdzLmJsZAo=</text>
