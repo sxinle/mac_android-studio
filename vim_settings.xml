@@ -18,7 +18,6 @@
         <mark key="[" line="435" column="35" />
         <mark key="]" line="435" column="39" />
       </file>
-      <file name="$USER_HOME$/Desktop/jd/and_partners/app/build.gradle" timestamp="1542684122538" />
       <file name="/strings.xml" timestamp="1541482926764">
         <mark key="[" line="9" column="28" />
         <mark key="]" line="9" column="54" />
@@ -80,6 +79,9 @@
       </file>
       <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/fragment/z/useralloc/ItemShopFragment.java" timestamp="1541663355273">
         <mark key="'" line="46" column="28" />
+      </file>
+      <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/widget/JDPromotionItemView.java" timestamp="1542707922936">
+        <mark key="'" line="85" column="12" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/AndroidManifest.xml" timestamp="1538977517716">
         <mark key="'" line="0" column="6" />
@@ -167,7 +169,7 @@
         <mark key="[" line="59" column="42" />
         <mark key="]" line="59" column="47" />
       </file>
-      <file name="/Dummy.txt" timestamp="1542077166398">
+      <file name="/Dummy.txt" timestamp="1542707844041">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/api/statistics/StatisticsAPI.kt" timestamp="1538966280407">
@@ -205,10 +207,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="622" column="24" filename="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/agraham/dialogs/InputDialog.java" />
-      <jump line="623" column="22" filename="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/agraham/dialogs/InputDialog.java" />
-      <jump line="624" column="53" filename="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/agraham/dialogs/InputDialog.java" />
-      <jump line="625" column="16" filename="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/agraham/dialogs/InputDialog.java" />
       <jump line="626" column="51" filename="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/agraham/dialogs/InputDialog.java" />
       <jump line="627" column="12" filename="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/agraham/dialogs/InputDialog.java" />
       <jump line="628" column="43" filename="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/agraham/dialogs/InputDialog.java" />
@@ -305,6 +303,10 @@
       <jump line="46" column="29" filename="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/activity/z/res/AlloctionDetialActivity.java" />
       <jump line="216" column="41" filename="$USER_HOME$/Desktop/jd/ln178/bld/build.gradle" />
       <jump line="25" column="11" filename="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/LaunchActivity.java" />
+      <jump line="60" column="8" filename="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/widget/JDPromotionItemView.java" />
+      <jump line="82" column="8" filename="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/widget/JDPromotionItemView.java" />
+      <jump line="84" column="12" filename="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/widget/JDPromotionItemView.java" />
+      <jump line="85" column="12" filename="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/widget/JDPromotionItemView.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -314,7 +316,7 @@
         <text>1</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpbnRlbnRcPg==</text>
+        <text encoding="base64">XDx0dlRvcGljXD4=</text>
       </register>
       <register name="0" type="4">
         <text>http://file.bld365.com/image/getImage?imageId=</text>
@@ -383,17 +385,16 @@ ff</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpbnRlbnRcPg==</last-search>
+      <last-search encoding="base64">XDx0dlRvcGljXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpbnRlbnRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDx0dlRvcGljXD4=</last-pattern>
       <last-replace>pipelineBean</last-replace>
       <last-substitute>version</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtT25DbGlja1w+</entry>
         <entry encoding="base64">XDxUcmFkZURldGlhbERhdGFcPg==</entry>
         <entry encoding="base64">XDxzaWduaW5nQ29uZmlnc1w+</entry>
         <entry>首页</entry>
@@ -413,6 +414,7 @@ ff</text>
         <entry encoding="base64">XDx1c2VyQWxsb2NBZGFwdGVyXD4=</entry>
         <entry>卡号</entry>
         <entry encoding="base64">XDxpbnRlbnRcPg==</entry>
+        <entry encoding="base64">XDx0dlRvcGljXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0FsYXJtSW5mby9IaXNBbGFybUluZm8vZw==</entry>
