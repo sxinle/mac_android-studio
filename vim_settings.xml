@@ -202,6 +202,10 @@
       <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/activity/jd/JDOpenCardActivity.java" timestamp="1541560941687">
         <mark key="'" line="65" column="70" />
       </file>
+      <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/res/layout/activity_jd_qr_code.xml" timestamp="1542713926931">
+        <mark key="[" line="5" column="25" />
+        <mark key="]" line="5" column="30" />
+      </file>
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/gradle.properties" timestamp="1538975292232">
         <mark key="'" line="11" column="18" />
       </file>
@@ -323,7 +327,7 @@
         <text encoding="base64">XDx0dlRvcGljXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>您的金融理财和资产管理专家</text>
+        <text>F4F4F4</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Ly8gICAgICBzaWduaW5nQ29uZmlnIHNpZ25pbmdDb25maWdzLmJsZAo=</text>
