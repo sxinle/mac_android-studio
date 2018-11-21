@@ -213,6 +213,10 @@
         <mark key="[" line="116" column="43" />
         <mark key="]" line="116" column="48" />
       </file>
+      <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/activity/jd/JDQrCodeActivity.java" timestamp="1542719029109">
+        <mark key="[" line="71" column="56" />
+        <mark key="]" line="71" column="70" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="626" column="51" filename="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/agraham/dialogs/InputDialog.java" />
@@ -327,7 +331,7 @@
         <text encoding="base64">XDx0dlRvcGljXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>F4F4F4</text>
+        <text>getDrawingCache</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Ly8gICAgICBzaWduaW5nQ29uZmlnIHNpZ25pbmdDb25maWdzLmJsZAo=</text>
