@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="tinker" />
       <item value="Express" />
       <item value="submit JFK Express" />
       <item value="Flavor Config" />
@@ -11,8 +12,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5" />
-        <entry key="ENGLISH" value="6" />
+        <entry key="CHINESE" value="7" />
+        <entry key="ENGLISH" value="8" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
