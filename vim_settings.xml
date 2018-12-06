@@ -42,7 +42,10 @@
         <mark key="[" line="136" column="43" />
         <mark key="]" line="136" column="49" />
       </file>
-      <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/res/layout/fragment_jd_index.xml" timestamp="1541037717320">
+      <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/fragment/jd/JdIndexFragment.java" timestamp="1544067403780">
+        <mark key="'" line="79" column="8" />
+      </file>
+      <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/res/layout/fragment_jd_index.xml" timestamp="1544067374356">
         <mark key="[" line="51" column="25" />
         <mark key="]" line="51" column="31" />
       </file>
@@ -207,9 +210,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="627" column="12" filename="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/agraham/dialogs/InputDialog.java" />
-      <jump line="628" column="43" filename="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/agraham/dialogs/InputDialog.java" />
-      <jump line="629" column="38" filename="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/agraham/dialogs/InputDialog.java" />
       <jump line="630" column="89" filename="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/agraham/dialogs/InputDialog.java" />
       <jump line="631" column="48" filename="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/agraham/dialogs/InputDialog.java" />
       <jump line="8727" column="69" filename="$USER_HOME$/workspace/Vna/app/src/main/java/ro/yo3ggx/btvna/main.java" />
@@ -307,6 +307,9 @@
       <jump line="84" column="12" filename="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/widget/JDPromotionItemView.java" />
       <jump line="85" column="12" filename="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/widget/JDPromotionItemView.java" />
       <jump line="66" column="9" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/api/trade/TradeAPI.kt" />
+      <jump line="61" column="17" filename="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/fragment/jd/JdIndexFragment.java" />
+      <jump line="62" column="27" filename="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/fragment/jd/JdIndexFragment.java" />
+      <jump line="79" column="8" filename="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/fragment/jd/JdIndexFragment.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -316,7 +319,7 @@
         <text>1</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0dlRvcGljXD4=</text>
+        <text encoding="base64">XDx0ZWppYUFkYXB0ZXJcPg==</text>
       </register>
       <register name="0" type="4">
         <text>getDrawingCache</text>
@@ -385,18 +388,16 @@ ff</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0dlRvcGljXD4=</last-search>
+      <last-search encoding="base64">XDx0ZWppYUFkYXB0ZXJcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0dlRvcGljXD4=</last-pattern>
+      <last-pattern encoding="base64">XDx0ZWppYUFkYXB0ZXJcPg==</last-pattern>
       <last-replace>pipelineBean</last-replace>
       <last-substitute>version</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxUcmFkZURldGlhbERhdGFcPg==</entry>
-        <entry encoding="base64">XDxzaWduaW5nQ29uZmlnc1w+</entry>
         <entry>首页</entry>
         <entry>AAPT</entry>
         <entry encoding="base64">XDxiU2VsZWN0UHJvZHVjdFw+</entry>
@@ -415,6 +416,8 @@ ff</text>
         <entry>卡号</entry>
         <entry encoding="base64">XDxpbnRlbnRcPg==</entry>
         <entry encoding="base64">XDx0dlRvcGljXD4=</entry>
+        <entry encoding="base64">XDxydlRlamlhXD4=</entry>
+        <entry encoding="base64">XDx0ZWppYUFkYXB0ZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0FsYXJtSW5mby9IaXNBbGFybUluZm8vZw==</entry>
