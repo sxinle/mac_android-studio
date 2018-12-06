@@ -101,6 +101,11 @@
         <mark key="[" line="17" column="49" />
         <mark key="]" line="17" column="54" />
       </file>
+      <file name="$USER_HOME$/Desktop/jd/ln178/bld/build.gradle" timestamp="1544091861388">
+        <mark key="[" line="44" column="20" />
+        <mark key="]" line="44" column="21" />
+        <mark key="." line="44" column="21" />
+      </file>
       <file name="$USER_HOME$/Desktop/jd/ApiSafes/apisafe/src/main/java/com/thinkerjet/apisafe/ApiSafe.java" timestamp="1539053156076">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="28" column="8" />
@@ -167,6 +172,10 @@
       <file name="/Dummy.txt" timestamp="1542707844041">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/BaitiaoListActivity.java" timestamp="1544092673588">
+        <mark key="[" line="50" column="34" />
+        <mark key="]" line="50" column="46" />
+      </file>
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/api/statistics/StatisticsAPI.kt" timestamp="1538966280407">
         <mark key="[" line="15" column="16" />
         <mark key="]" line="15" column="32" />
@@ -189,6 +198,10 @@
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/signup/phonenumverfication/PhoneNumVerficationViewModel.kt" timestamp="1538651656569">
         <mark key="[" line="207" column="32" />
         <mark key="]" line="207" column="40" />
+      </file>
+      <file name="/activity_jd_qr_code.xml" timestamp="1544092367562">
+        <mark key="[" line="52" column="34" />
+        <mark key="]" line="52" column="48" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/activity/jd/JDOpenCardActivity.java" timestamp="1541560941687">
         <mark key="'" line="65" column="70" />
@@ -322,7 +335,7 @@
         <text encoding="base64">XDx0ZWppYUFkYXB0ZXJcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>getDrawingCache</text>
+        <text>推荐用户成功开通，立赚佣金</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Ly8gICAgICBzaWduaW5nQ29uZmlnIHNpZ25pbmdDb25maWdzLmJsZAo=</text>
