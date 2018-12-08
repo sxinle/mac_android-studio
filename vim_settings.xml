@@ -101,11 +101,6 @@
         <mark key="[" line="17" column="49" />
         <mark key="]" line="17" column="54" />
       </file>
-      <file name="$USER_HOME$/Desktop/jd/ln178/bld/build.gradle" timestamp="1544091861388">
-        <mark key="[" line="44" column="20" />
-        <mark key="]" line="44" column="21" />
-        <mark key="." line="44" column="21" />
-      </file>
       <file name="$USER_HOME$/Desktop/jd/ApiSafes/apisafe/src/main/java/com/thinkerjet/apisafe/ApiSafe.java" timestamp="1539053156076">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="28" column="8" />
@@ -407,7 +402,7 @@ ff</text>
       <last-replace>pipelineBean</last-replace>
       <last-substitute>version</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
