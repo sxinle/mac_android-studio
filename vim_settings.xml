@@ -91,7 +91,6 @@
         <mark key="[" line="35" column="11" />
         <mark key="]" line="35" column="16" />
       </file>
-      <file name="/CardManagerFragment.java" timestamp="1544239045435" />
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/main/mine/MineViewModel.kt" timestamp="1539307871772">
         <mark key="'" line="35" column="9" />
       </file>
@@ -195,9 +194,9 @@
         <mark key="[" line="207" column="32" />
         <mark key="]" line="207" column="40" />
       </file>
-      <file name="/activity_jd_qr_code.xml" timestamp="1544092367562">
-        <mark key="[" line="52" column="34" />
-        <mark key="]" line="52" column="48" />
+      <file name="/activity_jd_qr_code.xml" timestamp="1544411287698">
+        <mark key="[" line="54" column="34" />
+        <mark key="]" line="54" column="52" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/activity/jd/JDOpenCardActivity.java" timestamp="1541560941687">
         <mark key="'" line="65" column="70" />
@@ -331,7 +330,7 @@
         <text encoding="base64">XDx0ZWppYUFkYXB0ZXJcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>推荐用户成功开通，立赚佣金</text>
+        <text>注册即送5月话费券和10元无门槛代金券</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Ly8gICAgICBzaWduaW5nQ29uZmlnIHNpZ25pbmdDb25maWdzLmJsZAo=</text>
