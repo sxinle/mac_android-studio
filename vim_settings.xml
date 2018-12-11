@@ -11,6 +11,11 @@
         <mark key="[" line="21" column="81" />
         <mark key="]" line="21" column="96" />
       </file>
+      <file name="$USER_HOME$/Desktop/RNSales/jhWebApp/android/gradle/wrapper/gradle-wrapper.properties" timestamp="1544512662295">
+        <mark key="[" line="4" column="68" />
+        <mark key="]" line="4" column="69" />
+        <mark key="." line="4" column="69" />
+      </file>
       <file name="$USER_HOME$/workspace/demo/jdtx/android/build.gradle" timestamp="1539333853092">
         <mark key="'" line="23" column="0" />
       </file>
@@ -91,10 +96,16 @@
         <mark key="[" line="35" column="11" />
         <mark key="]" line="35" column="16" />
       </file>
+      <file name="$USER_HOME$/Desktop/RNSales/jhWebApp/android/build.gradle" timestamp="1544515939299">
+        <mark key="'" line="22" column="15" />
+        <mark key="[" line="48" column="41" />
+        <mark key="]" line="48" column="42" />
+        <mark key="." line="48" column="42" />
+        <mark key="^" line="51" column="4" />
+      </file>
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/main/mine/MineViewModel.kt" timestamp="1539307871772">
         <mark key="'" line="35" column="9" />
       </file>
-      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/build.gradle" timestamp="1544436650112" />
       <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/LaunchActivity.java" timestamp="1542077136550">
         <mark key="'" line="25" column="11" />
       </file>
@@ -152,6 +163,12 @@
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/signup/courier/CourierInfoInputViewModel.kt" timestamp="1538731086686">
         <mark key="[" line="157" column="32" />
         <mark key="]" line="157" column="36" />
+      </file>
+      <file name="$USER_HOME$/Desktop/RNSales/jhWebApp/android/app/build.gradle" timestamp="1544515929239">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="102" column="26" />
+        <mark key="]" line="102" column="27" />
+        <mark key="." line="102" column="27" />
       </file>
       <file name="/colors.xml" timestamp="1541583525237">
         <mark key="[" line="29" column="0" />
@@ -219,10 +236,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="630" column="89" filename="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/agraham/dialogs/InputDialog.java" />
-      <jump line="631" column="48" filename="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/agraham/dialogs/InputDialog.java" />
-      <jump line="8727" column="69" filename="$USER_HOME$/workspace/Vna/app/src/main/java/ro/yo3ggx/btvna/main.java" />
-      <jump line="423" column="18" filename="$USER_HOME$/workspace/Vna/app/src/main/java/ro/yo3ggx/btvna/main.java" />
       <jump line="149" column="17" filename="$USER_HOME$/workspace/Vna/app/src/main/java/com/rootsoft/imageprocessing/RSImageProcessing.java" />
       <jump line="6651" column="41" filename="$USER_HOME$/workspace/Vna/app/src/main/java/ro/yo3ggx/btvna/main.java" />
       <jump line="405" column="18" filename="$USER_HOME$/workspace/Vna/app/src/main/java/ro/yo3ggx/btvna/main.java" />
@@ -319,6 +332,10 @@
       <jump line="61" column="17" filename="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/fragment/jd/JdIndexFragment.java" />
       <jump line="62" column="27" filename="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/fragment/jd/JdIndexFragment.java" />
       <jump line="79" column="8" filename="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/fragment/jd/JdIndexFragment.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/RNSales/jhWebApp/android/app/build.gradle" />
+      <jump line="41" column="12" filename="$USER_HOME$/Desktop/RNSales/jhWebApp/android/build.gradle" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/RNSales/jhWebApp/android/build.gradle" />
+      <jump line="22" column="15" filename="$USER_HOME$/Desktop/RNSales/jhWebApp/android/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -330,13 +347,28 @@
       <register name="/" type="4">
         <text encoding="base64">XDx0ZWppYUFkYXB0ZXJcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>注册即送5月话费券和10元无门槛代金券</text>
+      <register name="0" type="2">
+        <text encoding="base64">Ly8gVG9wLWxldmVsIGJ1aWxkIGZpbGUgd2hlcmUgeW91IGNhbiBhZGQgY29uZmlndXJhdGlvbiBvcHRpb25zIGNvbW1vbiB0byBhbGwgc3ViLXByb2plY3RzL21vZHVsZXMuCgpidWlsZHNjcmlwdCB7CiAgICByZXBvc2l0b3JpZXMgewogICAgICAgIG1hdmVuIHsgdXJsICdodHRwOi8vbWF2ZW4uYWxpeXVuLmNvbS9uZXh1cy9jb250ZW50L2dyb3Vwcy9wdWJsaWMvJyB9CiAgICAgICAgamNlbnRlcigpCiAgICAgICAgZ29vZ2xlKCkKICAgIH0KICAgIGRlcGVuZGVuY2llcyB7Ci8vICAgICAgICBjbGFzc3BhdGggJ2NvbS5hbmRyb2lkLnRvb2xzLmJ1aWxkOmdyYWRsZToyLjMuMCcKICAgICAgICBjbGFzc3BhdGggJ2NvbS5hbmRyb2lkLnRvb2xzLmJ1aWxkOmdyYWRsZTozLjEuMCcKCiAgICAgICAgLy8gTk9URTogRG8gbm90IHBsYWNlIHlvdXIgYXBwbGljYXRpb24gZGVwZW5kZW5jaWVzIGhlcmU7IHRoZXkgYmVsb25nCiAgICAgICAgLy8gaW4gdGhlIGluZGl2aWR1YWwgbW9kdWxlIGJ1aWxkLmdyYWRsZSBmaWxlcwogICAgfQp9CgphbGxwcm9qZWN0cyB7CiAgICByZXBvc2l0b3JpZXMgewogICAgICAgIG1hdmVuTG9jYWwoKQogICAgICAgIG1hdmVuIHsgdXJsICdodHRwOi8vbWF2ZW4uYWxpeXVuLmNvbS9uZXh1cy9jb250ZW50L2dyb3Vwcy9wdWJsaWMvJyB9CiAgICAgICAgamNlbnRlcigpCiAgICAgICAgZ29vZ2xlKCkKICAgICAgICBtYXZlbiB7CiAgICAgICAgICAgIC8vIEFsbCBvZiBSZWFjdCBOYXRpdmUgKEpTLCBPYmotQyBzb3VyY2VzLCBBbmRyb2lkIGJpbmFyaWVzKSBpcyBpbnN0YWxsZWQgZnJvbSBucG0KICAgICAgICAgICAgdXJsICIkcm9vdERpci8uLi9ub2RlX21vZHVsZXMvcmVhY3QtbmF0aXZlL2FuZHJvaWQiCiAgICAgICAgfQoKICAgICAgICAvLyBqaXRwYWNrIHJlcG8gaXMgbmVjZXNzYXJ5IHRvIGZldGNoIHVjcm9wIGRlcGVuZGVuY3kKICAgICAgICBtYXZlbiB7IHVybCAiaHR0cHM6Ly9qaXRwYWNrLmlvIiB9CiAgICAgICAgbWF2ZW4geyB1cmwgJ2h0dHBzOi8vbWF2ZW4uZ29vZ2xlLmNvbScgfQogICAgfQp9CgpzdWJwcm9qZWN0cyB7CiAgICBpZiAocHJvamVjdC5uYW1lLmNvbnRhaW5zKCdyZWFjdC1uYXRpdmUtaW1hZ2UtcGlja2VyJykpIHsKICAgICAgICBidWlsZHNjcmlwdCB7CiAgICAgICAgICAgIHJlcG9zaXRvcmllcyB7CiAgICAgICAgICAgICAgICBqY2VudGVyKCkKICAgICAgICAgICAgICAgIGdvb2dsZSgpCiAgICAgICAgICAgICAgICBtYXZlbiB7IHVybCAiaHR0cHM6Ly9kbC5iaW50cmF5LmNvbS9hbmRyb2lkL2FuZHJvaWQtdG9vbHMvIiB9CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICB9CiAgICBwcm9qZWN0LmNvbmZpZ3VyYXRpb25zLmFsbCB7CiAgICAgICAgcmVzb2x1dGlvblN0cmF0ZWd5LmVhY2hEZXBlbmRlbmN5IHsgZGV0YWlscyAtPgogICAgICAgICAgICBpZiAoZGV0YWlscy5yZXF1ZXN0ZWQuZ3JvdXAgPT0gJ2NvbS5hbmRyb2lkLnN1cHBvcnQnCiAgICAgICAgICAgICAgICAgICAgJiYgIWRldGFpbHMucmVxdWVzdGVkLm5hbWUuY29udGFpbnMoJ211bHRpZGV4JykpIHsKICAgICAgICAgICAgICAgIGRldGFpbHMudXNlVmVyc2lvbiAiMjYuMS4wIgogICAgICAgICAgICB9CiAgICAgICAgfQogICAgfQp9Cg==</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="8">
+        <text>++
+++
+++
+++
+++
+++
+++</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBnb29nbGUoKQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBnb29nbGUoKQo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Ly8gICAgICBzaWduaW5nQ29uZmlnIHNpZ25pbmdDb25maWdzLmJsZAo=</text>
       </register>
-      <register name="2" type="8">
+      <register name="5" type="8">
         <text>ff
 ff
 ff
@@ -355,7 +387,7 @@ ff
 ff
 ff</text>
       </register>
-      <register name="3" type="8">
+      <register name="6" type="8">
         <text>ff
 ff
 ff
@@ -366,7 +398,7 @@ ff
 ff
 ff</text>
       </register>
-      <register name="4" type="8">
+      <register name="7" type="8">
         <text>ff
 ff
 ff
@@ -376,21 +408,12 @@ ff
 ff
 ff
 ff</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIG1hdmVuQ2VudHJhbCgpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">YWxscHJvamVjdHMgewogICAgcmVwb3NpdG9yaWVzIHsKICAgIH0KfQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWF2ZW5DZW50cmFsKCkgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG1hdmVuQ2VudHJhbCgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgSU9FeGNlcHRpb24oU3RyaW5nLmZvcm1hdCgiSW52YWxpZCBDVFMgLyBEU1IgLyBDRCAvIFJJIHN0YXR1cyBidWZmZXIgcmVjZWl2ZWQsIGV4cGVjdGVkICVkIGJ5dGVzLCBidXQgcmVjZWl2ZWQgJWQiLCAxMCwgYnVsa1RyYW5zZmVyKSk7Cg==</text>
+        <text encoding="base64">YWxscHJvamVjdHMgewogICAgcmVwb3NpdG9yaWVzIHsKICAgIH0KfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
