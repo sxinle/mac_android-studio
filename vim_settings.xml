@@ -58,6 +58,9 @@
         <mark key="[" line="29" column="19" />
         <mark key="]" line="29" column="64" />
       </file>
+      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/scarn/ScanCaptureActivity.java" timestamp="1544587136887">
+        <mark key="'" line="77" column="24" />
+      </file>
       <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/activity/me/TradeInfoActivity.java" timestamp="1541647606701">
         <mark key="'" line="64" column="12" />
       </file>
@@ -241,7 +244,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="149" column="17" filename="$USER_HOME$/workspace/Vna/app/src/main/java/com/rootsoft/imageprocessing/RSImageProcessing.java" />
       <jump line="6651" column="41" filename="$USER_HOME$/workspace/Vna/app/src/main/java/ro/yo3ggx/btvna/main.java" />
       <jump line="405" column="18" filename="$USER_HOME$/workspace/Vna/app/src/main/java/ro/yo3ggx/btvna/main.java" />
       <jump line="684" column="0" filename="$USER_HOME$/workspace/Vna/app/src/main/java/anywheresoftware/b4a/agraham/reflection/Reflection.java" />
@@ -341,6 +343,7 @@
       <jump line="41" column="12" filename="$USER_HOME$/Desktop/RNSales/jhWebApp/android/build.gradle" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/RNSales/jhWebApp/android/build.gradle" />
       <jump line="22" column="15" filename="$USER_HOME$/Desktop/RNSales/jhWebApp/android/build.gradle" />
+      <jump line="77" column="24" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/scarn/ScanCaptureActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -350,7 +353,7 @@
         <text>1</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0ZWppYUFkYXB0ZXJcPg==</text>
+        <text encoding="base64">XDx6QmFyRGVjb2Rlclw+</text>
       </register>
       <register name="0" type="4">
         <text>createJSModules</text>
@@ -425,18 +428,16 @@ ff</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0ZWppYUFkYXB0ZXJcPg==</last-search>
+      <last-search encoding="base64">XDx6QmFyRGVjb2Rlclw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0ZWppYUFkYXB0ZXJcPg==</last-pattern>
+      <last-pattern encoding="base64">XDx6QmFyRGVjb2Rlclw+</last-pattern>
       <last-replace>pipelineBean</last-replace>
       <last-substitute>version</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>首页</entry>
-        <entry>AAPT</entry>
         <entry encoding="base64">XDxiU2VsZWN0UHJvZHVjdFw+</entry>
         <entry>sign</entry>
         <entry encoding="base64">XDxiZWFuM1w+</entry>
@@ -455,6 +456,8 @@ ff</text>
         <entry encoding="base64">XDx0dlRvcGljXD4=</entry>
         <entry encoding="base64">XDxydlRlamlhXD4=</entry>
         <entry encoding="base64">XDx0ZWppYUFkYXB0ZXJcPg==</entry>
+        <entry>zxing</entry>
+        <entry encoding="base64">XDx6QmFyRGVjb2Rlclw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0FsYXJtSW5mby9IaXNBbGFybUluZm8vZw==</entry>
