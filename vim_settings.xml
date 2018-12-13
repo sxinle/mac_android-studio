@@ -78,12 +78,20 @@
         <mark key="[" line="25" column="28" />
         <mark key="]" line="25" column="34" />
       </file>
+      <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/bean/jd/JdPhoneNumListBean.java" timestamp="1544682371264">
+        <mark key="[" line="32" column="19" />
+        <mark key="]" line="32" column="29" />
+      </file>
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/di/APIModuel.kt" timestamp="1538645207660">
         <mark key="[" line="53" column="26" />
         <mark key="]" line="53" column="52" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/trade/trades/TradeListAdapter.kt" timestamp="1539308477246">
         <mark key="'" line="27" column="42" />
+      </file>
+      <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/activity/jd/JDSelectNumberActivity.java" timestamp="1544682610461">
+        <mark key="[" line="127" column="40" />
+        <mark key="]" line="127" column="50" />
       </file>
       <file name="/JDSelectNumberActivity.java" timestamp="1541586260755">
         <mark key="[" line="52" column="23" />
@@ -363,7 +371,7 @@
         <text encoding="base64">XDxkaXJ0eUZsYWdzXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>新用户送满31减30元品类券</text>
+        <text>BUREAU_NAME</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>

@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="beruau" />
       <item value="tinker" />
       <item value="Express" />
       <item value="submit JFK Express" />
@@ -12,8 +13,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7" />
+        <entry key="CHINESE" value="8" />
         <entry key="ENGLISH" value="8" />
+        <entry key="MALAY" value="1" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
