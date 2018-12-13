@@ -245,9 +245,9 @@
         <mark key="[" line="116" column="43" />
         <mark key="]" line="116" column="48" />
       </file>
-      <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/activity/jd/JDQrCodeActivity.java" timestamp="1542719029109">
-        <mark key="[" line="71" column="56" />
-        <mark key="]" line="71" column="70" />
+      <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/activity/jd/JDQrCodeActivity.java" timestamp="1544680928316">
+        <mark key="[" line="78" column="86" />
+        <mark key="]" line="78" column="99" />
       </file>
     </filemarks>
     <jumps>
@@ -363,7 +363,7 @@
         <text encoding="base64">XDxkaXJ0eUZsYWdzXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>trade_info_expire_outtime</text>
+        <text>新用户送满31减30元品类券</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
@@ -441,7 +441,7 @@ ff</text>
       <last-replace>pipelineBean</last-replace>
       <last-substitute>version</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
