@@ -26,9 +26,9 @@
         <mark key="[" line="435" column="35" />
         <mark key="]" line="435" column="39" />
       </file>
-      <file name="/strings.xml" timestamp="1541482926764">
-        <mark key="[" line="9" column="28" />
-        <mark key="]" line="9" column="54" />
+      <file name="/strings.xml" timestamp="1546830142090">
+        <mark key="[" line="11" column="28" />
+        <mark key="]" line="11" column="55" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/demo/res/values/strings.xml" timestamp="1541063331149">
         <mark key="[" line="9" column="28" />
@@ -367,7 +367,7 @@
         <text encoding="base64">XDxkaXJ0eUZsYWdzXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>BUREAU_NAME</text>
+        <text>http://114.115.138.102:18080</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
