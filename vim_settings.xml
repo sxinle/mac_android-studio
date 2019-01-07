@@ -219,10 +219,10 @@
         <mark key="[" line="50" column="34" />
         <mark key="]" line="50" column="46" />
       </file>
-      <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/activity/withdraw/WithDrawActivity.kt" timestamp="1546843919989">
+      <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/activity/withdraw/WithDrawActivity.kt" timestamp="1546844853439">
         <mark key="'" line="113" column="20" />
-        <mark key="[" line="171" column="35" />
-        <mark key="]" line="171" column="41" />
+        <mark key="[" line="169" column="35" />
+        <mark key="]" line="169" column="41" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/api/statistics/StatisticsAPI.kt" timestamp="1538966280407">
         <mark key="[" line="15" column="16" />
@@ -384,7 +384,7 @@
         <text encoding="base64">XDxiaW5kQmFua0RhdGFJbml0XD4=</text>
       </register>
       <register name="0" type="4">
-        <text>尚未绑定银行卡</text>
+        <text>请先绑定银行卡</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
