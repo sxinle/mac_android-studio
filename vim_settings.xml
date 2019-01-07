@@ -190,12 +190,6 @@
         <mark key="[" line="157" column="32" />
         <mark key="]" line="157" column="36" />
       </file>
-      <file name="$USER_HOME$/Desktop/RNSales/jhWebApp/android/app/build.gradle" timestamp="1544515929239">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="102" column="26" />
-        <mark key="]" line="102" column="27" />
-        <mark key="." line="102" column="27" />
-      </file>
       <file name="/colors.xml" timestamp="1541583525237">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="31" column="43" />
@@ -258,6 +252,10 @@
       <file name="/activity_jd_qr_code.xml" timestamp="1544411353291">
         <mark key="[" line="54" column="34" />
         <mark key="]" line="54" column="52" />
+      </file>
+      <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/activity/withdraw/bindbank/BindBankActivity.kt" timestamp="1546849258906">
+        <mark key="[" line="78" column="38" />
+        <mark key="]" line="78" column="44" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/res/layout/fragment_jd_wallet.xml" timestamp="1546832501525" />
       <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/activity/jd/JDOpenCardActivity.java" timestamp="1541560941687">
@@ -388,7 +386,7 @@
         <text encoding="base64">XDxiaW5kQmFua0RhdGFJbml0XD4=</text>
       </register>
       <register name="0" type="4">
-        <text>BANK_LOGO_APP</text>
+        <text>请输入联系电话</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
