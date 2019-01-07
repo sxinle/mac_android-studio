@@ -204,10 +204,14 @@
         <mark key="[" line="59" column="42" />
         <mark key="]" line="59" column="47" />
       </file>
-      <file name="/Dummy.txt" timestamp="1546833920512">
+      <file name="/Dummy.txt" timestamp="1546834541535">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/res/drawable/shape_withdraw_btn_unenabled.xml" timestamp="1546831539509">
+        <mark key="[" line="2" column="26" />
+        <mark key="]" line="2" column="32" />
+      </file>
+      <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/res/drawable/shape_withdraw_top.xml" timestamp="1546834608243">
         <mark key="[" line="2" column="26" />
         <mark key="]" line="2" column="32" />
       </file>
@@ -238,9 +242,9 @@
         <mark key="[" line="207" column="32" />
         <mark key="]" line="207" column="40" />
       </file>
-      <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/res/layout/activity_withdraw.xml" timestamp="1546832623984">
-        <mark key="[" line="13" column="28" />
-        <mark key="]" line="13" column="34" />
+      <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/res/layout/activity_withdraw.xml" timestamp="1546834656494">
+        <mark key="[" line="6" column="24" />
+        <mark key="]" line="6" column="30" />
       </file>
       <file name="/activity_jd_qr_code.xml" timestamp="1544411353291">
         <mark key="[" line="54" column="34" />
@@ -375,7 +379,7 @@
         <text encoding="base64">XDxkaXJ0eUZsYWdzXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>#3F51B5</text>
+        <text>#F0EEF4</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
