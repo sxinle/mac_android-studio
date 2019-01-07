@@ -129,7 +129,6 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/res/layout/item_charge_trade_in_my_trades.xml" timestamp="1545358547644" />
       <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/LaunchActivity.java" timestamp="1542077136550">
         <mark key="'" line="25" column="11" />
       </file>
@@ -254,13 +253,8 @@
         <mark key="[" line="116" column="43" />
         <mark key="]" line="116" column="48" />
       </file>
-      <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/activity/jd/JDQrCodeActivity.java" timestamp="1544680928316">
-        <mark key="[" line="78" column="86" />
-        <mark key="]" line="78" column="99" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="32" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/build.gradle" />
       <jump line="106" column="39" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/build.gradle" />
       <jump line="7" column="13" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/build.gradle" />
       <jump line="9" column="0" filename="$USER_HOME$/Desktop/jd/jingdong_communication/build.gradle" />
@@ -360,6 +354,7 @@
       <jump line="236" column="12" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/build/generated/source/kapt/debug/com/thinkerjet/jdcommunication/databinding/FragmentTradeDetialBindingImpl.java" />
       <jump line="286" column="13" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/build/generated/source/kapt/debug/com/thinkerjet/jdcommunication/databinding/FragmentTradeDetialBindingImpl.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/build/generated/source/kapt/debug/com/thinkerjet/jdcommunication/databinding/FragmentTradeDetialBindingImpl.java" />
+      <jump line="109" column="32" filename="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/activity/jd/JDQrCodeActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
