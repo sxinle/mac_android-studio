@@ -202,14 +202,14 @@
         <mark key="[" line="59" column="42" />
         <mark key="]" line="59" column="47" />
       </file>
-      <file name="/Dummy.txt" timestamp="1546834541535">
+      <file name="/Dummy.txt" timestamp="1546850709615">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/res/drawable/shape_withdraw_btn_unenabled.xml" timestamp="1546831539509">
         <mark key="[" line="2" column="26" />
         <mark key="]" line="2" column="32" />
       </file>
-      <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/res/drawable/shape_withdraw_top.xml" timestamp="1546834608243">
+      <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/res/drawable/shape_withdraw_top.xml" timestamp="1546850979917">
         <mark key="[" line="2" column="26" />
         <mark key="]" line="2" column="32" />
       </file>
@@ -383,10 +383,10 @@
         <text>1</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxiaW5kQmFua0RhdGFJbml0XD4=</text>
+        <text>modal</text>
       </register>
       <register name="0" type="4">
-        <text>请输入联系电话</text>
+        <text>#FBFAFB</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
@@ -458,9 +458,9 @@ ff</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxiaW5kQmFua0RhdGFJbml0XD4=</last-search>
+      <last-search>modal</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxiaW5kQmFua0RhdGFJbml0XD4=</last-pattern>
+      <last-pattern>modal</last-pattern>
       <last-replace>pipelineBean</last-replace>
       <last-substitute>version</last-substitute>
       <last-dir>1</last-dir>
@@ -468,7 +468,6 @@ ff</text>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZWFyY2hMaXN0ZW50ZXJcPg==</entry>
         <entry>umeng</entry>
         <entry encoding="base64">XDxiU2VsZWN0TnVtYmVyXD4=</entry>
         <entry encoding="base64">XDxiU3VibWl0XD4=</entry>
@@ -488,6 +487,7 @@ ff</text>
         <entry encoding="base64">XDxtQ2FtZXJhXD4=</entry>
         <entry encoding="base64">XDxkaXJ0eUZsYWdzXD4=</entry>
         <entry encoding="base64">XDxiaW5kQmFua0RhdGFJbml0XD4=</entry>
+        <entry>modal</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0FsYXJtSW5mby9IaXNBbGFybUluZm8vZw==</entry>
