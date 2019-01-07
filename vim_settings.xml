@@ -34,6 +34,10 @@
         <mark key="[" line="9" column="28" />
         <mark key="]" line="9" column="57" />
       </file>
+      <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/bean/mybanks/MyBankListData.java" timestamp="1546845595218">
+        <mark key="[" line="47" column="19" />
+        <mark key="]" line="47" column="31" />
+      </file>
       <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/res/layout/fragment_jd_me.xml" timestamp="1540975263112">
         <mark key="[" line="16" column="26" />
         <mark key="]" line="16" column="34" />
@@ -219,10 +223,10 @@
         <mark key="[" line="50" column="34" />
         <mark key="]" line="50" column="46" />
       </file>
-      <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/activity/withdraw/WithDrawActivity.kt" timestamp="1546844853439">
+      <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/activity/withdraw/WithDrawActivity.kt" timestamp="1546845591602">
         <mark key="'" line="113" column="20" />
-        <mark key="[" line="169" column="35" />
-        <mark key="]" line="169" column="41" />
+        <mark key="[" line="157" column="68" />
+        <mark key="]" line="157" column="80" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/api/statistics/StatisticsAPI.kt" timestamp="1538966280407">
         <mark key="[" line="15" column="16" />
@@ -384,7 +388,7 @@
         <text encoding="base64">XDxiaW5kQmFua0RhdGFJbml0XD4=</text>
       </register>
       <register name="0" type="4">
-        <text>请先绑定银行卡</text>
+        <text>BANK_LOGO_APP</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
