@@ -146,6 +146,10 @@
         <mark key="[" line="14" column="34" />
         <mark key="]" line="14" column="40" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/transforms-1/files-1.1/xiaobaisdk1.0.9-release.aar/0c5c216d301c094ee72c4deb7551f386/res/values/values.xml" timestamp="1546833943359">
+        <mark key="[" line="72" column="31" />
+        <mark key="]" line="72" column="37" />
+      </file>
       <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/ServApi.java" timestamp="1541561125404">
         <mark key="[" line="9" column="53" />
         <mark key="]" line="9" column="80" />
@@ -200,7 +204,7 @@
         <mark key="[" line="59" column="42" />
         <mark key="]" line="59" column="47" />
       </file>
-      <file name="/Dummy.txt" timestamp="1546833288484">
+      <file name="/Dummy.txt" timestamp="1546833920512">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/res/drawable/shape_withdraw_btn_unenabled.xml" timestamp="1546831539509">
@@ -371,7 +375,7 @@
         <text encoding="base64">XDxkaXJ0eUZsYWdzXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>#38363C</text>
+        <text>#3F51B5</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
