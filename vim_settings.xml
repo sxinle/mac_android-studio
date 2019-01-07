@@ -176,9 +176,6 @@
         <mark key="[" line="100" column="32" />
         <mark key="]" line="100" column="41" />
       </file>
-      <file name="$USER_HOME$/Desktop/jd/ln178/libraries/TextDrawable/src/main/java/com/amulyakhare/textdrawable/util/ColorGenerator.java" timestamp="1541647981947">
-        <mark key="[" line="18" column="0" />
-      </file>
       <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/dialogfragment/JDOpenDialog.java" timestamp="1541496273513">
         <mark key="[" line="128" column="0" />
         <mark key="]" line="131" column="50" />
@@ -205,8 +202,9 @@
         <mark key="[" line="59" column="42" />
         <mark key="]" line="59" column="47" />
       </file>
-      <file name="/Dummy.txt" timestamp="1542707844041">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/res/drawable/shape_withdraw_btn_unenabled.xml" timestamp="1546831539509">
+        <mark key="[" line="2" column="26" />
+        <mark key="]" line="2" column="32" />
       </file>
       <file name="/BaitiaoListActivity.java" timestamp="1544092673588">
         <mark key="[" line="50" column="34" />
@@ -239,6 +237,7 @@
         <mark key="[" line="54" column="34" />
         <mark key="]" line="54" column="52" />
       </file>
+      <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/res/layout/fragment_jd_wallet.xml" timestamp="1546831704117" />
       <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/activity/jd/JDOpenCardActivity.java" timestamp="1541560941687">
         <mark key="'" line="65" column="70" />
       </file>
@@ -367,7 +366,7 @@
         <text encoding="base64">XDxkaXJ0eUZsYWdzXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>http://114.115.138.102:18080</text>
+        <text>#AEDCA8</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
