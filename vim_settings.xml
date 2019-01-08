@@ -73,9 +73,9 @@
       <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/activity/z/res/AlloctionDetialActivity.java" timestamp="1541666007887">
         <mark key="'" line="46" column="29" />
       </file>
-      <file name="$USER_HOME$/Desktop/jd/ln178/jnlibs/src/main/res/values/colors.xml" timestamp="1546840347713">
-        <mark key="[" line="158" column="28" />
-        <mark key="]" line="158" column="34" />
+      <file name="$USER_HOME$/Desktop/jd/ln178/jnlibs/src/main/res/values/colors.xml" timestamp="1546911561622">
+        <mark key="[" line="27" column="35" />
+        <mark key="]" line="27" column="41" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/bean/jd/JdPhoneNumListBean.java" timestamp="1544682371264">
         <mark key="[" line="32" column="19" />
@@ -381,7 +381,7 @@
         <text encoding="base64">XDxjYXJkSG9sZGVyXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>#FBFAFB</text>
+        <text>#E6E6E6</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
