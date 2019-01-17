@@ -100,6 +100,10 @@
         <mark key="[" line="56" column="66" />
         <mark key="]" line="56" column="76" />
       </file>
+      <file name="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/di/AppModule.kt" timestamp="1547725477321">
+        <mark key="[" line="57" column="26" />
+        <mark key="]" line="57" column="51" />
+      </file>
       <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/fragment/z/useralloc/ItemShopFragment.java" timestamp="1541663355273">
         <mark key="'" line="46" column="28" />
       </file>
@@ -209,6 +213,10 @@
         <mark key="'" line="113" column="20" />
         <mark key="[" line="157" column="68" />
         <mark key="]" line="157" column="80" />
+      </file>
+      <file name="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/network/ThinkerjetAPI.kt" timestamp="1547725683735">
+        <mark key="[" line="54" column="10" />
+        <mark key="]" line="54" column="37" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/api/statistics/StatisticsAPI.kt" timestamp="1538966280407">
         <mark key="[" line="15" column="16" />
@@ -378,7 +386,7 @@
         <text encoding="base64">XDxjbTEwMDg1RXZlbnRcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>#E6E6E6</text>
+        <text>getUrl?code=APP_DOWNLOAD_URL</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
