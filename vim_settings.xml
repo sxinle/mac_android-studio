@@ -33,6 +33,9 @@
         <mark key="[" line="47" column="19" />
         <mark key="]" line="47" column="31" />
       </file>
+      <file name="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainViewModel.kt" timestamp="1547720650371">
+        <mark key="'" line="62" column="8" />
+      </file>
       <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/res/layout/fragment_jd_me.xml" timestamp="1540975263112">
         <mark key="[" line="16" column="26" />
         <mark key="]" line="16" column="34" />
@@ -251,7 +254,7 @@
         <mark key="[" line="5" column="25" />
         <mark key="]" line="5" column="30" />
       </file>
-      <file name="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainActivity.kt" timestamp="1547691260354">
+      <file name="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainActivity.kt" timestamp="1547720533495">
         <mark key="'" line="64" column="22" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/gradle.properties" timestamp="1538975292232">
@@ -263,8 +266,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="6" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/AndroidManifest.xml" />
-      <jump line="60" column="17" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/tinker-support.gradle" />
       <jump line="73" column="57" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/build.gradle" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/build.gradle" />
       <jump line="17" column="8" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/trade/detial/TradeDetialViewModel.kt" />
@@ -363,6 +364,8 @@
       <jump line="81" column="76" filename="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/activity/withdraw/bindbank/BindBankActivity.kt" />
       <jump line="83" column="116" filename="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/activity/withdraw/bindbank/BindBankActivity.kt" />
       <jump line="64" column="22" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainActivity.kt" />
+      <jump line="248" column="12" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainViewModel.kt" />
+      <jump line="62" column="8" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainViewModel.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
