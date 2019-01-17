@@ -60,6 +60,7 @@
         <mark key="[" line="29" column="19" />
         <mark key="]" line="29" column="64" />
       </file>
+      <file name="$USER_HOME$/Desktop/jd/and_partners/build.gradle" timestamp="1547690825709" />
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/scarn/ScanCaptureActivity.java" timestamp="1544587926380">
         <mark key="'" line="160" column="17" />
       </file>
@@ -186,7 +187,7 @@
         <mark key="[" line="59" column="42" />
         <mark key="]" line="59" column="47" />
       </file>
-      <file name="/Dummy.txt" timestamp="1546851906445">
+      <file name="/Dummy.txt" timestamp="1547691502747">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/res/drawable/shape_withdraw_btn_unenabled.xml" timestamp="1546831539509">
@@ -250,6 +251,9 @@
         <mark key="[" line="5" column="25" />
         <mark key="]" line="5" column="30" />
       </file>
+      <file name="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainActivity.kt" timestamp="1547691260354">
+        <mark key="'" line="64" column="22" />
+      </file>
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/gradle.properties" timestamp="1538975292232">
         <mark key="'" line="11" column="18" />
       </file>
@@ -259,7 +263,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="6" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/AndroidManifest.xml" />
       <jump line="0" column="6" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/AndroidManifest.xml" />
       <jump line="60" column="17" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/tinker-support.gradle" />
       <jump line="73" column="57" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/build.gradle" />
@@ -359,6 +362,7 @@
       <jump line="61" column="34" filename="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/activity/withdraw/bindbank/BindBankActivity.kt" />
       <jump line="81" column="76" filename="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/activity/withdraw/bindbank/BindBankActivity.kt" />
       <jump line="83" column="116" filename="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/activity/withdraw/bindbank/BindBankActivity.kt" />
+      <jump line="64" column="22" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainActivity.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -368,7 +372,7 @@
         <text>1</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjYXJkSG9sZGVyXD4=</text>
+        <text encoding="base64">XDxjbTEwMDg1RXZlbnRcPg==</text>
       </register>
       <register name="0" type="4">
         <text>#E6E6E6</text>
@@ -443,17 +447,16 @@ ff</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjYXJkSG9sZGVyXD4=</last-search>
+      <last-search encoding="base64">XDxjbTEwMDg1RXZlbnRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjYXJkSG9sZGVyXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxjbTEwMDg1RXZlbnRcPg==</last-pattern>
       <last-replace>pipelineBean</last-replace>
       <last-substitute>version</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxiU2VsZWN0TnVtYmVyXD4=</entry>
         <entry encoding="base64">XDxiU3VibWl0XD4=</entry>
         <entry encoding="base64">XDx0b29sQmFyXD4=</entry>
         <entry encoding="base64">XDxmcmFnbWVudExpc3RcPg==</entry>
@@ -473,6 +476,7 @@ ff</text>
         <entry encoding="base64">XDxiaW5kQmFua0RhdGFJbml0XD4=</entry>
         <entry>modal</entry>
         <entry encoding="base64">XDxjYXJkSG9sZGVyXD4=</entry>
+        <entry encoding="base64">XDxjbTEwMDg1RXZlbnRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0FsYXJtSW5mby9IaXNBbGFybUluZm8vZw==</entry>
