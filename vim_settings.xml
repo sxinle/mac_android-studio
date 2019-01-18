@@ -27,10 +27,10 @@
         <mark key="[" line="47" column="19" />
         <mark key="]" line="47" column="31" />
       </file>
-      <file name="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainViewModel.kt" timestamp="1547726766743">
-        <mark key="'" line="62" column="8" />
-        <mark key="[" line="48" column="37" />
-        <mark key="]" line="48" column="63" />
+      <file name="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainViewModel.kt" timestamp="1547774263780">
+        <mark key="'" line="292" column="8" />
+        <mark key="[" line="292" column="8" />
+        <mark key="]" line="292" column="27" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/res/layout/fragment_jd_me.xml" timestamp="1540975263112">
         <mark key="[" line="16" column="26" />
@@ -217,7 +217,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="73" column="57" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/build.gradle" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/build.gradle" />
       <jump line="17" column="8" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/trade/detial/TradeDetialViewModel.kt" />
       <jump line="35" column="9" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/main/mine/MineViewModel.kt" />
@@ -317,6 +316,7 @@
       <jump line="64" column="22" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainActivity.kt" />
       <jump line="248" column="12" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainViewModel.kt" />
       <jump line="62" column="8" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainViewModel.kt" />
+      <jump line="292" column="8" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainViewModel.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -326,10 +326,10 @@
         <text>1</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjbTEwMDg1RXZlbnRcPg==</text>
+        <text encoding="base64">XDxvbk92ZXJyaWRlVXJsTG9hZGluZ1w+</text>
       </register>
       <register name="0" type="4">
-        <text>/rr/lm/tWlmlogin/hshapp.wap</text>
+        <text>onOverrideUrlLoading</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
@@ -401,9 +401,9 @@ ff</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjbTEwMDg1RXZlbnRcPg==</last-search>
+      <last-search encoding="base64">XDxvbk92ZXJyaWRlVXJsTG9hZGluZ1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjbTEwMDg1RXZlbnRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxvbk92ZXJyaWRlVXJsTG9hZGluZ1w+</last-pattern>
       <last-replace>pipelineBean</last-replace>
       <last-substitute>version</last-substitute>
       <last-dir>1</last-dir>
@@ -411,7 +411,6 @@ ff</text>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxiU3VibWl0XD4=</entry>
         <entry encoding="base64">XDx0b29sQmFyXD4=</entry>
         <entry encoding="base64">XDxmcmFnbWVudExpc3RcPg==</entry>
         <entry encoding="base64">XDxpdGVtU2hvcEFkYXB0ZXJcPg==</entry>
@@ -431,6 +430,7 @@ ff</text>
         <entry>modal</entry>
         <entry encoding="base64">XDxjYXJkSG9sZGVyXD4=</entry>
         <entry encoding="base64">XDxjbTEwMDg1RXZlbnRcPg==</entry>
+        <entry encoding="base64">XDxvbk92ZXJyaWRlVXJsTG9hZGluZ1w+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0FsYXJtSW5mby9IaXNBbGFybUluZm8vZw==</entry>
