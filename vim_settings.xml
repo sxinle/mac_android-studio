@@ -174,6 +174,9 @@
         <mark key="[" line="100" column="32" />
         <mark key="]" line="100" column="41" />
       </file>
+      <file name="$USER_HOME$/Desktop/jd/and_partners/app/src/main/AndroidManifest.xml" timestamp="1547787184268">
+        <mark key="'" line="56" column="41" />
+      </file>
       <file name="$USER_HOME$/Desktop/jd/ln178/libraries/TextDrawable/src/main/java/com/amulyakhare/textdrawable/util/ColorGenerator.java" timestamp="1541647981947">
         <mark key="[" line="18" column="0" />
       </file>
@@ -280,7 +283,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="100" column="12" filename="$USER_HOME$/workspace/demo/jdtx/android/app/build.gradle" />
       <jump line="37" column="40" filename="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/activity/jd/JDOpenCardActivity.java" />
       <jump line="85" column="16" filename="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/activity/jd/JDOpenCardActivity.java" />
       <jump line="135" column="10" filename="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/activity/jd/JDOpenCardActivity.java" />
@@ -380,6 +382,7 @@
       <jump line="21" column="26" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainActivity.kt" />
       <jump line="47" column="17" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainActivity.kt" />
       <jump line="63" column="8" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainActivity.kt" />
+      <jump line="56" column="41" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/AndroidManifest.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -389,7 +392,7 @@
         <text>V</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsb2NhdGlvbkNsaWVudFw+</text>
+        <text>baidu</text>
       </register>
       <register name="0" type="4">
         <text>/rr/lnwd/myShop/promotShop.html</text>
@@ -464,9 +467,9 @@ ff</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsb2NhdGlvbkNsaWVudFw+</last-search>
+      <last-search>baidu</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsb2NhdGlvbkNsaWVudFw+</last-pattern>
+      <last-pattern>baidu</last-pattern>
       <last-replace>pipelineBean</last-replace>
       <last-substitute>version</last-substitute>
       <last-dir>1</last-dir>
@@ -474,7 +477,6 @@ ff</text>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx1c2VyQWxsb2NBZGFwdGVyXD4=</entry>
         <entry>卡号</entry>
         <entry encoding="base64">XDxpbnRlbnRcPg==</entry>
         <entry encoding="base64">XDx0dlRvcGljXD4=</entry>
@@ -494,6 +496,7 @@ ff</text>
         <entry encoding="base64">XDxvbk92ZXJyaWRlVXJsTG9hZGluZ1w+</entry>
         <entry encoding="base64">XDxiZEFic3RyYWN0TG9jYXRpb25MaXN0ZW5lclw+</entry>
         <entry encoding="base64">XDxsb2NhdGlvbkNsaWVudFw+</entry>
+        <entry>baidu</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0FsYXJtSW5mby9IaXNBbGFybUluZm8vZw==</entry>
