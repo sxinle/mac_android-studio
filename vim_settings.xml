@@ -208,8 +208,10 @@
         <mark key="[" line="5" column="25" />
         <mark key="]" line="5" column="30" />
       </file>
-      <file name="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainActivity.kt" timestamp="1547720533495">
-        <mark key="'" line="64" column="22" />
+      <file name="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainActivity.kt" timestamp="1547775393987">
+        <mark key="'" line="52" column="44" />
+        <mark key="[" line="212" column="86" />
+        <mark key="]" line="212" column="116" />
       </file>
       <file name="/usr/local/android-sdk/platforms/android-28/data/res/values/colors.xml" timestamp="1538988264142">
         <mark key="[" line="116" column="43" />
@@ -217,7 +219,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/build.gradle" />
       <jump line="17" column="8" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/trade/detial/TradeDetialViewModel.kt" />
       <jump line="35" column="9" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/main/mine/MineViewModel.kt" />
       <jump line="41" column="0" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/api/ObserveOnMainCallAdapterFactory.kt" />
@@ -317,6 +318,7 @@
       <jump line="248" column="12" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainViewModel.kt" />
       <jump line="62" column="8" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainViewModel.kt" />
       <jump line="292" column="8" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainViewModel.kt" />
+      <jump line="52" column="44" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainActivity.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -326,10 +328,10 @@
         <text>1</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvbk92ZXJyaWRlVXJsTG9hZGluZ1w+</text>
+        <text>退出</text>
       </register>
       <register name="0" type="4">
-        <text>onOverrideUrlLoading</text>
+        <text>/rr/lnwd/myShop/promotShop.html</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
@@ -401,9 +403,9 @@ ff</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxvbk92ZXJyaWRlVXJsTG9hZGluZ1w+</last-search>
+      <last-search>退出</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvbk92ZXJyaWRlVXJsTG9hZGluZ1w+</last-pattern>
+      <last-pattern>退出</last-pattern>
       <last-replace>pipelineBean</last-replace>
       <last-substitute>version</last-substitute>
       <last-dir>1</last-dir>
@@ -411,7 +413,6 @@ ff</text>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0b29sQmFyXD4=</entry>
         <entry encoding="base64">XDxmcmFnbWVudExpc3RcPg==</entry>
         <entry encoding="base64">XDxpdGVtU2hvcEFkYXB0ZXJcPg==</entry>
         <entry>click</entry>
@@ -431,6 +432,7 @@ ff</text>
         <entry encoding="base64">XDxjYXJkSG9sZGVyXD4=</entry>
         <entry encoding="base64">XDxjbTEwMDg1RXZlbnRcPg==</entry>
         <entry encoding="base64">XDxvbk92ZXJyaWRlVXJsTG9hZGluZ1w+</entry>
+        <entry>退出</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0FsYXJtSW5mby9IaXNBbGFybUluZm8vZw==</entry>
