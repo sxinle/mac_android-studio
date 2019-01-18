@@ -174,8 +174,10 @@
         <mark key="[" line="100" column="32" />
         <mark key="]" line="100" column="41" />
       </file>
-      <file name="$USER_HOME$/Desktop/jd/and_partners/app/src/main/AndroidManifest.xml" timestamp="1547787184268">
-        <mark key="'" line="56" column="41" />
+      <file name="$USER_HOME$/Desktop/jd/and_partners/app/src/main/AndroidManifest.xml" timestamp="1547793098031">
+        <mark key="'" line="104" column="30" />
+        <mark key="[" line="105" column="27" />
+        <mark key="]" line="105" column="58" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/ln178/libraries/TextDrawable/src/main/java/com/amulyakhare/textdrawable/util/ColorGenerator.java" timestamp="1541647981947">
         <mark key="[" line="18" column="0" />
@@ -283,9 +285,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="40" filename="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/activity/jd/JDOpenCardActivity.java" />
-      <jump line="85" column="16" filename="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/activity/jd/JDOpenCardActivity.java" />
-      <jump line="135" column="10" filename="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/activity/jd/JDOpenCardActivity.java" />
       <jump line="41" column="33" filename="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/activity/jd/JDOpenCardActivity.java" />
       <jump line="58" column="70" filename="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/activity/jd/JDOpenCardActivity.java" />
       <jump line="183" column="0" filename="$USER_HOME$/Desktop/jd/ln178/bld/build.gradle" />
@@ -383,6 +382,9 @@
       <jump line="47" column="17" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainActivity.kt" />
       <jump line="63" column="8" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainActivity.kt" />
       <jump line="56" column="41" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/AndroidManifest.xml" />
+      <jump line="103" column="17" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/AndroidManifest.xml" />
+      <jump line="55" column="47" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/AndroidManifest.xml" />
+      <jump line="104" column="30" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/AndroidManifest.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -395,7 +397,7 @@
         <text>baidu</text>
       </register>
       <register name="0" type="4">
-        <text>/rr/lnwd/myShop/promotShop.html</text>
+        <text>e5CurNr83i3pIZD1R5oX8qn0s7z8gICG</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
