@@ -110,6 +110,10 @@
       <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/widget/JDPromotionItemView.java" timestamp="1542707922936">
         <mark key="'" line="85" column="12" />
       </file>
+      <file name="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/repository/SystermRepository.kt" timestamp="1547799811336">
+        <mark key="[" line="62" column="11" />
+        <mark key="]" line="62" column="14" />
+      </file>
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/AndroidManifest.xml" timestamp="1538977517716">
         <mark key="'" line="0" column="6" />
       </file>
@@ -397,7 +401,7 @@
         <text>baidu</text>
       </register>
       <register name="0" type="4">
-        <text>e5CurNr83i3pIZD1R5oX8qn0s7z8gICG</text>
+        <text>IMSI</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
