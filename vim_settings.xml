@@ -43,10 +43,10 @@
         <mark key="[" line="47" column="19" />
         <mark key="]" line="47" column="31" />
       </file>
-      <file name="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainViewModel.kt" timestamp="1548494501523">
-        <mark key="'" line="236" column="58" />
-        <mark key="[" line="234" column="12" />
-        <mark key="]" line="234" column="20" />
+      <file name="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainViewModel.kt" timestamp="1548496329518">
+        <mark key="'" line="281" column="0" />
+        <mark key="[" line="319" column="26" />
+        <mark key="]" line="319" column="45" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/res/layout/fragment_jd_me.xml" timestamp="1540975263112">
         <mark key="[" line="16" column="26" />
@@ -299,7 +299,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="148" column="40" filename="$USER_HOME$/Desktop/jd/ln178/bld/build.gradle" />
       <jump line="298" column="0" filename="$USER_HOME$/Desktop/jd/ln178/bld/build.gradle" />
       <jump line="144" column="11" filename="$USER_HOME$/Desktop/jd/ln178/bld/build.gradle" />
       <jump line="83" column="10" filename="$USER_HOME$/Desktop/jd/ln178/bld/build.gradle" />
@@ -399,6 +398,7 @@
       <jump line="400" column="16" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainViewModel.kt" />
       <jump line="43" column="18" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainViewModel.kt" />
       <jump line="236" column="58" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainViewModel.kt" />
+      <jump line="281" column="0" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainViewModel.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -408,10 +408,10 @@
         <text>7</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxSRVFVRVNUX0dBTExFUllcPg==</text>
+        <text>login</text>
       </register>
       <register name="0" type="4">
-        <text>toGallery</text>
+        <text>/rr/lnwd/index-after</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
@@ -483,9 +483,9 @@ ff</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxSRVFVRVNUX0dBTExFUllcPg==</last-search>
+      <last-search>login</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxSRVFVRVNUX0dBTExFUllcPg==</last-pattern>
+      <last-pattern>login</last-pattern>
       <last-replace>pipelineBean</last-replace>
       <last-substitute>version</last-substitute>
       <last-dir>1</last-dir>
@@ -493,7 +493,6 @@ ff</text>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0ZWppYUFkYXB0ZXJcPg==</entry>
         <entry>zxing</entry>
         <entry encoding="base64">XDx6QmFyRGVjb2Rlclw+</entry>
         <entry encoding="base64">XDxtQ2FtZXJhXD4=</entry>
@@ -513,6 +512,7 @@ ff</text>
         <entry encoding="base64">XDxjYWxsaW5nUGFja2FnZVw+</entry>
         <entry encoding="base64">XDxjbTEwMDg1RXZlbnRcPg==</entry>
         <entry encoding="base64">XDxSRVFVRVNUX0dBTExFUllcPg==</entry>
+        <entry>login</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0FsYXJtSW5mby9IaXNBbGFybUluZm8vZw==</entry>
