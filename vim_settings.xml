@@ -43,8 +43,8 @@
         <mark key="[" line="47" column="19" />
         <mark key="]" line="47" column="31" />
       </file>
-      <file name="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainViewModel.kt" timestamp="1548503749695">
-        <mark key="'" line="281" column="0" />
+      <file name="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainViewModel.kt" timestamp="1548503768300">
+        <mark key="'" line="282" column="8" />
         <mark key="[" line="292" column="8" />
         <mark key="]" line="292" column="27" />
       </file>
@@ -371,7 +371,6 @@
       <jump line="64" column="22" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainActivity.kt" />
       <jump line="52" column="44" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainActivity.kt" />
       <jump line="196" column="60" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainActivity.kt" />
-      <jump line="282" column="8" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainViewModel.kt" />
       <jump line="347" column="34" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainViewModel.kt" />
       <jump line="348" column="16" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainViewModel.kt" />
       <jump line="446" column="18" filename="$USER_HOME$/Desktop/jd/and_partners/app/libs/tbs_sdk_thirdapp_v3.6.0.1325_43613_sharewithdownload_withoutGame_obfs_20180807_151115.jar!/com/tencent/smtt/sdk/WebSettings.class" />
@@ -402,6 +401,7 @@
       <jump line="43" column="18" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainViewModel.kt" />
       <jump line="236" column="58" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainViewModel.kt" />
       <jump line="281" column="0" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainViewModel.kt" />
+      <jump line="282" column="8" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainViewModel.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -411,7 +411,7 @@
         <text>7</text>
       </register>
       <register name="/" type="4">
-        <text>login</text>
+        <text encoding="base64">XDxvcmlnaW5VQVw+</text>
       </register>
       <register name="0" type="4">
         <text>onOverrideUrlLoading</text>
@@ -486,9 +486,9 @@ ff</text>
       </register>
     </registers>
     <search>
-      <last-search>login</last-search>
+      <last-search encoding="base64">XDxvcmlnaW5VQVw+</last-search>
       <last-offset />
-      <last-pattern>login</last-pattern>
+      <last-pattern encoding="base64">XDxvcmlnaW5VQVw+</last-pattern>
       <last-replace>pipelineBean</last-replace>
       <last-substitute>version</last-substitute>
       <last-dir>1</last-dir>
@@ -505,7 +505,6 @@ ff</text>
         <entry encoding="base64">XDxjYXJkSG9sZGVyXD4=</entry>
         <entry>退出</entry>
         <entry>check</entry>
-        <entry encoding="base64">XDxvcmlnaW5VQVw+</entry>
         <entry encoding="base64">XDxvbk92ZXJyaWRlVXJsTG9hZGluZ1w+</entry>
         <entry encoding="base64">XDxiZEFic3RyYWN0TG9jYXRpb25MaXN0ZW5lclw+</entry>
         <entry encoding="base64">XDxsb2NhdGlvbkNsaWVudFw+</entry>
@@ -516,6 +515,7 @@ ff</text>
         <entry encoding="base64">XDxjbTEwMDg1RXZlbnRcPg==</entry>
         <entry encoding="base64">XDxSRVFVRVNUX0dBTExFUllcPg==</entry>
         <entry>login</entry>
+        <entry encoding="base64">XDxvcmlnaW5VQVw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0FsYXJtSW5mby9IaXNBbGFybUluZm8vZw==</entry>
