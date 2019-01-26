@@ -43,10 +43,10 @@
         <mark key="[" line="47" column="19" />
         <mark key="]" line="47" column="31" />
       </file>
-      <file name="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainViewModel.kt" timestamp="1548496329518">
+      <file name="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainViewModel.kt" timestamp="1548498035929">
         <mark key="'" line="281" column="0" />
-        <mark key="[" line="319" column="26" />
-        <mark key="]" line="319" column="45" />
+        <mark key="[" line="276" column="68" />
+        <mark key="]" line="276" column="71" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/res/layout/fragment_jd_me.xml" timestamp="1540975263112">
         <mark key="[" line="16" column="26" />
@@ -236,9 +236,9 @@
         <mark key="[" line="157" column="68" />
         <mark key="]" line="157" column="80" />
       </file>
-      <file name="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/network/ThinkerjetAPI.kt" timestamp="1547725683735">
-        <mark key="[" line="54" column="10" />
-        <mark key="]" line="54" column="37" />
+      <file name="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/network/ThinkerjetAPI.kt" timestamp="1548497667896">
+        <mark key="[" line="48" column="10" />
+        <mark key="]" line="48" column="25" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/api/statistics/StatisticsAPI.kt" timestamp="1538966280407">
         <mark key="[" line="15" column="16" />
@@ -411,7 +411,7 @@
         <text>login</text>
       </register>
       <register name="0" type="4">
-        <text>/rr/lnwd/index-after</text>
+        <text>应用启动</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
