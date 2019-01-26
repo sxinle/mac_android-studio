@@ -43,7 +43,7 @@
         <mark key="[" line="47" column="19" />
         <mark key="]" line="47" column="31" />
       </file>
-      <file name="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainViewModel.kt" timestamp="1548488331331">
+      <file name="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainViewModel.kt" timestamp="1548489450494">
         <mark key="'" line="62" column="8" />
         <mark key="[" line="233" column="9" />
         <mark key="]" line="233" column="27" />
@@ -287,8 +287,8 @@
         <mark key="[" line="5" column="25" />
         <mark key="]" line="5" column="30" />
       </file>
-      <file name="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainActivity.kt" timestamp="1548488350107">
-        <mark key="'" line="66" column="16" />
+      <file name="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainActivity.kt" timestamp="1548489451219">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/gradle.properties" timestamp="1538975292232">
         <mark key="'" line="11" column="18" />
@@ -299,9 +299,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="164" column="4" filename="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/fragment/jd/JdIndexFragment.java" />
-      <jump line="165" column="4" filename="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/fragment/jd/JdIndexFragment.java" />
-      <jump line="171" column="13" filename="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/fragment/jd/JdIndexFragment.java" />
       <jump line="27" column="27" filename="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/widget/JdSearchView.java" />
       <jump line="221" column="45" filename="$USER_HOME$/Desktop/jd/ln178/bld/build.gradle" />
       <jump line="197" column="35" filename="$USER_HOME$/Desktop/jd/ln178/bld/build.gradle" />
@@ -395,10 +392,13 @@
       <jump line="98" column="42" filename="$USER_HOME$/Desktop/jd/and_partners/app/build.gradle" />
       <jump line="13" column="4" filename="$USER_HOME$/Desktop/jd/and_partners/app/build.gradle" />
       <jump line="237" column="8" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainViewModel.kt" />
-      <jump line="248" column="12" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainViewModel.kt" />
-      <jump line="62" column="8" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainViewModel.kt" />
       <jump line="804" column="18" filename="/usr/local/android-sdk/platforms/android-27/android.jar!/android/app/Activity.class" />
       <jump line="66" column="16" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainActivity.kt" />
+      <jump line="67" column="36" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainActivity.kt" />
+      <jump line="303" column="0" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainActivity.kt" />
+      <jump line="248" column="12" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainViewModel.kt" />
+      <jump line="62" column="8" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainViewModel.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainActivity.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -408,7 +408,7 @@
         <text>7</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjYWxsaW5nUGFja2FnZVw+</text>
+        <text encoding="base64">XDxjbTEwMDg1RXZlbnRcPg==</text>
       </register>
       <register name="0" type="4">
         <text>JavascriptInterface</text>
@@ -483,9 +483,9 @@ ff</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjYWxsaW5nUGFja2FnZVw+</last-search>
+      <last-search encoding="base64">XDxjbTEwMDg1RXZlbnRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjYWxsaW5nUGFja2FnZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxjbTEwMDg1RXZlbnRcPg==</last-pattern>
       <last-replace>pipelineBean</last-replace>
       <last-substitute>version</last-substitute>
       <last-dir>1</last-dir>
@@ -511,8 +511,8 @@ ff</text>
         <entry>baidu</entry>
         <entry>sign</entry>
         <entry>on10085Result</entry>
-        <entry encoding="base64">XDxjbTEwMDg1RXZlbnRcPg==</entry>
         <entry encoding="base64">XDxjYWxsaW5nUGFja2FnZVw+</entry>
+        <entry encoding="base64">XDxjbTEwMDg1RXZlbnRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0FsYXJtSW5mby9IaXNBbGFybUluZm8vZw==</entry>
