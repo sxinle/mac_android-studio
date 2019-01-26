@@ -43,10 +43,10 @@
         <mark key="[" line="47" column="19" />
         <mark key="]" line="47" column="31" />
       </file>
-      <file name="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainViewModel.kt" timestamp="1548498035929">
+      <file name="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainViewModel.kt" timestamp="1548499646224">
         <mark key="'" line="281" column="0" />
-        <mark key="[" line="276" column="68" />
-        <mark key="]" line="276" column="71" />
+        <mark key="[" line="292" column="8" />
+        <mark key="]" line="292" column="27" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/res/layout/fragment_jd_me.xml" timestamp="1540975263112">
         <mark key="[" line="16" column="26" />
@@ -97,6 +97,9 @@
       </file>
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/trade/trades/TradeListAdapter.kt" timestamp="1539308477246">
         <mark key="'" line="27" column="42" />
+      </file>
+      <file name="/fragment.kt" timestamp="1548499064275">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/activity/jd/JDSelectNumberActivity.java" timestamp="1544682610461">
         <mark key="[" line="127" column="40" />
@@ -411,7 +414,7 @@
         <text>login</text>
       </register>
       <register name="0" type="4">
-        <text>应用启动</text>
+        <text>onOverrideUrlLoading</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
