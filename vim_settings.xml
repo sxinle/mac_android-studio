@@ -259,6 +259,10 @@
         <mark key="[" line="6" column="24" />
         <mark key="]" line="6" column="30" />
       </file>
+      <file name="/usr/local/android-sdk/platforms/android-27/android.jar!/android/webkit/JavascriptInterface.class" timestamp="1548480761899">
+        <mark key="[" line="14" column="18" />
+        <mark key="]" line="14" column="36" />
+      </file>
       <file name="/activity_jd_qr_code.xml" timestamp="1544411353291">
         <mark key="[" line="54" column="34" />
         <mark key="]" line="54" column="52" />
@@ -396,7 +400,7 @@
         <text>sign</text>
       </register>
       <register name="0" type="4">
-        <text>IMSI</text>
+        <text>JavascriptInterface</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
