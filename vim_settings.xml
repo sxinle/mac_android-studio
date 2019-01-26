@@ -21,7 +21,8 @@
         <mark key="[" line="435" column="35" />
         <mark key="]" line="435" column="39" />
       </file>
-      <file name="$USER_HOME$/Desktop/jd/and_partners/app/build.gradle" timestamp="1547801832179">
+      <file name="$USER_HOME$/Desktop/jd/and_partners/app/build.gradle" timestamp="1548477768481">
+        <mark key="'" line="13" column="4" />
         <mark key="[" line="34" column="21" />
         <mark key="]" line="34" column="22" />
         <mark key="." line="34" column="22" />
@@ -39,11 +40,6 @@
         <mark key="[" line="47" column="19" />
         <mark key="]" line="47" column="31" />
       </file>
-      <file name="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainViewModel.kt" timestamp="1547802416234">
-        <mark key="'" line="292" column="8" />
-        <mark key="[" line="292" column="8" />
-        <mark key="]" line="292" column="27" />
-      </file>
       <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/res/layout/fragment_jd_me.xml" timestamp="1540975263112">
         <mark key="[" line="16" column="26" />
         <mark key="]" line="16" column="34" />
@@ -51,7 +47,6 @@
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/trade/detial/TradeDetialViewModel.kt" timestamp="1539163028780">
         <mark key="'" line="17" column="8" />
       </file>
-      <file name="/MainViewModel.kt" timestamp="1547801449315" />
       <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/fragment/z/store/CardManagerFragment.java" timestamp="1541732416109">
         <mark key="[" line="136" column="43" />
         <mark key="]" line="136" column="49" />
@@ -280,13 +275,6 @@
         <mark key="[" line="5" column="25" />
         <mark key="]" line="5" column="30" />
       </file>
-      <file name="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainActivity.kt" timestamp="1547802206602">
-        <mark key="'" line="63" column="8" />
-        <mark key="[" line="52" column="29" />
-        <mark key="]" line="52" column="29" />
-        <mark key="." line="52" column="29" />
-        <mark key="^" line="52" column="29" />
-      </file>
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/gradle.properties" timestamp="1538975292232">
         <mark key="'" line="11" column="18" />
       </file>
@@ -296,12 +284,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="33" filename="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/activity/jd/JDOpenCardActivity.java" />
-      <jump line="58" column="70" filename="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/activity/jd/JDOpenCardActivity.java" />
-      <jump line="183" column="0" filename="$USER_HOME$/Desktop/jd/ln178/bld/build.gradle" />
-      <jump line="68" column="5" filename="$USER_HOME$/Desktop/jd/ln178/bld/build.gradle" />
-      <jump line="74" column="5" filename="$USER_HOME$/Desktop/jd/ln178/bld/build.gradle" />
-      <jump line="222" column="29" filename="$USER_HOME$/Desktop/jd/ln178/bld/build.gradle" />
       <jump line="18" column="2" filename="$USER_HOME$/Desktop/jd/ln178/bld/build.gradle" />
       <jump line="24" column="10" filename="$USER_HOME$/Desktop/jd/ln178/bld/build.gradle" />
       <jump line="163" column="26" filename="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/fragment/jd/JdIndexFragment.java" />
@@ -396,6 +378,12 @@
       <jump line="103" column="17" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/AndroidManifest.xml" />
       <jump line="55" column="47" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/AndroidManifest.xml" />
       <jump line="104" column="30" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/AndroidManifest.xml" />
+      <jump line="63" column="19" filename="$USER_HOME$/Desktop/jd/and_partners/app/build.gradle" />
+      <jump line="30" column="10" filename="$USER_HOME$/Desktop/jd/and_partners/app/build.gradle" />
+      <jump line="45" column="28" filename="$USER_HOME$/Desktop/jd/and_partners/app/build.gradle" />
+      <jump line="48" column="28" filename="$USER_HOME$/Desktop/jd/and_partners/app/build.gradle" />
+      <jump line="98" column="42" filename="$USER_HOME$/Desktop/jd/and_partners/app/build.gradle" />
+      <jump line="13" column="4" filename="$USER_HOME$/Desktop/jd/and_partners/app/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -405,7 +393,7 @@
         <text>7</text>
       </register>
       <register name="/" type="4">
-        <text>baidu</text>
+        <text>sign</text>
       </register>
       <register name="0" type="4">
         <text>IMSI</text>
@@ -480,9 +468,9 @@ ff</text>
       </register>
     </registers>
     <search>
-      <last-search>baidu</last-search>
+      <last-search>sign</last-search>
       <last-offset />
-      <last-pattern>baidu</last-pattern>
+      <last-pattern>sign</last-pattern>
       <last-replace>pipelineBean</last-replace>
       <last-substitute>version</last-substitute>
       <last-dir>1</last-dir>
@@ -490,7 +478,6 @@ ff</text>
     </search>
     <history>
       <history-search>
-        <entry>卡号</entry>
         <entry encoding="base64">XDxpbnRlbnRcPg==</entry>
         <entry encoding="base64">XDx0dlRvcGljXD4=</entry>
         <entry encoding="base64">XDxydlRlamlhXD4=</entry>
@@ -510,6 +497,7 @@ ff</text>
         <entry encoding="base64">XDxiZEFic3RyYWN0TG9jYXRpb25MaXN0ZW5lclw+</entry>
         <entry encoding="base64">XDxsb2NhdGlvbkNsaWVudFw+</entry>
         <entry>baidu</entry>
+        <entry>sign</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0FsYXJtSW5mby9IaXNBbGFybUluZm8vZw==</entry>
