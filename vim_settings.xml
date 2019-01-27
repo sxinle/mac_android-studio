@@ -48,10 +48,10 @@
         <mark key="[" line="47" column="19" />
         <mark key="]" line="47" column="31" />
       </file>
-      <file name="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainViewModel.kt" timestamp="1548580929745">
-        <mark key="'" line="282" column="8" />
-        <mark key="[" line="372" column="38" />
-        <mark key="]" line="372" column="44" />
+      <file name="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainViewModel.kt" timestamp="1548582427538">
+        <mark key="'" line="355" column="61" />
+        <mark key="[" line="359" column="38" />
+        <mark key="]" line="359" column="44" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/res/layout/fragment_jd_me.xml" timestamp="1540975263112">
         <mark key="[" line="16" column="26" />
@@ -244,9 +244,9 @@
         <mark key="[" line="157" column="68" />
         <mark key="]" line="157" column="80" />
       </file>
-      <file name="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/network/ThinkerjetAPI.kt" timestamp="1548497667896">
-        <mark key="[" line="48" column="10" />
-        <mark key="]" line="48" column="25" />
+      <file name="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/network/ThinkerjetAPI.kt" timestamp="1548582534866">
+        <mark key="[" line="69" column="10" />
+        <mark key="]" line="69" column="25" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/api/statistics/StatisticsAPI.kt" timestamp="1538966280407">
         <mark key="[" line="15" column="16" />
@@ -307,10 +307,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="144" column="11" filename="$USER_HOME$/Desktop/jd/ln178/bld/build.gradle" />
-      <jump line="83" column="10" filename="$USER_HOME$/Desktop/jd/ln178/bld/build.gradle" />
-      <jump line="99" column="26" filename="$USER_HOME$/Desktop/jd/ln178/bld/build.gradle" />
-      <jump line="115" column="11" filename="$USER_HOME$/Desktop/jd/ln178/bld/build.gradle" />
       <jump line="129" column="11" filename="$USER_HOME$/Desktop/jd/ln178/bld/build.gradle" />
       <jump line="285" column="40" filename="$USER_HOME$/Desktop/jd/ln178/bld/build.gradle" />
       <jump line="42" column="39" filename="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/activity/jd/JDOpenCardActivity.java" />
@@ -407,6 +403,10 @@
       <jump line="281" column="0" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainViewModel.kt" />
       <jump line="282" column="8" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainViewModel.kt" />
       <jump line="996" column="18" filename="$USER_HOME$/Desktop/jd/and_partners/app/libs/tbs_sdk_thirdapp_v3.6.0.1325_43613_sharewithdownload_withoutGame_obfs_20180807_151115.jar!/com/tencent/smtt/sdk/WebView.class" />
+      <jump line="294" column="12" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainViewModel.kt" />
+      <jump line="321" column="46" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainViewModel.kt" />
+      <jump line="335" column="54" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainViewModel.kt" />
+      <jump line="355" column="61" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainViewModel.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -416,10 +416,10 @@
         <text>7</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvcmlnaW5VQVw+</text>
+        <text encoding="base64">XDxtVXJsXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>getOriginalUrl</text>
+        <text>getUserAgentSign</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
@@ -491,9 +491,9 @@ ff</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxvcmlnaW5VQVw+</last-search>
+      <last-search encoding="base64">XDxtVXJsXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvcmlnaW5VQVw+</last-pattern>
+      <last-pattern encoding="base64">XDxtVXJsXD4=</last-pattern>
       <last-replace>pipelineBean</last-replace>
       <last-substitute>version</last-substitute>
       <last-dir>1</last-dir>
@@ -501,7 +501,6 @@ ff</text>
     </search>
     <history>
       <history-search>
-        <entry>zxing</entry>
         <entry encoding="base64">XDx6QmFyRGVjb2Rlclw+</entry>
         <entry encoding="base64">XDxtQ2FtZXJhXD4=</entry>
         <entry encoding="base64">XDxkaXJ0eUZsYWdzXD4=</entry>
@@ -521,6 +520,7 @@ ff</text>
         <entry encoding="base64">XDxSRVFVRVNUX0dBTExFUllcPg==</entry>
         <entry>login</entry>
         <entry encoding="base64">XDxvcmlnaW5VQVw+</entry>
+        <entry encoding="base64">XDxtVXJsXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0FsYXJtSW5mby9IaXNBbGFybUluZm8vZw==</entry>
