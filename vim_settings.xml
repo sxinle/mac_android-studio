@@ -21,7 +21,7 @@
         <mark key="[" line="435" column="35" />
         <mark key="]" line="435" column="39" />
       </file>
-      <file name="$USER_HOME$/Desktop/jd/and_partners/app/build.gradle" timestamp="1548477768481">
+      <file name="$USER_HOME$/Desktop/jd/and_partners/app/build.gradle" timestamp="1548663247729">
         <mark key="'" line="13" column="4" />
         <mark key="[" line="34" column="21" />
         <mark key="]" line="34" column="22" />
@@ -47,11 +47,6 @@
       <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/bean/mybanks/MyBankListData.java" timestamp="1546845595218">
         <mark key="[" line="47" column="19" />
         <mark key="]" line="47" column="31" />
-      </file>
-      <file name="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainViewModel.kt" timestamp="1548661675188">
-        <mark key="'" line="38" column="5" />
-        <mark key="[" line="336" column="72" />
-        <mark key="]" line="336" column="75" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/res/layout/fragment_jd_me.xml" timestamp="1540975263112">
         <mark key="[" line="16" column="26" />
@@ -420,7 +415,7 @@
         <text>登录</text>
       </register>
       <register name="0" type="4">
-        <text>用户登出</text>
+        <text>&quot;logout&quot;.equals</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
