@@ -48,8 +48,8 @@
         <mark key="[" line="47" column="19" />
         <mark key="]" line="47" column="31" />
       </file>
-      <file name="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainViewModel.kt" timestamp="1548601697647">
-        <mark key="'" line="292" column="8" />
+      <file name="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainViewModel.kt" timestamp="1548651921213">
+        <mark key="'" line="275" column="20" />
         <mark key="[" line="351" column="55" />
         <mark key="]" line="351" column="92" />
       </file>
@@ -244,9 +244,9 @@
         <mark key="[" line="157" column="68" />
         <mark key="]" line="157" column="80" />
       </file>
-      <file name="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/network/ThinkerjetAPI.kt" timestamp="1548582534866">
-        <mark key="[" line="69" column="10" />
-        <mark key="]" line="69" column="25" />
+      <file name="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/network/ThinkerjetAPI.kt" timestamp="1548651545098">
+        <mark key="[" line="49" column="24" />
+        <mark key="]" line="49" column="29" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/api/statistics/StatisticsAPI.kt" timestamp="1538966280407">
         <mark key="[" line="15" column="16" />
@@ -307,7 +307,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="129" column="11" filename="$USER_HOME$/Desktop/jd/ln178/bld/build.gradle" />
       <jump line="285" column="40" filename="$USER_HOME$/Desktop/jd/ln178/bld/build.gradle" />
       <jump line="42" column="39" filename="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/activity/jd/JDOpenCardActivity.java" />
       <jump line="165" column="10" filename="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/activity/jd/JDOpenCardActivity.java" />
@@ -407,6 +406,7 @@
       <jump line="335" column="54" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainViewModel.kt" />
       <jump line="355" column="61" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainViewModel.kt" />
       <jump line="292" column="8" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainViewModel.kt" />
+      <jump line="275" column="20" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainViewModel.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -416,10 +416,10 @@
         <text>7</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvbk92ZXJyaWRlVXJsTG9hZGluZ1w+</text>
+        <text encoding="base64">XDx1cmxcPg==</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">IGh4ZGFwcC8ke2l0LnRpbWVzdGFtcH0vaHhkLyR7aXQuc2lnbn0=</text>
+        <text>params</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
@@ -491,17 +491,16 @@ ff</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxvbk92ZXJyaWRlVXJsTG9hZGluZ1w+</last-search>
+      <last-search encoding="base64">XDx1cmxcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvbk92ZXJyaWRlVXJsTG9hZGluZ1w+</last-pattern>
+      <last-pattern encoding="base64">XDx1cmxcPg==</last-pattern>
       <last-replace>pipelineBean</last-replace>
       <last-substitute>version</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx6QmFyRGVjb2Rlclw+</entry>
         <entry encoding="base64">XDxtQ2FtZXJhXD4=</entry>
         <entry encoding="base64">XDxkaXJ0eUZsYWdzXD4=</entry>
         <entry encoding="base64">XDxiaW5kQmFua0RhdGFJbml0XD4=</entry>
@@ -521,6 +520,7 @@ ff</text>
         <entry encoding="base64">XDxvcmlnaW5VQVw+</entry>
         <entry encoding="base64">XDxtVXJsXD4=</entry>
         <entry encoding="base64">XDxvbk92ZXJyaWRlVXJsTG9hZGluZ1w+</entry>
+        <entry encoding="base64">XDx1cmxcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0FsYXJtSW5mby9IaXNBbGFybUluZm8vZw==</entry>
