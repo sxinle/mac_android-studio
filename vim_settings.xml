@@ -244,9 +244,10 @@
         <mark key="[" line="157" column="68" />
         <mark key="]" line="157" column="80" />
       </file>
-      <file name="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/network/ThinkerjetAPI.kt" timestamp="1548651545098">
-        <mark key="[" line="49" column="24" />
-        <mark key="]" line="49" column="29" />
+      <file name="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/network/ThinkerjetAPI.kt" timestamp="1548660499423">
+        <mark key="'" line="33" column="39" />
+        <mark key="[" line="33" column="27" />
+        <mark key="]" line="33" column="33" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/api/statistics/StatisticsAPI.kt" timestamp="1538966280407">
         <mark key="[" line="15" column="16" />
@@ -307,7 +308,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="285" column="40" filename="$USER_HOME$/Desktop/jd/ln178/bld/build.gradle" />
       <jump line="42" column="39" filename="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/activity/jd/JDOpenCardActivity.java" />
       <jump line="165" column="10" filename="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/activity/jd/JDOpenCardActivity.java" />
       <jump line="45" column="33" filename="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/activity/jd/JDOpenCardActivity.java" />
@@ -407,6 +407,7 @@
       <jump line="355" column="61" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainViewModel.kt" />
       <jump line="292" column="8" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainViewModel.kt" />
       <jump line="275" column="20" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainViewModel.kt" />
+      <jump line="33" column="39" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/network/ThinkerjetAPI.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -416,10 +417,10 @@
         <text>7</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1cmxcPg==</text>
+        <text>remark</text>
       </register>
       <register name="0" type="4">
-        <text>params</text>
+        <text>operTag</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
@@ -491,9 +492,9 @@ ff</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1cmxcPg==</last-search>
+      <last-search>remark</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1cmxcPg==</last-pattern>
+      <last-pattern>remark</last-pattern>
       <last-replace>pipelineBean</last-replace>
       <last-substitute>version</last-substitute>
       <last-dir>1</last-dir>
@@ -501,7 +502,6 @@ ff</text>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtQ2FtZXJhXD4=</entry>
         <entry encoding="base64">XDxkaXJ0eUZsYWdzXD4=</entry>
         <entry encoding="base64">XDxiaW5kQmFua0RhdGFJbml0XD4=</entry>
         <entry>modal</entry>
@@ -521,6 +521,7 @@ ff</text>
         <entry encoding="base64">XDxtVXJsXD4=</entry>
         <entry encoding="base64">XDxvbk92ZXJyaWRlVXJsTG9hZGluZ1w+</entry>
         <entry encoding="base64">XDx1cmxcPg==</entry>
+        <entry>remark</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0FsYXJtSW5mby9IaXNBbGFybUluZm8vZw==</entry>
