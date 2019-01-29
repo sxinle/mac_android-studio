@@ -301,8 +301,8 @@
         <mark key="[" line="5" column="25" />
         <mark key="]" line="5" column="30" />
       </file>
-      <file name="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainActivity.kt" timestamp="1548752587860">
-        <mark key="'" line="292" column="34" />
+      <file name="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainActivity.kt" timestamp="1548764510070">
+        <mark key="'" line="246" column="37" />
         <mark key="[" line="200" column="67" />
         <mark key="]" line="200" column="70" />
       </file>
@@ -315,10 +315,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="29" filename="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/activity/z/res/AlloctionDetialActivity.java" />
-      <jump line="216" column="41" filename="$USER_HOME$/Desktop/jd/ln178/bld/build.gradle" />
-      <jump line="25" column="11" filename="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/LaunchActivity.java" />
-      <jump line="60" column="8" filename="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/widget/JDPromotionItemView.java" />
       <jump line="82" column="8" filename="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/widget/JDPromotionItemView.java" />
       <jump line="84" column="12" filename="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/widget/JDPromotionItemView.java" />
       <jump line="85" column="12" filename="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/widget/JDPromotionItemView.java" />
@@ -415,6 +411,10 @@
       <jump line="64" column="26" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainViewModel.kt" />
       <jump line="299" column="12" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainViewModel.kt" />
       <jump line="63" column="8" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainViewModel.kt" />
+      <jump line="380" column="19" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainActivity.kt" />
+      <jump line="249" column="37" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainActivity.kt" />
+      <jump line="242" column="62" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainActivity.kt" />
+      <jump line="246" column="37" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainActivity.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -424,7 +424,7 @@
         <text>rr/</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjbTEwMDg1RXZlbnRcPg==</text>
+        <text>agent</text>
       </register>
       <register name="0" type="4">
         <text>onGalleryResult</text>
@@ -499,9 +499,9 @@ ff</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjbTEwMDg1RXZlbnRcPg==</last-search>
+      <last-search>agent</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjbTEwMDg1RXZlbnRcPg==</last-pattern>
+      <last-pattern>agent</last-pattern>
       <last-replace>pipelineBean</last-replace>
       <last-substitute>version</last-substitute>
       <last-dir>1</last-dir>
@@ -509,7 +509,6 @@ ff</text>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjYWxsaW5nUGFja2FnZVw+</entry>
         <entry encoding="base64">XDxSRVFVRVNUX0dBTExFUllcPg==</entry>
         <entry>login</entry>
         <entry encoding="base64">XDxvcmlnaW5VQVw+</entry>
@@ -529,6 +528,7 @@ ff</text>
         <entry>toCm</entry>
         <entry>10085</entry>
         <entry encoding="base64">XDxjbTEwMDg1RXZlbnRcPg==</entry>
+        <entry>agent</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0FsYXJtSW5mby9IaXNBbGFybUluZm8vZw==</entry>
