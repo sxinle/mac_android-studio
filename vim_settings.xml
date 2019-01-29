@@ -48,8 +48,8 @@
         <mark key="[" line="47" column="19" />
         <mark key="]" line="47" column="31" />
       </file>
-      <file name="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainViewModel.kt" timestamp="1548732325197">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainViewModel.kt" timestamp="1548741766268">
+        <mark key="'" line="102" column="53" />
         <mark key="[" line="45" column="30" />
         <mark key="]" line="45" column="57" />
         <mark key="^" line="370" column="54" />
@@ -313,7 +313,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="31" filename="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/adapter/useralloc/ApplyListAdapter.java" />
       <jump line="90" column="45" filename="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/adapter/useralloc/ApplyListAdapter.java" />
       <jump line="104" column="47" filename="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/adapter/useralloc/ApplyListAdapter.java" />
       <jump line="105" column="29" filename="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/adapter/useralloc/ApplyListAdapter.java" />
@@ -413,6 +412,7 @@
       <jump line="148" column="30" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainViewModel.kt" />
       <jump line="155" column="33" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainViewModel.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainViewModel.kt" />
+      <jump line="102" column="53" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainViewModel.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -422,7 +422,7 @@
         <text>rr/</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzaGFyZVVybFw+</text>
+        <text>share</text>
       </register>
       <register name="0" type="4">
         <text>https://rryx.sinovatech.com/</text>
@@ -497,9 +497,9 @@ ff</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzaGFyZVVybFw+</last-search>
+      <last-search>share</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzaGFyZVVybFw+</last-pattern>
+      <last-pattern>share</last-pattern>
       <last-replace>pipelineBean</last-replace>
       <last-substitute>version</last-substitute>
       <last-dir>1</last-dir>
@@ -521,12 +521,12 @@ ff</text>
         <entry>remark</entry>
         <entry>重新登录</entry>
         <entry>登录</entry>
-        <entry>share</entry>
         <entry encoding="base64">XDxncm91cF9zaGFyZVw+</entry>
         <entry>group_share</entry>
         <entry>分享到</entry>
         <entry>分享</entry>
         <entry encoding="base64">XDxzaGFyZVVybFw+</entry>
+        <entry>share</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0FsYXJtSW5mby9IaXNBbGFybUluZm8vZw==</entry>
