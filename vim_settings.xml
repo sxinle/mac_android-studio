@@ -155,6 +155,9 @@
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/build/generated/data_binding_base_class_source_out/debug/dataBindingGenBaseClassesDebug/out/com/thinkerjet/jdcommunication/databinding/ItemTradeListBinding.java" timestamp="1539308447837">
         <mark key="'" line="37" column="32" />
       </file>
+      <file name="$USER_HOME$/Desktop/jd/and_partners/app/src/main/res/menu/menu_main.xml" timestamp="1548669669967">
+        <mark key="'" line="9" column="25" />
+      </file>
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/res/values/colors.xml" timestamp="1539083665668">
         <mark key="[" line="14" column="34" />
         <mark key="]" line="14" column="40" />
@@ -291,8 +294,8 @@
         <mark key="[" line="5" column="25" />
         <mark key="]" line="5" column="30" />
       </file>
-      <file name="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainActivity.kt" timestamp="1548489451219">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainActivity.kt" timestamp="1548669674348">
+        <mark key="'" line="292" column="34" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/gradle.properties" timestamp="1538975292232">
         <mark key="'" line="11" column="18" />
@@ -303,10 +306,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="165" column="10" filename="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/activity/jd/JDOpenCardActivity.java" />
-      <jump line="45" column="33" filename="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/activity/jd/JDOpenCardActivity.java" />
-      <jump line="65" column="70" filename="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/activity/jd/JDOpenCardActivity.java" />
-      <jump line="64" column="12" filename="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/activity/me/TradeInfoActivity.java" />
       <jump line="42" column="27" filename="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/activity/z/res/UserallocActivity.java" />
       <jump line="46" column="28" filename="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/fragment/z/useralloc/ItemShopFragment.java" />
       <jump line="44" column="29" filename="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/adapter/useralloc/ApplyListAdapter.java" />
@@ -403,6 +402,10 @@
       <jump line="275" column="20" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainViewModel.kt" />
       <jump line="33" column="39" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/network/ThinkerjetAPI.kt" />
       <jump line="38" column="5" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainViewModel.kt" />
+      <jump line="278" column="66" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainActivity.kt" />
+      <jump line="285" column="24" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainActivity.kt" />
+      <jump line="9" column="25" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/res/menu/menu_main.xml" />
+      <jump line="292" column="34" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainActivity.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -412,7 +415,7 @@
         <text>7</text>
       </register>
       <register name="/" type="4">
-        <text>登录</text>
+        <text>group_share</text>
       </register>
       <register name="0" type="4">
         <text>&quot;logout&quot;.equals</text>
@@ -487,9 +490,9 @@ ff</text>
       </register>
     </registers>
     <search>
-      <last-search>登录</last-search>
+      <last-search>group_share</last-search>
       <last-offset />
-      <last-pattern>登录</last-pattern>
+      <last-pattern>group_share</last-pattern>
       <last-replace>pipelineBean</last-replace>
       <last-substitute>version</last-substitute>
       <last-dir>1</last-dir>
@@ -497,9 +500,6 @@ ff</text>
     </search>
     <history>
       <history-search>
-        <entry>modal</entry>
-        <entry encoding="base64">XDxjYXJkSG9sZGVyXD4=</entry>
-        <entry>退出</entry>
         <entry>check</entry>
         <entry encoding="base64">XDxiZEFic3RyYWN0TG9jYXRpb25MaXN0ZW5lclw+</entry>
         <entry encoding="base64">XDxsb2NhdGlvbkNsaWVudFw+</entry>
@@ -517,6 +517,9 @@ ff</text>
         <entry>remark</entry>
         <entry>重新登录</entry>
         <entry>登录</entry>
+        <entry>share</entry>
+        <entry encoding="base64">XDxncm91cF9zaGFyZVw+</entry>
+        <entry>group_share</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0FsYXJtSW5mby9IaXNBbGFybUluZm8vZw==</entry>
