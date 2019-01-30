@@ -323,13 +323,13 @@
         <mark key="[" line="116" column="43" />
         <mark key="]" line="116" column="48" />
       </file>
-      <file name="/usr/local/android-sdk/platforms/android-27/android.jar!/android/webkit/WebView.class" timestamp="1548827102314">
-        <mark key="[" line="263" column="33" />
-        <mark key="]" line="263" column="48" />
+      <file name="/usr/local/android-sdk/platforms/android-27/android.jar!/android/webkit/WebView.class" timestamp="1548828760685">
+        <mark key="'" line="734" column="32" />
+        <mark key="[" line="721" column="24" />
+        <mark key="]" line="721" column="36" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="41" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/scarn/ScanCaptureActivity.java" />
       <jump line="144" column="13" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/scarn/ScanCaptureActivity.java" />
       <jump line="145" column="53" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/scarn/ScanCaptureActivity.java" />
       <jump line="160" column="17" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/scarn/ScanCaptureActivity.java" />
@@ -429,6 +429,7 @@
       <jump line="48" column="48" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/dialog/savewebimg/ImageUrlSaveDialogFragment.kt" />
       <jump line="225" column="22" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainActivity.kt" />
       <jump line="84" column="0" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainViewModel.kt" />
+      <jump line="734" column="32" filename="/usr/local/android-sdk/platforms/android-27/android.jar!/android/webkit/WebView.class" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -438,10 +439,10 @@
         <text>debug</text>
       </register>
       <register name="/" type="4">
-        <text>asset</text>
+        <text encoding="base64">XDxTUkNfSU1BR0VfQU5DSE9SX1RZUEVcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>setOnLongClickListener</text>
+        <text>HitTestResult</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -481,9 +482,9 @@
       </register>
     </registers>
     <search>
-      <last-search>asset</last-search>
+      <last-search encoding="base64">XDxTUkNfSU1BR0VfQU5DSE9SX1RZUEVcPg==</last-search>
       <last-offset />
-      <last-pattern>asset</last-pattern>
+      <last-pattern encoding="base64">XDxTUkNfSU1BR0VfQU5DSE9SX1RZUEVcPg==</last-pattern>
       <last-replace>pipelineBean</last-replace>
       <last-substitute>version</last-substitute>
       <last-dir>1</last-dir>
@@ -491,7 +492,6 @@
     </search>
     <history>
       <history-search>
-        <entry>remark</entry>
         <entry>重新登录</entry>
         <entry>登录</entry>
         <entry encoding="base64">XDxncm91cF9zaGFyZVw+</entry>
@@ -511,6 +511,7 @@
         <entry encoding="base64">XDxpbWdTXD4=</entry>
         <entry encoding="base64">XDxzYXZlSW1nQ29uZmlybUV2ZW50XD4=</entry>
         <entry>asset</entry>
+        <entry encoding="base64">XDxTUkNfSU1BR0VfQU5DSE9SX1RZUEVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0FsYXJtSW5mby9IaXNBbGFybUluZm8vZw==</entry>
