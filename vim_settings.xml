@@ -52,8 +52,8 @@
         <mark key="[" line="47" column="19" />
         <mark key="]" line="47" column="31" />
       </file>
-      <file name="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainViewModel.kt" timestamp="1548826851858">
-        <mark key="'" line="84" column="0" />
+      <file name="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainViewModel.kt" timestamp="1548914098088">
+        <mark key="'" line="285" column="12" />
         <mark key="[" line="343" column="0" />
         <mark key="]" line="343" column="0" />
         <mark key="^" line="319" column="11" />
@@ -330,8 +330,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="144" column="13" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/scarn/ScanCaptureActivity.java" />
-      <jump line="145" column="53" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/scarn/ScanCaptureActivity.java" />
       <jump line="160" column="17" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/scarn/ScanCaptureActivity.java" />
       <jump line="634" column="13" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/build/generated/source/kapt/debug/com/thinkerjet/jdcommunication/databinding/FragmentTradeDetialBindingImpl.java" />
       <jump line="640" column="13" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/build/generated/source/kapt/debug/com/thinkerjet/jdcommunication/databinding/FragmentTradeDetialBindingImpl.java" />
@@ -430,6 +428,8 @@
       <jump line="225" column="22" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainActivity.kt" />
       <jump line="84" column="0" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainViewModel.kt" />
       <jump line="734" column="32" filename="/usr/local/android-sdk/platforms/android-27/android.jar!/android/webkit/WebView.class" />
+      <jump line="406" column="0" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainViewModel.kt" />
+      <jump line="285" column="12" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainViewModel.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -439,7 +439,7 @@
         <text>debug</text>
       </register>
       <register name="/" type="4">
-        <text>退出</text>
+        <text>toGallery</text>
       </register>
       <register name="0" type="4">
         <text>HitTestResult</text>
@@ -482,9 +482,9 @@
       </register>
     </registers>
     <search>
-      <last-search>退出</last-search>
+      <last-search>toGallery</last-search>
       <last-offset />
-      <last-pattern>退出</last-pattern>
+      <last-pattern>toGallery</last-pattern>
       <last-replace>pipelineBean</last-replace>
       <last-substitute>version</last-substitute>
       <last-dir>1</last-dir>
@@ -492,7 +492,6 @@
     </search>
     <history>
       <history-search>
-        <entry>登录</entry>
         <entry encoding="base64">XDxncm91cF9zaGFyZVw+</entry>
         <entry>group_share</entry>
         <entry>分享到</entry>
@@ -512,6 +511,7 @@
         <entry>asset</entry>
         <entry encoding="base64">XDxTUkNfSU1BR0VfQU5DSE9SX1RZUEVcPg==</entry>
         <entry>退出</entry>
+        <entry>toGallery</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0FsYXJtSW5mby9IaXNBbGFybUluZm8vZw==</entry>
