@@ -439,7 +439,7 @@
         <text>debug</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxTUkNfSU1BR0VfQU5DSE9SX1RZUEVcPg==</text>
+        <text>退出</text>
       </register>
       <register name="0" type="4">
         <text>HitTestResult</text>
@@ -482,9 +482,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxTUkNfSU1BR0VfQU5DSE9SX1RZUEVcPg==</last-search>
+      <last-search>退出</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxTUkNfSU1BR0VfQU5DSE9SX1RZUEVcPg==</last-pattern>
+      <last-pattern>退出</last-pattern>
       <last-replace>pipelineBean</last-replace>
       <last-substitute>version</last-substitute>
       <last-dir>1</last-dir>
@@ -492,7 +492,6 @@
     </search>
     <history>
       <history-search>
-        <entry>重新登录</entry>
         <entry>登录</entry>
         <entry encoding="base64">XDxncm91cF9zaGFyZVw+</entry>
         <entry>group_share</entry>
@@ -512,6 +511,7 @@
         <entry encoding="base64">XDxzYXZlSW1nQ29uZmlybUV2ZW50XD4=</entry>
         <entry>asset</entry>
         <entry encoding="base64">XDxTUkNfSU1BR0VfQU5DSE9SX1RZUEVcPg==</entry>
+        <entry>退出</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0FsYXJtSW5mby9IaXNBbGFybUluZm8vZw==</entry>
