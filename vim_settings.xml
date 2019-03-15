@@ -155,7 +155,6 @@
         <mark key="'" line="35" column="9" />
       </file>
       <file name="$USER_HOME$/workspace/uuvalue/jiujiangProject/node_modules/react-native-camera/android/build.gradle" timestamp="1552629045323">
-        <mark key="'" line="74" column="2" />
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
@@ -231,11 +230,12 @@
         <mark key="[" line="105" column="27" />
         <mark key="]" line="105" column="58" />
       </file>
-      <file name="$USER_HOME$/workspace/uuvalue/jiujiangProject/android/app/build.gradle" timestamp="1552624705746">
-        <mark key="'" line="152" column="0" />
-        <mark key="[" line="144" column="0" />
-        <mark key="]" line="144" column="0" />
-        <mark key="." line="144" column="0" />
+      <file name="$USER_HOME$/workspace/uuvalue/jiujiangProject/android/app/build.gradle" timestamp="1552629833401">
+        <mark key="'" line="34" column="1" />
+        <mark key="[" line="137" column="4" />
+        <mark key="]" line="137" column="10" />
+        <mark key="." line="137" column="10" />
+        <mark key="^" line="137" column="10" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/ln178/libraries/TextDrawable/src/main/java/com/amulyakhare/textdrawable/util/ColorGenerator.java" timestamp="1541647981947">
         <mark key="[" line="18" column="0" />
@@ -357,7 +357,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="34" filename="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/activity/withdraw/bindbank/BindBankActivity.kt" />
       <jump line="81" column="76" filename="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/activity/withdraw/bindbank/BindBankActivity.kt" />
       <jump line="83" column="116" filename="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/activity/withdraw/bindbank/BindBankActivity.kt" />
       <jump line="64" column="22" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainActivity.kt" />
@@ -457,13 +456,14 @@
       <jump line="75" column="2" filename="$USER_HOME$/workspace/uuvalue/jiujiangProject/node_modules/react-native-camera/android/build.gradle" />
       <jump line="21" column="32" filename="$USER_HOME$/workspace/uuvalue/jiujiangProject/node_modules/react-native-camera/android/build.gradle" />
       <jump line="74" column="2" filename="$USER_HOME$/workspace/uuvalue/jiujiangProject/node_modules/react-native-camera/android/build.gradle" />
+      <jump line="34" column="1" filename="$USER_HOME$/workspace/uuvalue/jiujiangProject/android/app/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>基本废物......</text>
       </register>
       <register name="-" type="4">
-        <text>library-sdk</text>
+        <text>implementation</text>
       </register>
       <register name="/" type="4">
         <text>compile</text>
@@ -472,31 +472,31 @@
         <text>react-native-camera</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgcHJvamVjdChwYXRoOiAnOnJlYWN0LW5hdGl2ZS1jYW1lcmEnLCBjb25maWd1cmF0aW9uOiAnZGVmYXVsdCcpICAvLyBGcm9tIG5vZGVfbW9kdWxlcwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgcHJvamVjdChwYXRoOiAnOnJlYWN0LW5hdGl2ZS1jYW1lcmEnLCBjb25maWd1cmF0aW9uOiAnZGVmYXVsdCcpICAvLyBGcm9tIG5vZGVfbW9kdWxlcwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5yZWFjdG5hdGl2ZS5jYW1lcmEuUk5DYW1lcmFQYWNrYWdlOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uIHByb2plY3QoJzpyZWFjdC1uYXRpdmUtY2FtZXJhJykK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBtYXZlbiB7CiAgICAgICAgICAgIHVybCAnaHR0cHM6Ly9tYXZlbi5nb29nbGUuY29tJwogICAgICAgIH0KICAgICAgICBtYXZlbiB7CiAgICAgICAgICAgIHVybCAiaHR0cHM6Ly9qaXRwYWNrLmlvIgogICAgICAgIH0K</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGNvbXBpbGUgcHJvamVjdChwYXRoOiAnOnJlYWN0LW5hdGl2ZS1jYW1lcmEnLCBjb25maWd1cmF0aW9uOiAnZGVmYXVsdCcpICAvLyBGcm9tIG5vZGVfbW9kdWxlcwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGNvbXBpbGUgcHJvamVjdChwYXRoOiAnOnJlYWN0LW5hdGl2ZS1jYW1lcmEnLCBjb25maWd1cmF0aW9uOiAnZGVmYXVsdCcpICAvLyBGcm9tIG5vZGVfbW9kdWxlcwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5yZWFjdG5hdGl2ZS5jYW1lcmEuUk5DYW1lcmFQYWNrYWdlOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uIHByb2plY3QoJzpyZWFjdC1uYXRpdmUtY2FtZXJhJykK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGlzdHJpYnV0aW9uVXJsPWh0dHBzXDovL3NlcnZpY2VzLmdyYWRsZS5vcmcvZGlzdHJpYnV0aW9ucy9ncmFkbGUtNC4xLWFsbC56aXAK</text>
+        <text encoding="base64">ICAgICAgICBtYXZlbiB7CiAgICAgICAgICAgIHVybCAnaHR0cHM6Ly9tYXZlbi5nb29nbGUuY29tJwogICAgICAgIH0KICAgICAgICBtYXZlbiB7CiAgICAgICAgICAgIHVybCAiaHR0cHM6Ly9qaXRwYWNrLmlvIgogICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
