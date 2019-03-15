@@ -154,6 +154,12 @@
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/main/mine/MineViewModel.kt" timestamp="1539307871772">
         <mark key="'" line="35" column="9" />
       </file>
+      <file name="$USER_HOME$/workspace/uuvalue/jiujiangProject/android/build.gradle" timestamp="1552622715265">
+        <mark key="[" line="27" column="17" />
+        <mark key="]" line="33" column="8" />
+        <mark key="^" line="33" column="8" />
+        <mark key="." line="33" column="8" />
+      </file>
       <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/LaunchActivity.java" timestamp="1542077136550">
         <mark key="'" line="25" column="11" />
       </file>
@@ -215,6 +221,9 @@
         <mark key="'" line="104" column="30" />
         <mark key="[" line="105" column="27" />
         <mark key="]" line="105" column="58" />
+      </file>
+      <file name="$USER_HOME$/workspace/uuvalue/jiujiangProject/android/app/build.gradle" timestamp="1552622677705">
+        <mark key="'" line="9" column="66" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/ln178/libraries/TextDrawable/src/main/java/com/amulyakhare/textdrawable/util/ColorGenerator.java" timestamp="1541647981947">
         <mark key="[" line="18" column="0" />
@@ -336,10 +345,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="160" column="17" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/scarn/ScanCaptureActivity.java" />
-      <jump line="634" column="13" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/build/generated/source/kapt/debug/com/thinkerjet/jdcommunication/databinding/FragmentTradeDetialBindingImpl.java" />
-      <jump line="640" column="13" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/build/generated/source/kapt/debug/com/thinkerjet/jdcommunication/databinding/FragmentTradeDetialBindingImpl.java" />
-      <jump line="661" column="13" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/build/generated/source/kapt/debug/com/thinkerjet/jdcommunication/databinding/FragmentTradeDetialBindingImpl.java" />
       <jump line="665" column="13" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/build/generated/source/kapt/debug/com/thinkerjet/jdcommunication/databinding/FragmentTradeDetialBindingImpl.java" />
       <jump line="673" column="13" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/build/generated/source/kapt/debug/com/thinkerjet/jdcommunication/databinding/FragmentTradeDetialBindingImpl.java" />
       <jump line="678" column="13" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/build/generated/source/kapt/debug/com/thinkerjet/jdcommunication/databinding/FragmentTradeDetialBindingImpl.java" />
@@ -436,6 +441,10 @@
       <jump line="734" column="32" filename="/usr/local/android-sdk/platforms/android-27/android.jar!/android/webkit/WebView.class" />
       <jump line="406" column="0" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainViewModel.kt" />
       <jump line="285" column="12" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainViewModel.kt" />
+      <jump line="138" column="55" filename="$USER_HOME$/workspace/uuvalue/jiujiangProject/android/app/build.gradle" />
+      <jump line="1" column="0" filename="$USER_HOME$/workspace/uuvalue/jiujiangProject/android/app/build.gradle" />
+      <jump line="7" column="20" filename="$USER_HOME$/workspace/uuvalue/jiujiangProject/android/app/build.gradle" />
+      <jump line="9" column="66" filename="$USER_HOME$/workspace/uuvalue/jiujiangProject/android/app/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -445,7 +454,7 @@
         <text>debug</text>
       </register>
       <register name="/" type="4">
-        <text>toGallery</text>
+        <text>all</text>
       </register>
       <register name="0" type="4">
         <text>HitTestResult</text>
@@ -482,17 +491,16 @@
       </register>
     </registers>
     <search>
-      <last-search>toGallery</last-search>
+      <last-search>all</last-search>
       <last-offset />
-      <last-pattern>toGallery</last-pattern>
+      <last-pattern>all</last-pattern>
       <last-replace>pipelineBean</last-replace>
       <last-substitute>version</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxncm91cF9zaGFyZVw+</entry>
         <entry>group_share</entry>
         <entry>分享到</entry>
         <entry>分享</entry>
@@ -512,6 +520,7 @@
         <entry encoding="base64">XDxTUkNfSU1BR0VfQU5DSE9SX1RZUEVcPg==</entry>
         <entry>退出</entry>
         <entry>toGallery</entry>
+        <entry>all</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0FsYXJtSW5mby9IaXNBbGFybUluZm8vZw==</entry>
