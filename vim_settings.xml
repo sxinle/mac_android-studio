@@ -304,6 +304,12 @@
         <mark key="[" line="78" column="38" />
         <mark key="]" line="78" column="44" />
       </file>
+      <file name="$USER_HOME$/workspace/uuvalue/jiujiangProject/android/gradle.properties" timestamp="1552621803452">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="18" column="76" />
+        <mark key="." line="18" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/activity/jd/JDOpenCardActivity.java" timestamp="1541560941687">
         <mark key="'" line="65" column="70" />
       </file>
@@ -448,34 +454,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHZhbCB0b2tlbiA9IHRva2VuUmVwb3NpdG9yeS5nZXRUb2tlbigpCi8vICAgICAgICB2YWwgYXBwaWQgPSAiaHhkIgovLyAgICAgICAgdmFsIHBhcmFtcyA9IGlmICghVGV4dFV0aWxzLmlzRW1wdHkodG9rZW4pKSAidG9rZW46JHRva2VuIiBlbHNlICIiCi8vICAgICAgICBzaWduUmVwb3NpdG9yeQovLyAgICAgICAgICAgICAgICAuZ2V0U2lnbihwYXJhbXMpCi8vICAgICAgICAgICAgICAgIC5zdWJzY3JpYmUoewovLyAgICAgICAgICAgICAgICAgICAgdmFsIGJ1aWxkVXBvbiA9IFVyaS5wYXJzZSgKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgQkFTRV9VUkwgKyBDT05ORUNUX0lOX1BBVEgKLy8vLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAiaHR0cHM6Ly9pdGVtLmxuMTM5LmNuL3dza2hfd2svcnprTmV3TWFpbj9BRF9JRD1mZjgwODA4MTY1MWVmNGM2MDE2NTIxODI5NTljN2RmZiZPUkdfSUQ9ODAwNzIwMDImVVNFUl9JRD1mZjgwODA4MTVlNWM4MWNjMDE1ZTVjOGMzNGIwMDAxZCZTSE9QX0lEPWZmODA4MDgxNWU1YzgxY2MwMTVlNWM4YzM0YmUwMDFmJm1pZD0mdWlkPSZjaGFubmVsVHlwZT0mX3NpZF89LTEiCi8vICAgICAgICAgICAgICAgICAgICApCi8vICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5idWlsZFVwb24oKQovLyAgICAgICAgICAgICAgICAgICAgaWYgKCFUZXh0VXRpbHMuaXNFbXB0eSh0b2tlbikpIHsKLy8gICAgICAgICAgICAgICAgICAgICAgICBidWlsZFVwb24uYXBwZW5kUXVlcnlQYXJhbWV0ZXIoInRva2VuIiwgdG9rZW4pCi8vICAgICAgICAgICAgICAgICAgICB9Ci8vICAgICAgICAgICAgICAgICAgICBidWlsZFVwb24uYXBwZW5kUXVlcnlQYXJhbWV0ZXIoInRpbWVzdGFtcCIsIGl0LnRpbWVzdGFtcCkKLy8gICAgICAgICAgICAgICAgICAgIGJ1aWxkVXBvbi5hcHBlbmRRdWVyeVBhcmFtZXRlcigiYXBwaWQiLCBhcHBpZCkKLy8gICAgICAgICAgICAgICAgICAgIGJ1aWxkVXBvbi5hcHBlbmRRdWVyeVBhcmFtZXRlcigic2lnbiIsIGl0LnNpZ24pCi8vCi8vICAgICAgICAgICAgICAgICAgICB1cmwuc2V0KGJ1aWxkVXBvbi5idWlsZCgpLnRvU3RyaW5nKCkpCi8vLy8gICAgICAgICAgICAgICAgICAgIHVybC5zZXQoImh0dHBzOi8vc216LmNtY2MtY3MuY246MzAwMjYvZWRjcmVnLXdlYi92aWRlb3JlYWxuYW1lL3JlYWxuYW1lQWN0aXZlL3JlYWxOYW1lQWN0aXZhdGVNLmh0bWwiKQovLyAgICAgICAgICAgICAgICAgICAgbG9jYXRpb25SZXBvc2l0b3J5LnN0YXJ0TG9jYXRpb24oImNvbm5lY3RfaW4iLCAi5bqU55So5ZCv5YqoIikKLy8gICAgICAgICAgICAgICAgfSwgewovLyAgICAgICAgICAgICAgICAgICAgdG9hc3QucG9zdFZhbHVlKGl0Lm1lc3NhZ2UpCi8vICAgICAgICAgICAgICAgIH0pCg==</text>
+        <text encoding="base64">ZGlzdHJpYnV0aW9uVXJsPWh0dHBzXDovL3NlcnZpY2VzLmdyYWRsZS5vcmcvZGlzdHJpYnV0aW9ucy9ncmFkbGUtNC4xLWFsbC56aXAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB1cmwuc2V0KCJmaWxlOi8vL2FuZHJvaWRfYXNzZXQvaW5kZXguaHRtbCIpCg==</text>
+        <text encoding="base64">Ly8gICAgICAgIHZhbCB0b2tlbiA9IHRva2VuUmVwb3NpdG9yeS5nZXRUb2tlbigpCi8vICAgICAgICB2YWwgYXBwaWQgPSAiaHhkIgovLyAgICAgICAgdmFsIHBhcmFtcyA9IGlmICghVGV4dFV0aWxzLmlzRW1wdHkodG9rZW4pKSAidG9rZW46JHRva2VuIiBlbHNlICIiCi8vICAgICAgICBzaWduUmVwb3NpdG9yeQovLyAgICAgICAgICAgICAgICAuZ2V0U2lnbihwYXJhbXMpCi8vICAgICAgICAgICAgICAgIC5zdWJzY3JpYmUoewovLyAgICAgICAgICAgICAgICAgICAgdmFsIGJ1aWxkVXBvbiA9IFVyaS5wYXJzZSgKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgQkFTRV9VUkwgKyBDT05ORUNUX0lOX1BBVEgKLy8vLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAiaHR0cHM6Ly9pdGVtLmxuMTM5LmNuL3dza2hfd2svcnprTmV3TWFpbj9BRF9JRD1mZjgwODA4MTY1MWVmNGM2MDE2NTIxODI5NTljN2RmZiZPUkdfSUQ9ODAwNzIwMDImVVNFUl9JRD1mZjgwODA4MTVlNWM4MWNjMDE1ZTVjOGMzNGIwMDAxZCZTSE9QX0lEPWZmODA4MDgxNWU1YzgxY2MwMTVlNWM4YzM0YmUwMDFmJm1pZD0mdWlkPSZjaGFubmVsVHlwZT0mX3NpZF89LTEiCi8vICAgICAgICAgICAgICAgICAgICApCi8vICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5idWlsZFVwb24oKQovLyAgICAgICAgICAgICAgICAgICAgaWYgKCFUZXh0VXRpbHMuaXNFbXB0eSh0b2tlbikpIHsKLy8gICAgICAgICAgICAgICAgICAgICAgICBidWlsZFVwb24uYXBwZW5kUXVlcnlQYXJhbWV0ZXIoInRva2VuIiwgdG9rZW4pCi8vICAgICAgICAgICAgICAgICAgICB9Ci8vICAgICAgICAgICAgICAgICAgICBidWlsZFVwb24uYXBwZW5kUXVlcnlQYXJhbWV0ZXIoInRpbWVzdGFtcCIsIGl0LnRpbWVzdGFtcCkKLy8gICAgICAgICAgICAgICAgICAgIGJ1aWxkVXBvbi5hcHBlbmRRdWVyeVBhcmFtZXRlcigiYXBwaWQiLCBhcHBpZCkKLy8gICAgICAgICAgICAgICAgICAgIGJ1aWxkVXBvbi5hcHBlbmRRdWVyeVBhcmFtZXRlcigic2lnbiIsIGl0LnNpZ24pCi8vCi8vICAgICAgICAgICAgICAgICAgICB1cmwuc2V0KGJ1aWxkVXBvbi5idWlsZCgpLnRvU3RyaW5nKCkpCi8vLy8gICAgICAgICAgICAgICAgICAgIHVybC5zZXQoImh0dHBzOi8vc216LmNtY2MtY3MuY246MzAwMjYvZWRjcmVnLXdlYi92aWRlb3JlYWxuYW1lL3JlYWxuYW1lQWN0aXZlL3JlYWxOYW1lQWN0aXZhdGVNLmh0bWwiKQovLyAgICAgICAgICAgICAgICAgICAgbG9jYXRpb25SZXBvc2l0b3J5LnN0YXJ0TG9jYXRpb24oImNvbm5lY3RfaW4iLCAi5bqU55So5ZCv5YqoIikKLy8gICAgICAgICAgICAgICAgfSwgewovLyAgICAgICAgICAgICAgICAgICAgdG9hc3QucG9zdFZhbHVlKGl0Lm1lc3NhZ2UpCi8vICAgICAgICAgICAgICAgIH0pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgICAgICAgY29uc3QgdmFsIEJBU0VfVVJMID0gImh0dHBzOi8vcnJ5eC5zaW5vdmF0ZWNoLmNvbSIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
+        <text encoding="base64">ICAgICAgICB1cmwuc2V0KCJmaWxlOi8vL2FuZHJvaWRfYXNzZXQvaW5kZXguaHRtbCIpCg==</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAvLyAgICAgICAgY29uc3QgdmFsIEJBU0VfVVJMID0gImh0dHBzOi8vcnJ5eC5zaW5vdmF0ZWNoLmNvbSIK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
       </register>
-      <register name="8" type="8">
-        <text>++
-++
-++
-++
-++
-++
-++</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBnb29nbGUoKQo=</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -488,7 +488,7 @@
       <last-replace>pipelineBean</last-replace>
       <last-substitute>version</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
