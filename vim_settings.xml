@@ -151,6 +151,7 @@
         <mark key="[" line="35" column="11" />
         <mark key="]" line="35" column="16" />
       </file>
+      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/utils/.gitignore" timestamp="1552976880791" />
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/main/mine/MineViewModel.kt" timestamp="1539307871772">
         <mark key="'" line="35" column="9" />
       </file>
@@ -509,7 +510,7 @@
       <last-replace>pipelineBean</last-replace>
       <last-substitute>version</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
