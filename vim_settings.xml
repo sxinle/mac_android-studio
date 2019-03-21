@@ -154,7 +154,6 @@
         <mark key="[" line="35" column="11" />
         <mark key="]" line="35" column="16" />
       </file>
-      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/utils/.gitignore" timestamp="1552976880791" />
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/main/mine/MineViewModel.kt" timestamp="1539307871772">
         <mark key="'" line="35" column="9" />
       </file>
@@ -217,6 +216,13 @@
       <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/bean/home/common/ProductBean.java" timestamp="1541655999274">
         <mark key="[" line="203" column="15" />
         <mark key="]" line="203" column="26" />
+      </file>
+      <file name="$USER_HOME$/Desktop/samples-emdkforandroid-7_0-master/BarcodeSample1/app/build.gradle" timestamp="1553157505773">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="19" column="43" />
+        <mark key="]" line="19" column="43" />
+        <mark key="." line="19" column="43" />
+        <mark key="^" line="19" column="43" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/adapter/useralloc/ApplyListAdapter.java" timestamp="1541665951578">
         <mark key="'" line="120" column="117" />
@@ -364,9 +370,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="347" column="34" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainViewModel.kt" />
-      <jump line="348" column="16" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainViewModel.kt" />
-      <jump line="446" column="18" filename="$USER_HOME$/Desktop/jd/and_partners/app/libs/tbs_sdk_thirdapp_v3.6.0.1325_43613_sharewithdownload_withoutGame_obfs_20180807_151115.jar!/com/tencent/smtt/sdk/WebSettings.class" />
       <jump line="49" column="17" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainActivity.kt" />
       <jump line="21" column="26" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainActivity.kt" />
       <jump line="47" column="17" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainActivity.kt" />
@@ -464,13 +467,16 @@
       <jump line="134" column="45" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/res/layout/fragment_statics.xml" />
       <jump line="1" column="0" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/res/layout/fragment_statics.xml" />
       <jump line="305" column="4" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/res/layout/fragment_statics.xml" />
+      <jump line="13" column="51" filename="$USER_HOME$/Desktop/samples-emdkforandroid-7_0-master/BarcodeSample1/app/build.gradle" />
+      <jump line="10" column="15" filename="$USER_HOME$/Desktop/samples-emdkforandroid-7_0-master/BarcodeSample1/app/build.gradle" />
+      <jump line="21" column="0" filename="$USER_HOME$/Desktop/samples-emdkforandroid-7_0-master/BarcodeSample1/app/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>基本废物......</text>
       </register>
       <register name="-" type="4">
-        <text>implementation</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>compile</text>
