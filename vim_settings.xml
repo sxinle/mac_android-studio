@@ -122,6 +122,9 @@
         <mark key="[" line="127" column="40" />
         <mark key="]" line="127" column="50" />
       </file>
+      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/res/layout/fragment_statics.xml" timestamp="1553055790719">
+        <mark key="'" line="305" column="4" />
+      </file>
       <file name="/JDSelectNumberActivity.java" timestamp="1541586260755">
         <mark key="[" line="52" column="23" />
         <mark key="]" line="52" column="29" />
@@ -361,9 +364,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="64" column="22" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainActivity.kt" />
-      <jump line="52" column="44" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainActivity.kt" />
-      <jump line="196" column="60" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainActivity.kt" />
       <jump line="347" column="34" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainViewModel.kt" />
       <jump line="348" column="16" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainViewModel.kt" />
       <jump line="446" column="18" filename="$USER_HOME$/Desktop/jd/and_partners/app/libs/tbs_sdk_thirdapp_v3.6.0.1325_43613_sharewithdownload_withoutGame_obfs_20180807_151115.jar!/com/tencent/smtt/sdk/WebSettings.class" />
@@ -461,6 +461,9 @@
       <jump line="34" column="1" filename="$USER_HOME$/workspace/uuvalue/jiujiangProject/android/app/build.gradle" />
       <jump line="16" column="0" filename="$USER_HOME$/Desktop/jd/jingdong_communication/.gitignore" />
       <jump line="68" column="0" filename="$USER_HOME$/Desktop/jd/jingdong_communication/.gitignore" />
+      <jump line="134" column="45" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/res/layout/fragment_statics.xml" />
+      <jump line="1" column="0" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/res/layout/fragment_statics.xml" />
+      <jump line="305" column="4" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/res/layout/fragment_statics.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
