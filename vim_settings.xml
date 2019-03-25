@@ -205,9 +205,9 @@
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/build/generated/data_binding_base_class_source_out/debug/dataBindingGenBaseClassesDebug/out/com/thinkerjet/jdcommunication/databinding/ItemTradeListBinding.java" timestamp="1539308447837">
         <mark key="'" line="37" column="32" />
       </file>
-      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/res/values/colors.xml" timestamp="1539083665668">
-        <mark key="[" line="14" column="34" />
-        <mark key="]" line="14" column="40" />
+      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/res/values/colors.xml" timestamp="1553487045880">
+        <mark key="[" line="19" column="24" />
+        <mark key="]" line="19" column="30" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/transforms-1/files-1.1/xiaobaisdk1.0.9-release.aar/0c5c216d301c094ee72c4deb7551f386/res/values/values.xml" timestamp="1546833943359">
         <mark key="[" line="72" column="31" />
@@ -290,7 +290,7 @@
         <mark key="[" line="2" column="26" />
         <mark key="]" line="2" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1553484167659">
+      <file name="/Dummy.txt" timestamp="1553487010210">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/res/drawable/shape_withdraw_top.xml" timestamp="1546850979917">
@@ -498,7 +498,7 @@
         <text>default</text>
       </register>
       <register name="0" type="4">
-        <text>implementation</text>
+        <text>#330000</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW5jbHVkZSAnOnJlYWN0LW5hdGl2ZS16ZWJyYS1zY2FubmVyJwpwcm9qZWN0KCc6cmVhY3QtbmF0aXZlLXplYnJhLXNjYW5uZXInKS5wcm9qZWN0RGlyID0gbmV3IEZpbGUocm9vdFByb2plY3QucHJvamVjdERpciwgJy4uL25vZGVfbW9kdWxlcy9yZWFjdC1uYXRpdmUtemVicmEtc2Nhbm5lci9hbmRyb2lkJykK</text>
