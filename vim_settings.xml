@@ -6,14 +6,6 @@
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/build/generated/source/kapt/debug/com/thinkerjet/jdcommunication/databinding/FragmentTradeDetialBindingImpl.java" timestamp="1544609387915">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/adapter/BannerPagerAdapter.java" timestamp="1542183414550">
-        <mark key="[" line="41" column="58" />
-        <mark key="]" line="41" column="65" />
-      </file>
-      <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/res/layout/fragment_card_manager.xml" timestamp="1541675430711">
-        <mark key="[" line="21" column="81" />
-        <mark key="]" line="21" column="96" />
-      </file>
       <file name="$USER_HOME$/workspace/demo/jdtx/android/build.gradle" timestamp="1539333853092">
         <mark key="'" line="23" column="0" />
       </file>
@@ -23,10 +15,6 @@
         <mark key="]" line="34" column="22" />
         <mark key="." line="34" column="22" />
         <mark key="^" line="33" column="21" />
-      </file>
-      <file name="/usr/local/android-sdk/platforms/android-27/android.jar!/android/view/View.class" timestamp="1548827457375">
-        <mark key="[" line="318" column="16" />
-        <mark key="]" line="318" column="37" />
       </file>
       <file name="/usr/local/android-sdk/platforms/android-27/android.jar!/android/app/Activity.class" timestamp="1548488345017">
         <mark key="'" line="804" column="18" />
@@ -52,42 +40,14 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/res/values/strings.xml" timestamp="1544609406081">
-        <mark key="[" line="49" column="18" />
-        <mark key="]" line="49" column="42" />
-      </file>
-      <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/res/layout/fragment_jd_index.xml" timestamp="1544067374356">
-        <mark key="[" line="51" column="25" />
-        <mark key="]" line="51" column="31" />
-      </file>
-      <file name="$USER_HOME$/Desktop/jd/ln178/jnlibs/src/main/res/values/colors.xml" timestamp="1546911561622">
-        <mark key="[" line="27" column="35" />
-        <mark key="]" line="27" column="41" />
-      </file>
-      <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/bean/jd/JdPhoneNumListBean.java" timestamp="1544682371264">
-        <mark key="[" line="32" column="19" />
-        <mark key="]" line="32" column="29" />
-      </file>
-      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/di/APIModuel.kt" timestamp="1538645207660">
-        <mark key="[" line="53" column="26" />
-        <mark key="]" line="53" column="52" />
-      </file>
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/trade/trades/TradeListAdapter.kt" timestamp="1539308477246">
         <mark key="'" line="27" column="42" />
-      </file>
-      <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/activity/jd/JDSelectNumberActivity.java" timestamp="1544682610461">
-        <mark key="[" line="127" column="40" />
-        <mark key="]" line="127" column="50" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/res/layout/fragment_statics.xml" timestamp="1553579206266">
         <mark key="'" line="214" column="40" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/widget/JDPromotionItemView.java" timestamp="1542707922936">
         <mark key="'" line="85" column="12" />
-      </file>
-      <file name="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/repository/SystermRepository.kt" timestamp="1547799811336">
-        <mark key="[" line="62" column="11" />
-        <mark key="]" line="62" column="14" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/main/mine/MineViewModel.kt" timestamp="1539307871772">
         <mark key="'" line="35" column="9" />
@@ -97,19 +57,11 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/demo/res/values/colors.xml" timestamp="1541383658104">
-        <mark key="[" line="17" column="49" />
-        <mark key="]" line="17" column="54" />
-      </file>
       <file name="$USER_HOME$/workspace/uuvalue/jiujiangProject/android/app/src/main/java/com/jiujiangproject/MainApplication.java" timestamp="1553163769312">
         <mark key="'" line="36" column="43" />
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
-      </file>
-      <file name="/ActivatedTradeListActivity.kt" timestamp="1539057401189">
-        <mark key="[" line="9" column="7" />
-        <mark key="]" line="9" column="38" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/and_partners/app/src/main/res/menu/menu_main.xml" timestamp="1548669669967">
         <mark key="'" line="9" column="25" />
@@ -118,13 +70,8 @@
         <mark key="[" line="22" column="25" />
         <mark key="]" line="22" column="31" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/transforms-1/files-1.1/xiaobaisdk1.0.9-release.aar/0c5c216d301c094ee72c4deb7551f386/res/values/values.xml" timestamp="1546833943359">
-        <mark key="[" line="72" column="31" />
-        <mark key="]" line="72" column="37" />
-      </file>
-      <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/ServApi.java" timestamp="1541561125404">
-        <mark key="[" line="9" column="53" />
-        <mark key="]" line="9" column="80" />
+      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/statics/StatisticsAdapter.kt" timestamp="1553583143298">
+        <mark key="'" line="5" column="56" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/activity/z/res/UserallocActivity.java" timestamp="1541663320948">
         <mark key="'" line="42" column="27" />
@@ -132,115 +79,9 @@
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/.gitignore" timestamp="1552996750875">
         <mark key="'" line="68" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/jd/and_partners/app/src/main/AndroidManifest.xml" timestamp="1547793098031">
-        <mark key="'" line="104" column="30" />
-        <mark key="[" line="105" column="27" />
-        <mark key="]" line="105" column="58" />
-      </file>
-      <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/dialogfragment/JDOpenDialog.java" timestamp="1541496273513">
-        <mark key="[" line="128" column="0" />
-        <mark key="]" line="131" column="50" />
-      </file>
-      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/signup/courier/CourierInfoInputViewModel.kt" timestamp="1538731086686">
-        <mark key="[" line="157" column="32" />
-        <mark key="]" line="157" column="36" />
-      </file>
-      <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/res/values/styles.xml" timestamp="1540978679566">
-        <mark key="[" line="59" column="42" />
-        <mark key="]" line="59" column="47" />
-      </file>
-      <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/res/drawable/shape_withdraw_btn_unenabled.xml" timestamp="1546831539509">
-        <mark key="[" line="2" column="26" />
-        <mark key="]" line="2" column="32" />
-      </file>
-      <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/activity/withdraw/WithDrawActivity.kt" timestamp="1546845591602">
-        <mark key="'" line="113" column="20" />
-        <mark key="[" line="157" column="68" />
-        <mark key="]" line="157" column="80" />
-      </file>
-      <file name="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/network/ThinkerjetAPI.kt" timestamp="1548660499423">
-        <mark key="'" line="33" column="39" />
-        <mark key="[" line="33" column="27" />
-        <mark key="]" line="33" column="33" />
-      </file>
-      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/api/statistics/StatisticsAPI.kt" timestamp="1538966280407">
-        <mark key="[" line="15" column="16" />
-        <mark key="]" line="15" column="32" />
-      </file>
-      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/changepwd/ChangePwdViewModel.kt" timestamp="1538660643880">
-        <mark key="[" line="31" column="32" />
-        <mark key="]" line="31" column="43" />
-      </file>
-      <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/res/values/colors.xml" timestamp="1540975208276">
-        <mark key="[" line="20" column="17" />
-        <mark key="]" line="20" column="32" />
-      </file>
-      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/signup/phonenumverfication/PhoneNumVerficationViewModel.kt" timestamp="1538651656569">
-        <mark key="[" line="207" column="32" />
-        <mark key="]" line="207" column="40" />
-      </file>
-      <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/res/layout/activity_withdraw.xml" timestamp="1546834656494">
-        <mark key="[" line="6" column="24" />
-        <mark key="]" line="6" column="30" />
-      </file>
-      <file name="/usr/local/android-sdk/platforms/android-27/android.jar!/android/webkit/JavascriptInterface.class" timestamp="1548480761899">
-        <mark key="[" line="14" column="18" />
-        <mark key="]" line="14" column="36" />
-      </file>
-      <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/activity/withdraw/bindbank/BindBankActivity.kt" timestamp="1546851978663">
-        <mark key="'" line="83" column="116" />
-        <mark key="[" line="78" column="38" />
-        <mark key="]" line="78" column="44" />
-      </file>
-      <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/res/layout/activity_jd_qr_code.xml" timestamp="1542713926931">
-        <mark key="[" line="5" column="25" />
-        <mark key="]" line="5" column="30" />
-      </file>
-      <file name="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainActivity.kt" timestamp="1548826742094">
-        <mark key="'" line="225" column="22" />
-        <mark key="[" line="200" column="67" />
-        <mark key="]" line="200" column="70" />
-      </file>
-      <file name="/usr/local/android-sdk/platforms/android-28/data/res/values/colors.xml" timestamp="1538988264142">
-        <mark key="[" line="116" column="43" />
-        <mark key="]" line="116" column="48" />
-      </file>
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/res/drawable/bg_date_confirm.xml" timestamp="1553579217431" />
-      <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/fragment/me/trade/TradeInfoFragment.java" timestamp="1541655990358">
-        <mark key="[" line="435" column="35" />
-        <mark key="]" line="435" column="39" />
-      </file>
-      <file name="/strings.xml" timestamp="1546830142090">
-        <mark key="[" line="11" column="28" />
-        <mark key="]" line="11" column="55" />
-      </file>
-      <file name="$USER_HOME$/Desktop/jd/and_partners/app/libs/tbs_sdk_thirdapp_v3.6.0.1325_43613_sharewithdownload_withoutGame_obfs_20180807_151115.jar!/com/tencent/smtt/sdk/WebView.class" timestamp="1548581520363">
-        <mark key="'" line="996" column="18" />
-        <mark key="[" line="996" column="18" />
-        <mark key="]" line="996" column="31" />
-      </file>
-      <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/demo/res/values/strings.xml" timestamp="1541063331149">
-        <mark key="[" line="9" column="28" />
-        <mark key="]" line="9" column="57" />
-      </file>
-      <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/bean/mybanks/MyBankListData.java" timestamp="1546845595218">
-        <mark key="[" line="47" column="19" />
-        <mark key="]" line="47" column="31" />
-      </file>
       <file name="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/dialog/savewebimg/ImageUrlSaveDialogFragment.kt" timestamp="1548826694467">
         <mark key="'" line="48" column="48" />
-      </file>
-      <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/res/layout/fragment_jd_me.xml" timestamp="1540975263112">
-        <mark key="[" line="16" column="26" />
-        <mark key="]" line="16" column="34" />
-      </file>
-      <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/fragment/z/store/CardManagerFragment.java" timestamp="1541732416109">
-        <mark key="[" line="136" column="43" />
-        <mark key="]" line="136" column="49" />
-      </file>
-      <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/FlavorConfig.java" timestamp="1542183594181">
-        <mark key="[" line="29" column="19" />
-        <mark key="]" line="29" column="64" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/res/drawable/shape_bottom_line_unselect.xml" timestamp="1553569180797">
         <mark key="[" line="10" column="31" />
@@ -258,27 +99,11 @@
       <file name="/fragment.kt" timestamp="1548499064275">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/JDSelectNumberActivity.java" timestamp="1541586260755">
-        <mark key="[" line="52" column="23" />
-        <mark key="]" line="52" column="29" />
-      </file>
-      <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/activity/jd/JDSelectSimCardActivity.java" timestamp="1541556702914">
-        <mark key="[" line="56" column="66" />
-        <mark key="]" line="56" column="76" />
-      </file>
-      <file name="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/di/AppModule.kt" timestamp="1547725477321">
-        <mark key="[" line="57" column="26" />
-        <mark key="]" line="57" column="51" />
-      </file>
       <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/fragment/z/useralloc/ItemShopFragment.java" timestamp="1541663355273">
         <mark key="'" line="46" column="28" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/AndroidManifest.xml" timestamp="1538977517716">
         <mark key="'" line="0" column="6" />
-      </file>
-      <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/network/service/user/UserService.java" timestamp="1541066229774">
-        <mark key="[" line="35" column="11" />
-        <mark key="]" line="35" column="16" />
       </file>
       <file name="$USER_HOME$/workspace/uuvalue/DataWedgeReactNative/android/build.gradle" timestamp="1553162608826">
         <mark key="[" line="4" column="0" />
@@ -294,19 +119,14 @@
       <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/LaunchActivity.java" timestamp="1542077136550">
         <mark key="'" line="25" column="11" />
       </file>
-      <file name="$USER_HOME$/Desktop/jd/ApiSafes/apisafe/src/main/java/com/thinkerjet/apisafe/ApiSafe.java" timestamp="1539053156076">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="28" column="8" />
-      </file>
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/build/generated/data_binding_base_class_source_out/debug/dataBindingGenBaseClassesDebug/out/com/thinkerjet/jdcommunication/databinding/ItemTradeListBinding.java" timestamp="1539308447837">
         <mark key="'" line="37" column="32" />
       </file>
+      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/statics/charts/ChartsFragment.kt" timestamp="1553583156641">
+        <mark key="'" line="59" column="49" />
+      </file>
       <file name="$USER_HOME$/Desktop/jd/and_partners/app/libs/tbs_sdk_thirdapp_v3.6.0.1325_43613_sharewithdownload_withoutGame_obfs_20180807_151115.jar!/com/tencent/smtt/sdk/WebSettings.class" timestamp="1547776978015">
         <mark key="'" line="446" column="18" />
-      </file>
-      <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/bean/home/common/ProductBean.java" timestamp="1541655999274">
-        <mark key="[" line="203" column="15" />
-        <mark key="]" line="203" column="26" />
       </file>
       <file name="$USER_HOME$/Desktop/samples-emdkforandroid-7_0-master/BarcodeSample1/app/build.gradle" timestamp="1553157505773">
         <mark key="'" line="18" column="0" />
@@ -321,14 +141,6 @@
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/build.gradle" timestamp="1538976339682">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/trade/detial/TradeDetialFragment.kt" timestamp="1539257263998">
-        <mark key="[" line="26" column="95" />
-        <mark key="]" line="26" column="104" />
-      </file>
-      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/forgetpwd/ForgetPwdViewModel.kt" timestamp="1538703121180">
-        <mark key="[" line="100" column="32" />
-        <mark key="]" line="100" column="41" />
-      </file>
       <file name="$USER_HOME$/workspace/uuvalue/jiujiangProject/android/app/build.gradle" timestamp="1553164223163">
         <mark key="'" line="135" column="29" />
         <mark key="[" line="114" column="25" />
@@ -336,38 +148,20 @@
         <mark key="." line="117" column="4" />
         <mark key="^" line="117" column="4" />
       </file>
+      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/statics/StaticsFragment.kt" timestamp="1553583128972">
+        <mark key="'" line="143" column="33" />
+      </file>
       <file name="$USER_HOME$/Desktop/jd/ln178/libraries/TextDrawable/src/main/java/com/amulyakhare/textdrawable/util/ColorGenerator.java" timestamp="1541647981947">
         <mark key="[" line="18" column="0" />
-      </file>
-      <file name="/colors.xml" timestamp="1541583525237">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="31" column="43" />
-      </file>
-      <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/bl/JdBl.java" timestamp="1541562078737">
-        <mark key="[" line="255" column="30" />
-        <mark key="]" line="255" column="38" />
       </file>
       <file name="/Dummy.txt" timestamp="1553579202722">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/res/drawable/shape_withdraw_top.xml" timestamp="1546850979917">
-        <mark key="[" line="2" column="26" />
-        <mark key="]" line="2" column="32" />
-      </file>
-      <file name="/BaitiaoListActivity.java" timestamp="1544092673588">
-        <mark key="[" line="50" column="34" />
-        <mark key="]" line="50" column="46" />
-      </file>
-      <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/bean/me/trade/TradeInfoBean.java" timestamp="1541655018826">
-        <mark key="[" line="396" column="19" />
-        <mark key="]" line="396" column="31" />
+      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/statics/charts/ChartViewModel.kt" timestamp="1553583194420">
+        <mark key="'" line="21" column="62" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/widget/JdSearchView.java" timestamp="1541402925048">
         <mark key="'" line="27" column="27" />
-      </file>
-      <file name="/activity_jd_qr_code.xml" timestamp="1544411353291">
-        <mark key="[" line="54" column="34" />
-        <mark key="]" line="54" column="52" />
       </file>
       <file name="$USER_HOME$/workspace/uuvalue/jiujiangProject/android/gradle.properties" timestamp="1552621803452">
         <mark key="[" line="18" column="0" />
@@ -381,43 +175,11 @@
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/gradle.properties" timestamp="1538975292232">
         <mark key="'" line="11" column="18" />
       </file>
-      <file name="/usr/local/android-sdk/platforms/android-27/android.jar!/android/webkit/WebView.class" timestamp="1548828760685">
-        <mark key="'" line="734" column="32" />
-        <mark key="[" line="721" column="24" />
-        <mark key="]" line="721" column="36" />
-      </file>
       <file name="$USER_HOME$/workspace/uuvalue/DataWedgeReactNative/android/app/build.gradle" timestamp="1553162357291">
         <mark key="'" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="804" column="18" filename="/usr/local/android-sdk/platforms/android-27/android.jar!/android/app/Activity.class" />
-      <jump line="66" column="16" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainActivity.kt" />
-      <jump line="67" column="36" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainActivity.kt" />
-      <jump line="303" column="0" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainActivity.kt" />
-      <jump line="248" column="12" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainViewModel.kt" />
-      <jump line="62" column="8" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainViewModel.kt" />
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainActivity.kt" />
-      <jump line="400" column="16" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainViewModel.kt" />
-      <jump line="43" column="18" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainViewModel.kt" />
-      <jump line="236" column="58" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainViewModel.kt" />
-      <jump line="281" column="0" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainViewModel.kt" />
-      <jump line="282" column="8" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainViewModel.kt" />
-      <jump line="996" column="18" filename="$USER_HOME$/Desktop/jd/and_partners/app/libs/tbs_sdk_thirdapp_v3.6.0.1325_43613_sharewithdownload_withoutGame_obfs_20180807_151115.jar!/com/tencent/smtt/sdk/WebView.class" />
-      <jump line="294" column="12" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainViewModel.kt" />
-      <jump line="321" column="46" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainViewModel.kt" />
-      <jump line="335" column="54" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainViewModel.kt" />
-      <jump line="355" column="61" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainViewModel.kt" />
-      <jump line="292" column="8" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainViewModel.kt" />
-      <jump line="275" column="20" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainViewModel.kt" />
-      <jump line="33" column="39" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/network/ThinkerjetAPI.kt" />
-      <jump line="38" column="5" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainViewModel.kt" />
-      <jump line="278" column="66" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainActivity.kt" />
-      <jump line="285" column="24" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainActivity.kt" />
-      <jump line="9" column="25" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/res/menu/menu_main.xml" />
-      <jump line="292" column="34" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainActivity.kt" />
-      <jump line="67" column="5" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainViewModel.kt" />
-      <jump line="144" column="8" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainViewModel.kt" />
       <jump line="145" column="12" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainViewModel.kt" />
       <jump line="155" column="33" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainViewModel.kt" />
       <jump line="102" column="53" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainViewModel.kt" />
@@ -491,6 +253,33 @@
       <jump line="109" column="4" filename="$USER_HOME$/workspace/uuvalue/jiujiangProject/android/app/build.gradle" />
       <jump line="135" column="29" filename="$USER_HOME$/workspace/uuvalue/jiujiangProject/android/app/build.gradle" />
       <jump line="214" column="40" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/res/layout/fragment_statics.xml" />
+      <jump line="45" column="62" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/statics/StaticsFragment.kt" />
+      <jump line="4" column="20" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/statics/StaticsFragment.kt" />
+      <jump line="58" column="17" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/statics/StaticsFragment.kt" />
+      <jump line="60" column="17" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/statics/StaticsFragment.kt" />
+      <jump line="87" column="17" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/statics/StaticsFragment.kt" />
+      <jump line="88" column="46" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/statics/StaticsFragment.kt" />
+      <jump line="89" column="29" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/statics/StaticsFragment.kt" />
+      <jump line="90" column="51" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/statics/StaticsFragment.kt" />
+      <jump line="120" column="73" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/statics/StaticsFragment.kt" />
+      <jump line="127" column="33" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/statics/StaticsFragment.kt" />
+      <jump line="143" column="33" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/statics/StaticsFragment.kt" />
+      <jump line="34" column="12" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/statics/StatisticsAdapter.kt" />
+      <jump line="123" column="15" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/statics/StatisticsAdapter.kt" />
+      <jump line="5" column="56" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/statics/StatisticsAdapter.kt" />
+      <jump line="35" column="4" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/statics/charts/ChartsFragment.kt" />
+      <jump line="68" column="58" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/statics/charts/ChartsFragment.kt" />
+      <jump line="0" column="50" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/statics/charts/ChartsFragment.kt" />
+      <jump line="6" column="58" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/statics/charts/ChartsFragment.kt" />
+      <jump line="10" column="47" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/statics/charts/ChartsFragment.kt" />
+      <jump line="14" column="6" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/statics/charts/ChartsFragment.kt" />
+      <jump line="19" column="28" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/statics/charts/ChartsFragment.kt" />
+      <jump line="20" column="43" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/statics/charts/ChartsFragment.kt" />
+      <jump line="32" column="27" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/statics/charts/ChartsFragment.kt" />
+      <jump line="55" column="28" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/statics/charts/ChartsFragment.kt" />
+      <jump line="59" column="49" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/statics/charts/ChartsFragment.kt" />
+      <jump line="14" column="22" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/statics/charts/ChartViewModel.kt" />
+      <jump line="21" column="62" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/statics/charts/ChartViewModel.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -500,7 +289,7 @@
         <text>compile</text>
       </register>
       <register name="/" type="4">
-        <text>确定</text>
+        <text>Pie</text>
       </register>
       <register name="0" type="4">
         <text>#d9d9d9</text>
@@ -537,9 +326,9 @@
       </register>
     </registers>
     <search>
-      <last-search>确定</last-search>
+      <last-search>Pie</last-search>
       <last-offset />
-      <last-pattern>确定</last-pattern>
+      <last-pattern>Pie</last-pattern>
       <last-replace>pipelineBean</last-replace>
       <last-substitute>version</last-substitute>
       <last-dir>1</last-dir>
@@ -547,8 +336,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxDT05ORUNUX0lOX1BBVEhcPg==</entry>
-        <entry>toCm</entry>
         <entry>10085</entry>
         <entry encoding="base64">XDxjbTEwMDg1RXZlbnRcPg==</entry>
         <entry>agent</entry>
@@ -567,6 +354,8 @@
         <entry>scan</entry>
         <entry>default</entry>
         <entry>确定</entry>
+        <entry>chart</entry>
+        <entry>Pie</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0FsYXJtSW5mby9IaXNBbGFybUluZm8vZw==</entry>
