@@ -79,8 +79,8 @@
         <mark key="[" line="127" column="40" />
         <mark key="]" line="127" column="50" />
       </file>
-      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/res/layout/fragment_statics.xml" timestamp="1553566992082">
-        <mark key="'" line="305" column="4" />
+      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/res/layout/fragment_statics.xml" timestamp="1553579206266">
+        <mark key="'" line="214" column="40" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/widget/JDPromotionItemView.java" timestamp="1542707922936">
         <mark key="'" line="85" column="12" />
@@ -114,9 +114,9 @@
       <file name="$USER_HOME$/Desktop/jd/and_partners/app/src/main/res/menu/menu_main.xml" timestamp="1548669669967">
         <mark key="'" line="9" column="25" />
       </file>
-      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/res/values/colors.xml" timestamp="1553487045880">
-        <mark key="[" line="19" column="24" />
-        <mark key="]" line="19" column="30" />
+      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/res/values/colors.xml" timestamp="1553579224226">
+        <mark key="[" line="22" column="25" />
+        <mark key="]" line="22" column="31" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/transforms-1/files-1.1/xiaobaisdk1.0.9-release.aar/0c5c216d301c094ee72c4deb7551f386/res/values/values.xml" timestamp="1546833943359">
         <mark key="[" line="72" column="31" />
@@ -205,6 +205,7 @@
         <mark key="[" line="116" column="43" />
         <mark key="]" line="116" column="48" />
       </file>
+      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/res/drawable/bg_date_confirm.xml" timestamp="1553579217431" />
       <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/fragment/me/trade/TradeInfoFragment.java" timestamp="1541655990358">
         <mark key="[" line="435" column="35" />
         <mark key="]" line="435" column="39" />
@@ -346,7 +347,7 @@
         <mark key="[" line="255" column="30" />
         <mark key="]" line="255" column="38" />
       </file>
-      <file name="/Dummy.txt" timestamp="1553569164232">
+      <file name="/Dummy.txt" timestamp="1553579202722">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/res/drawable/shape_withdraw_top.xml" timestamp="1546850979917">
@@ -390,7 +391,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="237" column="8" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainViewModel.kt" />
       <jump line="804" column="18" filename="/usr/local/android-sdk/platforms/android-27/android.jar!/android/app/Activity.class" />
       <jump line="66" column="16" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainActivity.kt" />
       <jump line="67" column="36" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainActivity.kt" />
@@ -490,6 +490,7 @@
       <jump line="59" column="11" filename="$USER_HOME$/workspace/uuvalue/jiujiangProject/android/app/build.gradle" />
       <jump line="109" column="4" filename="$USER_HOME$/workspace/uuvalue/jiujiangProject/android/app/build.gradle" />
       <jump line="135" column="29" filename="$USER_HOME$/workspace/uuvalue/jiujiangProject/android/app/build.gradle" />
+      <jump line="214" column="40" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/res/layout/fragment_statics.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -499,10 +500,10 @@
         <text>compile</text>
       </register>
       <register name="/" type="4">
-        <text>default</text>
+        <text>确定</text>
       </register>
       <register name="0" type="4">
-        <text>#DFDEDF</text>
+        <text>#d9d9d9</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW5jbHVkZSAnOnJlYWN0LW5hdGl2ZS16ZWJyYS1zY2FubmVyJwpwcm9qZWN0KCc6cmVhY3QtbmF0aXZlLXplYnJhLXNjYW5uZXInKS5wcm9qZWN0RGlyID0gbmV3IEZpbGUocm9vdFByb2plY3QucHJvamVjdERpciwgJy4uL25vZGVfbW9kdWxlcy9yZWFjdC1uYXRpdmUtemVicmEtc2Nhbm5lci9hbmRyb2lkJykK</text>
@@ -536,17 +537,16 @@
       </register>
     </registers>
     <search>
-      <last-search>default</last-search>
+      <last-search>确定</last-search>
       <last-offset />
-      <last-pattern>default</last-pattern>
+      <last-pattern>确定</last-pattern>
       <last-replace>pipelineBean</last-replace>
       <last-substitute>version</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>share</entry>
         <entry encoding="base64">XDxDT05ORUNUX0lOX1BBVEhcPg==</entry>
         <entry>toCm</entry>
         <entry>10085</entry>
@@ -566,6 +566,7 @@
         <entry>scanner</entry>
         <entry>scan</entry>
         <entry>default</entry>
+        <entry>确定</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0FsYXJtSW5mby9IaXNBbGFybUluZm8vZw==</entry>
