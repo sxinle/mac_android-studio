@@ -77,6 +77,9 @@
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/main/mine/MineViewModel.kt" timestamp="1539307871772">
         <mark key="'" line="35" column="9" />
       </file>
+      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/trade/trades/TradeListFragment.kt" timestamp="1553855340723">
+        <mark key="'" line="59" column="19" />
+      </file>
       <file name="$USER_HOME$/workspace/uuvalue/jiujiangProject/node_modules/react-native-camera/android/build.gradle" timestamp="1552629045323">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -183,7 +186,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="18" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainViewModel.kt" />
       <jump line="148" column="41" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainViewModel.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainViewModel.kt" />
       <jump line="42" column="28" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainViewModel.kt" />
@@ -283,6 +285,7 @@
       <jump line="253" column="0" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/res/layout/fragment_statics.xml" />
       <jump line="20" column="28" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/res/layout/activity_first_blood.xml" />
       <jump line="285" column="42" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/res/layout/fragment_home.xml" />
+      <jump line="59" column="19" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/trade/trades/TradeListFragment.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -292,7 +295,7 @@
         <text>compile</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDzpppblhYXmtLvliqhcPg==</text>
+        <text encoding="base64">XDxzaG93Rmlyc3RSZXdhcmRFdmVudFw+</text>
       </register>
       <register name="0" type="4">
         <text>gradient</text>
@@ -329,9 +332,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDzpppblhYXmtLvliqhcPg==</last-search>
+      <last-search encoding="base64">XDxzaG93Rmlyc3RSZXdhcmRFdmVudFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDzpppblhYXmtLvliqhcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxzaG93Rmlyc3RSZXdhcmRFdmVudFw+</last-pattern>
       <last-replace>pipelineBean</last-replace>
       <last-substitute>version</last-substitute>
       <last-dir>1</last-dir>
@@ -339,7 +342,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjbTEwMDg1RXZlbnRcPg==</entry>
         <entry>agent</entry>
         <entry encoding="base64">XDxCQVNFX1VSTFw+</entry>
         <entry>load</entry>
@@ -359,6 +361,7 @@
         <entry>chart</entry>
         <entry>Pie</entry>
         <entry encoding="base64">XDzpppblhYXmtLvliqhcPg==</entry>
+        <entry encoding="base64">XDxzaG93Rmlyc3RSZXdhcmRFdmVudFw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0FsYXJtSW5mby9IaXNBbGFybUluZm8vZw==</entry>
