@@ -121,6 +121,9 @@
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/statics/StatisticsAdapter.kt" timestamp="1553583143298">
         <mark key="'" line="5" column="56" />
       </file>
+      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/res/layout/activity_first_blood.xml" timestamp="1553844026108">
+        <mark key="'" line="20" column="28" />
+      </file>
       <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/activity/z/res/UserallocActivity.java" timestamp="1541663320948">
         <mark key="'" line="42" column="27" />
       </file>
@@ -156,6 +159,9 @@
       <file name="/Dummy.txt" timestamp="1553665567724">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/res/layout/fragment_home.xml" timestamp="1553844027184">
+        <mark key="'" line="285" column="42" />
+      </file>
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/statics/charts/ChartViewModel.kt" timestamp="1553583194420">
         <mark key="'" line="21" column="62" />
       </file>
@@ -173,8 +179,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="155" column="33" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainViewModel.kt" />
-      <jump line="102" column="53" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainViewModel.kt" />
       <jump line="49" column="18" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainViewModel.kt" />
       <jump line="148" column="41" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainViewModel.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/main/MainViewModel.kt" />
@@ -273,6 +277,8 @@
       <jump line="14" column="22" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/statics/charts/ChartViewModel.kt" />
       <jump line="21" column="62" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/statics/charts/ChartViewModel.kt" />
       <jump line="253" column="0" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/res/layout/fragment_statics.xml" />
+      <jump line="20" column="28" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/res/layout/activity_first_blood.xml" />
+      <jump line="285" column="42" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/res/layout/fragment_home.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -282,7 +288,7 @@
         <text>compile</text>
       </register>
       <register name="/" type="4">
-        <text>Pie</text>
+        <text encoding="base64">XDzpppblhYXmtLvliqhcPg==</text>
       </register>
       <register name="0" type="4">
         <text>#d9d9d9</text>
@@ -319,17 +325,16 @@
       </register>
     </registers>
     <search>
-      <last-search>Pie</last-search>
+      <last-search encoding="base64">XDzpppblhYXmtLvliqhcPg==</last-search>
       <last-offset />
-      <last-pattern>Pie</last-pattern>
+      <last-pattern encoding="base64">XDzpppblhYXmtLvliqhcPg==</last-pattern>
       <last-replace>pipelineBean</last-replace>
       <last-substitute>version</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>10085</entry>
         <entry encoding="base64">XDxjbTEwMDg1RXZlbnRcPg==</entry>
         <entry>agent</entry>
         <entry encoding="base64">XDxCQVNFX1VSTFw+</entry>
@@ -349,6 +354,7 @@
         <entry>确定</entry>
         <entry>chart</entry>
         <entry>Pie</entry>
+        <entry encoding="base64">XDzpppblhYXmtLvliqhcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0FsYXJtSW5mby9IaXNBbGFybUluZm8vZw==</entry>
