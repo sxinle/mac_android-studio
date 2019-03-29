@@ -26,6 +26,9 @@
         <mark key="^" line="319" column="11" />
         <mark key="." line="343" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/dialog/savewebimg/ImageUrlSaveDialogFragment.kt" timestamp="1548826694467">
+        <mark key="'" line="48" column="48" />
+      </file>
       <file name="$USER_HOME$/Desktop/jd/and_partners/app/src/main/assets/index.html" timestamp="1548817315920">
         <mark key="'" line="73" column="25" />
       </file>
@@ -40,49 +43,6 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/trade/trades/TradeListAdapter.kt" timestamp="1539308477246">
-        <mark key="'" line="27" column="42" />
-      </file>
-      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/res/layout/fragment_statics.xml" timestamp="1553666094362">
-        <mark key="'" line="253" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/widget/JDPromotionItemView.java" timestamp="1542707922936">
-        <mark key="'" line="85" column="12" />
-      </file>
-      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/main/mine/MineViewModel.kt" timestamp="1539307871772">
-        <mark key="'" line="35" column="9" />
-      </file>
-      <file name="$USER_HOME$/workspace/uuvalue/jiujiangProject/node_modules/react-native-camera/android/build.gradle" timestamp="1552629045323">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/uuvalue/jiujiangProject/android/app/src/main/java/com/jiujiangproject/MainApplication.java" timestamp="1553163769312">
-        <mark key="'" line="36" column="43" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/jd/and_partners/app/src/main/res/menu/menu_main.xml" timestamp="1548669669967">
-        <mark key="'" line="9" column="25" />
-      </file>
-      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/res/values/colors.xml" timestamp="1553579224226">
-        <mark key="[" line="22" column="25" />
-        <mark key="]" line="22" column="31" />
-      </file>
-      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/statics/StatisticsAdapter.kt" timestamp="1553583143298">
-        <mark key="'" line="5" column="56" />
-      </file>
-      <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/activity/z/res/UserallocActivity.java" timestamp="1541663320948">
-        <mark key="'" line="42" column="27" />
-      </file>
-      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/.gitignore" timestamp="1552996750875">
-        <mark key="'" line="68" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/res/drawable/bg_date_confirm.xml" timestamp="1553579217431" />
-      <file name="$USER_HOME$/Desktop/jd/and_partners/app/src/main/java/com/thinkerjet/mobilepartner/ui/dialog/savewebimg/ImageUrlSaveDialogFragment.kt" timestamp="1548826694467">
-        <mark key="'" line="48" column="48" />
-      </file>
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/res/drawable/shape_bottom_line_unselect.xml" timestamp="1553569180797">
         <mark key="[" line="10" column="31" />
         <mark key="]" line="10" column="37" />
@@ -96,14 +56,31 @@
       <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/activity/z/res/AlloctionDetialActivity.java" timestamp="1541666007887">
         <mark key="'" line="46" column="29" />
       </file>
+      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/trade/trades/TradeListAdapter.kt" timestamp="1539308477246">
+        <mark key="'" line="27" column="42" />
+      </file>
       <file name="/fragment.kt" timestamp="1548499064275">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/res/layout/fragment_statics.xml" timestamp="1553843148447">
+        <mark key="'" line="253" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/widget/JDPromotionItemView.java" timestamp="1542707922936">
+        <mark key="'" line="85" column="12" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/fragment/z/useralloc/ItemShopFragment.java" timestamp="1541663355273">
         <mark key="'" line="46" column="28" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/AndroidManifest.xml" timestamp="1538977517716">
         <mark key="'" line="0" column="6" />
+      </file>
+      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/main/mine/MineViewModel.kt" timestamp="1539307871772">
+        <mark key="'" line="35" column="9" />
+      </file>
+      <file name="$USER_HOME$/workspace/uuvalue/jiujiangProject/node_modules/react-native-camera/android/build.gradle" timestamp="1552629045323">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/uuvalue/DataWedgeReactNative/android/build.gradle" timestamp="1553162608826">
         <mark key="[" line="4" column="0" />
@@ -119,14 +96,36 @@
       <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/LaunchActivity.java" timestamp="1542077136550">
         <mark key="'" line="25" column="11" />
       </file>
+      <file name="$USER_HOME$/workspace/uuvalue/jiujiangProject/android/app/src/main/java/com/jiujiangproject/MainApplication.java" timestamp="1553163769312">
+        <mark key="'" line="36" column="43" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/jd/and_partners/app/src/main/res/menu/menu_main.xml" timestamp="1548669669967">
+        <mark key="'" line="9" column="25" />
+      </file>
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/build/generated/data_binding_base_class_source_out/debug/dataBindingGenBaseClassesDebug/out/com/thinkerjet/jdcommunication/databinding/ItemTradeListBinding.java" timestamp="1539308447837">
         <mark key="'" line="37" column="32" />
+      </file>
+      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/res/values/colors.xml" timestamp="1553579224226">
+        <mark key="[" line="22" column="25" />
+        <mark key="]" line="22" column="31" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/statics/charts/ChartsFragment.kt" timestamp="1553583156641">
         <mark key="'" line="59" column="49" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/and_partners/app/libs/tbs_sdk_thirdapp_v3.6.0.1325_43613_sharewithdownload_withoutGame_obfs_20180807_151115.jar!/com/tencent/smtt/sdk/WebSettings.class" timestamp="1547776978015">
         <mark key="'" line="446" column="18" />
+      </file>
+      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/statics/StatisticsAdapter.kt" timestamp="1553583143298">
+        <mark key="'" line="5" column="56" />
+      </file>
+      <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/activity/z/res/UserallocActivity.java" timestamp="1541663320948">
+        <mark key="'" line="42" column="27" />
+      </file>
+      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/.gitignore" timestamp="1552996750875">
+        <mark key="'" line="68" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/samples-emdkforandroid-7_0-master/BarcodeSample1/app/build.gradle" timestamp="1553157505773">
         <mark key="'" line="18" column="0" />
@@ -162,12 +161,6 @@
       </file>
       <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/widget/JdSearchView.java" timestamp="1541402925048">
         <mark key="'" line="27" column="27" />
-      </file>
-      <file name="$USER_HOME$/workspace/uuvalue/jiujiangProject/android/gradle.properties" timestamp="1552621803452">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="^" line="18" column="76" />
-        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/activity/jd/JDOpenCardActivity.java" timestamp="1541560941687">
         <mark key="'" line="65" column="70" />
@@ -332,7 +325,7 @@
       <last-replace>pipelineBean</last-replace>
       <last-substitute>version</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
