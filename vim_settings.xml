@@ -3,6 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/TradeListViewModel.kt" timestamp="1553856310833">
+        <mark key="[" line="51" column="32" />
+        <mark key="]" line="51" column="51" />
+      </file>
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/build/generated/source/kapt/debug/com/thinkerjet/jdcommunication/databinding/FragmentTradeDetialBindingImpl.java" timestamp="1544609387915">
         <mark key="'" line="0" column="0" />
       </file>
@@ -32,16 +36,17 @@
       <file name="$USER_HOME$/Desktop/jd/and_partners/app/src/main/assets/index.html" timestamp="1548817315920">
         <mark key="'" line="73" column="25" />
       </file>
-      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/trade/detial/TradeDetialViewModel.kt" timestamp="1539163028780">
+      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/trade/detial/TradeDetialViewModel.kt" timestamp="1553856336916">
         <mark key="'" line="17" column="8" />
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="59" column="25" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/fragment/jd/JdIndexFragment.java" timestamp="1544067403780">
         <mark key="'" line="79" column="8" />
       </file>
-      <file name="$USER_HOME$/workspace/uuvalue/jiujiangProject/android/settings.gradle" timestamp="1553163759044">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/data/trade/TradeDetialData.kt" timestamp="1553856460271">
+        <mark key="[" line="25" column="31" />
+        <mark key="]" line="25" column="42" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/res/drawable/shape_bottom_line_unselect.xml" timestamp="1553569180797">
         <mark key="[" line="10" column="31" />
@@ -77,18 +82,8 @@
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/main/mine/MineViewModel.kt" timestamp="1539307871772">
         <mark key="'" line="35" column="9" />
       </file>
-      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/trade/trades/TradeListFragment.kt" timestamp="1553855340723">
+      <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/trade/trades/TradeListFragment.kt" timestamp="1553855858817">
         <mark key="'" line="59" column="19" />
-      </file>
-      <file name="$USER_HOME$/workspace/uuvalue/jiujiangProject/node_modules/react-native-camera/android/build.gradle" timestamp="1552629045323">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/uuvalue/DataWedgeReactNative/android/build.gradle" timestamp="1553162608826">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="8" column="36" />
-        <mark key="." line="4" column="36" />
       </file>
       <file name="$USER_HOME$/workspace/uuvalue/jiujiangProject/android/build.gradle" timestamp="1553162658105">
         <mark key="'" line="41" column="0" />
@@ -298,7 +293,7 @@
         <text encoding="base64">XDxzaG93Rmlyc3RSZXdhcmRFdmVudFw+</text>
       </register>
       <register name="0" type="4">
-        <text>gradient</text>
+        <text>TRADE_STATUS</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW5jbHVkZSAnOnJlYWN0LW5hdGl2ZS16ZWJyYS1zY2FubmVyJwpwcm9qZWN0KCc6cmVhY3QtbmF0aXZlLXplYnJhLXNjYW5uZXInKS5wcm9qZWN0RGlyID0gbmV3IEZpbGUocm9vdFByb2plY3QucHJvamVjdERpciwgJy4uL25vZGVfbW9kdWxlcy9yZWFjdC1uYXRpdmUtemVicmEtc2Nhbm5lci9hbmRyb2lkJykK</text>
