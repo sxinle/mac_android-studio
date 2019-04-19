@@ -89,20 +89,8 @@
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/trade/trades/TradeListFragment.kt" timestamp="1553855858817">
         <mark key="'" line="59" column="19" />
       </file>
-      <file name="$USER_HOME$/workspace/uuvalue/jiujiangProject/android/build.gradle" timestamp="1553162658105">
-        <mark key="'" line="41" column="0" />
-        <mark key="[" line="39" column="23" />
-        <mark key="]" line="39" column="24" />
-        <mark key="." line="39" column="24" />
-      </file>
       <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/LaunchActivity.java" timestamp="1542077136550">
         <mark key="'" line="25" column="11" />
-      </file>
-      <file name="$USER_HOME$/workspace/uuvalue/jiujiangProject/android/app/src/main/java/com/jiujiangproject/MainApplication.java" timestamp="1553163769312">
-        <mark key="'" line="36" column="43" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/and_partners/app/src/main/res/menu/menu_main.xml" timestamp="1548669669967">
         <mark key="'" line="9" column="25" />
@@ -144,11 +132,12 @@
       <file name="$USER_HOME$/Desktop/jd/ln178/libraries/TextDrawable/src/main/java/com/amulyakhare/textdrawable/util/ColorGenerator.java" timestamp="1541647981947">
         <mark key="[" line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/java/com/pegasdelivery/MainActivity.java" timestamp="1555565906614">
-        <mark key="'" line="22" column="13" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/java/com/pegasdelivery/MainActivity.java" timestamp="1555688282033">
+        <mark key="'" line="24" column="13" />
+        <mark key="[" line="28" column="5" />
+        <mark key="]" line="51" column="4" />
+        <mark key="." line="51" column="4" />
+        <mark key="^" line="51" column="4" />
       </file>
       <file name="/Dummy.txt" timestamp="1553844483387">
         <mark key="[" line="0" column="0" />
@@ -329,7 +318,7 @@
       <last-replace>pipelineBean</last-replace>
       <last-substitute>version</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
