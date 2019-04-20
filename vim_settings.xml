@@ -10,10 +10,10 @@
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/build/generated/source/kapt/debug/com/thinkerjet/jdcommunication/databinding/FragmentTradeDetialBindingImpl.java" timestamp="1544609387915">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/android/settings.gradle" timestamp="1555727968471">
+      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/android/settings.gradle" timestamp="1555730718957">
         <mark key="'" line="14" column="13" />
         <mark key="[" line="17" column="0" />
-        <mark key="]" line="18" column="134" />
+        <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/demo/jdtx/android/build.gradle" timestamp="1539333853092">
@@ -43,12 +43,11 @@
         <mark key="[" line="25" column="31" />
         <mark key="]" line="25" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/build.gradle" timestamp="1555728007626">
-        <mark key="'" line="79" column="45" />
-        <mark key="[" line="140" column="4" />
-        <mark key="]" line="140" column="18" />
+      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/build.gradle" timestamp="1555730666419">
+        <mark key="[" line="145" column="0" />
+        <mark key="]" line="145" column="0" />
         <mark key="^" line="140" column="3" />
-        <mark key="." line="140" column="4" />
+        <mark key="." line="145" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/res/drawable/shape_bottom_line_unselect.xml" timestamp="1553569180797">
         <mark key="[" line="10" column="31" />
@@ -142,7 +141,7 @@
       <file name="$USER_HOME$/workspace/pegas/pegasDelivery/node_modules/react-native-code-push/android/app/react-native-code-push.iml" timestamp="1555728063675">
         <mark key="'" line="139" column="65" />
       </file>
-      <file name="/Dummy.txt" timestamp="1553844483387">
+      <file name="/Dummy.txt" timestamp="1555729656012">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/res/layout/fragment_home.xml" timestamp="1553844027184">
@@ -165,8 +164,11 @@
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/gradle.properties" timestamp="1538975292232">
         <mark key="'" line="11" column="18" />
       </file>
-      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/java/com/pegasdelivery/MainApplication.java" timestamp="1555692200583">
-        <mark key="'" line="45" column="46" />
+      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/java/com/pegasdelivery/MainApplication.java" timestamp="1555730545750">
+        <mark key="'" line="37" column="24" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/res/drawable/bg_of_first_reward.xml" timestamp="1553847253432">
         <mark key="[" line="2" column="5" />
@@ -177,9 +179,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="78" column="32" filename="$USER_HOME$/workspace/uuvalue/jiujiangProject/android/app/build.gradle" />
-      <jump line="13" column="16" filename="$USER_HOME$/workspace/uuvalue/jiujiangProject/android/build.gradle" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/uuvalue/jiujiangProject/android/build.gradle" />
       <jump line="41" column="0" filename="$USER_HOME$/workspace/uuvalue/jiujiangProject/android/build.gradle" />
       <jump line="2" column="13" filename="$USER_HOME$/workspace/uuvalue/jiujiangProject/android/app/src/main/java/com/jiujiangproject/MainApplication.java" />
       <jump line="50" column="0" filename="$USER_HOME$/workspace/uuvalue/jiujiangProject/android/app/src/main/java/com/jiujiangproject/MainApplication.java" />
@@ -271,12 +270,15 @@
       <jump line="144" column="0" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/build.gradle" />
       <jump line="76" column="0" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/build.gradle" />
       <jump line="147" column="41" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/build.gradle" />
-      <jump line="145" column="35" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/build.gradle" />
       <jump line="79" column="45" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/build.gradle" />
       <jump line="30" column="0" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/java/com/pegasdelivery/MainActivity.java" />
       <jump line="14" column="13" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/settings.gradle" />
       <jump line="20" column="50" filename="$USER_HOME$/workspace/pegas/pegasDelivery/node_modules/react-native-code-push/android/app/react-native-code-push.iml" />
       <jump line="139" column="65" filename="$USER_HOME$/workspace/pegas/pegasDelivery/node_modules/react-native-code-push/android/app/react-native-code-push.iml" />
+      <jump line="45" column="24" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/java/com/pegasdelivery/MainApplication.java" />
+      <jump line="13" column="37" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/java/com/pegasdelivery/MainApplication.java" />
+      <jump line="37" column="24" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/java/com/pegasdelivery/MainApplication.java" />
+      <jump line="145" column="28" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -286,46 +288,46 @@
         <text>compile</text>
       </register>
       <register name="/" type="4">
-        <text>app</text>
+        <text encoding="base64">XDxuYXRpdmVcPg==</text>
       </register>
       <register name="0" type="4">
         <text>implementation</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uIHByb2plY3QoJzpyZWFjdC1uYXRpdmUtY29kZS1wdXNoJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW5jbHVkZSAnOnJlYWN0LW5hdGl2ZS1jb2RlLXB1c2gnCnByb2plY3QoJzpyZWFjdC1uYXRpdmUtY29kZS1wdXNoJykucHJvamVjdERpciA9IG5ldyBGaWxlKHJvb3RQcm9qZWN0LnByb2plY3REaXIsICcuLi9ub2RlX21vZHVsZXMvcmVhY3QtbmF0aXZlLWNvZGUtcHVzaC9hbmRyb2lkL2FwcCcpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBAT3ZlcnJpZGUKICAgICAgICBwcm90ZWN0ZWQgU3RyaW5nIGdldEpTQnVuZGxlRmlsZSgpIHsKICAgICAgICByZXR1cm4gQ29kZVB1c2guZ2V0SlNCdW5kbGVGaWxlKCk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">aW5jbHVkZSAnOnJlYWN0LW5hdGl2ZS1jb2RlLXB1c2gnCnByb2plY3QoJzpyZWFjdC1uYXRpdmUtY29kZS1wdXNoJykucHJvamVjdERpciA9IG5ldyBGaWxlKHJvb3RQcm9qZWN0LnByb2plY3REaXIsICcuLi9ub2RlX21vZHVsZXMvcmVhY3QtbmF0aXZlLWNvZGUtcHVzaC9hbmRyb2lkL2FwcCcpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW5jbHVkZSAnOnJlYWN0LW5hdGl2ZS1nZXN0dXJlLWhhbmRsZXInCnByb2plY3QoJzpyZWFjdC1uYXRpdmUtZ2VzdHVyZS1oYW5kbGVyJykucHJvamVjdERpciA9IG5ldyBGaWxlKHJvb3RQcm9qZWN0LnByb2plY3REaXIsICcuLi9ub2RlX21vZHVsZXMvcmVhY3QtbmF0aXZlLWdlc3R1cmUtaGFuZGxlci9hbmRyb2lkJykKaW5jbHVkZSAnOnJlYWN0LW5hdGl2ZS12aWV3LXNob3QnCnByb2plY3QoJzpyZWFjdC1uYXRpdmUtdmlldy1zaG90JykucHJvamVjdERpciA9IG5ldyBGaWxlKHJvb3RQcm9qZWN0LnByb2plY3REaXIsICcuLi9ub2RlX21vZHVsZXMvcmVhY3QtbmF0aXZlLXZpZXctc2hvdC9hbmRyb2lkJykKaW5jbHVkZSAnOnJlYWN0LW5hdGl2ZS1zdmcnCnByb2plY3QoJzpyZWFjdC1uYXRpdmUtc3ZnJykucHJvamVjdERpciA9IG5ldyBGaWxlKHJvb3RQcm9qZWN0LnByb2plY3REaXIsICcuLi9ub2RlX21vZHVsZXMvcmVhY3QtbmF0aXZlLXN2Zy9hbmRyb2lkJykKaW5jbHVkZSAnOnJlYWN0LW5hdGl2ZS1zcGxhc2gtc2NyZWVuJwpwcm9qZWN0KCc6cmVhY3QtbmF0aXZlLXNwbGFzaC1zY3JlZW4nKS5wcm9qZWN0RGlyID0gbmV3IEZpbGUocm9vdFByb2plY3QucHJvamVjdERpciwgJy4uL25vZGVfbW9kdWxlcy9yZWFjdC1uYXRpdmUtc3BsYXNoLXNjcmVlbi9hbmRyb2lkJykKaW5jbHVkZSAnOnJlYWN0LW5hdGl2ZS1saW5lYXItZ3JhZGllbnQnCnByb2plY3QoJzpyZWFjdC1uYXRpdmUtbGluZWFyLWdyYWRpZW50JykucHJvamVjdERpciA9IG5ldyBGaWxlKHJvb3RQcm9qZWN0LnByb2plY3REaXIsICcuLi9ub2RlX21vZHVsZXMvcmVhY3QtbmF0aXZlLWxpbmVhci1ncmFkaWVudC9hbmRyb2lkJykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBuZXcgSlB1c2hQYWNrYWdlKCFCdWlsZENvbmZpZy5ERUJVRywgIUJ1aWxkQ29uZmlnLkRFQlVHKSwK</text>
+        <text encoding="base64">aW5jbHVkZSAnOmpwdXNoLXJlYWN0LW5hdGl2ZScKcHJvamVjdCgnOmpwdXNoLXJlYWN0LW5hdGl2ZScpLnByb2plY3REaXIgPSBuZXcgRmlsZShyb290UHJvamVjdC5wcm9qZWN0RGlyLCAnLi4vbm9kZV9tb2R1bGVzL2pwdXNoLXJlYWN0LW5hdGl2ZS9hbmRyb2lkJykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBuZXcgQ29kZVB1c2goZ2V0UmVzb3VyY2VzKCkuZ2V0U3RyaW5nKFIuc3RyaW5nLnJlYWN0TmF0aXZlQ29kZVB1c2hfYW5kcm9pZERlcGxveW1lbnRLZXkpLCBnZXRBcHBsaWNhdGlvbkNvbnRleHQoKSwgQnVpbGRDb25maWcuREVCVUcpCg==</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgcHJvamVjdCgnOmpwdXNoLXJlYWN0LW5hdGl2ZScpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CgogICAgICAgIC8vIEBPdmVycmlkZQogICAgICAgIC8vIHByb3RlY3RlZCBTdHJpbmcgZ2V0SlNCdW5kbGVGaWxlKCkgewogICAgICAgIC8vIHJldHVybiBDb2RlUHVzaC5nZXRKU0J1bmRsZUZpbGUoKTsKICAgICAgICAvLyB9Cg==</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgcHJvamVjdCgnOnJlYWN0LW5hdGl2ZS1jb2RlLXB1c2gnKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG51bGw7Cg==</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgcHJvamVjdCgnOnJlYWN0LW5hdGl2ZS1nZXN0dXJlLWhhbmRsZXInKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zd21hbnNpb24uZ2VzdHVyZWhhbmRsZXIucmVhY3QuUk5HZXN0dXJlSGFuZGxlckVuYWJsZWRSb290VmlldzsK</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgcHJvamVjdCgnOnJlYWN0LW5hdGl2ZS1saW5lYXItZ3JhZGllbnQnKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>app</last-search>
+      <last-search encoding="base64">XDxuYXRpdmVcPg==</last-search>
       <last-offset />
-      <last-pattern>app</last-pattern>
+      <last-pattern encoding="base64">XDxuYXRpdmVcPg==</last-pattern>
       <last-replace>pipelineBean</last-replace>
       <last-substitute>version</last-substitute>
       <last-dir>1</last-dir>
@@ -333,8 +335,6 @@
     </search>
     <history>
       <history-search>
-        <entry>toGallery</entry>
-        <entry>all</entry>
         <entry>compile</entry>
         <entry>scanner</entry>
         <entry>scan</entry>
@@ -353,6 +353,8 @@
         <entry>dep</entry>
         <entry>code-push</entry>
         <entry>app</entry>
+        <entry encoding="base64">XDxSTlZpZXdTaG90UGFja2FnZVw+</entry>
+        <entry encoding="base64">XDxuYXRpdmVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0FsYXJtSW5mby9IaXNBbGFybUluZm8vZw==</entry>
