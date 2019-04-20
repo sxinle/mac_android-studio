@@ -135,8 +135,12 @@
       <file name="$USER_HOME$/Desktop/jd/ln178/libraries/TextDrawable/src/main/java/com/amulyakhare/textdrawable/util/ColorGenerator.java" timestamp="1541647981947">
         <mark key="[" line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/java/com/pegasdelivery/MainActivity.java" timestamp="1555691777404">
-        <mark key="[" line="26" column="5" />
+      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/java/com/pegasdelivery/MainActivity.java" timestamp="1555736814551">
+        <mark key="'" line="32" column="11" />
+        <mark key="[" line="28" column="5" />
+        <mark key="]" line="50" column="4" />
+        <mark key="^" line="50" column="4" />
+        <mark key="." line="50" column="4" />
       </file>
       <file name="$USER_HOME$/workspace/pegas/pegasDelivery/node_modules/react-native-code-push/android/app/react-native-code-push.iml" timestamp="1555728063675">
         <mark key="'" line="139" column="65" />
@@ -179,7 +183,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="0" filename="$USER_HOME$/workspace/uuvalue/jiujiangProject/android/build.gradle" />
       <jump line="2" column="13" filename="$USER_HOME$/workspace/uuvalue/jiujiangProject/android/app/src/main/java/com/jiujiangproject/MainApplication.java" />
       <jump line="50" column="0" filename="$USER_HOME$/workspace/uuvalue/jiujiangProject/android/app/src/main/java/com/jiujiangproject/MainApplication.java" />
       <jump line="95" column="0" filename="$USER_HOME$/workspace/uuvalue/jiujiangProject/android/app/build.gradle" />
@@ -279,6 +282,7 @@
       <jump line="13" column="37" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/java/com/pegasdelivery/MainApplication.java" />
       <jump line="37" column="24" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/java/com/pegasdelivery/MainApplication.java" />
       <jump line="145" column="28" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/build.gradle" />
+      <jump line="32" column="11" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/java/com/pegasdelivery/MainActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -331,7 +335,7 @@
       <last-replace>pipelineBean</last-replace>
       <last-substitute>version</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
