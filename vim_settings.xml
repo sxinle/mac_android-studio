@@ -10,8 +10,8 @@
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/build/generated/source/kapt/debug/com/thinkerjet/jdcommunication/databinding/FragmentTradeDetialBindingImpl.java" timestamp="1544609387915">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/android/settings.gradle" timestamp="1555727006657">
-        <mark key="'" line="12" column="0" />
+      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/android/settings.gradle" timestamp="1555727968471">
+        <mark key="'" line="14" column="13" />
         <mark key="[" line="17" column="0" />
         <mark key="]" line="18" column="134" />
         <mark key="." line="17" column="0" />
@@ -43,12 +43,12 @@
         <mark key="[" line="25" column="31" />
         <mark key="]" line="25" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/build.gradle" timestamp="1555727019377">
+      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/build.gradle" timestamp="1555728007626">
         <mark key="'" line="79" column="45" />
-        <mark key="[" line="152" column="0" />
-        <mark key="]" line="152" column="53" />
+        <mark key="[" line="140" column="4" />
+        <mark key="]" line="140" column="18" />
         <mark key="^" line="140" column="3" />
-        <mark key="." line="152" column="0" />
+        <mark key="." line="140" column="4" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/res/drawable/shape_bottom_line_unselect.xml" timestamp="1553569180797">
         <mark key="[" line="10" column="31" />
@@ -139,6 +139,9 @@
       <file name="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/java/com/pegasdelivery/MainActivity.java" timestamp="1555691777404">
         <mark key="[" line="26" column="5" />
       </file>
+      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/node_modules/react-native-code-push/android/app/react-native-code-push.iml" timestamp="1555728063675">
+        <mark key="'" line="139" column="65" />
+      </file>
       <file name="/Dummy.txt" timestamp="1553844483387">
         <mark key="[" line="0" column="0" />
       </file>
@@ -174,9 +177,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="20" filename="$USER_HOME$/workspace/uuvalue/jiujiangProject/android/app/build.gradle" />
-      <jump line="9" column="66" filename="$USER_HOME$/workspace/uuvalue/jiujiangProject/android/app/build.gradle" />
-      <jump line="10" column="12" filename="$USER_HOME$/workspace/uuvalue/jiujiangProject/node_modules/react-native-camera/android/build.gradle" />
       <jump line="78" column="32" filename="$USER_HOME$/workspace/uuvalue/jiujiangProject/android/app/build.gradle" />
       <jump line="13" column="16" filename="$USER_HOME$/workspace/uuvalue/jiujiangProject/android/build.gradle" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/uuvalue/jiujiangProject/android/build.gradle" />
@@ -274,16 +274,19 @@
       <jump line="145" column="35" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/build.gradle" />
       <jump line="79" column="45" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/build.gradle" />
       <jump line="30" column="0" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/java/com/pegasdelivery/MainActivity.java" />
+      <jump line="14" column="13" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/settings.gradle" />
+      <jump line="20" column="50" filename="$USER_HOME$/workspace/pegas/pegasDelivery/node_modules/react-native-code-push/android/app/react-native-code-push.iml" />
+      <jump line="139" column="65" filename="$USER_HOME$/workspace/pegas/pegasDelivery/node_modules/react-native-code-push/android/app/react-native-code-push.iml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>基本废物......</text>
       </register>
       <register name="-" type="4">
-        <text>provided</text>
+        <text>compile</text>
       </register>
       <register name="/" type="4">
-        <text>code-push</text>
+        <text>app</text>
       </register>
       <register name="0" type="4">
         <text>implementation</text>
@@ -320,17 +323,16 @@
       </register>
     </registers>
     <search>
-      <last-search>code-push</last-search>
+      <last-search>app</last-search>
       <last-offset />
-      <last-pattern>code-push</last-pattern>
+      <last-pattern>app</last-pattern>
       <last-replace>pipelineBean</last-replace>
       <last-substitute>version</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>退出</entry>
         <entry>toGallery</entry>
         <entry>all</entry>
         <entry>compile</entry>
@@ -350,6 +352,7 @@
         <entry>gradle</entry>
         <entry>dep</entry>
         <entry>code-push</entry>
+        <entry>app</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0FsYXJtSW5mby9IaXNBbGFybUluZm8vZw==</entry>
