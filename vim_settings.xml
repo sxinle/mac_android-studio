@@ -7,14 +7,14 @@
         <mark key="[" line="51" column="32" />
         <mark key="]" line="51" column="51" />
       </file>
-      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/node_modules/react-native-code-push/android/app/build/generated/source/buildConfig/debug/com/microsoft/codepush/react/BuildConfig.java" timestamp="1555690983396" />
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/build/generated/source/kapt/debug/com/thinkerjet/jdcommunication/databinding/FragmentTradeDetialBindingImpl.java" timestamp="1544609387915">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/android/settings.gradle" timestamp="1555690177748">
-        <mark key="'" line="14" column="0" />
-        <mark key="[" line="9" column="9" />
-        <mark key="]" line="9" column="31" />
+      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/android/settings.gradle" timestamp="1555727006657">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="18" column="134" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/demo/jdtx/android/build.gradle" timestamp="1539333853092">
         <mark key="'" line="23" column="0" />
@@ -43,12 +43,12 @@
         <mark key="[" line="25" column="31" />
         <mark key="]" line="25" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/build.gradle" timestamp="1555691886373">
+      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/build.gradle" timestamp="1555727019377">
         <mark key="'" line="79" column="45" />
-        <mark key="[" line="140" column="0" />
-        <mark key="]" line="140" column="0" />
+        <mark key="[" line="152" column="0" />
+        <mark key="]" line="152" column="53" />
         <mark key="^" line="140" column="3" />
-        <mark key="." line="140" column="0" />
+        <mark key="." line="152" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/res/drawable/shape_bottom_line_unselect.xml" timestamp="1553569180797">
         <mark key="[" line="10" column="31" />
@@ -150,6 +150,11 @@
       </file>
       <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/widget/JdSearchView.java" timestamp="1541402925048">
         <mark key="'" line="27" column="27" />
+      </file>
+      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/node_modules/react-native-gesture-handler/android/build.gradle" timestamp="1555726773246">
+        <mark key="[" line="26" column="4" />
+        <mark key="]" line="26" column="4" />
+        <mark key="." line="26" column="4" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/activity/jd/JDOpenCardActivity.java" timestamp="1541560941687">
         <mark key="'" line="65" column="70" />
@@ -275,7 +280,7 @@
         <text>基本废物......</text>
       </register>
       <register name="-" type="4">
-        <text>compile</text>
+        <text>provided</text>
       </register>
       <register name="/" type="4">
         <text>code-push</text>
@@ -284,31 +289,31 @@
         <text>implementation</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBAT3ZlcnJpZGUKICAgICAgICBwcm90ZWN0ZWQgU3RyaW5nIGdldEpTQnVuZGxlRmlsZSgpIHsKICAgICAgICByZXR1cm4gQ29kZVB1c2guZ2V0SlNCdW5kbGVGaWxlKCk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uIHByb2plY3QoJzpyZWFjdC1uYXRpdmUtY29kZS1wdXNoJykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW5jbHVkZSAnOnJlYWN0LW5hdGl2ZS1jb2RlLXB1c2gnCnByb2plY3QoJzpyZWFjdC1uYXRpdmUtY29kZS1wdXNoJykucHJvamVjdERpciA9IG5ldyBGaWxlKHJvb3RQcm9qZWN0LnByb2plY3REaXIsICcuLi9ub2RlX21vZHVsZXMvcmVhY3QtbmF0aXZlLWNvZGUtcHVzaC9hbmRyb2lkL2FwcCcpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBuZXcgSlB1c2hQYWNrYWdlKCFCdWlsZENvbmZpZy5ERUJVRywgIUJ1aWxkQ29uZmlnLkRFQlVHKSwK</text>
+        <text encoding="base64">ICAgICAgICBAT3ZlcnJpZGUKICAgICAgICBwcm90ZWN0ZWQgU3RyaW5nIGdldEpTQnVuZGxlRmlsZSgpIHsKICAgICAgICByZXR1cm4gQ29kZVB1c2guZ2V0SlNCdW5kbGVGaWxlKCk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBuZXcgQ29kZVB1c2goZ2V0UmVzb3VyY2VzKCkuZ2V0U3RyaW5nKFIuc3RyaW5nLnJlYWN0TmF0aXZlQ29kZVB1c2hfYW5kcm9pZERlcGxveW1lbnRLZXkpLCBnZXRBcHBsaWNhdGlvbkNvbnRleHQoKSwgQnVpbGRDb25maWcuREVCVUcpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CgogICAgICAgIC8vIEBPdmVycmlkZQogICAgICAgIC8vIHByb3RlY3RlZCBTdHJpbmcgZ2V0SlNCdW5kbGVGaWxlKCkgewogICAgICAgIC8vIHJldHVybiBDb2RlUHVzaC5nZXRKU0J1bmRsZUZpbGUoKTsKICAgICAgICAvLyB9Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG51bGw7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zd21hbnNpb24uZ2VzdHVyZWhhbmRsZXIucmVhY3QuUk5HZXN0dXJlSGFuZGxlckVuYWJsZWRSb290VmlldzsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBuZXcgSlB1c2hQYWNrYWdlKCFCdWlsZENvbmZpZy5ERUJVRywgIUJ1aWxkQ29uZmlnLkRFQlVHKSwK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBuZXcgQ29kZVB1c2goZ2V0UmVzb3VyY2VzKCkuZ2V0U3RyaW5nKFIuc3RyaW5nLnJlYWN0TmF0aXZlQ29kZVB1c2hfYW5kcm9pZERlcGxveW1lbnRLZXkpLCBnZXRBcHBsaWNhdGlvbkNvbnRleHQoKSwgQnVpbGRDb25maWcuREVCVUcpCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CgogICAgICAgIC8vIEBPdmVycmlkZQogICAgICAgIC8vIHByb3RlY3RlZCBTdHJpbmcgZ2V0SlNCdW5kbGVGaWxlKCkgewogICAgICAgIC8vIHJldHVybiBDb2RlUHVzaC5nZXRKU0J1bmRsZUZpbGUoKTsKICAgICAgICAvLyB9Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG51bGw7Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5zd21hbnNpb24uZ2VzdHVyZWhhbmRsZXIucmVhY3QuUk5HZXN0dXJlSGFuZGxlckVuYWJsZWRSb290VmlldzsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -321,7 +326,7 @@
       <last-replace>pipelineBean</last-replace>
       <last-substitute>version</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
