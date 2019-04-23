@@ -135,12 +135,11 @@
       <file name="$USER_HOME$/Desktop/jd/ln178/libraries/TextDrawable/src/main/java/com/amulyakhare/textdrawable/util/ColorGenerator.java" timestamp="1541647981947">
         <mark key="[" line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/java/com/pegasdelivery/MainActivity.java" timestamp="1555736814551">
-        <mark key="'" line="32" column="11" />
-        <mark key="[" line="28" column="5" />
-        <mark key="]" line="50" column="4" />
-        <mark key="^" line="50" column="4" />
-        <mark key="." line="50" column="4" />
+      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/java/com/pegasdelivery/MainActivity.java" timestamp="1555739660505">
+        <mark key="'" line="26" column="4" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/pegas/pegasDelivery/node_modules/react-native-code-push/android/app/react-native-code-push.iml" timestamp="1555728063675">
         <mark key="'" line="139" column="65" />
@@ -183,7 +182,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="13" filename="$USER_HOME$/workspace/uuvalue/jiujiangProject/android/app/src/main/java/com/jiujiangproject/MainApplication.java" />
       <jump line="50" column="0" filename="$USER_HOME$/workspace/uuvalue/jiujiangProject/android/app/src/main/java/com/jiujiangproject/MainApplication.java" />
       <jump line="95" column="0" filename="$USER_HOME$/workspace/uuvalue/jiujiangProject/android/app/build.gradle" />
       <jump line="152" column="0" filename="$USER_HOME$/workspace/uuvalue/jiujiangProject/android/app/build.gradle" />
@@ -283,6 +281,7 @@
       <jump line="37" column="24" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/java/com/pegasdelivery/MainApplication.java" />
       <jump line="145" column="28" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/build.gradle" />
       <jump line="32" column="11" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/java/com/pegasdelivery/MainActivity.java" />
+      <jump line="26" column="4" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/java/com/pegasdelivery/MainActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -301,28 +300,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW5jbHVkZSAnOnJlYWN0LW5hdGl2ZS1jb2RlLXB1c2gnCnByb2plY3QoJzpyZWFjdC1uYXRpdmUtY29kZS1wdXNoJykucHJvamVjdERpciA9IG5ldyBGaWxlKHJvb3RQcm9qZWN0LnByb2plY3REaXIsICcuLi9ub2RlX21vZHVsZXMvcmVhY3QtbmF0aXZlLWNvZGUtcHVzaC9hbmRyb2lkL2FwcCcpCg==</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCB2b2lkIG9uQ3JlYXRlKEJ1bmRsZSBzYXZlZEluc3RhbmNlU3RhdGUpIHsKICAgICAgICBzdXBlci5vbkNyZWF0ZShzYXZlZEluc3RhbmNlU3RhdGUpOwogICAgICAgIEpQdXNoSW50ZXJmYWNlLmluaXQodGhpcyk7CiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwcm90ZWN0ZWQgdm9pZCBvblBhdXNlKCkgewogICAgICAgIHN1cGVyLm9uUGF1c2UoKTsKICAgICAgICBKUHVzaEludGVyZmFjZS5vblBhdXNlKHRoaXMpOwogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIHZvaWQgb25SZXN1bWUoKSB7CiAgICAgICAgc3VwZXIub25SZXN1bWUoKTsKICAgICAgICBKUHVzaEludGVyZmFjZS5vblJlc3VtZSh0aGlzKTsKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHByb3RlY3RlZCB2b2lkIG9uRGVzdHJveSgpIHsKICAgICAgICBzdXBlci5vbkRlc3Ryb3koKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW5jbHVkZSAnOnJlYWN0LW5hdGl2ZS1nZXN0dXJlLWhhbmRsZXInCnByb2plY3QoJzpyZWFjdC1uYXRpdmUtZ2VzdHVyZS1oYW5kbGVyJykucHJvamVjdERpciA9IG5ldyBGaWxlKHJvb3RQcm9qZWN0LnByb2plY3REaXIsICcuLi9ub2RlX21vZHVsZXMvcmVhY3QtbmF0aXZlLWdlc3R1cmUtaGFuZGxlci9hbmRyb2lkJykKaW5jbHVkZSAnOnJlYWN0LW5hdGl2ZS12aWV3LXNob3QnCnByb2plY3QoJzpyZWFjdC1uYXRpdmUtdmlldy1zaG90JykucHJvamVjdERpciA9IG5ldyBGaWxlKHJvb3RQcm9qZWN0LnByb2plY3REaXIsICcuLi9ub2RlX21vZHVsZXMvcmVhY3QtbmF0aXZlLXZpZXctc2hvdC9hbmRyb2lkJykKaW5jbHVkZSAnOnJlYWN0LW5hdGl2ZS1zdmcnCnByb2plY3QoJzpyZWFjdC1uYXRpdmUtc3ZnJykucHJvamVjdERpciA9IG5ldyBGaWxlKHJvb3RQcm9qZWN0LnByb2plY3REaXIsICcuLi9ub2RlX21vZHVsZXMvcmVhY3QtbmF0aXZlLXN2Zy9hbmRyb2lkJykKaW5jbHVkZSAnOnJlYWN0LW5hdGl2ZS1zcGxhc2gtc2NyZWVuJwpwcm9qZWN0KCc6cmVhY3QtbmF0aXZlLXNwbGFzaC1zY3JlZW4nKS5wcm9qZWN0RGlyID0gbmV3IEZpbGUocm9vdFByb2plY3QucHJvamVjdERpciwgJy4uL25vZGVfbW9kdWxlcy9yZWFjdC1uYXRpdmUtc3BsYXNoLXNjcmVlbi9hbmRyb2lkJykKaW5jbHVkZSAnOnJlYWN0LW5hdGl2ZS1saW5lYXItZ3JhZGllbnQnCnByb2plY3QoJzpyZWFjdC1uYXRpdmUtbGluZWFyLWdyYWRpZW50JykucHJvamVjdERpciA9IG5ldyBGaWxlKHJvb3RQcm9qZWN0LnByb2plY3REaXIsICcuLi9ub2RlX21vZHVsZXMvcmVhY3QtbmF0aXZlLWxpbmVhci1ncmFkaWVudC9hbmRyb2lkJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW5jbHVkZSAnOmpwdXNoLXJlYWN0LW5hdGl2ZScKcHJvamVjdCgnOmpwdXNoLXJlYWN0LW5hdGl2ZScpLnByb2plY3REaXIgPSBuZXcgRmlsZShyb290UHJvamVjdC5wcm9qZWN0RGlyLCAnLi4vbm9kZV9tb2R1bGVzL2pwdXNoLXJlYWN0LW5hdGl2ZS9hbmRyb2lkJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgcHJvamVjdCgnOmpwdXNoLXJlYWN0LW5hdGl2ZScpCg==</text>
+        <text encoding="base64">aW5jbHVkZSAnOnJlYWN0LW5hdGl2ZS1jb2RlLXB1c2gnCnByb2plY3QoJzpyZWFjdC1uYXRpdmUtY29kZS1wdXNoJykucHJvamVjdERpciA9IG5ldyBGaWxlKHJvb3RQcm9qZWN0LnByb2plY3REaXIsICcuLi9ub2RlX21vZHVsZXMvcmVhY3QtbmF0aXZlLWNvZGUtcHVzaC9hbmRyb2lkL2FwcCcpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgcHJvamVjdCgnOnJlYWN0LW5hdGl2ZS1jb2RlLXB1c2gnKQo=</text>
+        <text encoding="base64">aW5jbHVkZSAnOnJlYWN0LW5hdGl2ZS1nZXN0dXJlLWhhbmRsZXInCnByb2plY3QoJzpyZWFjdC1uYXRpdmUtZ2VzdHVyZS1oYW5kbGVyJykucHJvamVjdERpciA9IG5ldyBGaWxlKHJvb3RQcm9qZWN0LnByb2plY3REaXIsICcuLi9ub2RlX21vZHVsZXMvcmVhY3QtbmF0aXZlLWdlc3R1cmUtaGFuZGxlci9hbmRyb2lkJykKaW5jbHVkZSAnOnJlYWN0LW5hdGl2ZS12aWV3LXNob3QnCnByb2plY3QoJzpyZWFjdC1uYXRpdmUtdmlldy1zaG90JykucHJvamVjdERpciA9IG5ldyBGaWxlKHJvb3RQcm9qZWN0LnByb2plY3REaXIsICcuLi9ub2RlX21vZHVsZXMvcmVhY3QtbmF0aXZlLXZpZXctc2hvdC9hbmRyb2lkJykKaW5jbHVkZSAnOnJlYWN0LW5hdGl2ZS1zdmcnCnByb2plY3QoJzpyZWFjdC1uYXRpdmUtc3ZnJykucHJvamVjdERpciA9IG5ldyBGaWxlKHJvb3RQcm9qZWN0LnByb2plY3REaXIsICcuLi9ub2RlX21vZHVsZXMvcmVhY3QtbmF0aXZlLXN2Zy9hbmRyb2lkJykKaW5jbHVkZSAnOnJlYWN0LW5hdGl2ZS1zcGxhc2gtc2NyZWVuJwpwcm9qZWN0KCc6cmVhY3QtbmF0aXZlLXNwbGFzaC1zY3JlZW4nKS5wcm9qZWN0RGlyID0gbmV3IEZpbGUocm9vdFByb2plY3QucHJvamVjdERpciwgJy4uL25vZGVfbW9kdWxlcy9yZWFjdC1uYXRpdmUtc3BsYXNoLXNjcmVlbi9hbmRyb2lkJykKaW5jbHVkZSAnOnJlYWN0LW5hdGl2ZS1saW5lYXItZ3JhZGllbnQnCnByb2plY3QoJzpyZWFjdC1uYXRpdmUtbGluZWFyLWdyYWRpZW50JykucHJvamVjdERpciA9IG5ldyBGaWxlKHJvb3RQcm9qZWN0LnByb2plY3REaXIsICcuLi9ub2RlX21vZHVsZXMvcmVhY3QtbmF0aXZlLWxpbmVhci1ncmFkaWVudC9hbmRyb2lkJykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgcHJvamVjdCgnOnJlYWN0LW5hdGl2ZS1nZXN0dXJlLWhhbmRsZXInKQo=</text>
+        <text encoding="base64">aW5jbHVkZSAnOmpwdXNoLXJlYWN0LW5hdGl2ZScKcHJvamVjdCgnOmpwdXNoLXJlYWN0LW5hdGl2ZScpLnByb2plY3REaXIgPSBuZXcgRmlsZShyb290UHJvamVjdC5wcm9qZWN0RGlyLCAnLi4vbm9kZV9tb2R1bGVzL2pwdXNoLXJlYWN0LW5hdGl2ZS9hbmRyb2lkJykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgcHJvamVjdCgnOnJlYWN0LW5hdGl2ZS1saW5lYXItZ3JhZGllbnQnKQo=</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgcHJvamVjdCgnOmpwdXNoLXJlYWN0LW5hdGl2ZScpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
