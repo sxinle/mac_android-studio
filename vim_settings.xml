@@ -3,12 +3,24 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/java/com/pegasdelivery/wxapi/WXEntryActivity.java" timestamp="1556083562501">
+        <mark key="[" line="13" column="25" />
+        <mark key="]" line="13" column="41" />
+        <mark key="." line="13" column="42" />
+        <mark key="^" line="13" column="42" />
+      </file>
       <file name="/TradeListViewModel.kt" timestamp="1553856310833">
         <mark key="[" line="51" column="32" />
         <mark key="]" line="51" column="51" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/build/generated/source/kapt/debug/com/thinkerjet/jdcommunication/databinding/FragmentTradeDetialBindingImpl.java" timestamp="1544609387915">
         <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/AndroidManifest.xml" timestamp="1556083741523">
+        <mark key="[" line="21" column="19" />
+        <mark key="]" line="28" column="1" />
+        <mark key="^" line="28" column="1" />
+        <mark key="." line="28" column="39" />
       </file>
       <file name="$USER_HOME$/workspace/pegas/pegasDelivery/android/settings.gradle" timestamp="1555730718957">
         <mark key="'" line="14" column="13" />
@@ -83,6 +95,12 @@
       <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/fragment/z/useralloc/ItemShopFragment.java" timestamp="1541663355273">
         <mark key="'" line="46" column="28" />
       </file>
+      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/proguard-rules.pro" timestamp="1556083765501">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/AndroidManifest.xml" timestamp="1538977517716">
         <mark key="'" line="0" column="6" />
       </file>
@@ -91,6 +109,11 @@
       </file>
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/trade/trades/TradeListFragment.kt" timestamp="1553855858817">
         <mark key="'" line="59" column="19" />
+      </file>
+      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/java/com/pegasdelivery/wxapi/WXPayEntryActivity.java" timestamp="1556083234799">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="14" column="1" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/LaunchActivity.java" timestamp="1542077136550">
         <mark key="'" line="25" column="11" />
@@ -132,14 +155,21 @@
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/statics/StaticsFragment.kt" timestamp="1553583128972">
         <mark key="'" line="143" column="33" />
       </file>
+      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/node_modules/react-native-code-push/android/app/src/main/AndroidManifest.xml" timestamp="1556083705104">
+        <mark key="[" line="6" column="84" />
+        <mark key="]" line="6" column="7" />
+        <mark key="^" line="6" column="7" />
+        <mark key="." line="6" column="88" />
+      </file>
       <file name="$USER_HOME$/Desktop/jd/ln178/libraries/TextDrawable/src/main/java/com/amulyakhare/textdrawable/util/ColorGenerator.java" timestamp="1541647981947">
         <mark key="[" line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/java/com/pegasdelivery/MainActivity.java" timestamp="1555739660505">
-        <mark key="'" line="26" column="4" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/java/com/pegasdelivery/MainActivity.java" timestamp="1556083663914">
+        <mark key="'" line="29" column="4" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="33" />
+        <mark key="." line="33" column="0" />
+        <mark key="^" line="39" column="33" />
       </file>
       <file name="$USER_HOME$/workspace/pegas/pegasDelivery/node_modules/react-native-code-push/android/app/react-native-code-push.iml" timestamp="1555728063675">
         <mark key="'" line="139" column="65" />
@@ -167,11 +197,11 @@
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/gradle.properties" timestamp="1538975292232">
         <mark key="'" line="11" column="18" />
       </file>
-      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/java/com/pegasdelivery/MainApplication.java" timestamp="1555730545750">
-        <mark key="'" line="37" column="24" />
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
+      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/java/com/pegasdelivery/MainApplication.java" timestamp="1556082980705">
+        <mark key="'" line="26" column="19" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/res/drawable/bg_of_first_reward.xml" timestamp="1553847253432">
         <mark key="[" line="2" column="5" />
@@ -180,26 +210,11 @@
       <file name="$USER_HOME$/workspace/uuvalue/DataWedgeReactNative/android/app/build.gradle" timestamp="1553162357291">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="/fragment.java" timestamp="1556083183748">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="0" filename="$USER_HOME$/workspace/uuvalue/jiujiangProject/android/app/src/main/java/com/jiujiangproject/MainApplication.java" />
-      <jump line="95" column="0" filename="$USER_HOME$/workspace/uuvalue/jiujiangProject/android/app/build.gradle" />
-      <jump line="152" column="0" filename="$USER_HOME$/workspace/uuvalue/jiujiangProject/android/app/build.gradle" />
-      <jump line="22" column="48" filename="$USER_HOME$/workspace/uuvalue/jiujiangProject/node_modules/react-native-camera/android/build.gradle" />
-      <jump line="75" column="2" filename="$USER_HOME$/workspace/uuvalue/jiujiangProject/node_modules/react-native-camera/android/build.gradle" />
-      <jump line="21" column="32" filename="$USER_HOME$/workspace/uuvalue/jiujiangProject/node_modules/react-native-camera/android/build.gradle" />
-      <jump line="74" column="2" filename="$USER_HOME$/workspace/uuvalue/jiujiangProject/node_modules/react-native-camera/android/build.gradle" />
-      <jump line="34" column="1" filename="$USER_HOME$/workspace/uuvalue/jiujiangProject/android/app/build.gradle" />
-      <jump line="16" column="0" filename="$USER_HOME$/Desktop/jd/jingdong_communication/.gitignore" />
-      <jump line="68" column="0" filename="$USER_HOME$/Desktop/jd/jingdong_communication/.gitignore" />
-      <jump line="134" column="45" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/res/layout/fragment_statics.xml" />
-      <jump line="1" column="0" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/res/layout/fragment_statics.xml" />
-      <jump line="305" column="4" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/res/layout/fragment_statics.xml" />
-      <jump line="13" column="51" filename="$USER_HOME$/Desktop/samples-emdkforandroid-7_0-master/BarcodeSample1/app/build.gradle" />
-      <jump line="10" column="15" filename="$USER_HOME$/Desktop/samples-emdkforandroid-7_0-master/BarcodeSample1/app/build.gradle" />
-      <jump line="21" column="0" filename="$USER_HOME$/Desktop/samples-emdkforandroid-7_0-master/BarcodeSample1/app/build.gradle" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/uuvalue/jiujiangProject/android/app/build.gradle" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/uuvalue/DataWedgeReactNative/android/app/build.gradle" />
       <jump line="122" column="5" filename="$USER_HOME$/workspace/uuvalue/jiujiangProject/android/app/build.gradle" />
       <jump line="30" column="13" filename="$USER_HOME$/workspace/uuvalue/jiujiangProject/android/app/src/main/java/com/jiujiangproject/MainApplication.java" />
       <jump line="36" column="53" filename="$USER_HOME$/workspace/uuvalue/jiujiangProject/android/app/build.gradle" />
@@ -276,75 +291,86 @@
       <jump line="14" column="13" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/settings.gradle" />
       <jump line="20" column="50" filename="$USER_HOME$/workspace/pegas/pegasDelivery/node_modules/react-native-code-push/android/app/react-native-code-push.iml" />
       <jump line="139" column="65" filename="$USER_HOME$/workspace/pegas/pegasDelivery/node_modules/react-native-code-push/android/app/react-native-code-push.iml" />
-      <jump line="45" column="24" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/java/com/pegasdelivery/MainApplication.java" />
-      <jump line="13" column="37" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/java/com/pegasdelivery/MainApplication.java" />
       <jump line="37" column="24" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/java/com/pegasdelivery/MainApplication.java" />
       <jump line="145" column="28" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/build.gradle" />
       <jump line="32" column="11" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/java/com/pegasdelivery/MainActivity.java" />
       <jump line="26" column="4" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/java/com/pegasdelivery/MainActivity.java" />
+      <jump line="38" column="16" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/java/com/pegasdelivery/MainApplication.java" />
+      <jump line="46" column="24" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/java/com/pegasdelivery/MainApplication.java" />
+      <jump line="39" column="24" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/java/com/pegasdelivery/MainApplication.java" />
+      <jump line="14" column="37" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/java/com/pegasdelivery/MainApplication.java" />
+      <jump line="40" column="24" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/java/com/pegasdelivery/MainApplication.java" />
+      <jump line="10" column="23" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/java/com/pegasdelivery/MainApplication.java" />
+      <jump line="41" column="24" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/java/com/pegasdelivery/MainApplication.java" />
+      <jump line="15" column="33" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/java/com/pegasdelivery/MainApplication.java" />
+      <jump line="42" column="24" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/java/com/pegasdelivery/MainApplication.java" />
+      <jump line="4" column="29" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/java/com/pegasdelivery/MainApplication.java" />
+      <jump line="43" column="24" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/java/com/pegasdelivery/MainApplication.java" />
+      <jump line="3" column="33" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/java/com/pegasdelivery/MainApplication.java" />
+      <jump line="13" column="40" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/java/com/pegasdelivery/MainApplication.java" />
+      <jump line="44" column="24" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/java/com/pegasdelivery/MainApplication.java" />
+      <jump line="12" column="42" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/java/com/pegasdelivery/MainApplication.java" />
+      <jump line="45" column="24" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/java/com/pegasdelivery/MainApplication.java" />
+      <jump line="11" column="36" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/java/com/pegasdelivery/MainApplication.java" />
+      <jump line="26" column="19" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/java/com/pegasdelivery/MainApplication.java" />
+      <jump line="2" column="28" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/java/com/pegasdelivery/wxapi/WXEntryActivity.java" />
+      <jump line="2" column="13" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/java/com/pegasdelivery/wxapi/WXPayEntryActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>基本废物......</text>
       </register>
       <register name="-" type="4">
-        <text>compile</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxuYXRpdmVcPg==</text>
+        <text encoding="base64">XDxDb2RlUHVzaFw+</text>
       </register>
       <register name="0" type="4">
-        <text>implementation</text>
+        <text>isActivityCreated</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpc0FjdGl2aXR5Q3JlYXRlZCA9IHRydWU7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">cHVibGljIGNsYXNzIFdYUGF5RW50cnlBY3Rpdml0eSB7Cn0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCB2b2lkIG9uQ3JlYXRlKEJ1bmRsZSBzYXZlZEluc3RhbmNlU3RhdGUpIHsKICAgICAgICBzdXBlci5vbkNyZWF0ZShzYXZlZEluc3RhbmNlU3RhdGUpOwogICAgICAgIEpQdXNoSW50ZXJmYWNlLmluaXQodGhpcyk7CiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwcm90ZWN0ZWQgdm9pZCBvblBhdXNlKCkgewogICAgICAgIHN1cGVyLm9uUGF1c2UoKTsKICAgICAgICBKUHVzaEludGVyZmFjZS5vblBhdXNlKHRoaXMpOwogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIHZvaWQgb25SZXN1bWUoKSB7CiAgICAgICAgc3VwZXIub25SZXN1bWUoKTsKICAgICAgICBKUHVzaEludGVyZmFjZS5vblJlc3VtZSh0aGlzKTsKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHByb3RlY3RlZCB2b2lkIG9uRGVzdHJveSgpIHsKICAgICAgICBzdXBlci5vbkRlc3Ryb3koKTsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS53ZWNoYXR1c2FnZWV4YW1wbGUuTWFpbkFjdGl2aXR5Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHVibGljIGNsYXNzIFdYRW50cnlBY3Rpdml0eSB7Cn0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3IEpQdXNoUGFja2FnZSghQnVpbGRDb25maWcuREVCVUcsICFCdWlsZENvbmZpZy5ERUJVRyksCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW5jbHVkZSAnOnJlYWN0LW5hdGl2ZS1jb2RlLXB1c2gnCnByb2plY3QoJzpyZWFjdC1uYXRpdmUtY29kZS1wdXNoJykucHJvamVjdERpciA9IG5ldyBGaWxlKHJvb3RQcm9qZWN0LnByb2plY3REaXIsICcuLi9ub2RlX21vZHVsZXMvcmVhY3QtbmF0aXZlLWNvZGUtcHVzaC9hbmRyb2lkL2FwcCcpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3IENvZGVQdXNoKGdldFJlc291cmNlcygpLmdldFN0cmluZyhSLnN0cmluZy5yZWFjdE5hdGl2ZUNvZGVQdXNoX2FuZHJvaWREZXBsb3ltZW50S2V5KSwgZ2V0QXBwbGljYXRpb25Db250ZXh0KCksIEJ1aWxkQ29uZmlnLkRFQlVHKSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW5jbHVkZSAnOnJlYWN0LW5hdGl2ZS1nZXN0dXJlLWhhbmRsZXInCnByb2plY3QoJzpyZWFjdC1uYXRpdmUtZ2VzdHVyZS1oYW5kbGVyJykucHJvamVjdERpciA9IG5ldyBGaWxlKHJvb3RQcm9qZWN0LnByb2plY3REaXIsICcuLi9ub2RlX21vZHVsZXMvcmVhY3QtbmF0aXZlLWdlc3R1cmUtaGFuZGxlci9hbmRyb2lkJykKaW5jbHVkZSAnOnJlYWN0LW5hdGl2ZS12aWV3LXNob3QnCnByb2plY3QoJzpyZWFjdC1uYXRpdmUtdmlldy1zaG90JykucHJvamVjdERpciA9IG5ldyBGaWxlKHJvb3RQcm9qZWN0LnByb2plY3REaXIsICcuLi9ub2RlX21vZHVsZXMvcmVhY3QtbmF0aXZlLXZpZXctc2hvdC9hbmRyb2lkJykKaW5jbHVkZSAnOnJlYWN0LW5hdGl2ZS1zdmcnCnByb2plY3QoJzpyZWFjdC1uYXRpdmUtc3ZnJykucHJvamVjdERpciA9IG5ldyBGaWxlKHJvb3RQcm9qZWN0LnByb2plY3REaXIsICcuLi9ub2RlX21vZHVsZXMvcmVhY3QtbmF0aXZlLXN2Zy9hbmRyb2lkJykKaW5jbHVkZSAnOnJlYWN0LW5hdGl2ZS1zcGxhc2gtc2NyZWVuJwpwcm9qZWN0KCc6cmVhY3QtbmF0aXZlLXNwbGFzaC1zY3JlZW4nKS5wcm9qZWN0RGlyID0gbmV3IEZpbGUocm9vdFByb2plY3QucHJvamVjdERpciwgJy4uL25vZGVfbW9kdWxlcy9yZWFjdC1uYXRpdmUtc3BsYXNoLXNjcmVlbi9hbmRyb2lkJykKaW5jbHVkZSAnOnJlYWN0LW5hdGl2ZS1saW5lYXItZ3JhZGllbnQnCnByb2plY3QoJzpyZWFjdC1uYXRpdmUtbGluZWFyLWdyYWRpZW50JykucHJvamVjdERpciA9IG5ldyBGaWxlKHJvb3RQcm9qZWN0LnByb2plY3REaXIsICcuLi9ub2RlX21vZHVsZXMvcmVhY3QtbmF0aXZlLWxpbmVhci1ncmFkaWVudC9hbmRyb2lkJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3IFJOR2VzdHVyZUhhbmRsZXJQYWNrYWdlKCksCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW5jbHVkZSAnOmpwdXNoLXJlYWN0LW5hdGl2ZScKcHJvamVjdCgnOmpwdXNoLXJlYWN0LW5hdGl2ZScpLnByb2plY3REaXIgPSBuZXcgRmlsZShyb290UHJvamVjdC5wcm9qZWN0RGlyLCAnLi4vbm9kZV9tb2R1bGVzL2pwdXNoLXJlYWN0LW5hdGl2ZS9hbmRyb2lkJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3IExpbmVhckdyYWRpZW50UGFja2FnZSgpLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgcHJvamVjdCgnOmpwdXNoLXJlYWN0LW5hdGl2ZScpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3IFNwbGFzaFNjcmVlblJlYWN0UGFja2FnZSgpLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxuYXRpdmVcPg==</last-search>
+      <last-search encoding="base64">XDxDb2RlUHVzaFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxuYXRpdmVcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxDb2RlUHVzaFw+</last-pattern>
       <last-replace>pipelineBean</last-replace>
       <last-substitute>version</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>compile</entry>
-        <entry>scanner</entry>
-        <entry>scan</entry>
-        <entry>default</entry>
-        <entry>确定</entry>
-        <entry>chart</entry>
-        <entry>Pie</entry>
         <entry encoding="base64">XDzpppblhYXmtLvliqhcPg==</entry>
         <entry encoding="base64">XDxzaG93Rmlyc3RSZXdhcmRFdmVudFw+</entry>
         <entry>over</entry>
@@ -356,8 +382,15 @@
         <entry>dep</entry>
         <entry>code-push</entry>
         <entry>app</entry>
-        <entry encoding="base64">XDxSTlZpZXdTaG90UGFja2FnZVw+</entry>
         <entry encoding="base64">XDxuYXRpdmVcPg==</entry>
+        <entry encoding="base64">XDxXZUNoYXRQYWNrYWdlXD4=</entry>
+        <entry encoding="base64">XDxSTlZpZXdTaG90UGFja2FnZVw+</entry>
+        <entry encoding="base64">XDxTdmdQYWNrYWdlXD4=</entry>
+        <entry encoding="base64">XDxTcGxhc2hTY3JlZW5SZWFjdFBhY2thZ2VcPg==</entry>
+        <entry encoding="base64">XDxMaW5lYXJHcmFkaWVudFBhY2thZ2VcPg==</entry>
+        <entry encoding="base64">XDxKUHVzaFBhY2thZ2VcPg==</entry>
+        <entry encoding="base64">XDxSTkdlc3R1cmVIYW5kbGVyUGFja2FnZVw+</entry>
+        <entry encoding="base64">XDxDb2RlUHVzaFw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0FsYXJtSW5mby9IaXNBbGFybUluZm8vZw==</entry>
