@@ -16,6 +16,12 @@
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/build/generated/source/kapt/debug/com/thinkerjet/jdcommunication/databinding/FragmentTradeDetialBindingImpl.java" timestamp="1544609387915">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/res/values/strings.xml" timestamp="1556092623812">
+        <mark key="[" line="2" column="28" />
+        <mark key="]" line="2" column="34" />
+        <mark key="." line="2" column="35" />
+        <mark key="^" line="2" column="34" />
+      </file>
       <file name="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/AndroidManifest.xml" timestamp="1556089534964">
         <mark key="[" line="1" column="19" />
         <mark key="]" line="1" column="35" />
@@ -321,13 +327,13 @@
         <text>基本废物......</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDb2RlUHVzaFw+</text>
       </register>
       <register name="0" type="4">
-        <text>com.pegasdelivery</text>
+        <text>Running</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBpc0FjdGl2aXR5Q3JlYXRlZCA9IHRydWU7Cg==</text>
