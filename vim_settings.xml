@@ -16,9 +16,9 @@
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/build/generated/source/kapt/debug/com/thinkerjet/jdcommunication/databinding/FragmentTradeDetialBindingImpl.java" timestamp="1544609387915">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/AndroidManifest.xml" timestamp="1556083741523">
-        <mark key="[" line="21" column="19" />
-        <mark key="]" line="28" column="1" />
+      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/AndroidManifest.xml" timestamp="1556089534964">
+        <mark key="[" line="1" column="19" />
+        <mark key="]" line="1" column="35" />
         <mark key="^" line="28" column="1" />
         <mark key="." line="28" column="39" />
       </file>
@@ -327,7 +327,7 @@
         <text encoding="base64">XDxDb2RlUHVzaFw+</text>
       </register>
       <register name="0" type="4">
-        <text>isActivityCreated</text>
+        <text>com.pegasdelivery</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBpc0FjdGl2aXR5Q3JlYXRlZCA9IHRydWU7Cg==</text>
