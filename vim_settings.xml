@@ -19,11 +19,11 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="34" />
       </file>
-      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/AndroidManifest.xml" timestamp="1562922929820">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="17" />
-        <mark key="." line="13" column="16" />
-        <mark key="^" line="13" column="16" />
+      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/AndroidManifest.xml" timestamp="1563157830558">
+        <mark key="'" line="4" column="54" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/pegas/pegasDelivery/android/settings.gradle" timestamp="1562917159984">
         <mark key="'" line="3" column="105" />
@@ -246,11 +246,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="285" column="42" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/res/layout/fragment_home.xml" />
-      <jump line="59" column="19" filename="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/trade/trades/TradeListFragment.kt" />
-      <jump line="49" column="13" filename="$USER_HOME$/workspace/pegas/pegasDelivery/node_modules/react-native/android/com/facebook/react/react-native/0.57.1/react-native-0.57.1-sources.jar!/com/facebook/react/views/view/ReactViewGroup.java" />
-      <jump line="75" column="5" filename="$USER_HOME$/workspace/pegas/pegasDelivery/node_modules/react-native/android/com/facebook/react/react-native/0.57.1/react-native-0.57.1-sources.jar!/com/facebook/react/views/view/ReactViewGroup.java" />
-      <jump line="96" column="8" filename="$USER_HOME$/workspace/pegas/pegasDelivery/node_modules/react-native/android/com/facebook/react/react-native/0.57.1/react-native-0.57.1-sources.jar!/com/facebook/react/views/view/ReactViewGroup.java" />
       <jump line="2" column="7" filename="$USER_HOME$/workspace/pegas/pegasDelivery/node_modules/react-native-gesture-handler/android/src/main/java/com/swmansion/gesturehandler/react/RNViewConfigurationHelper.java" />
       <jump line="60" column="0" filename="$USER_HOME$/workspace/pegas/pegasDelivery/node_modules/react-native-gesture-handler/android/src/main/java/com/swmansion/gesturehandler/react/RNViewConfigurationHelper.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/pegas/pegasDelivery/node_modules/react-native-gesture-handler/android/src/main/java/com/swmansion/gesturehandler/react/RNViewConfigurationHelper.java" />
@@ -333,7 +328,6 @@
       <jump line="159" column="35" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/build.gradle" />
       <jump line="9" column="42" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/java/com/pegasdelivery/MainActivity.java" />
       <jump line="29" column="27" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/java/com/pegasdelivery/MainActivity.java" />
-      <jump line="9" column="42" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/AndroidManifest.xml" />
       <jump line="44" column="30" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/java/com/pegasdelivery/MainApplication.java" />
       <jump line="4" column="0" filename="$USER_HOME$/workspace/pegas/pegasDelivery/node_modules/react-native-gesture-handler/android/build.gradle" />
       <jump line="11" column="23" filename="$USER_HOME$/workspace/pegas/pegasDelivery/node_modules/react-native-wechat/android/build.gradle" />
@@ -344,57 +338,63 @@
       <jump line="8" column="37" filename="$USER_HOME$/workspace/pegas/pegasDelivery/node_modules/react-native-gm-baidu-location/android/build.gradle" />
       <jump line="27" column="6" filename="$USER_HOME$/workspace/pegas/pegasDelivery/node_modules/react-native-gm-baidu-location/android/build.gradle" />
       <jump line="3" column="4" filename="$USER_HOME$/workspace/pegas/pegasDelivery/node_modules/react-native-gm-baidu-location/android/build.gradle" />
-      <jump line="19" column="14" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/AndroidManifest.xml" />
-      <jump line="22" column="15" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/AndroidManifest.xml" />
+      <jump line="54" column="17" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/AndroidManifest.xml" />
+      <jump line="30" column="54" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/AndroidManifest.xml" />
+      <jump line="15" column="54" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/AndroidManifest.xml" />
+      <jump line="9" column="54" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/AndroidManifest.xml" />
+      <jump line="19" column="54" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/AndroidManifest.xml" />
+      <jump line="8" column="54" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/AndroidManifest.xml" />
+      <jump line="22" column="54" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/AndroidManifest.xml" />
+      <jump line="4" column="54" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/AndroidManifest.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>基本废物......</text>
       </register>
       <register name="-" type="4">
-        <text>开发者申请的AK</text>
+        <text encoding="base64">PC91c2VzLXBlcm1pc3Npb24+IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkYXRhXD4=</text>
+        <text encoding="base64">XDxTWVNURU1fQUxFUlRfV0lORE9XXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIDwhLS0g55m+5bqm5a6a5L2NIC0tPgo=</text>
+      <register name="0" type="4">
+        <text>INTERNET</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDwhLS0gU0TljaHor7vlj5bmnYPpmZDvvIznlKjmiLflhpnlhaXnprvnur/lrprkvY3mlbDmja4tLT4KICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uTU9VTlRfVU5NT1VOVF9GSUxFU1lTVEVNUyIvPgo=</text>
+        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uSU5URVJORVQiLz4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8bWV0YS1kYXRhCiAgICAgICAgICAgICAgICBhbmRyb2lkOm5hbWU9ImNvbS5iYWlkdS5sYnNhcGkuQVBJX0tFWSIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6dmFsdWU9IuW8gOWPkeiAheeUs+ivt+eahEFLIj4KICAgICAgICA8L21ldGEtZGF0YT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vY29tcGlsZSBmaWxlVHJlZShkaXI6ICdsaWJzJywgaW5jbHVkZTogWycqLmphciddKQovLyAgICBwcm92aWRlZCBmaWxlVHJlZShkaXI6ICdsaWJzJywgaW5jbHVkZTogWycqLmphciddKQo=</text>
+        <text encoding="base64">ICAgIDwhLS0gQnVnbHkg6KaB5rGC5Yqg55qEIC0tPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3IFFRTEJTUGFja2FnZSgpLAo=</text>
+        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uUkVBRF9QSE9ORV9TVEFURSIvPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
+        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uQUNDRVNTX05FVFdPUktfU1RBVEUiLz4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zd21hbnNpb24uZ2VzdHVyZWhhbmRsZXIucmVhY3QuUk5HZXN0dXJlSGFuZGxlckVuYWJsZWRSb290VmlldzsK</text>
+        <text encoding="base64">ICAgIDwhLS08dXNlcy1wZXJtaXNzaW9uIGFuZHJvaWQ6bmFtZT0iYW5kcm9pZC5wZXJtaXNzaW9uLlJFQURfTE9HUyIvPi0tPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW5jbHVkZSAnOnJlYWN0LW5hdGl2ZS13ZWNoYXQnCnByb2plY3QoJzpyZWFjdC1uYXRpdmUtd2VjaGF0JykucHJvamVjdERpciA9IG5ldyBGaWxlKHJvb3RQcm9qZWN0LnByb2plY3REaXIsICcuLi9ub2RlX21vZHVsZXMvcmVhY3QtbmF0aXZlLXdlY2hhdC9hbmRyb2lkJykKaW5jbHVkZSAnOnJlYWN0LW5hdGl2ZS12aWV3LXNob3QnCnByb2plY3QoJzpyZWFjdC1uYXRpdmUtdmlldy1zaG90JykucHJvamVjdERpciA9IG5ldyBGaWxlKHJvb3RQcm9qZWN0LnByb2plY3REaXIsICcuLi9ub2RlX21vZHVsZXMvcmVhY3QtbmF0aXZlLXZpZXctc2hvdC9hbmRyb2lkJykKaW5jbHVkZSAnOnJlYWN0LW5hdGl2ZS1zdmcnCnByb2plY3QoJzpyZWFjdC1uYXRpdmUtc3ZnJykucHJvamVjdERpciA9IG5ldyBGaWxlKHJvb3RQcm9qZWN0LnByb2plY3REaXIsICcuLi9ub2RlX21vZHVsZXMvcmVhY3QtbmF0aXZlLXN2Zy9hbmRyb2lkJykKaW5jbHVkZSAnOnJlYWN0LW5hdGl2ZS1zcGxhc2gtc2NyZWVuJwpwcm9qZWN0KCc6cmVhY3QtbmF0aXZlLXNwbGFzaC1zY3JlZW4nKS5wcm9qZWN0RGlyID0gbmV3IEZpbGUocm9vdFByb2plY3QucHJvamVjdERpciwgJy4uL25vZGVfbW9kdWxlcy9yZWFjdC1uYXRpdmUtc3BsYXNoLXNjcmVlbi9hbmRyb2lkJykK</text>
+        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uQUNDRVNTX1dJRklfU1RBVEUiLz4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW5jbHVkZSAnOnJlYWN0LW5hdGl2ZS1saW5lYXItZ3JhZGllbnQnCnByb2plY3QoJzpyZWFjdC1uYXRpdmUtbGluZWFyLWdyYWRpZW50JykucHJvamVjdERpciA9IG5ldyBGaWxlKHJvb3RQcm9qZWN0LnByb2plY3REaXIsICcuLi9ub2RlX21vZHVsZXMvcmVhY3QtbmF0aXZlLWxpbmVhci1ncmFkaWVudC9hbmRyb2lkJykKaW5jbHVkZSAnOnJlYWN0LW5hdGl2ZS1nZXN0dXJlLWhhbmRsZXInCnByb2plY3QoJzpyZWFjdC1uYXRpdmUtZ2VzdHVyZS1oYW5kbGVyJykucHJvamVjdERpciA9IG5ldyBGaWxlKHJvb3RQcm9qZWN0LnByb2plY3REaXIsICcuLi9ub2RlX21vZHVsZXMvcmVhY3QtbmF0aXZlLWdlc3R1cmUtaGFuZGxlci9hbmRyb2lkJykKaW5jbHVkZSAnOnJlYWN0LW5hdGl2ZS1leGNlcHRpb24taGFuZGxlcicKcHJvamVjdCgnOnJlYWN0LW5hdGl2ZS1leGNlcHRpb24taGFuZGxlcicpLnByb2plY3REaXIgPSBuZXcgRmlsZShyb290UHJvamVjdC5wcm9qZWN0RGlyLCAnLi4vbm9kZV9tb2R1bGVzL3JlYWN0LW5hdGl2ZS1leGNlcHRpb24taGFuZGxlci9hbmRyb2lkJykKaW5jbHVkZSAnOnJlYWN0LW5hdGl2ZS1jb2RlLXB1c2gnCnByb2plY3QoJzpyZWFjdC1uYXRpdmUtY29kZS1wdXNoJykucHJvamVjdERpciA9IG5ldyBGaWxlKHJvb3RQcm9qZWN0LnByb2plY3REaXIsICcuLi9ub2RlX21vZHVsZXMvcmVhY3QtbmF0aXZlLWNvZGUtcHVzaC9hbmRyb2lkL2FwcCcpCmluY2x1ZGUgJzpyZWFjdC1uYXRpdmUtYmFja2dyb3VuZC1qb2InCnByb2plY3QoJzpyZWFjdC1uYXRpdmUtYmFja2dyb3VuZC1qb2InKS5wcm9qZWN0RGlyID0gbmV3IEZpbGUocm9vdFByb2plY3QucHJvamVjdERpciwgJy4uL25vZGVfbW9kdWxlcy9yZWFjdC1uYXRpdmUtYmFja2dyb3VuZC1qb2IvYW5kcm9pZCcpCmluY2x1ZGUgJzpqcHVzaC1yZWFjdC1uYXRpdmUnCnByb2plY3QoJzpqcHVzaC1yZWFjdC1uYXRpdmUnKS5wcm9qZWN0RGlyID0gbmV3IEZpbGUocm9vdFByb2plY3QucHJvamVjdERpciwgJy4uL25vZGVfbW9kdWxlcy9qcHVzaC1yZWFjdC1uYXRpdmUvYW5kcm9pZCcpCmluY2x1ZGUgJzpqY29yZS1yZWFjdC1uYXRpdmUnCnByb2plY3QoJzpqY29yZS1yZWFjdC1uYXRpdmUnKS5wcm9qZWN0RGlyID0gbmV3IEZpbGUocm9vdFByb2plY3QucHJvamVjdERpciwgJy4uL25vZGVfbW9kdWxlcy9qY29yZS1yZWFjdC1uYXRpdmUvYW5kcm9pZCcpCgppbmNsdWRlICc6anB1c2gtcmVhY3QtbmF0aXZlJwpwcm9qZWN0KCc6anB1c2gtcmVhY3QtbmF0aXZlJykucHJvamVjdERpciA9IG5ldyBGaWxlKHJvb3RQcm9qZWN0LnByb2plY3REaXIsICcuLi9ub2RlX21vZHVsZXMvanB1c2gtcmVhY3QtbmF0aXZlL2FuZHJvaWQnKQoK</text>
+        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uQUNDRVNTX0NPQVJTRV9MT0NBVElPTiIvPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgcHJvamVjdCgnOmpwdXNoLXJlYWN0LW5hdGl2ZScpCg==</text>
+        <text encoding="base64">ICAgIDwhLS0gU0TljaHor7vlj5bmnYPpmZDvvIznlKjmiLflhpnlhaXnprvnur/lrprkvY3mlbDmja4tLT4KICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uTU9VTlRfVU5NT1VOVF9GSUxFU1lTVEVNUyIvPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkYXRhXD4=</last-search>
+      <last-search encoding="base64">XDxTWVNURU1fQUxFUlRfV0lORE9XXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkYXRhXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxTWVNURU1fQUxFUlRfV0lORE9XXD4=</last-pattern>
       <last-replace>pipelineBean</last-replace>
       <last-substitute>version</last-substitute>
       <last-dir>1</last-dir>
@@ -402,10 +402,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxTcGxhc2hTY3JlZW5SZWFjdFBhY2thZ2VcPg==</entry>
-        <entry encoding="base64">XDxMaW5lYXJHcmFkaWVudFBhY2thZ2VcPg==</entry>
-        <entry encoding="base64">XDxSTkdlc3R1cmVIYW5kbGVyUGFja2FnZVw+</entry>
-        <entry encoding="base64">XDxDb2RlUHVzaFw+</entry>
         <entry encoding="base64">XDx3ZWNoYXRcPg==</entry>
         <entry>default</entry>
         <entry encoding="base64">XDxSRUFEX0xPR1NcPg==</entry>
@@ -422,6 +418,10 @@
         <entry encoding="base64">XDxSTkdlc3R1cmVIYW5kbGVyRW5hYmxlZFJvb3RWaWV3XD4=</entry>
         <entry>compile</entry>
         <entry encoding="base64">XDxkYXRhXD4=</entry>
+        <entry encoding="base64">XDxBQ0NFU1NfQ09BUlNFX0xPQ0FUSU9OXD4=</entry>
+        <entry encoding="base64">XDxBQ0NFU1NfTkVUV09SS19TVEFURVw+</entry>
+        <entry encoding="base64">XDxSRUFEX1BIT05FX1NUQVRFXD4=</entry>
+        <entry encoding="base64">XDxTWVNURU1fQUxFUlRfV0lORE9XXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0FsYXJtSW5mby9IaXNBbGFybUluZm8vZw==</entry>
