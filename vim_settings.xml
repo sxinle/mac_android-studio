@@ -32,10 +32,10 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/TBSSDK_43646/SDK接入示例-Android Studio/SDK接入示例-Android Studio/X5WebDemo/build.gradle" timestamp="1564106373568">
+      <file name="$USER_HOME$/Desktop/TBSSDK_43646/SDK接入示例-Android Studio/SDK接入示例-Android Studio/X5WebDemo/build.gradle" timestamp="1564108212771">
         <mark key="'" line="46" column="4" />
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="60" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="25" column="9" />
         <mark key="^" line="44" column="6" />
         <mark key="." line="46" column="0" />
       </file>
@@ -54,9 +54,11 @@
       <file name="$USER_HOME$/Desktop/jd/and_partners/app/src/main/assets/index.html" timestamp="1548817315920">
         <mark key="'" line="73" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/ztjy/app/build.gradle" timestamp="1564106369530">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="60" />
+      <file name="$USER_HOME$/workspace/demo/ztjy/app/build.gradle" timestamp="1564108217969">
+        <mark key="[" line="10" column="82" />
+      </file>
+      <file name="$USER_HOME$/workspace/demo/ztjy/app/src/main/java/com/syxinsl/ztjy/MainActivity.java" timestamp="1564108553897">
+        <mark key="'" line="51" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/fragment/jd/JdIndexFragment.java" timestamp="1544067403780">
         <mark key="'" line="79" column="8" />
@@ -122,11 +124,21 @@
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/AndroidManifest.xml" timestamp="1538977517716">
         <mark key="'" line="0" column="6" />
       </file>
+      <file name="$USER_HOME$/Desktop/TBSSDK_43646/SDK接入示例-Android Studio/SDK接入示例-Android Studio/X5WebDemo/src/main/java/com/example/test_webview_demo/APPAplication.java" timestamp="1564108371381">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="31" column="5" />
+      </file>
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/main/mine/MineViewModel.kt" timestamp="1539307871772">
         <mark key="'" line="35" column="9" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/trade/trades/TradeListFragment.kt" timestamp="1553855858817">
         <mark key="'" line="59" column="19" />
+      </file>
+      <file name="$USER_HOME$/workspace/demo/ztjy/app/src/main/java/com/syxinsl/ztjy/BrowserActivity.java" timestamp="1564108582658">
+        <mark key="'" line="91" column="52" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/java/com/pegasdelivery/wxapi/WXPayEntryActivity.java" timestamp="1556083234799">
         <mark key="[" line="2" column="0" />
@@ -256,7 +268,7 @@
       <file name="$USER_HOME$/workspace/uuvalue/DataWedgeReactNative/android/app/build.gradle" timestamp="1553162357291">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1556083183748">
+      <file name="/fragment.java" timestamp="1564108548078">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/pegas/pegasDelivery/node_modules/react-native-code-push/android/app/build.gradle" timestamp="1562921292644">
@@ -268,9 +280,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="13" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/java/com/pegasdelivery/MainActivity.java" />
-      <jump line="80" column="0" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/build.gradle" />
-      <jump line="132" column="76" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/build.gradle" />
       <jump line="153" column="35" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/build.gradle" />
       <jump line="19" column="23" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/settings.gradle" />
       <jump line="20" column="111" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/settings.gradle" />
@@ -368,6 +377,9 @@
       <jump line="60" column="0" filename="$USER_HOME$/Desktop/TBSSDK_43646/SDK接入示例-Android Studio/SDK接入示例-Android Studio/X5WebDemo/src/main/AndroidManifest.xml" />
       <jump line="14" column="18" filename="$USER_HOME$/Desktop/TBSSDK_43646/SDK接入示例-Android Studio/SDK接入示例-Android Studio/X5WebDemo/build.gradle" />
       <jump line="46" column="4" filename="$USER_HOME$/Desktop/TBSSDK_43646/SDK接入示例-Android Studio/SDK接入示例-Android Studio/X5WebDemo/build.gradle" />
+      <jump line="25" column="46" filename="$USER_HOME$/workspace/demo/ztjy/app/src/main/java/com/syxinsl/ztjy/MainActivity.java" />
+      <jump line="51" column="0" filename="$USER_HOME$/workspace/demo/ztjy/app/src/main/java/com/syxinsl/ztjy/MainActivity.java" />
+      <jump line="91" column="52" filename="$USER_HOME$/workspace/demo/ztjy/app/src/main/java/com/syxinsl/ztjy/BrowserActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -380,34 +392,34 @@
         <text encoding="base64">XDxTWVNURU1fQUxFUlRfV0lORE9XXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdjb20uYW5kcm9pZC5zdXBwb3J0OmFwcGNvbXBhdC12NzoyOC4wLjAnCg==</text>
+        <text encoding="base64">CUBPdmVycmlkZQoJcHVibGljIHZvaWQgb25DcmVhdGUoKSB7CgkJLy8gVE9ETyBBdXRvLWdlbmVyYXRlZCBtZXRob2Qgc3R1YgoJCXN1cGVyLm9uQ3JlYXRlKCk7CgkJLy/mkJzpm4bmnKzlnLB0YnPlhoXmoLjkv6Hmga/lubbkuIrmiqXmnI3liqHlmajvvIzmnI3liqHlmajov5Tlm57nu5PmnpzlhrPlrprkvb/nlKjlk6rkuKrlhoXmoLjjgIIKCQkKCQlRYlNkay5QcmVJbml0Q2FsbGJhY2sgY2IgPSBuZXcgUWJTZGsuUHJlSW5pdENhbGxiYWNrKCkgewoJCQkKCQkJQE92ZXJyaWRlCgkJCXB1YmxpYyB2b2lkIG9uVmlld0luaXRGaW5pc2hlZChib29sZWFuIGFyZzApIHsKCQkJCS8vIFRPRE8gQXV0by1nZW5lcmF0ZWQgbWV0aG9kIHN0dWIKCQkJCS8veDXlhafmoLjliJ3lp4vljJblrozmiJDnmoTlm57osIPvvIzkuLp0cnVl6KGo56S6eDXlhoXmoLjliqDovb3miJDlip/vvIzlkKbliJnooajnpLp4NeWGheaguOWKoOi9veWksei0pe+8jOS8muiHquWKqOWIh+aNouWIsOezu+e7n+WGheaguOOAggoJCQkJTG9nLmQoImFwcCIsICIgb25WaWV3SW5pdEZpbmlzaGVkIGlzICIgKyBhcmcwKTsKCQkJfQoJCQkKCQkJQE92ZXJyaWRlCgkJCXB1YmxpYyB2b2lkIG9uQ29yZUluaXRGaW5pc2hlZCgpIHsKCQkJCS8vIFRPRE8gQXV0by1nZW5lcmF0ZWQgbWV0aG9kIHN0dWIKCQkJfQoJCX07CgkJLy94NeWGheaguOWIneWni+WMluaOpeWPowoJCVFiU2RrLmluaXRYNUVudmlyb25tZW50KGdldEFwcGxpY2F0aW9uQ29udGV4dCgpLCAgY2IpOwoJfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFwaSAnY29tLmFuZHJvaWQuc3VwcG9ydDphcHBjb21wYXQtdjc6MjMuNC4wJwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5leGFtcGxlLnRlc3Rfd2Vidmlld19kZW1vLnV0aWxzLlg1V2ViVmlldzsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDx1c2VzLXNkawogICAgICAgIGFuZHJvaWQ6bWluU2RrVmVyc2lvbj0iMTEiCiAgICAgICAgYW5kcm9pZDp0YXJnZXRTZGtWZXJzaW9uPSIyMiIgLz4K</text>
+        <text encoding="base64">ICAgIGFwaSAnY29tLmFuZHJvaWQuc3VwcG9ydDphcHBjb21wYXQtdjc6MjMuNC4wJwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGJ1aWxkVG9vbHNWZXJzaW9uICIyNS4wLjIiCg==</text>
+        <text encoding="base64">ICAgIDx1c2VzLXNkawogICAgICAgIGFuZHJvaWQ6bWluU2RrVmVyc2lvbj0iMTEiCiAgICAgICAgYW5kcm9pZDp0YXJnZXRTZGtWZXJzaW9uPSIyMiIgLz4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggJ2NvbS5hbmRyb2lkLnRvb2xzLmJ1aWxkOmdyYWRsZTo0LjEwLjEnICAgLy9sYXN0IHZlcnNpb24gSmFuIDIwMTYK</text>
+        <text encoding="base64">ICAgIGJ1aWxkVG9vbHNWZXJzaW9uICIyNS4wLjIiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uSU5URVJORVQiLz4K</text>
+        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggJ2NvbS5hbmRyb2lkLnRvb2xzLmJ1aWxkOmdyYWRsZTo0LjEwLjEnICAgLy9sYXN0IHZlcnNpb24gSmFuIDIwMTYK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uSU5URVJORVQiLz4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDwhLS0gQnVnbHkg6KaB5rGC5Yqg55qEIC0tPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uUkVBRF9QSE9ORV9TVEFURSIvPgo=</text>
+        <text encoding="base64">ICAgIDwhLS0gQnVnbHkg6KaB5rGC5Yqg55qEIC0tPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uQUNDRVNTX05FVFdPUktfU1RBVEUiLz4K</text>
+        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uUkVBRF9QSE9ORV9TVEFURSIvPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
