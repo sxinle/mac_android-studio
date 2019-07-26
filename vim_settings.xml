@@ -22,12 +22,6 @@
       <file name="/a.dummy" timestamp="1564108799917">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/AndroidManifest.xml" timestamp="1563157830558">
-        <mark key="'" line="4" column="54" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/pegas/pegasDelivery/android/settings.gradle" timestamp="1562917159984">
         <mark key="'" line="3" column="105" />
         <mark key="[" line="0" column="34" />
@@ -57,8 +51,12 @@
       <file name="$USER_HOME$/Desktop/jd/and_partners/app/src/main/assets/index.html" timestamp="1548817315920">
         <mark key="'" line="73" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/ztjy/app/build.gradle" timestamp="1564108217969">
-        <mark key="[" line="10" column="82" />
+      <file name="$USER_HOME$/workspace/demo/ztjy/app/build.gradle" timestamp="1564118440218">
+        <mark key="'" line="14" column="12" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+        <mark key="^" line="37" column="3" />
       </file>
       <file name="$USER_HOME$/workspace/demo/ztjy/app/src/main/java/com/syxinsl/ztjy/MainActivity.java" timestamp="1564113209215">
         <mark key="'" line="106" column="71" />
@@ -294,6 +292,10 @@
         <mark key="." line="50" column="156" />
         <mark key="^" line="50" column="169" />
       </file>
+      <file name="$USER_HOME$/Desktop/HlsPlayer/app/build.gradle" timestamp="1564118424456">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="33" column="68" />
+      </file>
       <file name="$USER_HOME$/workspace/pegas/pegasDelivery/node_modules/react-native-qqlbs/android/src/main/java/com/zzy/qqlbs/QQLBSPackage.java" timestamp="1562918753162">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="0" />
@@ -319,7 +321,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="24" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/java/com/pegasdelivery/MainApplication.java" />
       <jump line="10" column="23" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/java/com/pegasdelivery/MainApplication.java" />
       <jump line="41" column="24" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/java/com/pegasdelivery/MainApplication.java" />
       <jump line="42" column="24" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/java/com/pegasdelivery/MainApplication.java" />
@@ -419,6 +420,7 @@
       <jump line="43" column="33" filename="$USER_HOME$/workspace/demo/ztjy/app/src/main/java/com/syxinsl/ztjy/MainActivity.java" />
       <jump line="106" column="71" filename="$USER_HOME$/workspace/demo/ztjy/app/src/main/java/com/syxinsl/ztjy/MainActivity.java" />
       <jump line="41" column="18" filename="$USER_HOME$/Desktop/TBSSDK_43646/SDK接入示例-Android Studio/SDK接入示例-Android Studio/X5WebDemo/src/main/AndroidManifest.xml" />
+      <jump line="14" column="12" filename="$USER_HOME$/workspace/demo/ztjy/app/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -431,34 +433,34 @@
         <text encoding="base64">XDxtSG9tZVVybFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uTU9VTlRfVU5NT1VOVF9GSUxFU1lTVEVNUyIgLz4K</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdjb20uZ29vZ2xlLmFuZHJvaWQuZXhvcGxheWVyOmV4b3BsYXllci1jb3JlOjIuNi4wJwogICAgaW1wbGVtZW50YXRpb24gJ2NvbS5nb29nbGUuYW5kcm9pZC5leG9wbGF5ZXI6ZXhvcGxheWVyLWhsczoyLjYuMCcKICAgIGltcGxlbWVudGF0aW9uICdjb20uZ29vZ2xlLmFuZHJvaWQuZXhvcGxheWVyOmV4b3BsYXllci11aToyLjYuMCcK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uUkVBRF9QSE9ORV9TVEFURSIvPgo=</text>
+        <text encoding="base64">ICAgIGFuZHJvaWRUZXN0SW1wbGVtZW50YXRpb24gJ2NvbS5hbmRyb2lkLnN1cHBvcnQudGVzdDpydW5uZXI6MS4wLjInCiAgICBhbmRyb2lkVGVzdEltcGxlbWVudGF0aW9uICdjb20uYW5kcm9pZC5zdXBwb3J0LnRlc3QuZXNwcmVzc286ZXNwcmVzc28tY29yZTozLjAuMicK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uSU5URVJORVQiIC8+Cg==</text>
+        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uUkVBRF9QSE9ORV9TVEFURSIvPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uSU5URVJORVQiIC8+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgd2ViVmlldy5ldmFsdWF0ZUphdmFzY3JpcHQoIiQoJy5nbHlwaGljb24tcGxheScpLmNsaWNrKCk7IiwgbnVsbCk7Ly8g54K55Ye76KeC55yLCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiXG4iICsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgd2ViVmlldy5ldmFsdWF0ZUphdmFzY3JpcHQoIiQoJy5nbHlwaGljb24tcGxheScpLmNsaWNrKCk7IiwgbnVsbCk7Ly8g54K55Ye76KeC55yLCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiXG4iICsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LS0tLS0tLS0tLS0tLS0tLS0tLS0tIArkvZzogIXvvJrluLjlhpvmsLggCuadpea6kO+8mkNTRE4gCuWOn+aWh++8mmh0dHBzOi8vYmxvZy5jc2RuLm5ldC9xcV8zOTczNTUwNC9hcnRpY2xlL2RldGFpbHMvNzk2MjI2ODggCueJiOadg+WjsOaYju+8muacrOaWh+S4uuWNmuS4u+WOn+WIm+aWh+eroO+8jOi9rOi9veivt+mZhOS4iuWNmuaWh+mTvuaOpe+8gQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LS0tLS0tLS0tLS0tLS0tLS0tLS0tIArkvZzogIXvvJrluLjlhpvmsLggCuadpea6kO+8mkNTRE4gCuWOn+aWh++8mmh0dHBzOi8vYmxvZy5jc2RuLm5ldC9xcV8zOTczNTUwNC9hcnRpY2xlL2RldGFpbHMvNzk2MjI2ODggCueJiOadg+WjsOaYju+8muacrOaWh+S4uuWNmuS4u+WOn+WIm+aWh+eroO+8jOi9rOi9veivt+mZhOS4iuWNmuaWh+mTvuaOpe+8gQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
