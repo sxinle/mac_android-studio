@@ -32,6 +32,13 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/TBSSDK_43646/SDK接入示例-Android Studio/SDK接入示例-Android Studio/X5WebDemo/build.gradle" timestamp="1564106373568">
+        <mark key="'" line="46" column="4" />
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="60" />
+        <mark key="^" line="44" column="6" />
+        <mark key="." line="46" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/demo/jdtx/android/build.gradle" timestamp="1539333853092">
         <mark key="'" line="23" column="0" />
       </file>
@@ -46,6 +53,10 @@
       </file>
       <file name="$USER_HOME$/Desktop/jd/and_partners/app/src/main/assets/index.html" timestamp="1548817315920">
         <mark key="'" line="73" column="25" />
+      </file>
+      <file name="$USER_HOME$/workspace/demo/ztjy/app/build.gradle" timestamp="1564106369530">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="60" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/fragment/jd/JdIndexFragment.java" timestamp="1544067403780">
         <mark key="'" line="79" column="8" />
@@ -94,6 +105,12 @@
         <mark key="]" line="23" column="42" />
         <mark key="^" line="23" column="42" />
         <mark key="." line="23" column="42" />
+      </file>
+      <file name="$USER_HOME$/Desktop/TBSSDK_43646/SDK接入示例-Android Studio/SDK接入示例-Android Studio/X5WebDemo/src/main/AndroidManifest.xml" timestamp="1564106319124">
+        <mark key="'" line="60" column="0" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/pegas/pegasDelivery/android/gradle.properties" timestamp="1556608714447">
         <mark key="'" line="0" column="0" />
@@ -144,6 +161,10 @@
         <mark key="]" line="45" column="2" />
         <mark key="." line="45" column="4" />
         <mark key="^" line="44" column="4" />
+      </file>
+      <file name="$USER_HOME$/workspace/demo/ztjy/build.gradle" timestamp="1564106052161">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="56" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/and_partners/app/libs/tbs_sdk_thirdapp_v3.6.0.1325_43613_sharewithdownload_withoutGame_obfs_20180807_151115.jar!/com/tencent/smtt/sdk/WebSettings.class" timestamp="1547776978015">
         <mark key="'" line="446" column="18" />
@@ -247,10 +268,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="7" filename="$USER_HOME$/workspace/pegas/pegasDelivery/node_modules/react-native-gesture-handler/android/src/main/java/com/swmansion/gesturehandler/react/RNViewConfigurationHelper.java" />
-      <jump line="60" column="0" filename="$USER_HOME$/workspace/pegas/pegasDelivery/node_modules/react-native-gesture-handler/android/src/main/java/com/swmansion/gesturehandler/react/RNViewConfigurationHelper.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/pegas/pegasDelivery/node_modules/react-native-gesture-handler/android/src/main/java/com/swmansion/gesturehandler/react/RNViewConfigurationHelper.java" />
-      <jump line="56" column="20" filename="$USER_HOME$/workspace/pegas/pegasDelivery/node_modules/react-native-gesture-handler/android/src/main/java/com/swmansion/gesturehandler/react/RNViewConfigurationHelper.java" />
       <jump line="22" column="13" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/java/com/pegasdelivery/MainActivity.java" />
       <jump line="80" column="0" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/build.gradle" />
       <jump line="132" column="76" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/build.gradle" />
@@ -347,46 +364,50 @@
       <jump line="8" column="54" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/AndroidManifest.xml" />
       <jump line="22" column="54" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/AndroidManifest.xml" />
       <jump line="4" column="54" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/AndroidManifest.xml" />
+      <jump line="27" column="21" filename="$USER_HOME$/Desktop/TBSSDK_43646/SDK接入示例-Android Studio/SDK接入示例-Android Studio/X5WebDemo/src/main/AndroidManifest.xml" />
+      <jump line="60" column="0" filename="$USER_HOME$/Desktop/TBSSDK_43646/SDK接入示例-Android Studio/SDK接入示例-Android Studio/X5WebDemo/src/main/AndroidManifest.xml" />
+      <jump line="14" column="18" filename="$USER_HOME$/Desktop/TBSSDK_43646/SDK接入示例-Android Studio/SDK接入示例-Android Studio/X5WebDemo/build.gradle" />
+      <jump line="46" column="4" filename="$USER_HOME$/Desktop/TBSSDK_43646/SDK接入示例-Android Studio/SDK接入示例-Android Studio/X5WebDemo/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>基本废物......</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>compile</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTWVNURU1fQUxFUlRfV0lORE9XXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>http://syxinsl.com:9888</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdjb20uYW5kcm9pZC5zdXBwb3J0OmFwcGNvbXBhdC12NzoyOC4wLjAnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uSU5URVJORVQiLz4K</text>
+        <text encoding="base64">ICAgIGFwaSAnY29tLmFuZHJvaWQuc3VwcG9ydDphcHBjb21wYXQtdjc6MjMuNC4wJwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDx1c2VzLXNkawogICAgICAgIGFuZHJvaWQ6bWluU2RrVmVyc2lvbj0iMTEiCiAgICAgICAgYW5kcm9pZDp0YXJnZXRTZGtWZXJzaW9uPSIyMiIgLz4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDwhLS0gQnVnbHkg6KaB5rGC5Yqg55qEIC0tPgo=</text>
+        <text encoding="base64">ICAgIGJ1aWxkVG9vbHNWZXJzaW9uICIyNS4wLjIiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uUkVBRF9QSE9ORV9TVEFURSIvPgo=</text>
+        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggJ2NvbS5hbmRyb2lkLnRvb2xzLmJ1aWxkOmdyYWRsZTo0LjEwLjEnICAgLy9sYXN0IHZlcnNpb24gSmFuIDIwMTYK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uQUNDRVNTX05FVFdPUktfU1RBVEUiLz4K</text>
+        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uSU5URVJORVQiLz4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDwhLS08dXNlcy1wZXJtaXNzaW9uIGFuZHJvaWQ6bmFtZT0iYW5kcm9pZC5wZXJtaXNzaW9uLlJFQURfTE9HUyIvPi0tPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uQUNDRVNTX1dJRklfU1RBVEUiLz4K</text>
+        <text encoding="base64">ICAgIDwhLS0gQnVnbHkg6KaB5rGC5Yqg55qEIC0tPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uQUNDRVNTX0NPQVJTRV9MT0NBVElPTiIvPgo=</text>
+        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uUkVBRF9QSE9ORV9TVEFURSIvPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDwhLS0gU0TljaHor7vlj5bmnYPpmZDvvIznlKjmiLflhpnlhaXnprvnur/lrprkvY3mlbDmja4tLT4KICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uTU9VTlRfVU5NT1VOVF9GSUxFU1lTVEVNUyIvPgo=</text>
+        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uQUNDRVNTX05FVFdPUktfU1RBVEUiLz4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
