@@ -9,6 +9,10 @@
       <file name="/a.dummy" timestamp="1564108799917">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/demo/ztjy/app/libs/tbs_sdk_thirdapp_v3.6.0.1310_43612_sharewithdownload_withoutGame_obfs_20180706_163319.jar!/com/tencent/smtt/export/external/extension/interfaces/IX5WebViewClientExtension.class" timestamp="1564129871765">
+        <mark key="[" line="15" column="17" />
+        <mark key="]" line="15" column="41" />
+      </file>
       <file name="$USER_HOME$/Desktop/TBSSDK_43646/SDK接入示例-Android Studio/SDK接入示例-Android Studio/X5WebDemo/build.gradle" timestamp="1564108212771">
         <mark key="'" line="46" column="4" />
         <mark key="[" line="21" column="0" />
@@ -43,12 +47,11 @@
         <mark key="." line="41" column="58" />
         <mark key="^" line="41" column="58" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/ztjy/app/src/main/java/com/syxinsl/ztjy/MainActivity.java" timestamp="1564126413514">
-        <mark key="'" line="278" column="46" />
-        <mark key="[" line="364" column="33" />
-        <mark key="]" line="364" column="153" />
-        <mark key="." line="173" column="30" />
-        <mark key="^" line="173" column="30" />
+      <file name="$USER_HOME$/workspace/demo/ztjy/app/src/main/java/com/syxinsl/ztjy/MainActivity.java" timestamp="1564130095612">
+        <mark key="'" line="22" column="57" />
+        <mark key="[" line="215" column="0" />
+        <mark key="]" line="215" column="0" />
+        <mark key="." line="215" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/fragment/jd/JdIndexFragment.java" timestamp="1544067403780">
         <mark key="'" line="79" column="8" />
@@ -56,7 +59,7 @@
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/scarn/ScanCaptureActivity.java" timestamp="1544587926380">
         <mark key="'" line="160" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/ztjy/app/src/main/res/layout/activity_video.xml" timestamp="1564127412330">
+      <file name="$USER_HOME$/workspace/demo/ztjy/app/src/main/res/layout/activity_video.xml" timestamp="1564129133424">
         <mark key="[" line="12" column="47" />
         <mark key="]" line="13" column="3" />
         <mark key="." line="13" column="3" />
@@ -202,17 +205,20 @@
       <file name="/Dummy.txt" timestamp="1564125162351">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/demo/ztjy/app/libs/tbs_sdk_thirdapp_v3.6.0.1310_43612_sharewithdownload_withoutGame_obfs_20180706_163319.jar!/com/tencent/smtt/sdk/WebView.class" timestamp="1564129835804">
+        <mark key="[" line="1566" column="16" />
+        <mark key="]" line="1566" column="42" />
+      </file>
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/res/layout/fragment_home.xml" timestamp="1553844027184">
         <mark key="'" line="285" column="42" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/statics/charts/ChartViewModel.kt" timestamp="1553583194420">
         <mark key="'" line="21" column="62" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/ztjy/app/src/main/java/com/syxinsl/ztjy/VideoActivity.java" timestamp="1564127426980">
-        <mark key="[" line="47" column="20" />
-        <mark key="]" line="47" column="20" />
-        <mark key="^" line="49" column="7" />
-        <mark key="." line="47" column="20" />
+      <file name="$USER_HOME$/workspace/demo/ztjy/app/src/main/java/com/syxinsl/ztjy/VideoActivity.java" timestamp="1564129483874">
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="75" column="0" />
+        <mark key="." line="75" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/widget/JdSearchView.java" timestamp="1541402925048">
         <mark key="'" line="27" column="27" />
@@ -237,11 +243,11 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="21" column="46" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/ztjy/app/src/main/AndroidManifest.xml" timestamp="1564125687223">
+      <file name="$USER_HOME$/workspace/demo/ztjy/app/src/main/AndroidManifest.xml" timestamp="1564129032505">
         <mark key="'" line="4" column="54" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="54" />
-        <mark key="." line="14" column="0" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="59" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/demo/ztjy/app/src/main/res/values/network_security_config.xml" timestamp="1564125506571">
         <mark key="'" line="0" column="24" />
@@ -258,10 +264,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="0" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/build.gradle" />
-      <jump line="155" column="40" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/build.gradle" />
-      <jump line="26" column="14" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/build.gradle" />
-      <jump line="161" column="42" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/build.gradle" />
       <jump line="12" column="24" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/settings.gradle" />
       <jump line="9" column="23" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/settings.gradle" />
       <jump line="10" column="105" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/settings.gradle" />
@@ -358,6 +360,10 @@
       <jump line="162" column="48" filename="$USER_HOME$/workspace/demo/ztjy/app/src/main/java/com/syxinsl/ztjy/MainActivity.java" />
       <jump line="278" column="46" filename="$USER_HOME$/workspace/demo/ztjy/app/src/main/java/com/syxinsl/ztjy/MainActivity.java" />
       <jump line="6" column="30" filename="$USER_HOME$/workspace/demo/ztjy/app/build.gradle" />
+      <jump line="347" column="33" filename="$USER_HOME$/workspace/demo/ztjy/app/src/main/java/com/syxinsl/ztjy/MainActivity.java" />
+      <jump line="268" column="33" filename="$USER_HOME$/workspace/demo/ztjy/app/src/main/java/com/syxinsl/ztjy/MainActivity.java" />
+      <jump line="365" column="120" filename="$USER_HOME$/workspace/demo/ztjy/app/src/main/java/com/syxinsl/ztjy/MainActivity.java" />
+      <jump line="22" column="57" filename="$USER_HOME$/workspace/demo/ztjy/app/src/main/java/com/syxinsl/ztjy/MainActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -367,46 +373,46 @@
         <text encoding="base64">KFZpZGVvVmlldykg</text>
       </register>
       <register name="/" type="4">
-        <text>agent</text>
+        <text>Chrome</text>
       </register>
       <register name="0" type="4">
-        <text>Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36</text>
+        <text>IX5WebViewClientExtension</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2aWRlb1ZpZXcuc2V0VmlkZW9VUkkoVXJpLnBhcnNlKEhMU19VUkwpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtV2ViVmlldy5zZXRXZWJDaHJvbWVDbGllbnRFeHRlbnNpb24oKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvL0ZvciBub3cgd2UganVzdCBwaWNrZWQgYW4gYXJiaXRyYXJ5IGl0ZW0gdG8gcGxheQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihlcnJvci5nZXRSZW5kZXJlckV4Y2VwdGlvbigpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBNYWtlIHN1cmUgdG8gdXNlIHRoZSBjb3JyZWN0IFZpZGVvVmlldyBpbXBvcnQK</text>
+        <text encoding="base64">ICAgICAgICBwbGF5KCk7LnMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBNYWtlIHN1cmUgdG8gdXNlIHRoZSBjb3JyZWN0IFZpZGVvVmlldyBpbXBvcnQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwbGF5KCk7CgogICAgICAgIGZpbmRWaWV3QnlJZChSLmlkLnJldHJ5KS5zZXRPbkNsaWNrTGlzdGVuZXIobmV3IFZpZXcuT25DbGlja0xpc3RlbmVyKCkgewogICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgcHVibGljIHZvaWQgb25DbGljayhWaWV3IHYpIHsKICAgICAgICAgICAgICAgIHJldHJ5KCk7CiAgICAgICAgICAgIH0KICAgICAgICB9KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBITFNfVVJMID0gImh0dHA6Ly9kdy13Ni5kd3N0YXRpYy5jb20vNzkvOS8xNzI3Lzg0MTg5MTctMTAxLTE0OTkxMzg5NTQubXA0IjsK</text>
+        <text encoding="base64">ICAgICAgICB2aWRlb1ZpZXcuc2V0VmlkZW9VUkkoVXJpLnBhcnNlKEhMU19VUkwpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>agent</last-search>
+      <last-search>Chrome</last-search>
       <last-offset />
-      <last-pattern>agent</last-pattern>
+      <last-pattern>Chrome</last-pattern>
       <last-replace>pipelineBean</last-replace>
       <last-substitute>version</last-substitute>
       <last-dir>1</last-dir>
@@ -414,8 +420,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxSRUFEX1BIT05FX1NUQVRFXD4=</entry>
-        <entry encoding="base64">XDxTWVNURU1fQUxFUlRfV0lORE9XXD4=</entry>
         <entry encoding="base64">XDxtV2ViVmlld1w+</entry>
         <entry encoding="base64">XDxuYXZpZ2F0aW9uMVw+</entry>
         <entry>Finish</entry>
@@ -434,6 +438,8 @@
         <entry>webView.se</entry>
         <entry>user</entry>
         <entry>agent</entry>
+        <entry>startAc</entry>
+        <entry>Chrome</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0FsYXJtSW5mby9IaXNBbGFybUluZm8vZw==</entry>
