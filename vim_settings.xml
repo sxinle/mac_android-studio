@@ -58,12 +58,11 @@
         <mark key="." line="38" column="0" />
         <mark key="^" line="37" column="3" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/ztjy/app/src/main/java/com/syxinsl/ztjy/MainActivity.java" timestamp="1564113209215">
-        <mark key="'" line="106" column="71" />
-        <mark key="[" line="238" column="0" />
-        <mark key="]" line="238" column="0" />
-        <mark key="." line="327" column="43" />
-        <mark key="^" line="317" column="40" />
+      <file name="$USER_HOME$/workspace/demo/ztjy/app/src/main/java/com/syxinsl/ztjy/MainActivity.java" timestamp="1564122574989">
+        <mark key="[" line="173" column="30" />
+        <mark key="]" line="173" column="30" />
+        <mark key="." line="173" column="30" />
+        <mark key="^" line="173" column="30" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/fragment/jd/JdIndexFragment.java" timestamp="1544067403780">
         <mark key="'" line="79" column="8" />
@@ -78,11 +77,18 @@
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/scarn/ScanCaptureActivity.java" timestamp="1544587926380">
         <mark key="'" line="160" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/ztjy/app/src/main/res/layout/activity_main.xml" timestamp="1564109767128">
-        <mark key="'" line="8" column="29" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="131" column="15" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/workspace/demo/ztjy/app/src/main/res/layout/activity_video.xml" timestamp="1564123248158">
+        <mark key="[" line="6" column="38" />
+        <mark key="]" line="6" column="56" />
+        <mark key="." line="19" column="27" />
+        <mark key="^" line="19" column="27" />
+      </file>
+      <file name="$USER_HOME$/workspace/demo/ztjy/app/src/main/res/layout/activity_main.xml" timestamp="1564122021200">
+        <mark key="'" line="9" column="29" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/activity/me/TradeInfoActivity.java" timestamp="1541647606701">
         <mark key="'" line="64" column="12" />
@@ -162,11 +168,21 @@
         <mark key="[" line="21" column="13" />
         <mark key="]" line="21" column="27" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.exoplayer/exoplayer-ui/2.6.0/15f0ea7a4ab538db1b9971c01aa5407208c52817/exoplayer-ui-2.6.0-sources.jar!/com/google/android/exoplayer2/ui/SimpleExoPlayerView.java" timestamp="1564119235793">
+        <mark key="'" line="391" column="16" />
+        <mark key="[" line="205" column="19" />
+        <mark key="]" line="205" column="37" />
+      </file>
       <file name="$USER_HOME$/workspace/demo/ztjy/app/src/main/res/values/strings.xml" timestamp="1564108963749">
         <mark key="[" line="5" column="25" />
         <mark key="]" line="5" column="29" />
         <mark key="." line="5" column="25" />
         <mark key="^" line="1" column="31" />
+      </file>
+      <file name="$USER_HOME$/Desktop/HlsPlayer/app/src/main/java/com/takusemba/hlsplayer/MainActivity.kt" timestamp="1564119084549">
+        <mark key="'" line="35" column="64" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="14" column="70" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/LaunchActivity.java" timestamp="1542077136550">
         <mark key="'" line="25" column="11" />
@@ -186,6 +202,11 @@
       </file>
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/build/generated/data_binding_base_class_source_out/debug/dataBindingGenBaseClassesDebug/out/com/thinkerjet/jdcommunication/databinding/ItemTradeListBinding.java" timestamp="1539308447837">
         <mark key="'" line="37" column="32" />
+      </file>
+      <file name="$USER_HOME$/Desktop/HlsPlayer/build.gradle" timestamp="1564118728380">
+        <mark key="[" line="9" column="54" />
+        <mark key="]" line="9" column="55" />
+        <mark key="." line="9" column="55" />
       </file>
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/statics/charts/ChartsFragment.kt" timestamp="1553583156641">
         <mark key="'" line="59" column="49" />
@@ -263,6 +284,13 @@
       <file name="$USER_HOME$/Desktop/jd/jingdong_communication/app/src/main/java/com/thinkerjet/jdcommunication/ui/statics/charts/ChartViewModel.kt" timestamp="1553583194420">
         <mark key="'" line="21" column="62" />
       </file>
+      <file name="$USER_HOME$/workspace/demo/ztjy/app/src/main/java/com/syxinsl/ztjy/VideoActivity.java" timestamp="1564123762844">
+        <mark key="'" line="48" column="9" />
+        <mark key="[" line="55" column="56" />
+        <mark key="]" line="55" column="55" />
+        <mark key="." line="55" column="55" />
+        <mark key="^" line="55" column="55" />
+      </file>
       <file name="$USER_HOME$/Desktop/jd/ln178/bld/src/main/java/com/thinkerjet/bld/widget/JdSearchView.java" timestamp="1541402925048">
         <mark key="'" line="27" column="27" />
       </file>
@@ -301,6 +329,11 @@
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/HlsPlayer/app/src/main/res/layout/activity_main.xml" timestamp="1564123044586">
+        <mark key="'" line="21" column="43" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="21" column="46" />
+      </file>
       <file name="$USER_HOME$/workspace/demo/ztjy/app/src/main/AndroidManifest.xml" timestamp="1564113672776">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -309,7 +342,7 @@
       <file name="$USER_HOME$/workspace/uuvalue/DataWedgeReactNative/android/app/build.gradle" timestamp="1553162357291">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1564108548078">
+      <file name="/fragment.java" timestamp="1564122610987">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/pegas/pegasDelivery/node_modules/react-native-code-push/android/app/build.gradle" timestamp="1562921292644">
@@ -321,23 +354,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="23" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/java/com/pegasdelivery/MainApplication.java" />
-      <jump line="41" column="24" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/java/com/pegasdelivery/MainApplication.java" />
-      <jump line="42" column="24" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/java/com/pegasdelivery/MainApplication.java" />
-      <jump line="4" column="29" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/java/com/pegasdelivery/MainApplication.java" />
-      <jump line="43" column="24" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/java/com/pegasdelivery/MainApplication.java" />
-      <jump line="3" column="33" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/java/com/pegasdelivery/MainApplication.java" />
-      <jump line="13" column="40" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/java/com/pegasdelivery/MainApplication.java" />
-      <jump line="12" column="42" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/java/com/pegasdelivery/MainApplication.java" />
-      <jump line="45" column="24" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/java/com/pegasdelivery/MainApplication.java" />
-      <jump line="11" column="36" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/java/com/pegasdelivery/MainApplication.java" />
-      <jump line="26" column="19" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/java/com/pegasdelivery/MainApplication.java" />
-      <jump line="2" column="28" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/java/com/pegasdelivery/wxapi/WXEntryActivity.java" />
-      <jump line="2" column="13" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/java/com/pegasdelivery/wxapi/WXPayEntryActivity.java" />
-      <jump line="146" column="35" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/build.gradle" />
-      <jump line="145" column="29" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/build.gradle" />
-      <jump line="22" column="1" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/build.gradle" />
-      <jump line="35" column="65" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/build.gradle" />
       <jump line="59" column="11" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/build.gradle" />
       <jump line="113" column="8" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/build.gradle" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/gradle.properties" />
@@ -421,55 +437,72 @@
       <jump line="106" column="71" filename="$USER_HOME$/workspace/demo/ztjy/app/src/main/java/com/syxinsl/ztjy/MainActivity.java" />
       <jump line="41" column="18" filename="$USER_HOME$/Desktop/TBSSDK_43646/SDK接入示例-Android Studio/SDK接入示例-Android Studio/X5WebDemo/src/main/AndroidManifest.xml" />
       <jump line="14" column="12" filename="$USER_HOME$/workspace/demo/ztjy/app/build.gradle" />
+      <jump line="23" column="35" filename="$USER_HOME$/Desktop/HlsPlayer/app/src/main/java/com/takusemba/hlsplayer/MainActivity.kt" />
+      <jump line="35" column="64" filename="$USER_HOME$/Desktop/HlsPlayer/app/src/main/java/com/takusemba/hlsplayer/MainActivity.kt" />
+      <jump line="159" column="65" filename="$USER_HOME$/workspace/demo/ztjy/app/src/main/java/com/syxinsl/ztjy/MainActivity.java" />
+      <jump line="247" column="87" filename="$USER_HOME$/workspace/demo/ztjy/app/src/main/java/com/syxinsl/ztjy/MainActivity.java" />
+      <jump line="30" column="55" filename="$USER_HOME$/workspace/demo/ztjy/app/src/main/java/com/syxinsl/ztjy/MainActivity.java" />
+      <jump line="391" column="16" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.exoplayer/exoplayer-ui/2.6.0/15f0ea7a4ab538db1b9971c01aa5407208c52817/exoplayer-ui-2.6.0-sources.jar!/com/google/android/exoplayer2/ui/SimpleExoPlayerView.java" />
+      <jump line="256" column="24" filename="$USER_HOME$/workspace/demo/ztjy/app/src/main/java/com/syxinsl/ztjy/MainActivity.java" />
+      <jump line="295" column="31" filename="$USER_HOME$/workspace/demo/ztjy/app/src/main/java/com/syxinsl/ztjy/MainActivity.java" />
+      <jump line="327" column="72" filename="$USER_HOME$/workspace/demo/ztjy/app/src/main/java/com/syxinsl/ztjy/MainActivity.java" />
+      <jump line="313" column="46" filename="$USER_HOME$/workspace/demo/ztjy/app/src/main/java/com/syxinsl/ztjy/MainActivity.java" />
+      <jump line="158" column="0" filename="$USER_HOME$/workspace/demo/ztjy/app/src/main/java/com/syxinsl/ztjy/MainActivity.java" />
+      <jump line="36" column="0" filename="$USER_HOME$/workspace/demo/ztjy/app/src/main/java/com/syxinsl/ztjy/VideoActivity.java" />
+      <jump line="55" column="0" filename="$USER_HOME$/workspace/demo/ztjy/app/src/main/java/com/syxinsl/ztjy/VideoActivity.java" />
+      <jump line="21" column="43" filename="$USER_HOME$/Desktop/HlsPlayer/app/src/main/res/layout/activity_main.xml" />
+      <jump line="11" column="46" filename="$USER_HOME$/workspace/demo/ztjy/app/src/main/res/layout/activity_video.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/demo/ztjy/app/src/main/res/layout/activity_video.xml" />
+      <jump line="46" column="9" filename="$USER_HOME$/workspace/demo/ztjy/app/src/main/java/com/syxinsl/ztjy/VideoActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>基本废物......</text>
       </register>
       <register name="-" type="4">
-        <text>MOUNT_UNMOUNT_FILESYSTEMS</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtSG9tZVVybFw+</text>
+        <text encoding="base64">XDxBbmRyb2lkV2ViVmlld1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdjb20uZ29vZ2xlLmFuZHJvaWQuZXhvcGxheWVyOmV4b3BsYXllci1jb3JlOjIuNi4wJwogICAgaW1wbGVtZW50YXRpb24gJ2NvbS5nb29nbGUuYW5kcm9pZC5leG9wbGF5ZXI6ZXhvcGxheWVyLWhsczoyLjYuMCcKICAgIGltcGxlbWVudGF0aW9uICdjb20uZ29vZ2xlLmFuZHJvaWQuZXhvcGxheWVyOmV4b3BsYXllci11aToyLjYuMCcK</text>
+        <text encoding="base64">ICAgICAgICAvLyBIbHNNZWRpYVNvdXJjZSBtZWRpYVNvdXJjZSA9IG5ldyBIbHNNZWRpYVNvdXJjZSh1cmksIGRhdGFTb3VyY2VGYWN0b3J5LCBuZXcgSGFuZGxlcigpLCBudWxsKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWRUZXN0SW1wbGVtZW50YXRpb24gJ2NvbS5hbmRyb2lkLnN1cHBvcnQudGVzdDpydW5uZXI6MS4wLjInCiAgICBhbmRyb2lkVGVzdEltcGxlbWVudGF0aW9uICdjb20uYW5kcm9pZC5zdXBwb3J0LnRlc3QuZXNwcmVzc286ZXNwcmVzc28tY29yZTozLjAuMicK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uUkVBRF9QSE9ORV9TVEFURSIvPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uSU5URVJORVQiIC8+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBIbHNNZWRpYVNvdXJjZSBtZWRpYVNvdXJjZSA9IG5ldyBIbHNNZWRpYVNvdXJjZSh1cmksIGRhdGFTb3VyY2VGYWN0b3J5LCBuZXcgSGFuZGxlcigpLCBudWxsKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgd2ViVmlldy5ldmFsdWF0ZUphdmFzY3JpcHQoIiQoJy5nbHlwaGljb24tcGxheScpLmNsaWNrKCk7IiwgbnVsbCk7Ly8g54K55Ye76KeC55yLCg==</text>
+        <text encoding="base64">ICAgICAgICBFeHRyYWN0b3JNZWRpYVNvdXJjZSBtZWRpYVNvdXJjZSA9IG5ldyBFeHRyYWN0b3JNZWRpYVNvdXJjZSh1cmksIGRhdGFTb3VyY2VGYWN0b3J5LCBleHRyYWN0b3JzRmFjdG9yeSwgbnVsbCwgbnVsbCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiXG4iICsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgRXh0cmFjdG9yc0ZhY3RvcnkgZXh0cmFjdG9yc0ZhY3RvcnkgPSBuZXcgRGVmYXVsdEV4dHJhY3RvcnNGYWN0b3J5KCk7CiAgICAgICAgRXh0cmFjdG9yTWVkaWFTb3VyY2UgbWVkaWFTb3VyY2UgPSBuZXcgRXh0cmFjdG9yTWVkaWFTb3VyY2UodXJpLCBkYXRhU291cmNlRmFjdG9yeSwgZXh0cmFjdG9yc0ZhY3RvcnksIG51bGwsIG51bGwpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXRyeSgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LS0tLS0tLS0tLS0tLS0tLS0tLS0tIArkvZzogIXvvJrluLjlhpvmsLggCuadpea6kO+8mkNTRE4gCuWOn+aWh++8mmh0dHBzOi8vYmxvZy5jc2RuLm5ldC9xcV8zOTczNTUwNC9hcnRpY2xlL2RldGFpbHMvNzk2MjI2ODggCueJiOadg+WjsOaYju+8muacrOaWh+S4uuWNmuS4u+WOn+WIm+aWh+eroO+8jOi9rOi9veivt+mZhOS4iuWNmuaWh+mTvuaOpe+8gQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtSG9tZVVybFw+</last-search>
+      <last-search encoding="base64">XDxBbmRyb2lkV2ViVmlld1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtSG9tZVVybFw+</last-pattern>
+      <last-pattern encoding="base64">XDxBbmRyb2lkV2ViVmlld1w+</last-pattern>
       <last-replace>pipelineBean</last-replace>
       <last-substitute>version</last-substitute>
       <last-dir>1</last-dir>
@@ -477,9 +510,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx2aWV3XD4=</entry>
-        <entry encoding="base64">XDxnZXN0dXJlXD4=</entry>
-        <entry encoding="base64">XDxleGNlcHRpb25cPg==</entry>
         <entry encoding="base64">XDxSTkdlc3R1cmVIYW5kbGVyRW5hYmxlZFJvb3RWaWV3XD4=</entry>
         <entry>compile</entry>
         <entry encoding="base64">XDxkYXRhXD4=</entry>
@@ -492,11 +522,14 @@
         <entry>Finish</entry>
         <entry>eva</entry>
         <entry encoding="base64">XDxUb2FzdFw+</entry>
-        <entry>Toast</entry>
         <entry>Flash</entry>
         <entry>flash</entry>
         <entry>settings</entry>
         <entry encoding="base64">XDxtSG9tZVVybFw+</entry>
+        <entry>player_view</entry>
+        <entry>eval</entry>
+        <entry>Toast</entry>
+        <entry encoding="base64">XDxBbmRyb2lkV2ViVmlld1w+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0FsYXJtSW5mby9IaXNBbGFybUluZm8vZw==</entry>
