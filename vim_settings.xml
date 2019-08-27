@@ -59,11 +59,11 @@
       <file name="$USER_HOME$/Desktop/jd/ln178/libraries/TextDrawable/src/main/java/com/amulyakhare/textdrawable/util/ColorGenerator.java" timestamp="1541647981947">
         <mark key="[" line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/pegas/expressShop/android/app/src/main/res/values/strings.xml" timestamp="1566786393656">
-        <mark key="[" line="1" column="117" />
-        <mark key="]" line="1" column="117" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="1" column="117" />
+      <file name="$USER_HOME$/workspace/pegas/expressShop/android/app/src/main/res/values/strings.xml" timestamp="1566876379230">
+        <mark key="[" line="2" column="28" />
+        <mark key="]" line="2" column="31" />
+        <mark key="^" line="2" column="31" />
+        <mark key="." line="2" column="31" />
       </file>
       <file name="$USER_HOME$/workspace/pegas/expressShop/android/app/build.gradle" timestamp="1566789464518">
         <mark key="[" line="158" column="49" />
@@ -279,7 +279,7 @@
         <text>基本废物......</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGs=</text>
+        <text>expressShop</text>
       </register>
       <register name="/" type="4">
         <text>icons</text>
