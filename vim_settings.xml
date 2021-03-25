@@ -1,438 +1,73 @@
 <application>
-  <component name="VimSettings">
-    <state version="4" enabled="true" />
-    <globalmarks />
-    <filemarks>
-      <file name="/a.dummy" timestamp="1564108799917">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/demo/ztjy/app/libs/tbs_sdk_thirdapp_v3.6.0.1310_43612_sharewithdownload_withoutGame_obfs_20180706_163319.jar!/com/tencent/smtt/export/external/extension/interfaces/IX5WebViewClientExtension.class" timestamp="1564129871765">
-        <mark key="[" line="15" column="17" />
-        <mark key="]" line="15" column="41" />
-      </file>
-      <file name="$USER_HOME$/Desktop/TBSSDK_43646/SDK接入示例-Android Studio/SDK接入示例-Android Studio/X5WebDemo/build.gradle" timestamp="1564108212771">
-        <mark key="'" line="46" column="4" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="25" column="9" />
-        <mark key="^" line="44" column="6" />
-        <mark key="." line="46" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/HlsPlayer/build.gradle" timestamp="1564118728380">
-        <mark key="[" line="9" column="54" />
-        <mark key="]" line="9" column="55" />
-        <mark key="." line="9" column="55" />
-      </file>
-      <file name="$USER_HOME$/workspace/demo/ztjy/build.gradle" timestamp="1564106052161">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="56" />
-      </file>
-      <file name="$USER_HOME$/workspace/pegas/expressShop/android/settings.gradle" timestamp="1566789254319">
-        <mark key="[" line="30" column="101" />
-        <mark key="]" line="30" column="125" />
-        <mark key="^" line="30" column="135" />
-        <mark key="." line="30" column="135" />
-      </file>
-      <file name="$USER_HOME$/workspace/demo/ztjy/app/src/main/res/xml/network_security_config.xml" timestamp="1564125173851">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="3" column="26" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/demo/ztjy/app/src/main/java/com/syxinsl/ztjy/APPAplication.java" timestamp="1564363275521">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/demo/ztjy/app/build.gradle" timestamp="1564126710677">
-        <mark key="'" line="6" column="30" />
-        <mark key="[" line="40" column="68" />
-        <mark key="]" line="41" column="58" />
-        <mark key="." line="41" column="58" />
-        <mark key="^" line="41" column="58" />
-      </file>
-      <file name="$USER_HOME$/workspace/demo/ztjy/app/src/main/java/com/syxinsl/ztjy/MainActivity.java" timestamp="1564363961139">
-        <mark key="'" line="326" column="65" />
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="0" />
-        <mark key="." line="78" column="0" />
-        <mark key="^" line="72" column="115" />
-      </file>
-      <file name="$USER_HOME$/Desktop/jd/ln178/libraries/TextDrawable/src/main/java/com/amulyakhare/textdrawable/util/ColorGenerator.java" timestamp="1541647981947">
-        <mark key="[" line="18" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/pegas/expressShop/android/app/src/main/res/values/strings.xml" timestamp="1566876379230">
-        <mark key="[" line="2" column="28" />
-        <mark key="]" line="2" column="31" />
-        <mark key="^" line="2" column="31" />
-        <mark key="." line="2" column="31" />
-      </file>
-      <file name="$USER_HOME$/workspace/pegas/expressShop/android/app/build.gradle" timestamp="1566789464518">
-        <mark key="[" line="158" column="49" />
-        <mark key="]" line="158" column="49" />
-        <mark key="^" line="158" column="50" />
-        <mark key="." line="158" column="49" />
-      </file>
-      <file name="$USER_HOME$/workspace/demo/ztjy/app/src/main/res/layout/activity_video.xml" timestamp="1564129133424">
-        <mark key="[" line="12" column="47" />
-        <mark key="]" line="13" column="3" />
-        <mark key="." line="13" column="3" />
-        <mark key="^" line="13" column="3" />
-      </file>
-      <file name="$USER_HOME$/workspace/demo/ztjy/app/src/main/res/layout/activity_main.xml" timestamp="1564122021200">
-        <mark key="'" line="9" column="29" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="6" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1564125162351">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/demo/ztjy/app/libs/tbs_sdk_thirdapp_v3.6.0.1310_43612_sharewithdownload_withoutGame_obfs_20180706_163319.jar!/com/tencent/smtt/sdk/WebView.class" timestamp="1564129835804">
-        <mark key="[" line="1566" column="16" />
-        <mark key="]" line="1566" column="42" />
-      </file>
-      <file name="/fragment.kt" timestamp="1548499064275">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/demo/ztjy/app/src/main/java/com/syxinsl/ztjy/VideoActivity.java" timestamp="1564129483874">
-        <mark key="[" line="75" column="0" />
-        <mark key="]" line="75" column="0" />
-        <mark key="." line="75" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/demo/ztjy/app/src/main/assets/video.html" timestamp="1564363951535">
-        <mark key="[" line="8" column="12" />
-        <mark key="]" line="8" column="71" />
-        <mark key="^" line="8" column="71" />
-        <mark key="." line="8" column="71" />
-      </file>
-      <file name="$USER_HOME$/Desktop/TBSSDK_43646/SDK接入示例-Android Studio/SDK接入示例-Android Studio/X5WebDemo/src/main/java/com/example/test_webview_demo/APPAplication.java" timestamp="1564108371381">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="31" column="5" />
-      </file>
-      <file name="$USER_HOME$/workspace/demo/ztjy/app/src/main/java/com/syxinsl/ztjy/BrowserActivity.java" timestamp="1564108777366">
-        <mark key="'" line="78" column="26" />
-        <mark key="[" line="222" column="61" />
-        <mark key="]" line="222" column="65" />
-        <mark key="." line="222" column="65" />
-        <mark key="^" line="222" column="65" />
-      </file>
-      <file name="$USER_HOME$/Desktop/HlsPlayer/app/build.gradle" timestamp="1564118424456">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="33" column="68" />
-      </file>
-      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/java/com/pegasdelivery/wxapi/WXPayEntryActivity.java" timestamp="1556083234799">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="14" column="1" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/demo/ztjy/app/libs/tbs_sdk_thirdapp_v3.6.0.1310_43612_sharewithdownload_withoutGame_obfs_20180706_163319.jar!/com/tencent/smtt/sdk/WebChromeClient.class" timestamp="1564110323760">
-        <mark key="[" line="21" column="13" />
-        <mark key="]" line="21" column="27" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.exoplayer/exoplayer-ui/2.6.0/15f0ea7a4ab538db1b9971c01aa5407208c52817/exoplayer-ui-2.6.0-sources.jar!/com/google/android/exoplayer2/ui/SimpleExoPlayerView.java" timestamp="1564119235793">
-        <mark key="'" line="391" column="16" />
-        <mark key="[" line="205" column="19" />
-        <mark key="]" line="205" column="37" />
-      </file>
-      <file name="$USER_HOME$/workspace/pegas/pegasDelivery/node_modules/react-native-qqlbs/android/src/main/java/com/zzy/qqlbs/QQLBSPackage.java" timestamp="1562918753162">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/HlsPlayer/app/src/main/res/layout/activity_main.xml" timestamp="1564123044586">
-        <mark key="'" line="21" column="43" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="21" column="46" />
-      </file>
-      <file name="$USER_HOME$/workspace/demo/ztjy/app/src/main/res/values/strings.xml" timestamp="1564108963749">
-        <mark key="[" line="5" column="25" />
-        <mark key="]" line="5" column="29" />
-        <mark key="." line="5" column="25" />
-        <mark key="^" line="1" column="31" />
-      </file>
-      <file name="$USER_HOME$/Desktop/HlsPlayer/app/src/main/java/com/takusemba/hlsplayer/MainActivity.kt" timestamp="1564119084549">
-        <mark key="'" line="35" column="64" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="14" column="70" />
-      </file>
-      <file name="$USER_HOME$/workspace/demo/ztjy/app/src/main/AndroidManifest.xml" timestamp="1564363317141">
-        <mark key="'" line="4" column="54" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="59" />
-        <mark key="." line="24" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/demo/ztjy/app/src/main/res/values/network_security_config.xml" timestamp="1564125506571">
-        <mark key="'" line="0" column="24" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="3" column="26" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="3" column="25" />
-      </file>
-      <file name="/fragment.java" timestamp="1564362542138">
-        <mark key="[" line="0" column="0" />
-      </file>
-    </filemarks>
-    <jumps>
-      <jump line="7" column="40" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/java/com/pegasdelivery/MainApplication.java" />
-      <jump line="18" column="40" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/java/com/pegasdelivery/MainApplication.java" />
-      <jump line="37" column="40" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/java/com/pegasdelivery/MainApplication.java" />
-      <jump line="70" column="16" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/java/com/pegasdelivery/MainApplication.java" />
-      <jump line="15" column="36" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/java/com/pegasdelivery/MainApplication.java" />
-      <jump line="78" column="16" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/java/com/pegasdelivery/MainApplication.java" />
-      <jump line="25" column="36" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/java/com/pegasdelivery/MainApplication.java" />
-      <jump line="79" column="16" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/java/com/pegasdelivery/MainApplication.java" />
-      <jump line="77" column="38" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/java/com/pegasdelivery/MainApplication.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/build.gradle" />
-      <jump line="164" column="42" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/build.gradle" />
-      <jump line="154" column="35" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/build.gradle" />
-      <jump line="159" column="35" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/build.gradle" />
-      <jump line="9" column="42" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/java/com/pegasdelivery/MainActivity.java" />
-      <jump line="29" column="27" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/java/com/pegasdelivery/MainActivity.java" />
-      <jump line="44" column="30" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/java/com/pegasdelivery/MainApplication.java" />
-      <jump line="4" column="0" filename="$USER_HOME$/workspace/pegas/pegasDelivery/node_modules/react-native-gesture-handler/android/build.gradle" />
-      <jump line="11" column="23" filename="$USER_HOME$/workspace/pegas/pegasDelivery/node_modules/react-native-wechat/android/build.gradle" />
-      <jump line="5" column="18" filename="$USER_HOME$/workspace/pegas/pegasDelivery/node_modules/react-native-gm-baidu-location/android/build.gradle" />
-      <jump line="28" column="0" filename="$USER_HOME$/workspace/pegas/pegasDelivery/node_modules/react-native-gesture-handler/android/build.gradle" />
-      <jump line="45" column="4" filename="$USER_HOME$/workspace/pegas/pegasDelivery/node_modules/react-native-background-job/android/build.gradle" />
-      <jump line="29" column="6" filename="$USER_HOME$/workspace/pegas/pegasDelivery/node_modules/react-native-code-push/android/app/build.gradle" />
-      <jump line="8" column="37" filename="$USER_HOME$/workspace/pegas/pegasDelivery/node_modules/react-native-gm-baidu-location/android/build.gradle" />
-      <jump line="27" column="6" filename="$USER_HOME$/workspace/pegas/pegasDelivery/node_modules/react-native-gm-baidu-location/android/build.gradle" />
-      <jump line="3" column="4" filename="$USER_HOME$/workspace/pegas/pegasDelivery/node_modules/react-native-gm-baidu-location/android/build.gradle" />
-      <jump line="54" column="17" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/AndroidManifest.xml" />
-      <jump line="30" column="54" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/AndroidManifest.xml" />
-      <jump line="15" column="54" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/AndroidManifest.xml" />
-      <jump line="9" column="54" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/AndroidManifest.xml" />
-      <jump line="19" column="54" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/AndroidManifest.xml" />
-      <jump line="8" column="54" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/AndroidManifest.xml" />
-      <jump line="22" column="54" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/AndroidManifest.xml" />
-      <jump line="4" column="54" filename="$USER_HOME$/workspace/pegas/pegasDelivery/android/app/src/main/AndroidManifest.xml" />
-      <jump line="27" column="21" filename="$USER_HOME$/Desktop/TBSSDK_43646/SDK接入示例-Android Studio/SDK接入示例-Android Studio/X5WebDemo/src/main/AndroidManifest.xml" />
-      <jump line="60" column="0" filename="$USER_HOME$/Desktop/TBSSDK_43646/SDK接入示例-Android Studio/SDK接入示例-Android Studio/X5WebDemo/src/main/AndroidManifest.xml" />
-      <jump line="14" column="18" filename="$USER_HOME$/Desktop/TBSSDK_43646/SDK接入示例-Android Studio/SDK接入示例-Android Studio/X5WebDemo/build.gradle" />
-      <jump line="46" column="4" filename="$USER_HOME$/Desktop/TBSSDK_43646/SDK接入示例-Android Studio/SDK接入示例-Android Studio/X5WebDemo/build.gradle" />
-      <jump line="25" column="46" filename="$USER_HOME$/workspace/demo/ztjy/app/src/main/java/com/syxinsl/ztjy/MainActivity.java" />
-      <jump line="51" column="0" filename="$USER_HOME$/workspace/demo/ztjy/app/src/main/java/com/syxinsl/ztjy/MainActivity.java" />
-      <jump line="91" column="52" filename="$USER_HOME$/workspace/demo/ztjy/app/src/main/java/com/syxinsl/ztjy/BrowserActivity.java" />
-      <jump line="26" column="32" filename="$USER_HOME$/workspace/demo/ztjy/app/src/main/res/layout/activity_main.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/demo/ztjy/app/src/main/res/layout/activity_main.xml" />
-      <jump line="78" column="26" filename="$USER_HOME$/workspace/demo/ztjy/app/src/main/java/com/syxinsl/ztjy/BrowserActivity.java" />
-      <jump line="223" column="36" filename="$USER_HOME$/workspace/demo/ztjy/app/src/main/java/com/syxinsl/ztjy/MainActivity.java" />
-      <jump line="288" column="11" filename="$USER_HOME$/workspace/demo/ztjy/app/src/main/java/com/syxinsl/ztjy/MainActivity.java" />
-      <jump line="34" column="22" filename="$USER_HOME$/workspace/demo/ztjy/app/src/main/java/com/syxinsl/ztjy/MainActivity.java" />
-      <jump line="123" column="54" filename="$USER_HOME$/workspace/demo/ztjy/app/src/main/res/layout/activity_main.xml" />
-      <jump line="63" column="35" filename="$USER_HOME$/workspace/demo/ztjy/app/src/main/java/com/syxinsl/ztjy/MainActivity.java" />
-      <jump line="43" column="0" filename="$USER_HOME$/workspace/demo/ztjy/app/src/main/res/layout/activity_main.xml" />
-      <jump line="8" column="29" filename="$USER_HOME$/workspace/demo/ztjy/app/src/main/res/layout/activity_main.xml" />
-      <jump line="303" column="0" filename="$USER_HOME$/workspace/demo/ztjy/app/src/main/java/com/syxinsl/ztjy/MainActivity.java" />
-      <jump line="151" column="0" filename="$USER_HOME$/workspace/demo/ztjy/app/src/main/java/com/syxinsl/ztjy/MainActivity.java" />
-      <jump line="205" column="24" filename="$USER_HOME$/workspace/demo/ztjy/app/src/main/java/com/syxinsl/ztjy/MainActivity.java" />
-      <jump line="230" column="40" filename="$USER_HOME$/workspace/demo/ztjy/app/src/main/java/com/syxinsl/ztjy/MainActivity.java" />
-      <jump line="212" column="57" filename="$USER_HOME$/workspace/demo/ztjy/app/src/main/java/com/syxinsl/ztjy/MainActivity.java" />
-      <jump line="140" column="11" filename="$USER_HOME$/workspace/demo/ztjy/app/src/main/java/com/syxinsl/ztjy/MainActivity.java" />
-      <jump line="228" column="68" filename="$USER_HOME$/workspace/demo/ztjy/app/src/main/java/com/syxinsl/ztjy/MainActivity.java" />
-      <jump line="229" column="0" filename="$USER_HOME$/workspace/demo/ztjy/app/src/main/java/com/syxinsl/ztjy/MainActivity.java" />
-      <jump line="845" column="16" filename="$USER_HOME$/workspace/demo/ztjy/app/libs/tbs_sdk_thirdapp_v3.6.0.1310_43612_sharewithdownload_withoutGame_obfs_20180706_163319.jar!/com/tencent/smtt/sdk/WebSettings.class" />
-      <jump line="137" column="24" filename="$USER_HOME$/workspace/demo/ztjy/app/src/main/java/com/syxinsl/ztjy/MainActivity.java" />
-      <jump line="43" column="33" filename="$USER_HOME$/workspace/demo/ztjy/app/src/main/java/com/syxinsl/ztjy/MainActivity.java" />
-      <jump line="106" column="71" filename="$USER_HOME$/workspace/demo/ztjy/app/src/main/java/com/syxinsl/ztjy/MainActivity.java" />
-      <jump line="41" column="18" filename="$USER_HOME$/Desktop/TBSSDK_43646/SDK接入示例-Android Studio/SDK接入示例-Android Studio/X5WebDemo/src/main/AndroidManifest.xml" />
-      <jump line="14" column="12" filename="$USER_HOME$/workspace/demo/ztjy/app/build.gradle" />
-      <jump line="23" column="35" filename="$USER_HOME$/Desktop/HlsPlayer/app/src/main/java/com/takusemba/hlsplayer/MainActivity.kt" />
-      <jump line="35" column="64" filename="$USER_HOME$/Desktop/HlsPlayer/app/src/main/java/com/takusemba/hlsplayer/MainActivity.kt" />
-      <jump line="159" column="65" filename="$USER_HOME$/workspace/demo/ztjy/app/src/main/java/com/syxinsl/ztjy/MainActivity.java" />
-      <jump line="247" column="87" filename="$USER_HOME$/workspace/demo/ztjy/app/src/main/java/com/syxinsl/ztjy/MainActivity.java" />
-      <jump line="30" column="55" filename="$USER_HOME$/workspace/demo/ztjy/app/src/main/java/com/syxinsl/ztjy/MainActivity.java" />
-      <jump line="391" column="16" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.exoplayer/exoplayer-ui/2.6.0/15f0ea7a4ab538db1b9971c01aa5407208c52817/exoplayer-ui-2.6.0-sources.jar!/com/google/android/exoplayer2/ui/SimpleExoPlayerView.java" />
-      <jump line="256" column="24" filename="$USER_HOME$/workspace/demo/ztjy/app/src/main/java/com/syxinsl/ztjy/MainActivity.java" />
-      <jump line="295" column="31" filename="$USER_HOME$/workspace/demo/ztjy/app/src/main/java/com/syxinsl/ztjy/MainActivity.java" />
-      <jump line="327" column="72" filename="$USER_HOME$/workspace/demo/ztjy/app/src/main/java/com/syxinsl/ztjy/MainActivity.java" />
-      <jump line="313" column="46" filename="$USER_HOME$/workspace/demo/ztjy/app/src/main/java/com/syxinsl/ztjy/MainActivity.java" />
-      <jump line="158" column="0" filename="$USER_HOME$/workspace/demo/ztjy/app/src/main/java/com/syxinsl/ztjy/MainActivity.java" />
-      <jump line="36" column="0" filename="$USER_HOME$/workspace/demo/ztjy/app/src/main/java/com/syxinsl/ztjy/VideoActivity.java" />
-      <jump line="55" column="0" filename="$USER_HOME$/workspace/demo/ztjy/app/src/main/java/com/syxinsl/ztjy/VideoActivity.java" />
-      <jump line="21" column="43" filename="$USER_HOME$/Desktop/HlsPlayer/app/src/main/res/layout/activity_main.xml" />
-      <jump line="11" column="46" filename="$USER_HOME$/workspace/demo/ztjy/app/src/main/res/layout/activity_video.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/demo/ztjy/app/src/main/res/layout/activity_video.xml" />
-      <jump line="46" column="9" filename="$USER_HOME$/workspace/demo/ztjy/app/src/main/java/com/syxinsl/ztjy/VideoActivity.java" />
-      <jump line="3" column="18" filename="$USER_HOME$/workspace/demo/ztjy/app/src/main/res/xml/network_security_config.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/demo/ztjy/app/src/main/res/xml/network_security_config.xml" />
-      <jump line="8" column="54" filename="$USER_HOME$/workspace/demo/ztjy/app/src/main/AndroidManifest.xml" />
-      <jump line="0" column="24" filename="$USER_HOME$/workspace/demo/ztjy/app/src/main/res/values/network_security_config.xml" />
-      <jump line="7" column="54" filename="$USER_HOME$/workspace/demo/ztjy/app/src/main/AndroidManifest.xml" />
-      <jump line="4" column="54" filename="$USER_HOME$/workspace/demo/ztjy/app/src/main/AndroidManifest.xml" />
-      <jump line="162" column="48" filename="$USER_HOME$/workspace/demo/ztjy/app/src/main/java/com/syxinsl/ztjy/MainActivity.java" />
-      <jump line="278" column="46" filename="$USER_HOME$/workspace/demo/ztjy/app/src/main/java/com/syxinsl/ztjy/MainActivity.java" />
-      <jump line="6" column="30" filename="$USER_HOME$/workspace/demo/ztjy/app/build.gradle" />
-      <jump line="347" column="33" filename="$USER_HOME$/workspace/demo/ztjy/app/src/main/java/com/syxinsl/ztjy/MainActivity.java" />
-      <jump line="268" column="33" filename="$USER_HOME$/workspace/demo/ztjy/app/src/main/java/com/syxinsl/ztjy/MainActivity.java" />
-      <jump line="365" column="120" filename="$USER_HOME$/workspace/demo/ztjy/app/src/main/java/com/syxinsl/ztjy/MainActivity.java" />
-      <jump line="22" column="57" filename="$USER_HOME$/workspace/demo/ztjy/app/src/main/java/com/syxinsl/ztjy/MainActivity.java" />
-      <jump line="225" column="39" filename="$USER_HOME$/workspace/demo/ztjy/app/src/main/java/com/syxinsl/ztjy/MainActivity.java" />
-      <jump line="287" column="115" filename="$USER_HOME$/workspace/demo/ztjy/app/src/main/java/com/syxinsl/ztjy/MainActivity.java" />
-      <jump line="165" column="16" filename="$USER_HOME$/workspace/demo/ztjy/app/src/main/java/com/syxinsl/ztjy/MainActivity.java" />
-      <jump line="167" column="16" filename="$USER_HOME$/workspace/demo/ztjy/app/src/main/java/com/syxinsl/ztjy/MainActivity.java" />
-      <jump line="48" column="25" filename="$USER_HOME$/workspace/demo/ztjy/app/src/main/java/com/syxinsl/ztjy/MainActivity.java" />
-      <jump line="311" column="65" filename="$USER_HOME$/workspace/demo/ztjy/app/src/main/java/com/syxinsl/ztjy/MainActivity.java" />
-    </jumps>
-    <registers>
-      <register name="&quot;" type="4">
-        <text>基本废物......</text>
-      </register>
-      <register name="-" type="4">
-        <text>expressShop</text>
-      </register>
-      <register name="/" type="4">
-        <text>icons</text>
-      </register>
-      <register name="0" type="4">
-        <text>react-native-vector-icons</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm47Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoQnVpbGQuVkVSU0lPTi5TREtfSU5UID49IDIzKSB7CgkJCWludCBSRVFVRVNUX0NPREVfQ09OVEFDVCA9IDEwMTsKCQkJU3RyaW5nW10gcGVybWlzc2lvbnMgPSB7TWFuaWZlc3QucGVybWlzc2lvbi5XUklURV9FWFRFUk5BTF9TVE9SQUdFfTsKCQkJLy/pqozor4HmmK/lkKborrjlj6/mnYPpmZAKCQkJZm9yIChTdHJpbmcgc3RyIDogcGVybWlzc2lvbnMpIHsKCQkJCWlmICh0aGlzLmNoZWNrU2VsZlBlcm1pc3Npb24oc3RyKSAhPSBQYWNrYWdlTWFuYWdlci5QRVJNSVNTSU9OX0dSQU5URUQpIHsKCQkJCQkvL+eUs+ivt+adg+mZkAoJCQkJCXRoaXMucmVxdWVzdFBlcm1pc3Npb25zKHBlcm1pc3Npb25zLCBSRVFVRVNUX0NPREVfQ09OVEFDVCk7CgkJCQkJcmV0dXJuOwoJCQkJfQoJCQl9CgkJfQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">LS0tLS0tLS0tLS0tLS0tLS0tLS0tIArkvZzogIXvvJrlj6/kuZDmt5ggCuadpea6kO+8mkNTRE4gCuWOn+aWh++8mmh0dHBzOi8vYmxvZy5jc2RuLm5ldC9sdnlvdWp0L2FydGljbGUvZGV0YWlscy81MjgyNjU1NiAK54mI5p2D5aOw5piO77ya5pys5paH5Li65Y2a5Li75Y6f5Yib5paH56ug77yM6L2s6L296K+36ZmE5LiK5Y2a5paH6ZO+5o6l77yBCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhbGVydChtd2UpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdlYlZpZXcubG9hZFVybCgiZmlsZTovLy9hbmRyb2lkX2Fzc2V0L3ZpZGVvLmh0bWwiKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgd2VidmkK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICB3ZWJWaWV3LmV2YWx1YXRlSmF2YXNjcmlwdCgiJCgnLmhlYWRlcicpLmhpZGUoKTtcbiIgKwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICIkKCdkaXYnKS5maWx0ZXIoZnVuY3Rpb24oKSB7XG4iICsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiICAgIHJldHVybiAkKHRoaXMpLmNzcygnd2lkdGgnKSA9PSAnMTUwcHgnICYmICQodGhpcykuY3NzKCdmbG9hdCcpID09ICdsZWZ0JyAmJiAkKHRoaXMpLmNzcygnbWFyZ2luLWxlZnQnKSA9PSAnMTVweCc7XG4iICsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAifSkuY3NzKFwiZGlzcGxheVwiLCBcIm5vbmVcIik7XG4iLCBudWxsKTsKCiAgICAgICAgICAgICAgICAgICAgICAgIHdlYlZpZXcuZXZhbHVhdGVKYXZhc2NyaXB0KCIkKCcuZ2x5cGhpY29uLXBsYXknKS5jbGljaygpOyIsIG51bGwpOy8vIOeCueWHu+ingueciwoKICAgICAgICAgICAgICAgICAgICAgICAgd2ViVmlldy5ldmFsdWF0ZUphdmFzY3JpcHQoIiQuYWpheCh7XG4iICsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiICAgIHR5cGU6IFwiUE9TVFwiLFxuIiArCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIiAgICB1cmw6ICcvcGFyZW50L3BsYXlWaWRlby5kbycsXG4iICsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiICAgIGRhdGE6IHtcbiIgKwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICIgICAgICAgIGNhbWVyYUlkOiAnRUUyOURCRkY2ODUxNDhENEEyOUInLFxuIiArCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIiAgICB9LFxuIiArCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIiAgICBkYXRhVHlwZTogXCJqc29uXCIsXG4iICsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiICAgIHRpbWVvdXQ6IDMwMDAwLCAvL+i2heaXtuaXtumXtOiuvue9ru+8jOWNleS9jeavq+enklxuIiArCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIiAgICBhc3luYzogdHJ1ZSxcbiIgKwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICIgICAgc3VjY2VzczogZnVuY3Rpb24oanNvbikge1xuIiArCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIiAgICAgIHdpbmRvdy5BbmRyb2lkV2ViVmlldy5zaG93SW5mb0Zyb21KcyhKU09OLnN0cmluZ2lmeShqc29uKSk7ICAiICsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiLy9yZXR1cm4ganNvbi5yZXNwb25zZVRleHQ7XG4iICsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiICAgIH1cbiIgKwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJ9KTtcbiIsIG51bGwpOwoKICAgICAgICAgICAgICAgICAgICAgICAgd2ViVmlldy5sb2FkVXJsKCJmaWxlOi8vL2FuZHJvaWRfYXNzZXQvdmlkZW8uaHRtbCIpOwo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name=":" type="4">
-        <text>w</text>
-      </register>
-    </registers>
-    <search>
-      <last-search>icons</last-search>
-      <last-offset />
-      <last-pattern>icons</last-pattern>
-      <last-replace>pipelineBean</last-replace>
-      <last-substitute>version</last-substitute>
-      <last-dir>1</last-dir>
-      <show-last>true</show-last>
-    </search>
-    <history>
-      <history-search>
-        <entry>Flash</entry>
-        <entry>flash</entry>
-        <entry>settings</entry>
-        <entry encoding="base64">XDxtSG9tZVVybFw+</entry>
-        <entry>player_view</entry>
-        <entry>eval</entry>
-        <entry>Toast</entry>
-        <entry encoding="base64">XDxBbmRyb2lkV2ViVmlld1w+</entry>
-        <entry encoding="base64">XDxBQ0NFU1NfV0lGSV9TVEFURVw+</entry>
-        <entry encoding="base64">XDxBQ0NFU1NfTkVUV09SS19TVEFURVw+</entry>
-        <entry>webView.se</entry>
-        <entry>user</entry>
-        <entry>agent</entry>
-        <entry>startAc</entry>
-        <entry>Chrome</entry>
-        <entry>startA</entry>
-        <entry>extra</entry>
-        <entry encoding="base64">XDxITFNfVVJMXD4=</entry>
-        <entry encoding="base64">XDxzaG93SW5mb0Zyb21Kc1w+</entry>
-        <entry>icons</entry>
-      </history-search>
-      <history-cmd>
-        <entry encoding="base64">JzwsJz5zL0FsYXJtSW5mby9IaXNBbGFybUluZm8vZw==</entry>
-        <entry encoding="base64">JzwsJz5zL+ivpuaDhS/lvILluLgvZw==</entry>
-        <entry encoding="base64">JzwsJz5zL+eqgeWini/lvILluLgvZw==</entry>
-        <entry encoding="base64">JzwsJz5zL+W8guW4uC/nqoHlop4vZw==</entry>
-        <entry encoding="base64">JzwsJz5zL+W8guW4uC/kvY7mlYgvZw==</entry>
-        <entry encoding="base64">JzwsJz5zL19nL196L2c=</entry>
-        <entry encoding="base64">JzwsJz5zL196L19kL2c=</entry>
-        <entry encoding="base64">JzwsJz5zL19kL196Zy9n</entry>
-        <entry encoding="base64">JzwsJz5zL+W8guW4uC/lu7rorq4vZw==</entry>
-        <entry encoding="base64">JzwsJz5zL3B1bXBfZWZmaWNpZW5jeS9hbGFybV92YWx1ZS9n</entry>
-        <entry encoding="base64">JzwsJz5zL196L196Zy9n</entry>
-        <entry encoding="base64">JzwsJz5zL196Zy9fZC9n</entry>
-        <entry encoding="base64">JzwsJz5zLz0gbnVsbC8vZw==</entry>
-        <entry encoding="base64">JzwsJz5zL0Nsb3NlL09wZW4vZw==</entry>
-        <entry encoding="base64">JzwsJz5zL14kLy9n</entry>
-        <entry encoding="base64">JzwsJz5nL14kL2Q=</entry>
-        <entry>action AceAction</entry>
-        <entry encoding="base64">JzwsJz5zL3BhcmFtU2F2ZS9waXBlbGluZUJlYW4vZw==</entry>
-        <entry>action $Redo</entry>
-        <entry>w</entry>
-      </history-cmd>
-      <history-expr />
-      <history-input />
-    </history>
+  <component name="VimEditorSettings">
+    <editor />
+  </component>
+  <component name="VimKeySettings">
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
-        <text>ctrl pressed D</text>
+        <text encoding="base64">Y3RybCBwcmVzc2VkIEQ=</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
-        <text>ctrl pressed F</text>
+        <text encoding="base64">Y3RybCBwcmVzc2VkIEY=</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
-        <text>ctrl pressed B</text>
+        <text encoding="base64">Y3RybCBwcmVzc2VkIEI=</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
-        <text>ctrl pressed N</text>
+        <text encoding="base64">Y3RybCBwcmVzc2VkIE4=</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
-        <text>ctrl pressed R</text>
+        <text encoding="base64">Y3RybCBwcmVzc2VkIFI=</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text>ctrl pressed A</text>
+        <text encoding="base64">Y3RybCBwcmVzc2VkIEE=</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
-        <text>ctrl pressed T</text>
+        <text encoding="base64">Y3RybCBwcmVzc2VkIFQ=</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
-        <text>ctrl pressed I</text>
+        <text encoding="base64">Y3RybCBwcmVzc2VkIEk=</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text>ctrl pressed V</text>
+        <text encoding="base64">Y3RybCBwcmVzc2VkIFY=</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
-        <text>ctrl pressed H</text>
+        <text encoding="base64">Y3RybCBwcmVzc2VkIEg=</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
-        <text>ctrl pressed O</text>
+        <text encoding="base64">Y3RybCBwcmVzc2VkIE8=</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text>ctrl pressed P</text>
+        <text encoding="base64">Y3RybCBwcmVzc2VkIFA=</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
-        <text>ctrl pressed M</text>
+        <text encoding="base64">Y3RybCBwcmVzc2VkIE0=</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
-        <text>ctrl pressed E</text>
+        <text encoding="base64">Y3RybCBwcmVzc2VkIEU=</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
-        <text>shift ctrl pressed 2</text>
+        <text encoding="base64">c2hpZnQgY3RybCBwcmVzc2VkIDI=</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
-        <text>ctrl pressed 2</text>
+        <text encoding="base64">Y3RybCBwcmVzc2VkIDI=</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
-        <text>ctrl pressed G</text>
+        <text encoding="base64">Y3RybCBwcmVzc2VkIEc=</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
-        <text>shift ctrl pressed 6</text>
+        <text encoding="base64">c2hpZnQgY3RybCBwcmVzc2VkIDY=</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text>ctrl pressed Q</text>
+        <text encoding="base64">Y3RybCBwcmVzc2VkIFE=</text>
       </shortcut-conflict>
     </shortcut-conflicts>
+  </component>
+  <component name="VimSettings">
+    <state version="7" enabled="true" />
+    <notifications>
+      <idea-join enabled="false" />
+      <idea-put enabled="false" />
+    </notifications>
   </component>
 </application>
